@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is a key characteristic of sets in Python?",
+      "options": [
+        "Ordered collection of unique items",
+        "Unordered collection of unique items",
+        "Ordered collection of duplicate items",
+        "Unordered collection of duplicate items"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "How do you create a set in Python?",
+      "options": [
+        "Using square brackets []",
+        "Using curly braces {}",
+        "Using parentheses ()",
+        "Using angle brackets <>"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Can sets in Python contain duplicate values?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if they are numbers",
+        "Only if they are strings"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "How do you access elements in a set?",
+      "options": [
+        "Using indexing",
+        "Using a for loop",
+        "Using the in keyword",
+        "All of the above except indexing"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 5,
+      "question": "What is the purpose of the add() method in sets?",
+      "options": [
+        "To add multiple items",
+        "To add a single item",
+        "To remove an item",
+        "To clear the set"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "How do you add multiple items to a set?",
+      "options": [
+        "Using add()",
+        "Using update()",
+        "Using insert()",
+        "Using append()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What does the remove() method do in a set?",
+      "options": [
+        "Removes a specific item; throws an error if the item doesn't exist",
+        "Removes a specific item; does nothing if the item doesn't exist",
+        "Removes all items",
+        "Removes a random item"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What is the difference between remove() and discard() in sets?",
+      "options": [
+        "remove() does nothing if the item doesn't exist, discard() throws an error",
+        "remove() throws an error if the item doesn't exist, discard() does nothing",
+        "remove() removes all items, discard() removes a specific item",
+        "remove() removes a random item, discard() removes all items"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What does the pop() method do in a set?",
+      "options": [
+        "Removes a specific item",
+        "Removes a random item",
+        "Removes all items",
+        "Does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "How do you delete an entire set?",
+      "options": [
+        "Using del statement",
+        "Using remove() method",
+        "Using pop() method",
+        "Using clear() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "What is the union operation in sets?",
+      "options": [
+        "Combines all unique items from both sets",
+        "Finds common items between both sets",
+        "Finds items present in one set but not the other",
+        "Finds items not common to both sets"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "How do you perform a union operation in Python?",
+      "options": [
+        "Using the & operator",
+        "Using the | operator",
+        "Using the union() method",
+        "All of the above except & operator"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 13,
+      "question": "What is the intersection operation in sets?",
+      "options": [
+        "Finds common items between both sets",
+        "Finds items present in one set but not the other",
+        "Finds items not common to both sets",
+        "Combines all unique items from both sets"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "How do you perform an intersection operation in Python?",
+      "options": [
+        "Using the | operator",
+        "Using the & operator",
+        "Using the intersection() method",
+        "All of the above except | operator"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 15,
+      "question": "What is the difference operation in sets?",
+      "options": [
+        "Finds items present in one set but not the other",
+        "Finds common items between both sets",
+        "Finds items not common to both sets",
+        "Combines all unique items from both sets"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "How do you perform a difference operation in Python?",
+      "options": [
+        "Using the - operator",
+        "Using the difference() method",
+        "Using the union() method",
+        "Using the intersection() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "What is the symmetric difference operation in sets?",
+      "options": [
+        "Finds items not common to both sets",
+        "Finds common items between both sets",
+        "Finds items present in one set but not the other",
+        "Combines all unique items from both sets"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "How do you perform a symmetric difference operation in Python?",
+      "options": [
+        "Using the ^ operator",
+        "Using the symmetric_difference() method",
+        "Using the union() method",
+        "Using the intersection() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "What does the len() function return for a set?",
+      "options": [
+        "The first element",
+        "The last element",
+        "The number of elements",
+        "The type of elements"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "How do you find the maximum value in a set?",
+      "options": [
+        "Using max()",
+        "Using min()",
+        "Using sum()",
+        "Using len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "What does the sum() function do for a set?",
+      "options": [
+        "Returns the sum of all elements",
+        "Returns the maximum value",
+        "Returns the minimum value",
+        "Returns the number of elements"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "How do you sort the elements of a set?",
+      "options": [
+        "Using sorted()",
+        "Using sort()",
+        "Using max()",
+        "Using min()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "What does the any() function do for a set?",
+      "options": [
+        "Returns True if all items are truthy",
+        "Returns True if at least one item is truthy",
+        "Returns False if all items are truthy",
+        "Returns False if at least one item is truthy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "What does the all() function do for a set?",
+      "options": [
+        "Returns True if at least one item is truthy",
+        "Returns True if all items are truthy",
+        "Returns False if at least one item is truthy",
+        "Returns False if all items are truthy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "How do you create a copy of a set?",
+      "options": [
+        "Using copy()",
+        "Using add()",
+        "Using update()",
+        "Using remove()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Can you use indexing to access elements in a set?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "What is the purpose of the update() method in sets?",
+      "options": [
+        "To add a single item",
+        "To add multiple items",
+        "To remove an item",
+        "To clear the set"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "What does the clear() method do to a set?",
+      "options": [
+        "Removes a specific item",
+        "Removes all items",
+        "Removes a random item",
+        "Does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "How do you check if an element exists in a set?",
+      "options": [
+        "Using the in keyword",
+        "Using the not in keyword",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "What is the difference between symmetric difference and difference operations?",
+      "options": [
+        "Symmetric difference finds items not common to both sets, difference finds items in one set but not the other",
+        "Symmetric difference finds items in one set but not the other, difference finds items not common to both sets",
+        "Symmetric difference finds common items, difference finds items not common to both sets",
+        "Symmetric difference finds items not common to both sets, difference finds common items"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "Can you use the discard() method if the item doesn't exist in the set?",
+      "options": [
+        "Yes, it does nothing",
+        "No, it throws an error",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "What is the effect of using the pop() method on an empty set?",
+      "options": [
+        "It removes a random item",
+        "It throws an error",
+        "It does nothing",
+        "It clears the set"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "How do you find the minimum value in a set?",
+      "options": [
+        "Using min()",
+        "Using max()",
+        "Using sum()",
+        "Using len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "What does the all() function return if a set contains a zero?",
+      "options": [
+        "True",
+        "False",
+        "None",
+        "Error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "Can you use the union() method with multiple sets?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "What is the purpose of the symmetric_difference() method?",
+      "options": [
+        "Finds items not common to both sets",
+        "Finds common items between both sets",
+        "Finds items present in one set but not the other",
+        "Combines all unique items from both sets"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "How do you perform an intersection operation with multiple sets?",
+      "options": [
+        "Using the intersection() method",
+        "Using the & operator",
+        "Using the union() method",
+        "Using the difference() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "Can you use the difference() method with multiple sets?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "What is the effect of using the clear() method on a set?",
+      "options": [
+        "Removes a specific item",
+        "Removes all items",
+        "Removes a random item",
+        "Does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "How do you delete an entire set?",
+      "options": [
+        "Using del statement",
+        "Using remove() method",
+        "Using pop() method",
+        "Using clear() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "What does the copy() method do for a set?",
+      "options": [
+        "Returns a shallow copy of the set",
+        "Returns a deep copy of the set",
+        "Removes all items",
+        "Removes a random item"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "Can you use the update() method to add a single item?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "What is the purpose of the any() function?",
+      "options": [
+        "Returns True if all items are truthy",
+        "Returns True if at least one item is truthy",
+        "Returns False if all items are truthy",
+        "Returns False if at least one item is truthy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "How do you check if all items in a set are truthy?",
+      "options": [
+        "Using any()",
+        "Using all()",
+        "Using in keyword",
+        "Using not in keyword"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "What does the sorted() function return for a set?",
+      "options": [
+        "A sorted set",
+        "A sorted list of set items",
+        "A sorted tuple of set items",
+        "A sorted dictionary of set items"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "Can you use the pop() method to remove a specific item?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "What is the effect of using the del statement on a set?",
+      "options": [
+        "Deletes the entire set",
+        "Deletes a specific item",
+        "Deletes all items",
+        "Does nothing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "How do you find the number of elements in a set?",
+      "options": [
+        "Using len()",
+        "Using max()",
+        "Using min()",
+        "Using sum()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "What does the symmetric difference operation return?",
+      "options": [
+        "Items common to both sets",
+        "Items not common to both sets",
+        "Items present in one set but not the other",
+        "All unique items from both sets"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "Can you use the intersection() method with multiple sets?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    }
+]
+  

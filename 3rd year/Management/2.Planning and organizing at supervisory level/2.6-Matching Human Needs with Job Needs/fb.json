@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "A good supervisor ensures that employees are assigned tasks based on their ________ and qualifications.",
+      "options": [
+        "interests only",
+        "skills only",
+        "abilities only",
+        "skills and qualifications"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 2,
+      "question": "Assigning tasks that match an employee's capabilities helps in ________ employee satisfaction.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Providing fair working hours and proper rest helps in maintaining a good ________.",
+      "options": [
+        "work-life conflict",
+        "work-life balance",
+        "work-life stress",
+        "work-life chaos"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Offering learning opportunities helps in ________ employee skills.",
+      "options": [
+        "reducing",
+        "improving",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "In a software company, a tech-savvy employee is typically assigned ________ tasks.",
+      "options": [
+        "customer support",
+        "programming",
+        "management",
+        "marketing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "An employee with good communication skills is often given ________ duties.",
+      "options": [
+        "programming",
+        "customer support",
+        "management",
+        "marketing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "In a hospital, a highly experienced nurse is usually assigned ________ patient care.",
+      "options": [
+        "basic",
+        "critical",
+        "routine",
+        "emergency"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "A junior nurse is typically given ________ duties with proper training.",
+      "options": [
+        "critical",
+        "basic",
+        "routine",
+        "emergency"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "If an employee is forced to do work they are not skilled at or interested in, ________ decreases.",
+      "options": [
+        "productivity increases",
+        "productivity decreases",
+        "productivity remains the same",
+        "productivity is unaffected"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Assigning tasks that do not match an employee's skills or interests can lead to a decrease in ________ satisfaction.",
+      "options": [
+        "customer",
+        "employee",
+        "employer",
+        "job"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "A supervisor should consider an employee's ________ when assigning tasks.",
+      "options": [
+        "only skills",
+        "only abilities",
+        "only interests",
+        "skills, abilities, and interests"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 12,
+      "question": "Matching human needs with job needs helps in ________ employee motivation.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Providing fair working hours helps in maintaining a healthy ________.",
+      "options": [
+        "work-life conflict",
+        "work-life balance",
+        "work-life stress",
+        "work-life chaos"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Training and development opportunities help employees ________ their skills.",
+      "options": [
+        "reduce",
+        "improve",
+        "ignore",
+        "delay"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "In a software company, assigning programming tasks to a tech-savvy employee helps in ________ job satisfaction.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "An employee with good communication skills is best suited for ________ roles.",
+      "options": [
+        "programming",
+        "customer support",
+        "management",
+        "marketing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "In a hospital, assigning critical patient care to a highly experienced nurse ensures ________ care.",
+      "options": [
+        "basic",
+        "routine",
+        "critical",
+        "emergency"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "A junior nurse should be given ________ duties to ensure they can handle the responsibilities.",
+      "options": [
+        "critical",
+        "basic",
+        "routine",
+        "emergency"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Forcing an employee to do work they are not skilled at can lead to a decrease in ________.",
+      "options": [
+        "productivity",
+        "motivation",
+        "satisfaction",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 20,
+      "question": "Assigning tasks that match an employee's skills and interests helps in ________ job satisfaction.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "A supervisor should consider an employee's ________ when making job assignments.",
+      "options": [
+        "only skills",
+        "only abilities",
+        "only interests",
+        "skills, abilities, and interests"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 22,
+      "question": "Matching human needs with job needs helps in ________ employee engagement.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Providing proper rest helps in maintaining a healthy ________.",
+      "options": [
+        "work-life conflict",
+        "work-life balance",
+        "work-life stress",
+        "work-life chaos"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "Training opportunities help employees ________ their career prospects.",
+      "options": [
+        "reduce",
+        "improve",
+        "ignore",
+        "delay"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "In a software company, assigning tasks based on skills helps in ________ productivity.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "An employee with good communication skills is often assigned ________ roles to leverage their strengths.",
+      "options": [
+        "programming",
+        "customer support",
+        "management",
+        "marketing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "In a hospital, a highly experienced nurse is typically assigned ________ care to utilize their expertise.",
+      "options": [
+        "basic",
+        "routine",
+        "critical",
+        "emergency"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 28,
+      "question": "A junior nurse should be given ________ duties to ensure they can learn and grow.",
+      "options": [
+        "critical",
+        "basic",
+        "routine",
+        "emergency"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "Forcing an employee to do work they are not skilled at can lead to a decrease in ________ and motivation.",
+      "options": [
+        "productivity",
+        "satisfaction",
+        "both productivity and satisfaction",
+        "neither productivity nor satisfaction"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question": "Assigning tasks that match an employee's skills and interests helps in ________ employee retention.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "A supervisor should consider an employee's ________ when planning job assignments.",
+      "options": [
+        "only skills",
+        "only abilities",
+        "only interests",
+        "skills, abilities, and interests"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 32,
+      "question": "Matching human needs with job needs helps in ________ employee morale.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "Providing fair working hours helps in maintaining a healthy ________ between work and personal life.",
+      "options": [
+        "work-life conflict",
+        "work-life balance",
+        "work-life stress",
+        "work-life chaos"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "Training and development opportunities help employees ________ their professional growth.",
+      "options": [
+        "reduce",
+        "improve",
+        "ignore",
+        "delay"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "In a software company, assigning programming tasks to a tech-savvy employee helps in ________ job engagement.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "An employee with good communication skills is best suited for roles that require ________ skills.",
+      "options": [
+        "programming",
+        "customer support",
+        "management",
+        "marketing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "In a hospital, assigning critical patient care to a highly experienced nurse ensures ________ outcomes.",
+      "options": [
+        "basic",
+        "routine",
+        "critical",
+        "emergency"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 38,
+      "question": "A junior nurse should be given ________ duties to ensure they can handle responsibilities effectively.",
+      "options": [
+        "critical",
+        "basic",
+        "routine",
+        "emergency"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "Forcing an employee to do work they are not skilled at can lead to a decrease in ________ and job satisfaction.",
+      "options": [
+        "productivity",
+        "motivation",
+        "both productivity and motivation",
+        "neither productivity nor motivation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 40,
+      "question": "Assigning tasks that match an employee's skills and interests helps in ________ employee performance.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 41,
+      "question": "A supervisor should consider an employee's ________ when making job assignments to ensure success.",
+      "options": [
+        "only skills",
+        "only abilities",
+        "only interests",
+        "skills, abilities, and interests"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 42,
+      "question": "Matching human needs with job needs helps in ________ employee well-being.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "Providing proper rest helps in maintaining a healthy ________ between work and personal responsibilities.",
+      "options": [
+        "work-life conflict",
+        "work-life balance",
+        "work-life stress",
+        "work-life chaos"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "Training opportunities help employees ________ their career advancement.",
+      "options": [
+        "reduce",
+        "improve",
+        "ignore",
+        "delay"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "In a software company, assigning tasks based on skills helps in ________ team performance.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "An employee with good communication skills is often assigned roles that require strong ________ skills.",
+      "options": [
+        "programming",
+        "customer support",
+        "management",
+        "marketing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "In a hospital, a highly experienced nurse is typically assigned ________ care to utilize their expertise effectively.",
+      "options": [
+        "basic",
+        "routine",
+        "critical",
+        "emergency"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 48,
+      "question": "A junior nurse should be given ________ duties to ensure they can learn effectively.",
+      "options": [
+        "critical",
+        "basic",
+        "routine",
+        "emergency"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "Forcing an employee to do work they are not skilled at can lead to a decrease in ________ and overall performance.",
+      "options": [
+        "productivity",
+        "motivation",
+        "both productivity and motivation",
+        "neither productivity nor motivation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 50,
+      "question": "Assigning tasks that match an employee's skills and interests helps in ________ employee loyalty.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    }
+]
+  

@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What does biodiversity refer to?",
+      "options": [
+        "Only plant species on Earth",
+        "Variety of life on Earth",
+        "Only animal species on Earth",
+        "The number of human populations"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What is the main goal of biodiversity conservation?",
+      "options": [
+        "To prevent plant growth",
+        "To protect species and ecosystems",
+        "To increase hunting",
+        "To promote deforestation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an objective of biodiversity conservation?",
+      "options": [
+        "Increasing industrial expansion",
+        "Preservation of species",
+        "Destroying natural habitats",
+        "Encouraging pollution"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "What is an example of preserving endangered species?",
+      "options": [
+        "Hunting tigers for fur",
+        "Creating reserves like Sundarbans Tiger Reserve",
+        "Converting forests into urban areas",
+        "Polluting water bodies"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a method to protect natural habitats?",
+      "options": [
+        "Safeguarding forests and wetlands",
+        "Expanding mining activities",
+        "Encouraging poaching",
+        "Cutting down trees for timber"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which is an example of sustainable use of natural resources?",
+      "options": [
+        "Overfishing in oceans",
+        "Using renewable energy sources",
+        "Destroying forests for farming",
+        "Excessive use of pesticides"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which Indian law was enacted to protect wild animals and plants?",
+      "options": [
+        "Forest Conservation Act, 1980",
+        "Wildlife Protection Act, 1972",
+        "Biological Diversity Act, 2002",
+        "Environment Protection Act, 1986"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What does the Wildlife Protection Act, 1972 prohibit?",
+      "options": [
+        "Poaching and illegal wildlife trade",
+        "Planting trees",
+        "Water conservation",
+        "Creating nature reserves"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Which act prevents deforestation in India?",
+      "options": [
+        "Wildlife Protection Act, 1972",
+        "Forest Conservation Act, 1980",
+        "Biological Diversity Act, 2002",
+        "Ramsar Convention"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Under the Forest Conservation Act, 1980, what is required before cutting down forests?",
+      "options": [
+        "Public approval",
+        "No permission needed",
+        "Special government permission",
+        "Farmer's consent"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "What is the purpose of the Biological Diversity Act, 2002?",
+      "options": [
+        "To prevent the misuse of Indian biological resources",
+        "To promote deforestation",
+        "To allow foreign companies to exploit Indian resources",
+        "To increase pollution"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Which act gives the Indian government the power to control pollution and environmental damage?",
+      "options": [
+        "Biological Diversity Act, 2002",
+        "Environment Protection Act, 1986",
+        "Wildlife Protection Act, 1972",
+        "CITES"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which international agreement aims to protect biodiversity worldwide?",
+      "options": [
+        "CITES",
+        "Convention on Biological Diversity (CBD)",
+        "Wildlife Protection Act",
+        "Environment Protection Act"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which international convention protects wetlands?",
+      "options": [
+        "CITES",
+        "Ramsar Convention",
+        "CBD",
+        "Biological Diversity Act"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Which site in India is protected under the Ramsar Convention?",
+      "options": [
+        "Kaziranga National Park",
+        "Chilika Lake",
+        "Sundarbans",
+        "Western Ghats"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Which law bans the trade of endangered species worldwide?",
+      "options": [
+        "CBD",
+        "Wildlife Protection Act",
+        "CITES",
+        "Ramsar Convention"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is an illegal trade item under CITES?",
+      "options": [
+        "Elephant ivory",
+        "Timber",
+        "Organic vegetables",
+        "Solar panels"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Why is biodiversity conservation important?",
+      "options": [
+        "It helps maintain ecological balance",
+        "It leads to species extinction",
+        "It reduces forest cover",
+        "It encourages industrial expansion"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Which activity promotes biodiversity conservation?",
+      "options": [
+        "Overfishing",
+        "Hunting endangered species",
+        "Reforestation",
+        "Pollution"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "Which practice reduces deforestation?",
+      "options": [
+        "Planting more trees",
+        "Using fossil fuels",
+        "Burning forests for agriculture",
+        "Urbanization"
+      ],
+      "answer": 1
+    }
+]
+  

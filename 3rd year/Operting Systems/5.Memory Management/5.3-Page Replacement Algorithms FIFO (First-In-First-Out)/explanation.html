@@ -1,0 +1,71 @@
+<div>
+    <h1>5.3 Page Replacement Algorithms: FIFO (First-In-First-Out)</h1>
+    <h2>Introduction to Page Replacement</h2>
+    <p>When a computer runs multiple programs, it needs to manage memory efficiently. A program's data and instructions are stored in RAM (main memory), but RAM is limited. If RAM is full and a program needs more space, the operating system (OS) removes some data to make room for new data. This process is called page replacement.</p>
+    <p>One common page replacement method is FIFO (First-In-First-Out).</p>
+  
+    <h2>FIFO (First-In-First-Out) Page Replacement Algorithm</h2>
+    <p>The FIFO algorithm is simple and works just like a queue. The first page that enters the memory is the first to be removed when a new page is needed.</p>
+    
+    <h3>How FIFO Works (Step-by-Step Explanation)</h3>
+    <ul>
+      <li>A fixed number of page slots (frames) are available in RAM.</li>
+      <li><strong>Example:</strong> Suppose we have 3 frames available in RAM.</li>
+      <li>When a page is needed, it is loaded into an empty frame.</li>
+      <li>If all frames are full and a new page needs to be loaded, the oldest page (first inserted page) is removed to make space for the new page.</li>
+      <li>This process continues, ensuring that the oldest page is always removed first.</li>
+    </ul>
+  
+    <h3>Example 1: Understanding FIFO with a Simple Case</h3>
+    <p><strong>Given Page Reference String:</strong></p>
+    <p>Let’s say a program needs the following pages in sequence:</p>
+    <p>1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5</p>
+    <p><strong>Frames Available in RAM:</strong> 3</p>
+  
+    <table border="1">
+      <tr>
+        <th>Step</th>
+        <th>Page Requested</th>
+        <th>Memory (Frames)</th>
+        <th>Page Fault?</th>
+      </tr>
+      <tr><td>1</td><td>1</td><td>1 - -</td><td>Yes</td></tr>
+      <tr><td>2</td><td>2</td><td>1 2 -</td><td>Yes</td></tr>
+      <tr><td>3</td><td>3</td><td>1 2 3</td><td>Yes</td></tr>
+      <tr><td>4</td><td>4</td><td>2 3 4</td><td>Yes (1 removed)</td></tr>
+      <tr><td>5</td><td>1</td><td>3 4 1</td><td>Yes (2 removed)</td></tr>
+      <tr><td>6</td><td>2</td><td>4 1 2</td><td>Yes (3 removed)</td></tr>
+      <tr><td>7</td><td>5</td><td>1 2 5</td><td>Yes (4 removed)</td></tr>
+      <tr><td>8</td><td>1</td><td>1 2 5</td><td>No</td></tr>
+      <tr><td>9</td><td>2</td><td>1 2 5</td><td>No</td></tr>
+      <tr><td>10</td><td>3</td><td>2 5 3</td><td>Yes (1 removed)</td></tr>
+      <tr><td>11</td><td>4</td><td>5 3 4</td><td>Yes (2 removed)</td></tr>
+      <tr><td>12</td><td>5</td><td>3 4 5</td><td>Yes (5 removed)</td></tr>
+    </table>
+  
+    <h3>Key Observations:</h3>
+    <ul>
+      <li>A page fault occurs when the required page is not in memory.</li>
+      <li>FIFO removes the oldest page, even if it is still needed soon.</li>
+      <li><strong>Total Page Faults = 9</strong></li>
+    </ul>
+  
+    <h3>Example 2: Real-Life Analogy of FIFO</h3>
+    <p>Imagine a queue at a movie theater. The first person to enter the queue is the first to buy a ticket and leave. New people join at the end of the queue, and when the counter serves a person, they leave. Similarly, in FIFO, the first page that enters memory is the first to be replaced.</p>
+  
+    <h3>Advantages of FIFO</h3>
+    <ul>
+      <li>✅ Simple and easy to implement – Works like a queue.</li>
+      <li>✅ No complex calculations required – Just track the order of arrival.</li>
+    </ul>
+  
+    <h3>Disadvantages of FIFO</h3>
+    <ul>
+      <li>❌ May remove important pages too early – A page that is needed frequently might be removed.</li>
+      <li>❌ Not always optimal – Sometimes, replacing an old page is not the best choice.</li>
+    </ul>
+  
+    <h2>Conclusion</h2>
+    <p>FIFO is a basic page replacement algorithm that removes the oldest page when memory is full. It is easy to understand and implement but can lead to unnecessary page faults if an important page is removed too soon.</p>
+</div>
+  

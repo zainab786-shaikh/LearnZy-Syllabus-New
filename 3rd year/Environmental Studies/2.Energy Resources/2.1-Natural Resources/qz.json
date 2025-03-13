@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Which of the following is an example of a renewable resource?",
+      "options": [
+        "Coal",
+        "Petroleum",
+        "Sunlight",
+        "Natural gas"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "What percentage of the Earth's surface is covered by water?",
+      "options": [
+        "50%",
+        "60%",
+        "71%",
+        "80%"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a major threat to forest resources?",
+      "options": [
+        "Afforestation",
+        "Deforestation",
+        "Recycling",
+        "Water conservation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which forest is the largest tropical rainforest in the world?",
+      "options": [
+        "Amazon Rainforest",
+        "Sundarbans",
+        "Black Forest",
+        "Taiga Forest"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a non-renewable energy resource?",
+      "options": [
+        "Wind energy",
+        "Solar energy",
+        "Coal",
+        "Hydropower"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "What is the main source of hydropower?",
+      "options": [
+        "Wind",
+        "Water",
+        "Sunlight",
+        "Coal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which of the following minerals is used to make aluminum?",
+      "options": [
+        "Bauxite",
+        "Iron ore",
+        "Gold",
+        "Silver"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which country is known for its vast gold mines?",
+      "options": [
+        "India",
+        "South Africa",
+        "Canada",
+        "Russia"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a major threat to water resources?",
+      "options": [
+        "Recycling",
+        "Pollution",
+        "Rainwater harvesting",
+        "Hydropower"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is an example of sustainable energy?",
+      "options": [
+        "Coal",
+        "Petroleum",
+        "Wind energy",
+        "Natural gas"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Which energy source uses wind turbines to generate electricity?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Hydropower",
+        "Geothermal energy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which mineral is commonly used in electrical wires?",
+      "options": [
+        "Gold",
+        "Iron",
+        "Copper",
+        "Silver"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "What is the main cause of soil erosion?",
+      "options": [
+        "Deforestation",
+        "Afforestation",
+        "Recycling",
+        "Water conservation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is an example of land use?",
+      "options": [
+        "Water conservation",
+        "Soil erosion",
+        "Agriculture",
+        "Pollution"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "What is a major consequence of over-mining?",
+      "options": [
+        "More renewable resources",
+        "Depletion of minerals",
+        "Increased afforestation",
+        "Less pollution"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is NOT a major use of water?",
+      "options": [
+        "Drinking",
+        "Cooking",
+        "Mining",
+        "Electricity generation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "What percentage of Earth's water is freshwater?",
+      "options": [
+        "1%",
+        "2%",
+        "3%",
+        "5%"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "What is a major source of water pollution?",
+      "options": [
+        "Tree plantation",
+        "Industrial waste",
+        "Recycling",
+        "Rainwater harvesting"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Which type of land is primarily used for farming?",
+      "options": [
+        "Agricultural land",
+        "Forest land",
+        "Desert land",
+        "Urban land"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What is the main threat to forests?",
+      "options": [
+        "Tree plantation",
+        "Deforestation",
+        "Recycling",
+        "Hydropower"
+      ],
+      "answer": 2
+    }
+]
+  

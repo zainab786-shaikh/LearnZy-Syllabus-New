@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "Information Technology (IT) helps in monitoring and protecting the environment.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Air Quality Index (AQI) is not used to monitor pollution levels.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "GIS technology helps in mapping and analyzing environmental data.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Smart bins use sensors to detect when they are full.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "IT cannot help in managing renewable energy sources like solar and wind power.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "Weather forecasting systems use satellites and computers to predict natural disasters.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Telemedicine allows doctors to provide healthcare services only in hospitals.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "Electronic Health Records (EHR) reduce paperwork and improve accuracy in patient data.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Wearable health devices like smartwatches cannot track heart rate or sleep patterns.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Artificial Intelligence (AI) helps in diagnosing diseases and analyzing medical reports.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "Social media cannot be used to spread awareness about diseases and health tips.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "Geographic Information System (GIS) is useful for tracking deforestation and climate change.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "IT plays no role in disaster management and early warning systems.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "Mobile health apps allow patients to book appointments and get prescriptions online.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Artificial Intelligence-based tools can help detect cancer cells in X-rays.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "E-waste management is improved using IT solutions like mobile recycling apps.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "Smart grids do not use IT to distribute electricity efficiently.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "Weather forecasting does not use satellites for predicting storms and heavy rainfall.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "Renewable energy sources, such as solar and wind power, benefit from IT-based management systems.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "IT-based disaster management systems provide early warnings for cyclones and earthquakes.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "GIS is not useful for urban planning and environmental protection.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "Wearable devices like Fitbit and Apple Watch help people track their fitness and health.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "Chatbots powered by AI can provide health advice and emergency guidance.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "Electronic Health Records (EHR) make patient data more accessible and secure.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "IT does not help in spreading environmental awareness through websites and social media.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "Online health portals provide reliable information about diseases and vaccinations.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "Mobile apps cannot be used to find recycling centers for waste management.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "Smart sensors help in tracking pollution levels in the air, water, and soil.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "AI cannot assist in analyzing medical reports and suggesting treatments.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "IT tools help in controlling and reducing industrial pollution.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "Mobile applications cannot track and record personal fitness activities.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "Disaster management apps provide real-time alerts for earthquakes and floods.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "Social media campaigns have no role in promoting public health awareness.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "Smart grids ensure the efficient distribution of renewable energy sources.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "IT cannot help in developing eco-friendly urban planning strategies.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "Health monitoring devices do not assist in tracking chronic diseases.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "IT plays a key role in tracking and reducing the effects of climate change.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "Wearable technology helps individuals monitor their daily physical activity and sleep patterns.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "Mobile applications provide no help in managing diabetes and blood pressure monitoring.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "Smart city projects use IT solutions for waste management and traffic control.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "Artificial Intelligence has no application in medical diagnosis and treatment.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "E-waste disposal is managed more effectively with IT-based tracking systems.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "IT is widely used in remote patient monitoring and telehealth services.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "Environmental sensors cannot detect changes in air and water quality.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "Satellite imagery helps in detecting deforestation and climate change patterns.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "Online health platforms provide educational materials about hygiene and disease prevention.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "Telemedicine services make healthcare accessible to people in remote areas.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "Mobile alerts help people prepare for severe weather conditions.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "IT solutions have no impact on improving emergency medical response systems.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "Information Technology has transformed healthcare and environmental monitoring.",
+      "answer": true
+    }
+]
+  

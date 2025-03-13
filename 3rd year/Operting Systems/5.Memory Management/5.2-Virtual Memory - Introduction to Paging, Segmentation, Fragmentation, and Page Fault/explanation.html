@@ -1,0 +1,146 @@
+<div>
+    <h1>5.2 Virtual Memory - Introduction to Paging, Segmentation, Fragmentation, and Page Fault</h1>
+    
+    <h2>What is Virtual Memory?</h2>
+    <p>Imagine your computer as a desk where you work. You have a small desk (RAM), but you have many books (data) that don’t fit on the desk at once. Instead of throwing away books, you keep some in a bookshelf (Hard Disk). When needed, you bring a book from the shelf and place it on the desk. Similarly, virtual memory allows a computer to use hard disk space as extra RAM when the actual RAM is full.</p>
+    
+    <h3>Why Do We Need Virtual Memory?</h3>
+    <ul>
+      <li>RAM is limited in size.</li>
+      <li>Running multiple programs at once requires more memory.</li>
+      <li>Virtual memory helps the system run smoothly even when RAM is full.</li>
+    </ul>
+  
+    <h2>1. Paging – A Solution to Memory Management</h2>
+    <h3>What is Paging?</h3>
+    <p>Paging is like dividing a book into equal-sized pages instead of writing everything continuously. In computers, RAM is divided into small fixed-size blocks called frames, and processes (programs) are divided into small fixed-size blocks called pages.</p>
+    
+    <h3>How It Works?</h3>
+    <ul>
+      <li>Suppose your RAM is 4GB but a program needs 6GB.</li>
+      <li>The program is broken into pages (small parts).</li>
+      <li>Some pages are loaded into RAM, and others are kept on the hard disk.</li>
+      <li>When required, pages are swapped between RAM and the hard disk.</li>
+    </ul>
+    
+    <h3>Advantages of Paging</h3>
+    <ul>
+      <li>No external fragmentation.</li>
+      <li>Easy to manage memory.</li>
+      <li>Allows programs larger than RAM to run.</li>
+    </ul>
+    
+    <h3>Disadvantages of Paging</h3>
+    <ul>
+      <li>Causes internal fragmentation.</li>
+      <li>Page table (index of pages) takes up extra space.</li>
+    </ul>
+    
+    <h2>2. Segmentation – Dividing Memory Logically</h2>
+    <h3>What is Segmentation?</h3>
+    <p>Segmentation is like dividing a book into chapters instead of fixed pages. Instead of breaking programs into equal-sized pages, segmentation divides programs into logical sections based on their meaning.</p>
+    
+    <h3>How It Works?</h3>
+    <ul>
+      <li>A process is divided into segments like code, data, and stack.</li>
+      <li>Each segment can have different sizes.</li>
+      <li>Segments are stored in memory as per availability.</li>
+    </ul>
+    
+    <h3>Advantages of Segmentation</h3>
+    <ul>
+      <li>No internal fragmentation.</li>
+      <li>Faster access due to logical grouping.</li>
+      <li>Easier program management.</li>
+    </ul>
+    
+    <h3>Disadvantages of Segmentation</h3>
+    <ul>
+      <li>Can cause external fragmentation.</li>
+      <li>More complex than paging.</li>
+    </ul>
+    
+    <h2>3. Fragmentation – A Memory Problem</h2>
+    <h3>Types of Fragmentation</h3>
+    <h4>Internal Fragmentation</h4>
+    <p>Happens in Paging – When a process is allocated more space than it needs.</p>
+    
+    <h4>External Fragmentation</h4>
+    <p>Happens in Segmentation – When free memory is available but not in a single continuous block.</p>
+    
+    <h3>Solution to Fragmentation</h3>
+    <ul>
+      <li>Paging reduces external fragmentation by using fixed-size pages.</li>
+      <li>Compaction (Memory Defragmentation) rearranges memory to make a single large block available.</li>
+    </ul>
+    
+    <h2>4. Page Fault – When a Page is Missing</h2>
+    <h3>What is a Page Fault?</h3>
+    <p>A page fault occurs when a program requests data that is not in RAM but is stored in virtual memory (hard disk).</p>
+    
+    <h3>How It Works?</h3>
+    <ul>
+      <li>CPU tries to access a page.</li>
+      <li>If the page is in RAM, it is used directly.</li>
+      <li>If the page is not in RAM, it causes a page fault.</li>
+      <li>The system brings the page from virtual memory (hard disk) into RAM.</li>
+      <li>The program continues execution.</li>
+    </ul>
+    
+    <h3>Types of Page Faults</h3>
+    <ul>
+      <li><strong>Minor Page Fault:</strong> The page is available but not linked properly.</li>
+      <li><strong>Major Page Fault:</strong> The page is not in RAM and needs to be loaded from the disk.</li>
+    </ul>
+    
+    <h3>How to Reduce Page Faults?</h3>
+    <ul>
+      <li>Increase RAM size.</li>
+      <li>Use efficient page replacement algorithms (like Least Recently Used - LRU).</li>
+      <li>Optimize program execution to use fewer pages at once.</li>
+    </ul>
+    
+    <h2>Conclusion</h2>
+    <table border="1">
+      <tr>
+        <th>Concept</th>
+        <th>Explanation</th>
+        <th>Example</th>
+        <th>Problem Solved</th>
+      </tr>
+      <tr>
+        <td>Paging</td>
+        <td>Divides memory into equal-sized pages</td>
+        <td>Dividing a book into fixed pages</td>
+        <td>Avoids external fragmentation</td>
+      </tr>
+      <tr>
+        <td>Segmentation</td>
+        <td>Divides memory into logical sections</td>
+        <td>Splitting a novel into chapters</td>
+        <td>Allows logical grouping</td>
+      </tr>
+      <tr>
+        <td>Fragmentation</td>
+        <td>Wasted memory due to improper allocation</td>
+        <td>Unused space in bookshelves or parking lots</td>
+        <td>Paging solves external fragmentation</td>
+      </tr>
+      <tr>
+        <td>Page Fault</td>
+        <td>When a needed page is not in RAM</td>
+        <td>Searching for a missing book page</td>
+        <td>Can be reduced by increasing RAM</td>
+      </tr>
+    </table>
+    
+    <h2>Final Summary</h2>
+    <ul>
+      <li>Virtual memory allows using hard disk as extra RAM.</li>
+      <li>Paging breaks memory into fixed-size pages.</li>
+      <li>Segmentation breaks memory into logical sections.</li>
+      <li>Fragmentation causes wasted space (internal and external).</li>
+      <li>Page faults slow down the system when missing pages are fetched from disk.</li>
+    </ul>
+</div>
+  

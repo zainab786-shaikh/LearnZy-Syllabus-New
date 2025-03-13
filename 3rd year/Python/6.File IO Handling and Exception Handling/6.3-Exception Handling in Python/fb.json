@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "In Python, exceptions are runtime errors that can cause a program to ________ if not handled.",
+      "options": [
+        "crash",
+        "freeze",
+        "stop",
+        "pause"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "To handle exceptions in Python, you use the ________ block.",
+      "options": [
+        "try-except",
+        "try-finally",
+        "try-else",
+        "try-except-else-finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "The ________ block is used to execute code when no exceptions occur.",
+      "options": [
+        "else",
+        "except",
+        "finally",
+        "try"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "The ________ block is used to execute cleanup code regardless of whether an exception occurred.",
+      "options": [
+        "finally",
+        "except",
+        "else",
+        "try"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "To raise an exception manually in Python, you use the ________ keyword.",
+      "options": [
+        "raise",
+        "throw",
+        "catch",
+        "handle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "User-defined exceptions in Python are created by defining a class that inherits from the ________ class.",
+      "options": [
+        "Exception",
+        "Error",
+        "BaseException",
+        "RuntimeError"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "In Python, you can handle different types of exceptions by using multiple ________ blocks.",
+      "options": [
+        "except",
+        "try",
+        "else",
+        "finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "The ________ statement is used to catch all exceptions, but it is generally discouraged because it hides unexpected errors.",
+      "options": [
+        "except:",
+        "except Exception:",
+        "try:",
+        "finally:"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "To prevent a program from crashing due to a division by zero, you can use a ________ block to handle the ZeroDivisionError.",
+      "options": [
+        "try-except",
+        "try-finally",
+        "try-else",
+        "try-except-else-finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "In Python, exceptions are runtime errors that can cause a program to ________ if not handled.",
+      "options": [
+        "crash",
+        "freeze",
+        "stop",
+        "pause"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "To handle exceptions in Python, you use the ________ block.",
+      "options": [
+        "try-except",
+        "try-finally",
+        "try-else",
+        "try-except-else-finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "The ________ block is used to execute code when no exceptions occur.",
+      "options": [
+        "else",
+        "except",
+        "finally",
+        "try"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "The ________ block is used to execute cleanup code regardless of whether an exception occurred.",
+      "options": [
+        "finally",
+        "except",
+        "else",
+        "try"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "To raise an exception manually in Python, you use the ________ keyword.",
+      "options": [
+        "raise",
+        "throw",
+        "catch",
+        "handle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "User-defined exceptions in Python are created by defining a class that inherits from the ________ class.",
+      "options": [
+        "Exception",
+        "Error",
+        "BaseException",
+        "RuntimeError"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "In Python, you can handle different types of exceptions by using multiple ________ blocks.",
+      "options": [
+        "except",
+        "try",
+        "else",
+        "finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The ________ statement is used to catch all exceptions, but it is generally discouraged because it hides unexpected errors.",
+      "options": [
+        "except:",
+        "except Exception:",
+        "try:",
+        "finally:"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "To prevent a program from crashing due to a division by zero, you can use a ________ block to handle the ZeroDivisionError.",
+      "options": [
+        "try-except",
+        "try-finally",
+        "try-else",
+        "try-except-else-finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "In Python, exceptions are runtime errors that can cause a program to ________ if not handled.",
+      "options": [
+        "crash",
+        "freeze",
+        "stop",
+        "pause"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "To handle exceptions in Python, you use the ________ block.",
+      "options": [
+        "try-except",
+        "try-finally",
+        "try-else",
+        "try-except-else-finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "The ________ block is used to execute code when no exceptions occur.",
+      "options": [
+        "else",
+        "except",
+        "finally",
+        "try"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "The ________ block is used to execute cleanup code regardless of whether an exception occurred.",
+      "options": [
+        "finally",
+        "except",
+        "else",
+        "try"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "To raise an exception manually in Python, you use the ________ keyword.",
+      "options": [
+        "raise",
+        "throw",
+        "catch",
+        "handle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "User-defined exceptions in Python are created by defining a class that inherits from the ________ class.",
+      "options": [
+        "Exception",
+        "Error",
+        "BaseException",
+        "RuntimeError"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "In Python, you can handle different types of exceptions by using multiple ________ blocks.",
+      "options": [
+        "except",
+        "try",
+        "else",
+        "finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "The ________ statement is used to catch all exceptions, but it is generally discouraged because it hides unexpected errors.",
+      "options": [
+        "except:",
+        "except Exception:",
+        "try:",
+        "finally:"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "To prevent a program from crashing due to a division by zero, you can use a ________ block to handle the ZeroDivisionError.",
+      "options": [
+        "try-except",
+        "try-finally",
+        "try-else",
+        "try-except-else-finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "In Python, exceptions are runtime errors that can cause a program to ________ if not handled.",
+      "options": [
+        "crash",
+        "freeze",
+        "stop",
+        "pause"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "To handle exceptions in Python, you use the ________ block.",
+      "options": [
+        "try-except",
+        "try-finally",
+        "try-else",
+        "try-except-else-finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "The ________ block is used to execute code when no exceptions occur.",
+      "options": [
+        "else",
+        "except",
+        "finally",
+        "try"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "The ________ block is used to execute cleanup code regardless of whether an exception occurred.",
+      "options": [
+        "finally",
+        "except",
+        "else",
+        "try"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "To raise an exception manually in Python, you use the ________ keyword.",
+      "options": [
+        "raise",
+        "throw",
+        "catch",
+        "handle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "User-defined exceptions in Python are created by defining a class that inherits from the ________ class.",
+      "options": [
+        "Exception",
+        "Error",
+        "BaseException",
+        "RuntimeError"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "In Python, you can handle different types of exceptions by using multiple ________ blocks.",
+      "options": [
+        "except",
+        "try",
+        "else",
+        "finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "The ________ statement is used to catch all exceptions, but it is generally discouraged because it hides unexpected errors.",
+      "options": [
+        "except:",
+        "except Exception:",
+        "try:",
+        "finally:"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "To prevent a program from crashing due to a division by zero, you can use a ________ block to handle the ZeroDivisionError.",
+      "options": [
+        "try-except",
+        "try-finally",
+        "try-else",
+        "try-except-else-finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "In Python, exceptions are runtime errors that can cause a program to ________ if not handled.",
+      "options": [
+        "crash",
+        "freeze",
+        "stop",
+        "pause"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "To handle exceptions in Python, you use the ________ block.",
+      "options": [
+        "try-except",
+        "try-finally",
+        "try-else",
+        "try-except-else-finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "The ________ block is used to execute code when no exceptions occur.",
+      "options": [
+        "else",
+        "except",
+        "finally",
+        "try"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "The ________ block is used to execute cleanup code regardless of whether an exception occurred.",
+      "options": [
+        "finally",
+        "except",
+        "else",
+        "try"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "To raise an exception manually in Python, you use the ________ keyword.",
+      "options": [
+        "raise",
+        "throw",
+        "catch",
+        "handle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "User-defined exceptions in Python are created by defining a class that inherits from the ________ class.",
+      "options": [
+        "Exception",
+        "Error",
+        "BaseException",
+        "RuntimeError"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "In Python, you can handle different types of exceptions by using multiple ________ blocks.",
+      "options": [
+        "except",
+        "try",
+        "else",
+        "finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "The ________ statement is used to catch all exceptions, but it is generally discouraged because it hides unexpected errors.",
+      "options": [
+        "except:",
+        "except Exception:",
+        "try:",
+        "finally:"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "To prevent a program from crashing due to a division by zero, you can use a ________ block to handle the ZeroDivisionError.",
+      "options": [
+        "try-except",
+        "try-finally",
+        "try-else",
+        "try-except-else-finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "In Python, exceptions are runtime errors that can cause a program to ________ if not handled.",
+      "options": [
+        "crash",
+        "freeze",
+        "stop",
+        "pause"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "To handle exceptions in Python, you use the ________ block.",
+      "options": [
+        "try-except",
+        "try-finally",
+        "try-else",
+        "try-except-else-finally"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "The ________ block is used to execute code when no exceptions occur.",
+      "options": [
+        "else",
+        "except",
+        "finally",
+        "try"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "The ________ block is used to execute cleanup code regardless of whether an exception occurred.",
+      "options": [
+        "finally",
+        "except",
+        "else",
+        "try"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "To raise an exception manually in Python, you use the ________ keyword.",
+      "options": [
+        "raise",
+        "throw",
+        "catch",
+        "handle"
+      ],
+      "answer": 1
+    }
+]
+  

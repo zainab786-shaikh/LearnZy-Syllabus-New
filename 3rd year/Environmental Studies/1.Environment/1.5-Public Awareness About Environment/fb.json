@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Public awareness about the environment helps in educating people about environmental issues, their impact, and how they can contribute to ________ nature.",
+      "options": [
+        "damaging",
+        "destroying",
+        "protecting",
+        "neglecting"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "One of the major benefits of public awareness is that it helps prevent ________.",
+      "options": [
+        "pollution",
+        "clean water",
+        "fresh air",
+        "biodiversity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Public awareness encourages the conservation of natural resources such as ________.",
+      "options": [
+        "plastic and rubber",
+        "forests and water",
+        "metals and chemicals",
+        "non-recyclable waste"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Sustainable living promotes eco-friendly habits such as ________, using less plastic, and conserving electricity.",
+      "options": [
+        "wasting water",
+        "burning fossil fuels",
+        "recycling",
+        "cutting down trees"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Awareness programs help in protecting ________ and saving endangered species.",
+      "options": [
+        "wildlife",
+        "factories",
+        "roads",
+        "pollution levels"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "A well-informed public can demand stronger environmental policies and stricter ________ control laws.",
+      "options": [
+        "air conditioning",
+        "pollution",
+        "waste dumping",
+        "factory expansion"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Public awareness is spread through education, media, government policies, community involvement, and ________ responsibility.",
+      "options": [
+        "corporate",
+        "political",
+        "household",
+        "individual"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Schools and colleges teach students about environmental ________ and solutions.",
+      "options": [
+        "problems",
+        "entertainment",
+        "advertisements",
+        "sports"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Campaigns such as Earth Hour and World Environment Day encourage people to take ________.",
+      "options": [
+        "pollution",
+        "deforestation",
+        "action",
+        "waste generation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "News outlets and social media platforms help spread environmental awareness through articles, videos, and ________.",
+      "options": [
+        "games",
+        "tips",
+        "advertisements",
+        "pollution drives"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Governments enforce strict laws such as bans on ________ to reduce environmental damage.",
+      "options": [
+        "plastic bags",
+        "solar panels",
+        "electric vehicles",
+        "bicycles"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Community involvement activities include tree plantation drives, beach cleanups, and ________ programs.",
+      "options": [
+        "waste management",
+        "water pollution",
+        "smoking",
+        "coal mining"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Companies adopting eco-friendly practices help in reducing ________ and using renewable energy sources.",
+      "options": [
+        "carbon emissions",
+        "fresh air",
+        "green spaces",
+        "oxygen levels"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Swachh Bharat Abhiyan is an initiative that promotes cleanliness, waste management, and reduced use of ________.",
+      "options": [
+        "plastic",
+        "water",
+        "solar energy",
+        "wind power"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Fridays for Future is a global student movement started by ________ to fight climate change.",
+      "options": [
+        "Greta Thunberg",
+        "Elon Musk",
+        "Mahatma Gandhi",
+        "Bill Gates"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Many countries have banned single-use ________ to reduce environmental pollution.",
+      "options": [
+        "cloth bags",
+        "plastic",
+        "paper",
+        "recyclable waste"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Rainwater harvesting helps in reducing water ________ and improving groundwater levels.",
+      "options": [
+        "scarcity",
+        "pollution",
+        "storage",
+        "overuse"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Public bike-sharing programs and electric vehicles help in reducing ________ pollution.",
+      "options": [
+        "water",
+        "air",
+        "noise",
+        "light"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Reducing, reusing, and ________ waste helps minimize environmental damage.",
+      "options": [
+        "burning",
+        "recycling",
+        "disposing",
+        "burying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Turning off taps when not in use helps in conserving ________.",
+      "options": [
+        "electricity",
+        "water",
+        "fuel",
+        "air"
+      ],
+      "answer": 2
+    }
+]
+  

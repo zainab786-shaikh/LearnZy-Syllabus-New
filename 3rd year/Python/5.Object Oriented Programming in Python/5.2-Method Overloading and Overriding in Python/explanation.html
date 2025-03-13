@@ -1,0 +1,124 @@
+<div>
+    <h2>5.2 Method Overloading and Overriding in Python</h2>
+    <p>Method Overloading and Method Overriding are two important concepts in Object-Oriented Programming (OOP). They allow us to define multiple methods in a class with the same name but with different behaviors.</p>
+    
+    <h3>🔹 What is Method Overloading?</h3>
+    <p>Method Overloading means creating multiple methods with the same name but different numbers or types of parameters.</p>
+    <p><strong>💡 Key Point:</strong> Python does not support method overloading like other languages (Java, C++). However, we can achieve similar behavior using default arguments or *args (variable arguments).</p>
+    
+    <h4>✅ Example of Method Overloading Using Default Arguments</h4>
+    <pre><code>class MathOperations:
+      def add(self, a, b, c=0):  # c is an optional argument
+          return a + b + c
+  
+  math_obj = MathOperations()
+  print(math_obj.add(2, 3))       # Output: 5
+  print(math_obj.add(2, 3, 4))    # Output: 9</code></pre>
+  
+    <h4>✅ Example of Method Overloading Using *args</h4>
+    <pre><code>class MathOperations:
+      def add(self, *args):  # *args allows multiple inputs
+          return sum(args)
+  
+  math_obj = MathOperations()
+  print(math_obj.add(2, 3))          # Output: 5
+  print(math_obj.add(2, 3, 4))       # Output: 9
+  print(math_obj.add(1, 2, 3, 4, 5)) # Output: 15</code></pre>
+    
+    <h3>🔹 What is Method Overriding?</h3>
+    <p>Method Overriding allows a child class to redefine (modify) a method of its parent class to provide a different behavior.</p>
+    
+    <h4>✅ Example of Method Overriding</h4>
+    <pre><code>class Animal:
+      def sound(self):
+          print("Animals make sounds.")
+  
+  class Dog(Animal):
+      def sound(self):  # Overriding the sound method
+          print("Dog barks.")
+  
+  a = Animal()
+  d = Dog()
+  a.sound()  # Output: Animals make sounds.
+  d.sound()  # Output: Dog barks.</code></pre>
+    
+    <h4>✅ Example of Method Overriding Using super()</h4>
+    <pre><code>class Animal:
+      def sound(self):
+          print("Animals make sounds.")
+  
+  class Dog(Animal):
+      def sound(self):
+          super().sound()  # Calls the parent class method
+          print("Dog barks.")
+  
+  d = Dog()
+  d.sound()</code></pre>
+    
+    <h3>🔹 Difference Between Method Overloading and Method Overriding</h3>
+    <table border="1">
+      <tr>
+        <th>Feature</th>
+        <th>Method Overloading</th>
+        <th>Method Overriding</th>
+      </tr>
+      <tr>
+        <td>Definition</td>
+        <td>Multiple methods with the same name but different parameters.</td>
+        <td>A child class redefines a method from the parent class.</td>
+      </tr>
+      <tr>
+        <td>Support in Python</td>
+        <td>Not directly supported. Achieved using default arguments or *args.</td>
+        <td>Fully supported in Python.</td>
+      </tr>
+      <tr>
+        <td>Number of Classes</td>
+        <td>Happens in the same class.</td>
+        <td>Happens in different classes (inheritance).</td>
+      </tr>
+      <tr>
+        <td>Purpose</td>
+        <td>Provides multiple ways to use the same method.</td>
+        <td>Changes the behavior of an inherited method.</td>
+      </tr>
+    </table>
+    
+    <h3>🔹 Real-Life Example: Overloading vs Overriding</h3>
+    <h4>Scenario 1: Method Overloading (Same Class)</h4>
+    <pre><code>class Calculator:
+      def add(self, a, b, c=0):
+          return a + b + c
+  
+  calc = Calculator()
+  print(calc.add(5, 10))     # Output: 15
+  print(calc.add(5, 10, 20)) # Output: 35</code></pre>
+    
+    <h4>Scenario 2: Method Overriding (Parent and Child Classes)</h4>
+    <pre><code>class Vehicle:
+      def fuel(self):
+          print("Vehicles use fuel.")
+  
+  class Car(Vehicle):
+      def fuel(self):
+          print("Cars use petrol or diesel.")
+  
+  class ElectricCar(Vehicle):
+      def fuel(self):
+          print("Electric cars use batteries.")
+  
+  v = Vehicle()
+  c = Car()
+  e = ElectricCar()
+  v.fuel()  # Output: Vehicles use fuel.
+  c.fuel()  # Output: Cars use petrol or diesel.
+  e.fuel()  # Output: Electric cars use batteries.</code></pre>
+    
+    <h3>🔹 Conclusion</h3>
+    <ul>
+      <li>✅ Method Overloading allows defining multiple methods with the same name but different parameters within a class. Python achieves this using default arguments or *args.</li>
+      <li>✅ Method Overriding allows a child class to modify a method from its parent class. This helps in providing customized behavior in subclasses.</li>
+      <li>🚀 These concepts are essential for writing flexible and reusable code in Python, especially in real-world applications like GUI design, game development, and data analysis.</li>
+    </ul>
+</div>
+  

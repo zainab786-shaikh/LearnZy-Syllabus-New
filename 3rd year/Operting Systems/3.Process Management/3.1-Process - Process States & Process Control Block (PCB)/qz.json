@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "What is a process in an operating system?",
+      "options": [
+        "A static program stored on disk",
+        "A running program in execution",
+        "A software application",
+        "A background service only"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a process state?",
+      "options": [
+        "New",
+        "Ready",
+        "Executing",
+        "Terminated"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What happens in the 'New' state of a process?",
+      "options": [
+        "The process is waiting for CPU time",
+        "The process is being created and initialized",
+        "The process is executing instructions",
+        "The process is waiting for an I/O operation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which process state means the process is actively executing on the CPU?",
+      "options": [
+        "Waiting",
+        "Blocked",
+        "Running",
+        "Ready"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "When a process is waiting for input from a file, what state is it in?",
+      "options": [
+        "Ready",
+        "Running",
+        "Waiting",
+        "Terminated"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which state does a process enter after completing its execution?",
+      "options": [
+        "Running",
+        "Terminated",
+        "Blocked",
+        "New"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What is stored in a Process Control Block (PCB)?",
+      "options": [
+        "Only the process ID",
+        "Only memory information",
+        "All essential details needed to manage the process",
+        "Only the process state"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is NOT a part of a PCB?",
+      "options": [
+        "Process ID",
+        "CPU Registers",
+        "User Login Information",
+        "Memory Management Information"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "What does the Program Counter (PC) store in a PCB?",
+      "options": [
+        "The memory address of the next instruction",
+        "The process priority level",
+        "The process creation time",
+        "The allocated CPU time"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which process state is directly linked to the CPU?",
+      "options": [
+        "New",
+        "Ready",
+        "Running",
+        "Terminated"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "What happens if a process in the Running state needs to wait for a resource?",
+      "options": [
+        "It moves to the Ready state",
+        "It moves to the Waiting state",
+        "It is terminated immediately",
+        "It continues running but at a lower priority"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which of the following best describes a process in the Ready state?",
+      "options": [
+        "It is waiting for an event to occur",
+        "It is waiting for the CPU to execute it",
+        "It is currently using the CPU",
+        "It has finished execution and exited"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "What determines the priority of a process?",
+      "options": [
+        "Process ID",
+        "Process Control Block",
+        "Process Priority Field in PCB",
+        "Process Execution Time"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Why is PCB important in process management?",
+      "options": [
+        "It stores information needed for the OS to manage a process",
+        "It determines the process execution speed",
+        "It decides which process should terminate",
+        "It contains only CPU usage statistics"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Which component of the OS is responsible for switching a process between states?",
+      "options": [
+        "Memory Manager",
+        "CPU Scheduler",
+        "Device Manager",
+        "User Interface"
+      ],
+      "answer": 2
+    }
+]
+  

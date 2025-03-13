@@ -1,0 +1,311 @@
+[
+    {
+      "id": 1,
+      "question": "Pollution is the introduction of harmful substances into the ________.",
+      "options": [
+        "economy",
+        "environment",
+        "technology",
+        "education system"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Harmful substances that cause pollution are called ________.",
+      "options": [
+        "nutrients",
+        "resources",
+        "pollutants",
+        "minerals"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Pollution affects ________, causing damage to plants, animals, and humans.",
+      "options": [
+        "only air",
+        "only water",
+        "only land",
+        "air, water, and land"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "Pollution is classified into two main types: Natural Pollution and ________ Pollution.",
+      "options": [
+        "Chemical",
+        "Artificial (Man-made)",
+        "Environmental",
+        "Industrial"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Natural pollution occurs due to ________ events.",
+      "options": [
+        "economic",
+        "industrial",
+        "natural",
+        "human-made"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Volcanic eruptions release ________, smoke, and harmful gases into the air.",
+      "options": [
+        "water",
+        "sand",
+        "ash",
+        "oil"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "An example of a major volcanic eruption is ________ in 1980.",
+      "options": [
+        "Mount Vesuvius",
+        "Mount St. Helens",
+        "Mount Everest",
+        "Mount Kilimanjaro"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Wildfires produce smoke, carbon dioxide, and ________, which pollute the air and land.",
+      "options": [
+        "gold",
+        "oxygen",
+        "ash",
+        "water vapor"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "One example of large-scale forest fires is in the ________ rainforest.",
+      "options": [
+        "Amazon",
+        "Sahara",
+        "Siberian",
+        "Himalayan"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Dust storms reduce visibility and make the air ________.",
+      "options": [
+        "cleaner",
+        "unbreathable",
+        "more humid",
+        "cooler"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Pollen from plants can cause ________ problems in humans.",
+      "options": [
+        "respiratory",
+        "digestive",
+        "neurological",
+        "muscular"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Landslides and soil erosion reduce the quality of ________.",
+      "options": [
+        "gold",
+        "water",
+        "air",
+        "temperature"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Artificial pollution is caused by ________ activities.",
+      "options": [
+        "natural",
+        "human",
+        "seasonal",
+        "oceanic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Factories and vehicles release harmful gases, causing ________ pollution.",
+      "options": [
+        "water",
+        "air",
+        "land",
+        "noise"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "An example of a city suffering from severe air pollution is ________.",
+      "options": [
+        "Delhi",
+        "Tokyo",
+        "London",
+        "Moscow"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Water pollution is caused by dumping sewage and ________ into water bodies.",
+      "options": [
+        "chemicals",
+        "oxygen",
+        "plants",
+        "soil"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "An example of a river suffering from pollution in India is the ________ River.",
+      "options": [
+        "Amazon",
+        "Mississippi",
+        "Ganga",
+        "Nile"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "Throwing plastic and cutting down forests leads to ________ pollution.",
+      "options": [
+        "water",
+        "air",
+        "land",
+        "sound"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "One way to reduce land pollution is by properly ________ waste.",
+      "options": [
+        "burning",
+        "disposing of",
+        "burying",
+        "dumping"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Noise pollution is caused by loudspeakers, honking, and ________ activities.",
+      "options": [
+        "reading",
+        "construction",
+        "fishing",
+        "farming"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Excessive artificial lighting in cities leads to ________ pollution.",
+      "options": [
+        "water",
+        "air",
+        "light",
+        "land"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "Light pollution can disturb the ________ cycles of humans and animals.",
+      "options": [
+        "sleep",
+        "eating",
+        "digestive",
+        "breathing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "Artificial pollution can be controlled by adopting ________ habits.",
+      "options": [
+        "wasteful",
+        "eco-friendly",
+        "industrial",
+        "deforestation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "Using ________ transport can help reduce air pollution.",
+      "options": [
+        "public",
+        "personal",
+        "luxury",
+        "high-speed"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Planting ________ helps improve air quality.",
+      "options": [
+        "plastic",
+        "trees",
+        "metal",
+        "waste"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "One major difference between natural and artificial pollution is that artificial pollution can be ________.",
+      "options": [
+        "controlled",
+        "ignored",
+        "increased",
+        "eliminated completely"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Natural pollution is ________ and unpredictable.",
+      "options": [
+        "gradual",
+        "sudden",
+        "avoidable",
+        "harmless"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "Artificial pollution occurs due to human activities, while natural pollution occurs due to ________ events.",
+      "options": [
+        "manufactured",
+        "natural",
+        "economic",
+        "technological"
+      ],
+      "answer": 2
+    }
+]
+  

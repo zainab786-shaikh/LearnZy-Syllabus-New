@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is personal counselling in the workplace?",
+      "options": [
+        "Providing financial advice to employees",
+        "Guiding employees on both work and personal matters affecting performance",
+        "Helping employees find another job",
+        "Training employees in technical skills only"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Why is personal counselling important for employees?",
+      "options": [
+        "It helps them focus, stay motivated, and reduce stress",
+        "It makes them work extra hours",
+        "It helps them switch to a different job",
+        "It increases their workload"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT a purpose of personal counselling?",
+      "options": [
+        "To improve employee performance",
+        "To help employees manage personal issues affecting work",
+        "To create conflicts among employees",
+        "To motivate employees"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What can a supervisor do if an employee is frequently absent due to personal problems?",
+      "options": [
+        "Ignore the issue",
+        "Talk to the employee and offer possible solutions",
+        "Fire the employee immediately",
+        "Reduce the employee's salary"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "How can personal counselling benefit an organization?",
+      "options": [
+        "By reducing employee turnover",
+        "By increasing employee stress",
+        "By making employees work overtime",
+        "By delaying project deadlines"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "What does predicting mistakes in advance mean?",
+      "options": [
+        "Guessing that employees will make mistakes",
+        "Identifying potential errors before they happen and taking preventive actions",
+        "Blaming employees before they make a mistake",
+        "Encouraging employees to make errors"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is an example of advanced mistake prediction?",
+      "options": [
+        "Ignoring workplace errors",
+        "Waiting for mistakes to happen before taking action",
+        "Reminding workers to double-check measurements in a bakery",
+        "Not providing employees with any instructions"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Why should supervisors predict mistakes in advance?",
+      "options": [
+        "To increase workplace errors",
+        "To reduce mistakes and improve efficiency",
+        "To punish employees",
+        "To make work more difficult"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What is the role of a supervisor in personal counselling?",
+      "options": [
+        "To provide legal advice to employees",
+        "To support employees in resolving personal or work-related challenges",
+        "To encourage employees to quit their jobs",
+        "To avoid interacting with employees"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What happens if a supervisor fails to predict possible mistakes?",
+      "options": [
+        "Employees will work more efficiently",
+        "Errors may increase, leading to losses",
+        "Work quality will improve",
+        "Productivity will rise"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a good approach to personal counselling?",
+      "options": [
+        "Blaming employees for their problems",
+        "Listening to employees and providing support",
+        "Avoiding personal discussions with employees",
+        "Ignoring employee concerns"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which of these is an example of workplace mistake prediction?",
+      "options": [
+        "Supervisors reminding workers to follow safety procedures",
+        "Allowing workers to complete tasks without guidance",
+        "Encouraging employees to work faster without checking quality",
+        "Avoiding training sessions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "How can supervisors prevent errors in production?",
+      "options": [
+        "By not monitoring the process",
+        "By regularly checking the workflow and reminding workers of best practices",
+        "By reducing the number of employees",
+        "By increasing employee workloads"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "What should a supervisor do when an employee faces personal difficulties?",
+      "options": [
+        "Ignore the employee's problems",
+        "Provide guidance and offer flexible work arrangements if possible",
+        "Criticize the employee for being unprofessional",
+        "Reduce the employee's salary"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is NOT an advantage of personal counselling?",
+      "options": [
+        "Helps employees stay motivated",
+        "Improves employee performance",
+        "Increases employee stress",
+        "Reduces workplace conflicts"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "How does predicting mistakes in advance help a company?",
+      "options": [
+        "By reducing errors and improving efficiency",
+        "By increasing production costs",
+        "By making employees take longer breaks",
+        "By causing delays in work completion"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "What is an example of an ineffective counselling approach?",
+      "options": [
+        "Listening to employees and offering support",
+        "Ignoring employee concerns",
+        "Providing career development advice",
+        "Helping employees manage work stress"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is a preventive step a supervisor can take to avoid mistakes?",
+      "options": [
+        "Providing clear instructions before starting a task",
+        "Not giving any training to employees",
+        "Blaming employees for every small error",
+        "Ignoring employee suggestions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Why should supervisors provide personal counselling to employees?",
+      "options": [
+        "To help employees deal with personal and work-related challenges",
+        "To interfere in employees' personal lives",
+        "To reduce employee motivation",
+        "To avoid interacting with employees"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What should a supervisor do if they predict a possible mistake in the workplace?",
+      "options": [
+        "Ignore it and wait for the mistake to happen",
+        "Take proactive steps to prevent the mistake",
+        "Blame employees in advance",
+        "Increase employees' workload as punishment"
+      ],
+      "answer": 2
+    }
+]
+  

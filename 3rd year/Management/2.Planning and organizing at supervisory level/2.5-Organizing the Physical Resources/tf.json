@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that organizing is a crucial function of management.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is true that organizing at the supervisory level involves only managing workers.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that a supervisor is responsible for allocating tasks.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is true that a supervisor is not responsible for ensuring employees have necessary resources.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that physical resources include only machines and tools.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "It is true that physical resources include raw materials and office supplies.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that organizing physical resources reduces wastage of materials.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is true that organizing physical resources has no impact on workplace safety.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that organizing physical resources improves efficiency by placing resources where they are needed.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that organizing physical resources does not affect workflow.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that a supervisor in a car manufacturing company must ensure machines are working properly.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that a supervisor in a car manufacturing company does not need to ensure workers have the required tools.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that a supervisor in a restaurant must ensure the kitchen has necessary ingredients.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that a supervisor in a restaurant does not need to maintain cooking equipment.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that organizing at the supervisory level involves only physical resources.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "It is true that a supervisor must ensure that raw materials are available on time in a manufacturing setting.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that organizing physical resources does not impact the availability of workspace.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "It is true that organizing physical resources includes maintaining infrastructure.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that a supervisor in a restaurant must arrange tables and chairs properly in the dining area.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that organizing at the supervisory level does not involve coordinating resources.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that a supervisor is responsible for ensuring that employees have the necessary resources to do their jobs well.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is true that organizing physical resources does not reduce unnecessary delays in workflow.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that organizing at the supervisory level involves managing workers and allocating tasks.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that a supervisor in a manufacturing company does not need to ensure finished products are moved efficiently.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that organizing physical resources includes ensuring that refrigerators are in working condition in a restaurant.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that organizing at the supervisory level does not involve ensuring smooth operations.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that a supervisor must ensure that office supplies are available when needed.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is true that organizing physical resources has no impact on efficiency.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that a supervisor is responsible for managing manpower.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that organizing at the supervisory level involves only manpower management.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that organizing physical resources includes maintaining machines.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that a supervisor does not need to ensure that workspace is properly arranged.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that organizing at the supervisory level involves coordinating resources such as materials and machines.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that organizing physical resources does not improve workplace safety.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that a supervisor must ensure that raw materials are available but does not need to ensure they are used efficiently.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "It is true that organizing at the supervisory level involves ensuring that employees have the necessary tools to perform their tasks.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that a supervisor in a restaurant does not need to ensure that the dining area is properly arranged.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "It is true that organizing physical resources includes maintaining office equipment.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that organizing at the supervisory level does not involve managing physical resources like tools and machines.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "It is true that a supervisor must ensure that physical resources are properly maintained.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that organizing physical resources does not impact the efficiency of workflow.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "It is true that a supervisor is responsible for ensuring that physical resources are efficiently utilized.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that organizing at the supervisory level involves only ensuring that tasks are allocated.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "It is true that a supervisor must ensure that physical resources are available when needed.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is true that organizing physical resources does not reduce wastage of materials.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "It is true that a supervisor in a manufacturing setting does not need to ensure that machines are working properly.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that organizing at the supervisory level involves ensuring smooth operations in an organization.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that a supervisor does not need to ensure that infrastructure is maintained.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that organizing physical resources includes ensuring that workspace is safe.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that organizing at the supervisory level does not involve coordinating manpower and materials.",
+      "answer": false
+    }
+]
+  

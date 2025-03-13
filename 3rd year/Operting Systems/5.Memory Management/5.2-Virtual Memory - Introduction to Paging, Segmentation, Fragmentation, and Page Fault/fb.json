@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Virtual memory allows a computer to use ________ as extra RAM when the actual RAM is full.",
+      "options": [
+        "SSD",
+        "USB",
+        "hard disk",
+        "cloud storage"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "In ________, memory is divided into small fixed-size blocks called frames, and processes are divided into small fixed-size blocks called pages.",
+      "options": [
+        "Segmentation",
+        "Paging",
+        "Fragmentation",
+        "Compaction"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "The process of swapping pages between RAM and the hard disk is known as ________.",
+      "options": [
+        "compaction",
+        "paging",
+        "segmentation",
+        "fragmentation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "One advantage of paging is that it avoids ________ fragmentation.",
+      "options": [
+        "external",
+        "internal",
+        "physical",
+        "logical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "In segmentation, memory is divided into logical sections such as ________, data, and stack.",
+      "options": [
+        "code",
+        "functions",
+        "pages",
+        "tables"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "In segmentation, free memory may exist but may not be in a single ________ block, causing external fragmentation.",
+      "options": [
+        "continuous",
+        "fixed-size",
+        "random",
+        "small"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "________ fragmentation occurs when a process is allocated more space than it needs, wasting memory within allocated blocks.",
+      "options": [
+        "Internal",
+        "External",
+        "Logical",
+        "Physical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "________ fragmentation occurs when free memory is scattered in small chunks, making it difficult to allocate a large block of memory.",
+      "options": [
+        "Internal",
+        "External",
+        "Externalized",
+        "Compaction"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "A page fault occurs when a program requests data that is not in ________ but is stored in virtual memory.",
+      "options": [
+        "RAM",
+        "cache",
+        "disk",
+        "register"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "A ________ page fault occurs when the required page is not in RAM and needs to be loaded from the disk.",
+      "options": [
+        "minor",
+        "major",
+        "temporary",
+        "permanent"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "A ________ page fault occurs when the page is available but not linked properly.",
+      "options": [
+        "minor",
+        "major",
+        "temporary",
+        "silent"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "One way to reduce page faults is by increasing the ________ size.",
+      "options": [
+        "RAM",
+        "cache",
+        "disk",
+        "page"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "One solution to external fragmentation in memory management is the technique of ________.",
+      "options": [
+        "paging",
+        "compaction",
+        "segmentation",
+        "defragmentation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "In paging, ________ solves external fragmentation by using fixed-size pages.",
+      "options": [
+        "segmentation",
+        "compaction",
+        "fragmentation",
+        "paging"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 15,
+      "question": "Paging is a technique that allows programs larger than ________ to run by swapping pages in and out of RAM.",
+      "options": [
+        "RAM",
+        "disk",
+        "cache",
+        "memory"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "The division of a program into logical sections, like code, data, and stack, is known as ________.",
+      "options": [
+        "Segmentation",
+        "Paging",
+        "Fragmentation",
+        "Compaction"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The key difference between paging and segmentation is that paging divides memory into ________ blocks, whereas segmentation divides it into logical sections.",
+      "options": [
+        "fixed-size",
+        "variable-size",
+        "logical",
+        "dynamic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "One disadvantage of paging is that it can cause ________ fragmentation within allocated pages.",
+      "options": [
+        "internal",
+        "external",
+        "system",
+        "logical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "In virtual memory, when data is missing from RAM and needs to be fetched from the hard disk, it results in a ________ fault.",
+      "options": [
+        "page",
+        "memory",
+        "data",
+        "disk"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "One way to optimize program execution and reduce page faults is by using efficient ________ algorithms.",
+      "options": [
+        "page replacement",
+        "sorting",
+        "memory allocation",
+        "disk scheduling"
+      ],
+      "answer": 1
+    }
+]
+  

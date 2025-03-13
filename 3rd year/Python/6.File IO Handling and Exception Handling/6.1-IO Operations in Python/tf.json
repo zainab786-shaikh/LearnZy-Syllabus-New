@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that Python uses the input() function to take user input from the keyboard.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is true that Python does not use the input() function for user input.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that the input() function in Python returns input as a string by default.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is true that the input() function in Python does not return input as a string by default.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that you need to convert input to int or float if you want to perform numerical operations.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is true that you do not need to convert input to int or float for numerical operations.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that Python’s print() function is used to display output on the screen.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is true that Python’s print() function is not used to display output on the screen.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that the print() function can display text, numbers, or a combination of both.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that the print() function cannot display text, numbers, or a combination of both.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that you can print variables along with text using the print() function.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that you cannot print variables along with text using the print() function.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that the sep parameter in print() allows you to specify a custom separator between items.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that the sep parameter in print() does not allow you to specify a custom separator between items.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that the end parameter in print() allows you to specify a custom ending character.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is true that the end parameter in print() does not allow you to specify a custom ending character.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that f-strings provide a modern way to format output in Python.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is true that f-strings do not provide a modern way to format output in Python.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that Python’s input and output operations are essential for creating interactive programs.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that Python’s input and output operations are not essential for creating interactive programs.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that the split() method can be used to take multiple inputs in one line.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is true that the split() method cannot be used to take multiple inputs in one line.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that Python’s print() function automatically adds a space between multiple arguments.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that Python’s print() function does not automatically add a space between multiple arguments.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that input() and print() are built-in functions in Python.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that input() and print() are not built-in functions in Python.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that Python supports reading data from files using functions like open().",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is true that Python does not support reading data from files using functions like open().",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that output can be directed to files using the print() function with a file argument.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that output cannot be directed to files using the print() function with a file argument.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that libraries like tabulate offer advanced output formatting options.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that libraries like tabulate do not offer advanced output formatting options.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that input and output operations are crucial for user interaction in Python programs.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that input and output operations are not crucial for user interaction in Python programs.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that Python’s I/O operations support real-time data processing.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is true that Python’s I/O operations do not support real-time data processing.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that input() can handle multiple types of input, including strings and numbers.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is true that input() cannot handle multiple types of input, including strings and numbers.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that print() supports various formatting options like f-strings and sep.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is true that print() does not support various formatting options like f-strings and sep.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that Python’s I/O operations are essential for building interactive applications.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is true that Python’s I/O operations are not essential for building interactive applications.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that Python’s input and output functions are easy to use and flexible.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is true that Python’s input and output functions are not easy to use and flexible.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that Python supports advanced output formatting using libraries like pandas.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that Python does not support advanced output formatting using libraries like pandas.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that Python’s I/O operations are fundamental for data processing tasks.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that Python’s I/O operations are not fundamental for data processing tasks.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that Python’s input() function can be used to capture user input in real-time applications.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that Python’s input() function cannot be used to capture user input in real-time applications.",
+      "answer": false
+    }
+]
+  

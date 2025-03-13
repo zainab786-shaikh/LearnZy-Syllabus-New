@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "What is air pollution?",
+      "options": [
+        "The presence of clean air in the environment",
+        "The release of harmful substances into the air",
+        "The process of purifying the atmosphere",
+        "The emission of oxygen by trees"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a natural source of air pollution?",
+      "options": [
+        "Factory emissions",
+        "Deforestation",
+        "Volcanic eruptions",
+        "Vehicle exhaust"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which gas is commonly released by burning fossil fuels?",
+      "options": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Helium",
+        "Neon"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which of the following activities contributes to air pollution?",
+      "options": [
+        "Planting trees",
+        "Recycling waste",
+        "Burning fossil fuels",
+        "Using solar energy"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is one major effect of air pollution on human health?",
+      "options": [
+        "Stronger immune system",
+        "Respiratory problems",
+        "Increased energy levels",
+        "Improved eyesight"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which pollutant is primarily responsible for acid rain?",
+      "options": [
+        "Oxygen",
+        "Sulfur Dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which of the following gases contributes to global warming?",
+      "options": [
+        "Carbon Dioxide",
+        "Argon",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What is the main cause of deforestation?",
+      "options": [
+        "Building birdhouses",
+        "Clearing land for agriculture",
+        "Planting more trees",
+        "Reducing carbon emissions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which human activity does NOT contribute to air pollution?",
+      "options": [
+        "Using electric vehicles",
+        "Burning coal",
+        "Using pesticides",
+        "Industrial emissions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What is one way to reduce air pollution?",
+      "options": [
+        "Using more fossil fuels",
+        "Driving alone to work",
+        "Using public transport",
+        "Burning more waste"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Which pollutant reduces oxygen levels in the blood?",
+      "options": [
+        "Carbon Monoxide",
+        "Sulfur Dioxide",
+        "Ozone",
+        "Nitrogen Dioxide"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is NOT a greenhouse gas?",
+      "options": [
+        "Methane",
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrous Oxide"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which air pollutant is mainly responsible for smog?",
+      "options": [
+        "Ozone",
+        "Sulfur Dioxide",
+        "Nitrogen Oxides",
+        "Carbon Dioxide"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is a government effort to control air pollution?",
+      "options": [
+        "Encouraging deforestation",
+        "Installing pollution control devices in factories",
+        "Increasing the use of diesel vehicles",
+        "Banning electric cars"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Which air pollutant causes ozone layer depletion?",
+      "options": [
+        "Chlorofluorocarbons (CFCs)",
+        "Oxygen",
+        "Carbon Monoxide",
+        "Sulfur Dioxide"
+      ],
+      "answer": 1
+    }
+]
+  

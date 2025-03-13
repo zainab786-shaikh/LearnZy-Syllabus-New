@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Process scheduling is used by the OS to manage the execution of multiple _______.",
+      "options": [
+        "devices",
+        "processes",
+        "files",
+        "networks"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "A queue that holds all processes waiting to be executed is called the _______.",
+      "options": [
+        "Ready Queue",
+        "Job Queue",
+        "Waiting Queue",
+        "Execution Queue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "The _______ Queue contains processes that are ready to run and waiting for CPU time.",
+      "options": [
+        "Job",
+        "Ready",
+        "Waiting",
+        "Execution"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "A process that is waiting for an I/O operation moves to the _______ Queue.",
+      "options": [
+        "Ready",
+        "Waiting",
+        "Job",
+        "Execution"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which scheduler is responsible for deciding which processes should enter the ready queue?",
+      "options": [
+        "Short-Term Scheduler",
+        "Long-Term Scheduler",
+        "Medium-Term Scheduler",
+        "I/O Scheduler"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The _______ scheduler decides which process gets CPU time next from the ready queue.",
+      "options": [
+        "Short-Term",
+        "Long-Term",
+        "Medium-Term",
+        "Task"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "The Medium-Term Scheduler performs a process known as _______.",
+      "options": [
+        "Paging",
+        "Swapping",
+        "Scheduling",
+        "Buffering"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Context switching happens when the CPU switches from one _______ to another.",
+      "options": [
+        "thread",
+        "process",
+        "task",
+        "queue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "During a context switch, the OS must save and restore the state of the _______.",
+      "options": [
+        "current process",
+        "job queue",
+        "hardware device",
+        "execution stack"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which of the following scheduling queues contains processes that are waiting for an external event, such as input from a user?",
+      "options": [
+        "Job Queue",
+        "Ready Queue",
+        "Waiting Queue",
+        "Execution Queue"
+      ],
+      "answer": 3
+    }
+]
+  

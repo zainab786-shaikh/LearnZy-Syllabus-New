@@ -1,0 +1,62 @@
+<div>
+    <h2>3.1 Process - Process States & Process Control Block (PCB)</h2>
+    <p>In an operating system, a process is simply a running program. Every time you open an application (like a web browser or a music player), the operating system creates a process for it. The operating system manages multiple processes at the same time to ensure everything runs smoothly.</p>
+    
+    <h3>📌 Process States</h3>
+    <p>A process goes through different stages during its execution, just like a person’s life cycle (childhood, adulthood, old age). These stages are called Process States.</p>
+    
+    <h4>🔹 Different Process States</h4>
+    <ul>
+      <li><strong>New 🆕</strong> - The process has just been created and is waiting to be assigned resources.</li>
+      <li><strong>Ready ✅</strong> - The process is ready to run but waiting for the CPU to execute it.</li>
+      <li><strong>Running 🏃‍♂️</strong> - The process is currently being executed by the CPU.</li>
+      <li><strong>Blocked (Waiting) ⏳</strong> - The process is waiting for some resource (like user input, file access, or a network response).</li>
+      <li><strong>Terminated ❌</strong> - The process has finished execution or has been stopped by the user.</li>
+    </ul>
+    
+    <h3>📌 Process Control Block (PCB)</h3>
+    <p>To manage processes, the operating system keeps a record of important details about each process. This information is stored in a Process Control Block (PCB).</p>
+    
+    <h4>🔹 What is PCB?</h4>
+    <p>PCB is like an identity card for a process, containing all necessary information the OS needs to manage that process.</p>
+    
+    <h4>🔹 Information Stored in PCB</h4>
+    <ul>
+      <li><strong>Process ID (PID) 🔢</strong> - A unique number assigned to each process.</li>
+      <li><strong>Process State 📌</strong> - Indicates whether the process is New, Ready, Running, Waiting, or Terminated.</li>
+      <li><strong>Program Counter (PC) 🖥️</strong> - Stores the memory address of the next instruction to be executed.</li>
+      <li><strong>CPU Registers 🔄</strong> - Stores temporary data like calculations, function calls, and variable values.</li>
+      <li><strong>Memory Management Information 🗂️</strong> - Contains details of memory usage.</li>
+      <li><strong>I/O Information 🔌</strong> - Stores input/output requests.</li>
+      <li><strong>Process Priority ⚡</strong> - Defines how important the process is compared to others.</li>
+      <li><strong>Parent Process ID 👨‍👦</strong> - Stores the parent’s ID if the process has a parent.</li>
+    </ul>
+    
+    <h3>📌 Real-Life Analogy</h3>
+    <p>Imagine a PCB as a school report card for each student (process). The report card stores details like:</p>
+    <ul>
+      <li>Student ID (Process ID)</li>
+      <li>Current grade (Process State)</li>
+      <li>Next class to attend (Program Counter)</li>
+      <li>Subjects and marks (CPU Registers & Memory Info)</li>
+      <li>Extracurricular activities (I/O Requests)</li>
+    </ul>
+    
+    <h3>📌 Example Scenario</h3>
+    <p>Let's say you are working on a Word document and playing music at the same time. Here’s how the OS manages the processes:</p>
+    <ul>
+      <li>You open Word → A new process is created and moves to the Ready state.</li>
+      <li>You start typing → The process moves to the Running state.</li>
+      <li>You switch to a music player → The Word process moves to the Waiting state while the music player moves to Running.</li>
+      <li>Music player loads a new song → It waits for the file to be accessed (moves to the Waiting state).</li>
+      <li>You close Word → The Word process moves to the Terminated state.</li>
+    </ul>
+    
+    <h3>📌 Conclusion</h3>
+    <p>A process is a running program in the operating system.</p>
+    <p>It moves through different process states (New, Ready, Running, Waiting, Terminated).</p>
+    <p>The Process Control Block (PCB) stores important details about each process.</p>
+    <p>The OS uses PCB to manage processes efficiently.</p>
+    <p>This helps the OS multitask effectively, allowing you to run multiple applications at the same time without issues.</p>
+</div>
+  

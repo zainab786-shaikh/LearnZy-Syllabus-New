@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Memory management is how a computer organizes and controls its ________ to store and retrieve data efficiently.",
+      "options": [
+        "RAM",
+        "processor",
+        "hard drive",
+        "network"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "In ________ partitioning, memory is divided into fixed-sized blocks before running any program.",
+      "options": [
+        "variable",
+        "dynamic",
+        "fixed",
+        "flexible"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "The type of partitioning that eliminates internal fragmentation but can cause external fragmentation is ________ partitioning.",
+      "options": [
+        "fixed",
+        "variable",
+        "dynamic",
+        "static"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "In ________ partitioning, memory is divided into partitions dynamically as needed.",
+      "options": [
+        "fixed",
+        "variable",
+        "dynamic",
+        "continuous"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "The condition where small free spaces exist between memory partitions is called ________ fragmentation.",
+      "options": [
+        "internal",
+        "external",
+        "static",
+        "dynamic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The ________ method represents memory as a sequence of bits (0s and 1s) to track free and occupied memory blocks.",
+      "options": [
+        "bitmap",
+        "linked list",
+        "free list",
+        "block list"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "In the bitmap method, a ________ represents an occupied memory block, while a 0 represents a free block.",
+      "options": [
+        "1",
+        "0",
+        "null",
+        "pointer"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "The ________ method organizes memory blocks as a linked list where each block points to the next available block.",
+      "options": [
+        "bitmap",
+        "linked list",
+        "array",
+        "queue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "In the linked list method, a free list stores ________ memory blocks.",
+      "options": [
+        "used",
+        "free",
+        "allocated",
+        "reserved"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "The linked list method requires extra memory to store ________ for each memory block.",
+      "options": [
+        "data",
+        "pointers",
+        "addresses",
+        "IDs"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "In fixed partitioning, if a process is smaller than the partition, the extra space is called ________ fragmentation.",
+      "options": [
+        "internal",
+        "external",
+        "externalized",
+        "dynamic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Fixed partitioning offers ________ flexibility because the partitions are predefined.",
+      "options": [
+        "high",
+        "low",
+        "moderate",
+        "medium"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "The ________ technique is easy to track free and used memory but can be slow when searching for free memory.",
+      "options": [
+        "linked list",
+        "bitmap",
+        "hashing",
+        "array"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "In the linked list method, each memory block has a ________ to the next block in the list.",
+      "options": [
+        "pointer",
+        "flag",
+        "address",
+        "counter"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "________ partitioning eliminates internal fragmentation but may lead to external fragmentation.",
+      "options": [
+        "Fixed",
+        "Variable",
+        "Static",
+        "Dynamic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "________ memory management techniques are used by the OS to allocate memory to processes based on availability and size requirements.",
+      "options": [
+        "Virtual",
+        "Manual",
+        "Dynamic",
+        "Fixed"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "In fixed partitioning, if a process is larger than the partition, it ________ be loaded.",
+      "options": [
+        "can",
+        "cannot",
+        "may",
+        "will"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "In variable partitioning, the partitions are created based on the ________ of the program.",
+      "options": [
+        "size",
+        "priority",
+        "location",
+        "category"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "The bitmap method uses a sequence of ________ to represent memory blocks, where 1 means occupied and 0 means free.",
+      "options": [
+        "pointers",
+        "bits",
+        "numbers",
+        "addresses"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "The linked list method stores free memory blocks in a ________ list.",
+      "options": [
+        "linked",
+        "free",
+        "memory",
+        "allocated"
+      ],
+      "answer": 2
+    }
+]
+  

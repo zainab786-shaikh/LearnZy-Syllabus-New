@@ -1,0 +1,110 @@
+<div>
+    <h2>6.1 I/O Operations in Python</h2>
+    <p>I/O (Input/Output) operations are used to interact with the user and the computer. In Python, we can:</p>
+    <ul>
+      <li>Take input from the keyboard (Reading input)</li>
+      <li>Display output on the screen (Printing output)</li>
+    </ul>
+    <p>Let's understand these concepts in detail with simple explanations and examples.</p>
+  
+    <h3>1. Reading Keyboard Input</h3>
+    <p>Python allows us to take input from the user using the <code>input()</code> function.</p>
+    <h4>Basic Syntax of input()</h4>
+    <pre><code>variable_name = input("Message to user: ")</code></pre>
+    <ul>
+      <li>The <code>input()</code> function waits for the user to type something.</li>
+      <li>The text inside <code>input("...")</code> is displayed as a message to guide the user.</li>
+      <li>Whatever the user types is stored in the <code>variable_name</code> as a string.</li>
+    </ul>
+  
+    <h4>Example 1: Taking a User's Name as Input</h4>
+    <pre><code>name = input("Enter your name: ")
+  print("Hello, " + name + "!")</code></pre>
+    <p><strong>Output:</strong></p>
+    <pre><code>Enter your name: John
+  Hello, John!</code></pre>
+  
+    <h3>2. Converting Input to a Number</h3>
+    <p>By default, <code>input()</code> always stores data as a string.</p>
+    <p>To take numbers as input, we need to convert them to an integer (<code>int</code>) or a decimal (<code>float</code>).</p>
+    
+    <h4>Example 2: Adding Two Numbers</h4>
+    <pre><code>num1 = int(input("Enter first number: "))
+  num2 = int(input("Enter second number: "))
+  
+  sum = num1 + num2
+  print("The sum is:", sum)</code></pre>
+    <p><strong>Output:</strong></p>
+    <pre><code>Enter first number: 5
+  Enter second number: 10
+  The sum is: 15</code></pre>
+  
+    <h4>📌 If we forget to convert the input, Python will treat the numbers as strings and concatenate them instead of adding!</h4>
+  
+    <h3>3. Taking Multiple Inputs in One Line</h3>
+    <p>Python allows users to enter multiple values at once using <code>split()</code>.</p>
+    
+    <h4>Example 3: Taking Name and Age in One Line</h4>
+    <pre><code>name, age = input("Enter your name and age (separated by space): ").split()
+  print("Your name is", name, "and you are", age, "years old.")</code></pre>
+    <p><strong>Output:</strong></p>
+    <pre><code>Enter your name and age (separated by space): Alice 21
+  Your name is Alice and you are 21 years old.</code></pre>
+  
+    <h3>2. Printing Output to the Screen</h3>
+    <p>In Python, we use the <code>print()</code> function to display output on the screen.</p>
+    
+    <h4>Basic Syntax of print()</h4>
+    <pre><code>print("Message to display")</code></pre>
+  
+    <h4>Example 4: Printing Simple Messages</h4>
+    <pre><code>print("Welcome to Python Programming!")
+  print("Python is easy to learn.")</code></pre>
+    <p><strong>Output:</strong></p>
+    <pre><code>Welcome to Python Programming!
+  Python is easy to learn.</code></pre>
+  
+    <h4>Example 5: Printing a Variable</h4>
+    <pre><code>name = "Alice"
+  print("Hello,", name)</code></pre>
+    <p><strong>Output:</strong></p>
+    <pre><code>Hello, Alice</code></pre>
+  
+    <h4>Example 6: Printing Numbers and Calculations</h4>
+    <pre><code>x = 10
+  y = 5
+  print("The sum of x and y is:", x + y)</code></pre>
+    <p><strong>Output:</strong></p>
+    <pre><code>The sum of x and y is: 15</code></pre>
+  
+    <h3>4. Using <code>sep</code> and <code>end</code> in print()</h3>
+    <h4>Example 8: Custom Separator (<code>sep</code>)</h4>
+    <pre><code>print("Apple", "Banana", "Cherry", sep=", ")</code></pre>
+    <p><strong>Output:</strong></p>
+    <pre><code>Apple, Banana, Cherry</code></pre>
+  
+    <h4>Example 9: Custom Ending (<code>end</code>)</h4>
+    <pre><code>print("Hello", end=" ")
+  print("World!")</code></pre>
+    <p><strong>Output:</strong></p>
+    <pre><code>Hello World!</code></pre>
+  
+    <h3>5. Formatting Output using f-strings</h3>
+    <p>Instead of using multiple commas, we can use f-strings for better readability.</p>
+    
+    <h4>Example 10: Using f-strings</h4>
+    <pre><code>name = "Charlie"
+  age = 30
+  print(f"My name is {name} and I am {age} years old.")</code></pre>
+    <p><strong>Output:</strong></p>
+    <pre><code>My name is Charlie and I am 30 years old.</code></pre>
+  
+    <h2>Conclusion</h2>
+    <p>📌 Python provides easy-to-use functions for input and output operations.</p>
+    <ul>
+      <li><code>input()</code> → Takes user input as a string (convert if needed).</li>
+      <li><code>print()</code> → Displays output on the screen (supports formatting).</li>
+    </ul>
+    <p>💡 With these features, you can create interactive programs that take user input and display meaningful output.</p>
+</div>
+  

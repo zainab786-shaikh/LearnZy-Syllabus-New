@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "A file is a collection of ________ stored on a computer.",
+      "options": ["data", "programs", "videos", "texts"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "A file can be compared to a ________ in a library.",
+      "options": ["book", "shelf", "author", "reader"],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "A file has a title, which is also known as the ________.",
+      "options": ["file extension", "file name", "file type", "file path"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "The format of a file is specified by its ________.",
+      "options": ["file path", "file name", "file extension", "file size"],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "A file attribute that shows when a file was last modified is called ________.",
+      "options": ["creation date", "modification date", "file owner", "file permission"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "File attributes store ________ about the file.",
+      "options": ["data", "metadata", "programs", "images"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "The property that determines who can read, write, or execute a file is called ________.",
+      "options": ["file path", "permissions", "owner", "creation date"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "An example of a text file is ________.",
+      "options": ["image.jpg", "movie.mp4", "notes.txt", "music.mp3"],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "An executable file usually has the extension ________.",
+      "options": [".txt", ".jpg", ".exe", ".csv"],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "A binary file stores data in a format that is ________ to humans.",
+      "options": ["readable", "unreadable", "editable", "modifiable"],
+      "answer": 2
+    }
+]
+  

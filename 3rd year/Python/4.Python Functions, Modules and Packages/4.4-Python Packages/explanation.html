@@ -1,0 +1,119 @@
+<div>
+    <h2>4.4 Python Packages</h2>
+    <h3>Introduction to Python Packages</h3>
+    <p>A Python package is a collection of related modules bundled together. A module is simply a Python file (.py) that contains code like functions, classes, and variables.</p>
+    
+    <h3>Why Use Python Packages?</h3>
+    <ul>
+      <li>✅ Organizes Code: Packages help structure large programs neatly.</li>
+      <li>✅ Reusability: You can use the same package in multiple projects.</li>
+      <li>✅ Prebuilt Packages: Python provides many standard packages like math, numpy, pandas, etc.</li>
+      <li>✅ User-Defined Packages: You can create your own custom packages.</li>
+    </ul>
+    
+    <h3>Example of a Package in Real Life</h3>
+    <p>Think of a Python package like a folder of tools:</p>
+    <ul>
+      <li>Package (Folder Name): science_tools</li>
+      <li>Modules (Inside the Folder): math_tools.py, physics_tools.py, chemistry_tools.py</li>
+    </ul>
+    
+    <h3>Writing Python Packages (Creating a User-Defined Package)</h3>
+    <p>To create a package, follow these steps:</p>
+    <ol>
+      <li>Create a new folder, e.g., my_package. This will be your package name.</li>
+      <li>Inside the my_package folder, create two Python files: <b>math_operations.py</b> and <b>string_operations.py</b>.</li>
+      <li>Inside my_package, create an empty file named <b>__init__.py</b>. This file tells Python that my_package is a package.</li>
+    </ol>
+    
+    <h3>Step 4: Write Code in the Modules</h3>
+    <pre>
+  math_operations.py:
+  def add(a, b):
+      return a + b
+  
+  def subtract(a, b):
+      return a - b
+    </pre>
+    <pre>
+  string_operations.py:
+  def reverse_string(s):
+      return s[::-1]
+  
+  def uppercase_string(s):
+      return s.upper()
+    </pre>
+    
+    <h3>Step 5: Import and Use the Package</h3>
+    <pre>
+  import my_package.math_operations as math_ops
+  import my_package.string_operations as str_ops
+  
+  print(math_ops.add(5, 3))  # Output: 8
+  print(str_ops.reverse_string("hello"))  # Output: "olleh"
+    </pre>
+    
+    <h3>Using Standard Python Packages</h3>
+    <h4>1. math Package (Mathematical Functions)</h4>
+    <pre>
+  import math
+  
+  print(math.sqrt(25))  # Output: 5.0
+  print(math.pi)        # Output: 3.141592653589793
+  print(math.factorial(5))  # Output: 120
+    </pre>
+    
+    <h4>2. scipy Package (Scientific Computing)</h4>
+    <pre>
+  from scipy import constants
+  
+  print(constants.g)  # Output: 9.80665 (gravitational acceleration)
+    </pre>
+    
+    <h4>3. numpy Package (Numerical Computations)</h4>
+    <pre>
+  import numpy as np
+  
+  arr = np.array([1, 2, 3, 4])
+  print(arr * 2)  # Output: [2 4 6 8]
+    </pre>
+    
+    <h4>4. matplotlib Package (Data Visualization)</h4>
+    <pre>
+  import matplotlib.pyplot as plt
+  
+  x = [1, 2, 3, 4]
+  y = [10, 20, 25, 30]
+  
+  plt.plot(x, y)
+  plt.xlabel("X-Axis")
+  plt.ylabel("Y-Axis")
+  plt.title("Simple Line Graph")
+  plt.show()
+    </pre>
+    
+    <h4>5. pandas Package (Data Handling)</h4>
+    <pre>
+  import pandas as pd
+  
+  data = {"Name": ["Alice", "Bob", "Charlie"], "Age": [25, 30, 35]}
+  df = pd.DataFrame(data)
+  
+  print(df)
+    </pre>
+    
+    <h3>Using a User-Defined Package</h3>
+    <pre>
+  import my_package.math_operations as math_ops
+  
+  print(math_ops.add(10, 5))  # Output: 15
+    </pre>
+    
+    <h3>Conclusion</h3>
+    <ul>
+      <li>✅ Python packages help organize and reuse code efficiently.</li>
+      <li>✅ You can use built-in packages like math, numpy, pandas, and matplotlib.</li>
+      <li>✅ You can create your own custom packages with modules.</li>
+      <li>🚀 Now you can use Python packages to simplify your coding tasks! 🚀</li>
+    </ul>
+</div>

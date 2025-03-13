@@ -1,0 +1,123 @@
+<div>
+    <h2>3.3 Inter-Process Communication (IPC)</h2>
+    <h3>Introduction to IPC</h3>
+    <p>Inter-Process Communication (IPC) is a mechanism that allows multiple processes to communicate with each other. Processes are independent programs running on a computer, and sometimes they need to share information or coordinate tasks. IPC helps in achieving this by enabling data exchange between processes.</p>
+  
+    <h3>Why is IPC needed?</h3>
+    <ul>
+      <li>When multiple processes work on the same task, they may need to share data.</li>
+      <li>Some processes may need to send messages to others to coordinate their operations.</li>
+      <li>IPC helps in better resource utilization by allowing processes to work together efficiently.</li>
+      <li>It is essential in multi-core and distributed computing systems.</li>
+    </ul>
+  
+    <h3>Examples of IPC in Daily Life</h3>
+    <ul>
+      <li><b>Chat Applications</b> – When you send a message on WhatsApp, your message (process 1) is sent to the server (process 2), which then delivers it to your friend (process 3).</li>
+      <li><b>Google Docs</b> – When multiple users edit a document, different processes share and update data simultaneously.</li>
+      <li><b>Banking Systems</b> – When you withdraw money from an ATM, the bank server process communicates with the ATM process to verify your balance and process the transaction.</li>
+    </ul>
+  
+    <h3>Shared Memory System</h3>
+    <p>In a shared memory system, multiple processes communicate by reading and writing data into a common memory space. This is like a shared whiteboard where multiple people can write and read information.</p>
+    
+    <h4>How Shared Memory Works?</h4>
+    <ul>
+      <li>One process creates a shared memory segment.</li>
+      <li>Other processes attach to the shared memory segment.</li>
+      <li>Processes read from and write to the shared memory to exchange information.</li>
+      <li>Once communication is done, processes detach from the shared memory.</li>
+    </ul>
+  
+    <h4>Example of Shared Memory</h4>
+    <p>Imagine two employees in an office using a whiteboard to exchange messages:</p>
+    <ul>
+      <li>Employee A writes “Meeting at 3 PM” on the whiteboard.</li>
+      <li>Employee B reads it and notes the time. This is similar to how shared memory works in IPC.</li>
+    </ul>
+  
+    <h4>Advantages of Shared Memory</h4>
+    <ul>
+      <li>Fast Communication – Since no extra data copying is required.</li>
+      <li>Efficient for large data – Useful when processes need to share a lot of information quickly.</li>
+    </ul>
+  
+    <h4>Disadvantages of Shared Memory</h4>
+    <ul>
+      <li>Synchronization issues – If multiple processes modify data at the same time, conflicts may occur.</li>
+      <li>Security risks – One process can accidentally overwrite important data.</li>
+    </ul>
+  
+    <h3>Message Passing System</h3>
+    <p>In a message passing system, processes communicate by sending and receiving messages. Unlike shared memory, processes do not directly share data but instead exchange messages through predefined communication mechanisms.</p>
+  
+    <h4>How Message Passing Works?</h4>
+    <ul>
+      <li>One process sends a message to another process.</li>
+      <li>The receiving process gets the message and processes it.</li>
+      <li>The system ensures that messages are delivered in the correct order.</li>
+    </ul>
+  
+    <h4>Example of Message Passing</h4>
+    <p>Imagine two people talking over a walkie-talkie:</p>
+    <ul>
+      <li>Person A presses a button and says, “Let’s meet at 3 PM.”</li>
+      <li>Person B listens and responds, “Okay, see you then.” Here, the voice messages are like IPC message passing.</li>
+    </ul>
+  
+    <h4>Types of Message Passing</h4>
+    <ul>
+      <li><b>Synchronous Message Passing</b> – The sender waits for the receiver to acknowledge the message before continuing. <br> Example: A phone call where both people must be present to communicate.</li>
+      <li><b>Asynchronous Message Passing</b> – The sender sends the message and continues its work without waiting for the receiver. <br> Example: Sending an email where the receiver can read it later.</li>
+    </ul>
+  
+    <h4>Advantages of Message Passing</h4>
+    <ul>
+      <li>No direct memory sharing – This makes it safer and avoids data conflicts.</li>
+      <li>Better security – Each message is controlled and structured properly.</li>
+    </ul>
+  
+    <h4>Disadvantages of Message Passing</h4>
+    <ul>
+      <li>Slower than shared memory – Messages need to be copied and processed.</li>
+      <li>Overhead in communication – Extra steps are needed to ensure message delivery and order.</li>
+    </ul>
+  
+    <h3>Comparison of Shared Memory and Message Passing</h3>
+    <table border="1">
+      <tr>
+        <th>Feature</th>
+        <th>Shared Memory</th>
+        <th>Message Passing</th>
+      </tr>
+      <tr>
+        <td>Speed</td>
+        <td>Faster</td>
+        <td>Slower</td>
+      </tr>
+      <tr>
+        <td>Complexity</td>
+        <td>More complex (needs synchronization)</td>
+        <td>Simpler to implement</td>
+      </tr>
+      <tr>
+        <td>Security</td>
+        <td>Less secure</td>
+        <td>More secure</td>
+      </tr>
+      <tr>
+        <td>Data Transfer</td>
+        <td>Direct memory access</td>
+        <td>Needs message transmission</td>
+      </tr>
+      <tr>
+        <td>Best for</td>
+        <td>Large data exchange</td>
+        <td>Simple and structured communication</td>
+      </tr>
+    </table>
+  
+    <h3>Conclusion</h3>
+    <p>Inter-Process Communication (IPC) is essential for processes to collaborate effectively. Shared memory provides fast communication but requires synchronization, whereas message passing is structured and secure but can be slower. Choosing the right IPC mechanism depends on the application’s requirements.</p>
+</div>
+  

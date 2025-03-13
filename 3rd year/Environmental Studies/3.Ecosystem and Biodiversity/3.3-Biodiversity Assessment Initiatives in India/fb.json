@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Biodiversity refers to the variety of _______ on Earth, including plants, animals, and microorganisms.",
+      "options": [
+        "climates",
+        "life",
+        "rocks",
+        "oceans"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The assessment of biodiversity helps in _______ planning by protecting endangered species.",
+      "options": [
+        "urban",
+        "conservation",
+        "economic",
+        "industrial"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "The _______ is a digital platform that collects and shares biodiversity data in India.",
+      "options": [
+        "National Forest Database",
+        "Indian Biodiversity Information System (IBIS)",
+        "Wildlife Census Report",
+        "Species Identification System"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "The _______ Act (2002) provides a legal framework for biodiversity conservation in India.",
+      "options": [
+        "Wildlife Protection",
+        "Forest Conservation",
+        "Biological Diversity",
+        "Environmental Protection"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "The National Biodiversity Authority (NBA) was established to regulate and oversee the use of _______ resources.",
+      "options": [
+        "biological",
+        "mineral",
+        "water",
+        "solar"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "India has identified _______ biodiversity hotspots.",
+      "options": [
+        "two",
+        "three",
+        "four",
+        "five"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "The Himalayan biodiversity hotspot is home to species such as _______.",
+      "options": [
+        "Red pandas",
+        "Kangaroos",
+        "Penguins",
+        "Crocodiles"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "The National Biodiversity Action Plan (NBAP) focuses on _______ conservation and sustainable resource use.",
+      "options": [
+        "climate",
+        "genetic",
+        "habitat",
+        "mineral"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "The Indo-Burma biodiversity hotspot includes species such as the _______.",
+      "options": [
+        "Hoolock Gibbons",
+        "Polar Bear",
+        "Koala",
+        "Emperor Penguin"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "The Indian State of Forest Report (ISFR) is published every _______ years.",
+      "options": [
+        "one",
+        "two",
+        "five",
+        "ten"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "The _______ program aims to increase forest and tree cover in India.",
+      "options": [
+        "Project Elephant",
+        "National Green Mission",
+        "National Mission for Green India",
+        "Wildlife Conservation Mission"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "The People's Biodiversity Registers (PBRs) involve local communities in documenting _______.",
+      "options": [
+        "weather conditions",
+        "plant and animal species",
+        "mineral deposits",
+        "ocean currents"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "The Zoological Survey of India (ZSI) primarily studies _______.",
+      "options": [
+        "plants",
+        "animals",
+        "minerals",
+        "rivers"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "The _______ was launched in 1972 to protect endangered species and their habitats.",
+      "options": [
+        "Forest Act",
+        "Wildlife Protection Act",
+        "National Park Act",
+        "Conservation Act"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Project Tiger was initiated under the _______ Act.",
+      "options": [
+        "Biological Diversity",
+        "Wildlife Protection",
+        "Forest Conservation",
+        "Environmental Protection"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "The Western Ghats are home to the endangered _______.",
+      "options": [
+        "Lion-tailed macaque",
+        "Bengal tiger",
+        "Snow leopard",
+        "One-horned rhinoceros"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The Great Indian Bustard is one of the most _______ birds in India.",
+      "options": [
+        "common",
+        "colorful",
+        "endangered",
+        "aggressive"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "Overexploitation of resources, habitat destruction, and pollution contribute to biodiversity _______.",
+      "options": [
+        "increase",
+        "loss",
+        "stability",
+        "growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Invasive species can negatively impact biodiversity by _______ native species.",
+      "options": [
+        "helping",
+        "competing with",
+        "ignoring",
+        "saving"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Climate change can lead to _______ of certain species.",
+      "options": [
+        "extinction",
+        "growth",
+        "expansion",
+        "increase"
+      ],
+      "answer": 1
+    }
+]
+  

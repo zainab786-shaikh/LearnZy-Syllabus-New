@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is a system call?",
+      "options": [
+        "A type of hardware device",
+        "A request from a program to the operating system",
+        "A type of programming language",
+        "A type of computer virus"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which system call is used to create a new process?",
+      "options": [
+        "exec()",
+        "fork()",
+        "exit()",
+        "wait()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What does the exec() system call do?",
+      "options": [
+        "Terminates a process",
+        "Creates a new process",
+        "Runs a new program",
+        "Waits for a process to finish"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Which system call is used to read data from a file?",
+      "options": [
+        "open()",
+        "write()",
+        "read()",
+        "close()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is the purpose of the close() system call?",
+      "options": [
+        "To delete a file",
+        "To close an open file or device",
+        "To save a file",
+        "To shut down the computer"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which system call is used to allocate CPU time to processes?",
+      "options": [
+        "wait()",
+        "exec()",
+        "fork()",
+        "sched_yield()"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "What is the function of the wait() system call?",
+      "options": [
+        "To start a new process",
+        "To make a process wait until another process finishes",
+        "To terminate a process",
+        "To retrieve system information"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which system call is used to send data between processes?",
+      "options": [
+        "send()",
+        "recv()",
+        "pipe()",
+        "connect()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "What does the getpid() system call do?",
+      "options": [
+        "Gets the parent process ID",
+        "Retrieves system uptime",
+        "Gets the process ID of the current process",
+        "Checks if a process is active"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Which system call is used to retrieve the current time and date?",
+      "options": [
+        "gettimeofday()",
+        "time()",
+        "clock()",
+        "sys_time()"
+      ],
+      "answer": 1
+    }
+]
+  

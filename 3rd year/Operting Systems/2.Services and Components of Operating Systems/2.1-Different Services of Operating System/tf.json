@@ -1,0 +1,228 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that an operating system acts as a bridge between the user and the computer.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that process management is responsible for managing the hardware devices connected to a computer.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that the OS allocates CPU time and resources to multiple programs running simultaneously.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that the OS does not manage memory allocation for running applications.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that if there is not enough RAM, the OS uses virtual memory to prevent crashes.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that file management is unrelated to the organization of stored data in a computer.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that file management allows users to create, save, rename, and delete files.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that device management only applies to software and has no connection with hardware devices.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that the OS detects and installs necessary drivers when a new device is connected.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that the OS does not provide any security features to protect user data.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that the OS provides user authentication, such as passwords and PINs, for security.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is false that antivirus software cannot work with the OS to remove malicious files.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that file permissions allow users to restrict access to specific files.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is false that all operating systems only use a graphical user interface (GUI).",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that some operating systems offer both GUI and Command Line Interface (CLI).",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is false that networking services in an OS are only used for connecting USB devices.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that the OS manages internet connections and data transfer over networks.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is false that an operating system does not detect and handle system errors.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that the OS can detect hardware failures and display error messages.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is false that an OS is not necessary for running modern computers.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that an OS is responsible for managing both software and hardware.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is false that the OS does not allow multiple applications to run at the same time.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that multitasking allows multiple applications to run efficiently.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is false that the OS does not use RAM for storing temporary data while programs run.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that virtual memory helps when RAM is full by using a portion of the hard disk.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is false that files stored on a computer do not need management by the OS.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is true that an OS helps users organize files into folders and directories.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is false that the OS has no role in managing printers or external devices.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that device drivers help the OS communicate with external devices.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is false that passwords and authentication methods are not part of OS security.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that the OS provides firewalls and antivirus support to enhance security.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is false that a computer can function efficiently without an operating system.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that the OS provides networking services to connect computers to the internet.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is false that the OS does not help detect or handle software errors.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that if a program stops responding, the OS can terminate it.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is false that the OS does not help users interact with the system through GUI or CLI.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that Windows, Linux, and macOS provide GUI interfaces for users.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is false that the OS does not manage file storage on external drives like USBs.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that networking services allow data sharing between multiple computers.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is false that the OS does not handle Wi-Fi and Bluetooth connections.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that file permissions help control who can access or modify a file.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is false that an OS does not allocate resources to different tasks.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that process management ensures each program gets CPU time efficiently.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is false that security features in an OS are unnecessary for modern computing.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is true that OS security prevents unauthorized access and protects sensitive data.",
+      "answer": true
+    }
+]
+  

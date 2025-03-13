@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is a key responsibility of a supervisor when making decisions?",
+      "options": [
+        "To make decisions without explanation",
+        "To explain the reasons behind their decisions",
+        "To ignore employee feedback",
+        "To make decisions based on personal preference"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Why is it important for a supervisor to explain their decisions?",
+      "options": [
+        "So employees can question them",
+        "So employees understand and follow them willingly",
+        "So employees can ignore them",
+        "So employees can complain about them"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is one of the disciplinary standards that a supervisor ensures?",
+      "options": [
+        "Employees can be late to work",
+        "Employees must come to work on time",
+        "Employees can take long breaks",
+        "Employees can leave early"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "What type of behavior is considered misconduct in the workplace?",
+      "options": [
+        "Honesty and integrity",
+        "Stealing, dishonesty, or poor behavior",
+        "Punctuality and respect",
+        "Teamwork and cooperation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "In a call center, what action should a supervisor take if an employee speaks rudely to a customer?",
+      "options": [
+        "Ignore the behavior",
+        "Explain the company’s customer service rules and take disciplinary action if needed",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Why is it important for nurses to follow strict hygiene rules in a hospital?",
+      "options": [
+        "To maintain hospital decor",
+        "To ensure patient safety",
+        "To reduce costs",
+        "To increase workload"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What is a key aspect of directing at the supervisory level?",
+      "options": [
+        "Ignoring employee needs",
+        "Guiding employees properly and enforcing discipline",
+        "Focusing solely on productivity",
+        "Disregarding company rules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "How should a supervisor communicate decisions to employees?",
+      "options": [
+        "Clearly and with explanation",
+        "Vaguely and without explanation",
+        "Only to certain employees",
+        "Not at all"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of laying disciplinary standards in the workplace?",
+      "options": [
+        "To create a hostile work environment",
+        "To ensure employees follow company rules and maintain a professional environment",
+        "To reduce employee morale",
+        "To increase employee turnover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What should a supervisor do if an employee does not follow company guidelines?",
+      "options": [
+        "Ignore the behavior",
+        "Correct the employee and ensure they follow guidelines",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Why is it important for a supervisor to support employees?",
+      "options": [
+        "So employees can work independently without guidance",
+        "So employees feel valued and supported in their roles",
+        "So employees can ignore company rules",
+        "So employees can work less efficiently"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "What is a characteristic of a good supervisor?",
+      "options": [
+        "They communicate poorly and do not support employees",
+        "They communicate clearly, support employees, and enforce company rules effectively",
+        "They focus solely on productivity",
+        "They disregard employee feedback"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "In what setting is following strict hygiene rules particularly important?",
+      "options": [
+        "Office environment",
+        "Hospital setting",
+        "Retail store",
+        "Restaurant"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "What action should a supervisor take if an employee is consistently late?",
+      "options": [
+        "Ignore the behavior",
+        "Address the issue and ensure the employee understands the importance of punctuality",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Why is explaining decisions important for employee engagement?",
+      "options": [
+        "It makes employees feel undervalued",
+        "It helps employees understand and follow decisions willingly",
+        "It reduces employee morale",
+        "It increases employee turnover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "What type of behavior is expected from employees in a professional setting?",
+      "options": [
+        "Misconduct like stealing or dishonesty",
+        "Professionalism and respect",
+        "Poor behavior and rudeness",
+        "Laziness and lack of effort"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "How should a supervisor handle misconduct in the workplace?",
+      "options": [
+        "Ignore it to avoid conflict",
+        "Address it promptly and take disciplinary action if necessary",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "What is a key aspect of a supervisor’s role in maintaining workplace discipline?",
+      "options": [
+        "Enforcing company rules and guidelines",
+        "Ignoring company rules and guidelines",
+        "Focusing solely on productivity",
+        "Disregarding employee feedback"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Why is it important for supervisors to communicate clearly?",
+      "options": [
+        "So employees can misunderstand instructions",
+        "So employees can understand decisions and follow them willingly",
+        "So employees can work independently without guidance",
+        "So employees can ignore company rules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "What should a supervisor do if an employee does not follow hygiene rules in a hospital?",
+      "options": [
+        "Ignore the behavior",
+        "Correct the employee immediately to ensure patient safety",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "What is the purpose of laying disciplinary standards in a workplace?",
+      "options": [
+        "To create a hostile work environment",
+        "To ensure employees follow company rules and maintain professionalism",
+        "To reduce employee morale",
+        "To increase employee turnover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 22,
+      "question": "How should a supervisor handle an employee who speaks rudely to a customer?",
+      "options": [
+        "Ignore the behavior",
+        "Explain the company’s customer service rules and take disciplinary action if needed",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "What is a characteristic of effective supervisory direction?",
+      "options": [
+        "Guiding employees poorly and ignoring company rules",
+        "Guiding employees properly and enforcing discipline",
+        "Focusing solely on productivity",
+        "Disregarding employee feedback"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "Why is it important for a supervisor to enforce company rules?",
+      "options": [
+        "To create a hostile work environment",
+        "To ensure employees follow guidelines and maintain professionalism",
+        "To reduce employee morale",
+        "To increase employee turnover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "What should a supervisor do if an employee consistently fails to follow company guidelines?",
+      "options": [
+        "Ignore the behavior",
+        "Correct the employee and ensure they follow guidelines",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "Why is explaining decisions important for a supervisor?",
+      "options": [
+        "It makes employees feel undervalued",
+        "It helps employees understand and follow decisions willingly",
+        "It reduces employee morale",
+        "It increases employee turnover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "What type of behavior is considered appropriate in a professional setting?",
+      "options": [
+        "Misconduct like stealing or dishonesty",
+        "Professionalism and respect",
+        "Poor behavior and rudeness",
+        "Laziness and lack of effort"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "How should a supervisor handle an employee who is consistently late?",
+      "options": [
+        "Ignore the behavior",
+        "Address the issue and ensure the employee understands the importance of punctuality",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "What is a key aspect of maintaining workplace discipline?",
+      "options": [
+        "Enforcing company rules and guidelines",
+        "Ignoring company rules and guidelines",
+        "Focusing solely on productivity",
+        "Disregarding employee feedback"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "Why is clear communication important for a supervisor?",
+      "options": [
+        "So employees can misunderstand instructions",
+        "So employees can understand decisions and follow them willingly",
+        "So employees can work independently without guidance",
+        "So employees can ignore company rules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "What should a supervisor do if an employee does not follow hygiene protocols in a hospital?",
+      "options": [
+        "Ignore the behavior",
+        "Correct the employee immediately to ensure patient safety",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 32,
+      "question": "What is the purpose of laying disciplinary standards in a workplace?",
+      "options": [
+        "To create a hostile work environment",
+        "To ensure employees follow company rules and maintain professionalism",
+        "To reduce employee morale",
+        "To increase employee turnover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "How should a supervisor handle an employee who speaks rudely to a customer?",
+      "options": [
+        "Ignore the behavior",
+        "Explain the company’s customer service rules and take disciplinary action if needed",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "What is a characteristic of effective supervisory direction?",
+      "options": [
+        "Guiding employees poorly and ignoring company rules",
+        "Guiding employees properly and enforcing discipline",
+        "Focusing solely on productivity",
+        "Disregarding employee feedback"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "Why is it important for a supervisor to enforce company rules?",
+      "options": [
+        "To create a hostile work environment",
+        "To ensure employees follow guidelines and maintain professionalism",
+        "To reduce employee morale",
+        "To increase employee turnover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "What should a supervisor do if an employee consistently fails to follow company guidelines?",
+      "options": [
+        "Ignore the behavior",
+        "Correct the employee and ensure they follow guidelines",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "Why is explaining decisions important for a supervisor?",
+      "options": [
+        "It makes employees feel undervalued",
+        "It helps employees understand and follow decisions willingly",
+        "It reduces employee morale",
+        "It increases employee turnover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "What type of behavior is considered appropriate in a professional setting?",
+      "options": [
+        "Misconduct like stealing or dishonesty",
+        "Professionalism and respect",
+        "Poor behavior and rudeness",
+        "Laziness and lack of effort"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "How should a supervisor handle an employee who is consistently late?",
+      "options": [
+        "Ignore the behavior",
+        "Address the issue and ensure the employee understands the importance of punctuality",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "What is a key aspect of maintaining workplace discipline?",
+      "options": [
+        "Enforcing company rules and guidelines",
+        "Ignoring company rules and guidelines",
+        "Focusing solely on productivity",
+        "Disregarding employee feedback"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Why is clear communication important for a supervisor?",
+      "options": [
+        "So employees can misunderstand instructions",
+        "So employees can understand decisions and follow them willingly",
+        "So employees can work independently without guidance",
+        "So employees can ignore company rules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "What should a supervisor do if an employee does not follow hygiene protocols in a hospital?",
+      "options": [
+        "Ignore the behavior",
+        "Correct the employee immediately to ensure patient safety",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "What is the purpose of laying disciplinary standards in a workplace?",
+      "options": [
+        "To create a hostile work environment",
+        "To ensure employees follow company rules and maintain professionalism",
+        "To reduce employee morale",
+        "To increase employee turnover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "How should a supervisor handle an employee who speaks rudely to a customer?",
+      "options": [
+        "Ignore the behavior",
+        "Explain the company’s customer service rules and take disciplinary action if needed",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "What is a characteristic of effective supervisory direction?",
+      "options": [
+        "Guiding employees poorly and ignoring company rules",
+        "Guiding employees properly and enforcing discipline",
+        "Focusing solely on productivity",
+        "Disregarding employee feedback"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "Why is it important for a supervisor to enforce company rules?",
+      "options": [
+        "To create a hostile work environment",
+        "To ensure employees follow guidelines and maintain professionalism",
+        "To reduce employee morale",
+        "To increase employee turnover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "What should a supervisor do if an employee consistently fails to follow company guidelines?",
+      "options": [
+        "Ignore the behavior",
+        "Correct the employee and ensure they follow guidelines",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "Why is explaining decisions important for a supervisor?",
+      "options": [
+        "It makes employees feel undervalued",
+        "It helps employees understand and follow decisions willingly",
+        "It reduces employee morale",
+        "It increases employee turnover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "What type of behavior is considered appropriate in a professional setting?",
+      "options": [
+        "Misconduct like stealing or dishonesty",
+        "Professionalism and respect",
+        "Poor behavior and rudeness",
+        "Laziness and lack of effort"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "How should a supervisor handle an employee who is consistently late?",
+      "options": [
+        "Ignore the behavior",
+        "Address the issue and ensure the employee understands the importance of punctuality",
+        "Fire the employee immediately",
+        "Promote the employee"
+      ],
+      "answer": 2
+    }
+]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary function of Process Management in an OS?",
+      "options": [
+        "Managing user logins",
+        "Handling CPU scheduling and process execution",
+        "Managing file storage",
+        "Controlling hardware devices"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which component of the OS is responsible for managing RAM?",
+      "options": [
+        "Process Management",
+        "File Management",
+        "Main Memory Management",
+        "I/O System Management"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What is the purpose of virtual memory in Main Memory Management?",
+      "options": [
+        "To store permanent files",
+        "To extend RAM using secondary storage",
+        "To increase CPU speed",
+        "To manage user accounts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a responsibility of File Management?",
+      "options": [
+        "Creating, deleting, reading, and writing files",
+        "Managing CPU scheduling",
+        "Handling memory allocation",
+        "Managing user authentication"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "What does I/O System Management handle?",
+      "options": [
+        "Managing hardware devices and drivers",
+        "Scheduling processes",
+        "Managing network connections",
+        "Handling login credentials"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is considered Secondary Storage?",
+      "options": [
+        "RAM",
+        "Cache Memory",
+        "Hard Drive",
+        "Registers"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "What role does Secondary Storage Management play in an OS?",
+      "options": [
+        "Managing file storage and retrieval",
+        "Handling CPU scheduling",
+        "Allocating memory to running processes",
+        "Managing network communication"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of CPU scheduling in Process Management?",
+      "options": [
+        "To determine which process gets CPU time",
+        "To delete unused files",
+        "To allocate hard disk space",
+        "To establish network connections"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Which OS component ensures smooth execution of multiple processes?",
+      "options": [
+        "File Management",
+        "Process Management",
+        "I/O System Management",
+        "Secondary Storage Management"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What happens when RAM is full?",
+      "options": [
+        "The OS shuts down",
+        "The OS uses virtual memory to store temporary data",
+        "The system stops all processes",
+        "Files are deleted automatically"
+      ],
+      "answer": 2
+    }
+]
+  

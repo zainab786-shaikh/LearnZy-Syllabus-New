@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "question": "Python allows users to define their own data types.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "The 'int' data type in Python is used to store whole numbers.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Floating-point numbers in Python cannot store negative values.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "Complex numbers in Python consist of real and imaginary parts.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Strings in Python can be defined using single, double, or triple quotes.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Tuples in Python are mutable, meaning their elements can be changed after creation.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Lists in Python are ordered collections that allow modifications.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "A dictionary in Python stores elements in the form of key-value pairs.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Sets in Python allow duplicate values.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "The 'print' function in Python is used to take user input.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "A Python script is saved with the .py extension.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "We can execute a Python script using the command line.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Python does not allow running scripts using an online compiler.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "IDLE is an interactive shell provided by Python.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Tuples in Python allow adding and removing elements dynamically.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "Lists in Python are defined using curly braces {}.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "Dictionaries store elements in an ordered manner.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "We can retrieve a dictionary value using its key.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Sets in Python allow performing mathematical operations such as union and intersection.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "The function 'type()' in Python is used to check the data type of a variable.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "Python strings are immutable, meaning they cannot be changed after creation.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "We can concatenate two strings using the '+' operator in Python.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "The 'input()' function in Python is used to display output to the user.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "We can extract a substring from a string using slicing.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "A tuple can contain different data types such as strings, numbers, and lists.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "List slicing allows us to extract specific portions of a list.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "Dictionaries can have duplicate keys.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "The remove() function is used to delete a specific element from a list.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "Adding elements to a set using the add() method allows duplicate values.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "A dictionary can store another dictionary as its value.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "Python supports negative indexing for lists and strings.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "We cannot use a loop to iterate over a list in Python.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "In Python, a variable must be declared before assigning a value to it.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "A single variable in Python can store different types of data at different times.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "Sets in Python maintain the order of elements as they are inserted.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "A dictionary's keys must be unique and immutable.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "Python automatically converts between different number types when needed.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "A tuple can be converted into a list using the list() function.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "The 'clear()' method removes all elements from a dictionary.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "Lists in Python can contain duplicate values.",
+      "answer": true
+    }
+]
+  

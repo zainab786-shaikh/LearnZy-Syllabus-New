@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Wastewater is used water that contains ________ and needs treatment before being released.",
+      "options": [
+        "pure substances",
+        "harmful contaminants",
+        "minerals",
+        "nutrients"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Domestic wastewater is generated from sources such as ________.",
+      "options": [
+        "factories",
+        "households",
+        "oil refineries",
+        "chemical plants"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Industrial wastewater includes toxic substances like ________.",
+      "options": [
+        "fats and oils",
+        "acids and heavy metals",
+        "soap and shampoo",
+        "vegetable waste"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "The process of removing large objects from wastewater at the beginning of treatment is called ________.",
+      "options": [
+        "filtration",
+        "sedimentation",
+        "screening",
+        "chlorination"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "A major impact of untreated wastewater is ________ pollution.",
+      "options": [
+        "air",
+        "water",
+        "sound",
+        "thermal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The process where bacteria break down organic waste in an aeration tank is called ________ treatment.",
+      "options": [
+        "primary",
+        "secondary",
+        "tertiary",
+        "chemical"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "One of the major diseases caused by consuming contaminated water is ________.",
+      "options": [
+        "diabetes",
+        "cholera",
+        "asthma",
+        "arthritis"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "The final step in a sewage treatment plant is ________ before water is released.",
+      "options": [
+        "filtration",
+        "disinfection",
+        "sedimentation",
+        "grit removal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Oil refineries release wastewater that contains ________.",
+      "options": [
+        "detergents",
+        "fabric dyes",
+        "petroleum waste",
+        "fertilizers"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "The CPCB has set the permissible pH range for sewage discharge between ________.",
+      "options": [
+        "4.0 - 6.0",
+        "6.5 - 9.0",
+        "7.5 - 12.0",
+        "5.5 - 8.5"
+      ],
+      "answer": 2
+    }
+]
+  

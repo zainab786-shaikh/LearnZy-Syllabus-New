@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "Budgeting is the process of estimating and allocating ________ resources to different aspects of a project.",
+      "options": ["time", "financial", "human", "material"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Two important cost factors in any project are ________ and manpower.",
+      "options": ["materials", "marketing", "transportation", "insurance"],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Materials include physical items like raw materials, tools, and ________.",
+      "options": ["transportation", "workers", "equipment", "electricity"],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Manpower refers to the human resources required for a project, including ________ and unskilled workers.",
+      "options": ["machines", "skilled", "transporters", "accountants"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Proper budgeting ensures that a project stays within ________ limits.",
+      "options": ["technical", "financial", "geographical", "legal"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Before budgeting for materials, it is important to ________ all required materials.",
+      "options": ["discard", "purchase", "list", "ignore"],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Material costs should include actual price, transportation, and a ________ cost.",
+      "options": ["fixed", "hidden", "buffer", "random"],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "One way to reduce material costs is to buy in ________.",
+      "options": ["small amounts", "bulk", "credit", "random purchases"],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "The workforce required for a project can be categorized as skilled and ________ workers.",
+      "options": ["government", "independent", "unskilled", "freelance"],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Labor costs depend on wages per hour or per ________.",
+      "options": ["month", "year", "project", "worker"],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Directing at the supervisory level involves guiding, leading, and ________ employees.",
+      "options": ["monitoring", "punishing", "firing", "ignoring"],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Supervisors provide directions to ensure employees perform tasks ________ and efficiently.",
+      "options": ["slowly", "correctly", "randomly", "partially"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "One key responsibility of a supervisor is to provide ________ instructions.",
+      "options": ["unclear", "delayed", "clear", "complicated"],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Incomplete instructions can lead to ________ in the workplace.",
+      "options": ["confusion", "efficiency", "motivation", "growth"],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Supervisors must ensure that instructions are clear, complete, and ________.",
+      "options": ["feasible", "unrealistic", "confusing", "random"],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Feasible instructions are those that are ________ to implement.",
+      "options": ["practical", "impossible", "confusing", "unnecessary"],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "In a factory setting, supervisors must provide workers with clear steps to ________ products.",
+      "options": ["misplace", "assemble", "damage", "ignore"],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Poor directions can lead to mistakes, delays, or ________ performance.",
+      "options": ["excellent", "poor", "improved", "unexpected"],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "A supervisor should make sure that employees understand their ________.",
+      "options": ["salary", "tasks", "complaints", "vacations"],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Step-by-step guidance is particularly important for ________ employees.",
+      "options": ["experienced", "new", "retired", "senior"],
+      "answer": 2
+    }
+]
+  

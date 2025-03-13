@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is deadlock in a computer system?",
+      "options": [
+        "A process running without resources",
+        "Two or more processes waiting for resources, causing a system to freeze",
+        "A process that executes without interruption",
+        "A process waiting for a signal from another process"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a resource that can be involved in a deadlock?",
+      "options": [
+        "CPU time",
+        "Memory",
+        "Printers",
+        "All of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "What does the term 'Mutual Exclusion' refer to in deadlock?",
+      "options": [
+        "A resource can be shared between processes",
+        "A resource can only be used by one process at a time",
+        "Processes can wait for resources indefinitely",
+        "Processes can take resources from each other"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which condition is necessary for a deadlock to occur?",
+      "options": [
+        "Resource Preemption",
+        "Mutual Exclusion",
+        "Unlimited Resources",
+        "No Circular Wait"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following describes 'Hold and Wait' in the context of deadlock?",
+      "options": [
+        "A process holds some resources and waits for others",
+        "A process holds no resources but waits for others",
+        "A process releases resources before waiting for others",
+        "A process preempts other processes"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which example illustrates the 'Hold and Wait' condition?",
+      "options": [
+        "A process holding a printer and waiting for a file",
+        "A process not holding any resources and waiting for a printer",
+        "A process holding all resources and executing",
+        "A process giving up resources to another process"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "What does the 'No Preemption' condition mean in deadlock?",
+      "options": [
+        "A resource can be forcibly taken from a process",
+        "A resource cannot be forcibly taken from a process",
+        "A process can steal resources from another",
+        "A process voluntarily gives up resources"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What is an example of 'No Preemption' in a classroom scenario?",
+      "options": [
+        "A teacher takes a pen from one student and gives it to another",
+        "A student gives up a pen when asked",
+        "A student uses a pen without sharing",
+        "A teacher forces a student to give up a pen"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What is 'Circular Wait' in the context of deadlock?",
+      "options": [
+        "A process waits for resources in a circular chain",
+        "A process waits for resources, but they are not circular",
+        "A process never waits for resources",
+        "A process waits indefinitely for resources"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which example represents 'Circular Wait'?",
+      "options": [
+        "A process waits for a resource held by another, which is in turn waiting for a resource held by the first",
+        "A process waits for resources without any cycle",
+        "A process executes while others wait for resources",
+        "A process has all resources and does not need to wait"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "What happens when all four necessary conditions for deadlock are met?",
+      "options": [
+        "The system is efficient",
+        "The system continues to run normally",
+        "The system enters a deadlock state",
+        "The system becomes faster"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is a method of preventing deadlock?",
+      "options": [
+        "Allow circular wait to happen",
+        "Prevent mutual exclusion",
+        "Allow hold and wait",
+        "Avoid resource allocation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which of the following methods prevents the 'Hold and Wait' condition?",
+      "options": [
+        "A process gets all the resources it needs at once before starting",
+        "A process gives up resources as soon as it starts",
+        "A process never holds any resource",
+        "A process uses resources one at a time"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which is an example of preventing 'Mutual Exclusion'?",
+      "options": [
+        "Allowing multiple processes to use a printer simultaneously",
+        "Preventing all processes from using any resources",
+        "Allowing processes to use the CPU at the same time",
+        "Allowing multiple processes to share a file"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "What is the solution for 'Circular Wait' prevention?",
+      "options": [
+        "Allow resources to be requested in any order",
+        "Define a fixed order for resource allocation",
+        "Allow circular dependency between processes",
+        "Allow a process to wait indefinitely for resources"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "What is the main goal of deadlock prevention?",
+      "options": [
+        "To avoid all resource allocation",
+        "To prevent any one process from using resources",
+        "To ensure that at least one necessary condition for deadlock is not met",
+        "To speed up system execution"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "What does deadlock cause in a system?",
+      "options": [
+        "Increased performance",
+        "The system to freeze or stop progressing",
+        "A process to execute faster",
+        "The system to restart"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Which condition can be avoided by allowing processes to release resources before requesting new ones?",
+      "options": [
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "No Preemption",
+        "Circular Wait"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is an example of 'Prevention of No Preemption'?",
+      "options": [
+        "A teacher taking a pen from one student to give to another",
+        "A process holding all resources until completion",
+        "A process using a resource without giving it up",
+        "A process releasing resources at random"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Which system behavior causes a deadlock scenario?",
+      "options": [
+        "Resources being shared between processes",
+        "All processes executing without interruption",
+        "Processes holding resources and waiting for others",
+        "A single process executing on the CPU"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is true about deadlock prevention methods?",
+      "options": [
+        "They allow all processes to execute without restriction",
+        "They aim to meet at least one of the four conditions to avoid deadlock",
+        "They ensure that processes will never wait for resources",
+        "They ensure that at least one necessary condition for deadlock is not met"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 22,
+      "question": "Which method could be used to handle 'Circular Wait'?",
+      "options": [
+        "Allowing processes to wait indefinitely",
+        "Allowing processes to request resources in a specific order",
+        "Letting processes take all resources at once",
+        "Allowing no preemption of resources"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Which example would violate the 'Hold and Wait' condition?",
+      "options": [
+        "A process waits for resources while holding others",
+        "A process requests all resources it needs before execution",
+        "A process executes without any resource waiting",
+        "A process holds one resource but does not wait for others"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "Which strategy can help prevent a process from holding a resource while waiting for others?",
+      "options": [
+        "Allow processes to hold all resources simultaneously",
+        "Ensure a process gets all required resources at once",
+        "Prevent processes from holding resources",
+        "Force processes to release resources without using them"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "What is the main purpose of resource allocation management in a system?",
+      "options": [
+        "To prevent the system from crashing",
+        "To ensure fair access to resources",
+        "To increase the execution speed",
+        "To keep resources idle"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "Which is a consequence of a deadlock in a system?",
+      "options": [
+        "The system continues to process efficiently",
+        "Resources are wasted and no progress is made",
+        "Resources are shared equally among processes",
+        "Processes finish their execution quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "How can circular wait be avoided in a system?",
+      "options": [
+        "By allowing processes to request resources in any order",
+        "By giving all resources to the highest priority process",
+        "By establishing a fixed order for requesting resources",
+        "By letting processes wait until all resources are free"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 28,
+      "question": "Which condition does not allow resources to be forcibly taken from a process?",
+      "options": [
+        "Circular Wait",
+        "Hold and Wait",
+        "No Preemption",
+        "Mutual Exclusion"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 29,
+      "question": "What is an example of the 'No Preemption' condition in a real-world scenario?",
+      "options": [
+        "A teacher taking a student's pen when another student needs it",
+        "A student borrowing a pen without asking",
+        "A student waiting for a pen to be returned",
+        "A student leaving a pen unused while waiting for a notebook"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "What does the 'Mutual Exclusion' condition prevent?",
+      "options": [
+        "Multiple processes from sharing resources",
+        "Processes from waiting indefinitely for resources",
+        "A resource from being used by more than one process at a time",
+        "A process from taking any resource"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 31,
+      "question": "What happens when circular wait occurs in a system?",
+      "options": [
+        "Processes are allowed to execute freely",
+        "Processes are stuck waiting for resources in a cycle",
+        "Processes release resources at random",
+        "Processes take resources from each other without waiting"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is a key strategy to avoid deadlock?",
+      "options": [
+        "Allow circular wait conditions",
+        "Prevent processes from holding resources while waiting for others",
+        "Allow preemption of resources",
+        "Ensure processes never hold resources"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "Which technique ensures that deadlock does not occur by preventing at least one of the four necessary conditions?",
+      "options": [
+        "Deadlock detection",
+        "Deadlock prevention",
+        "Deadlock recovery",
+        "Deadlock avoidance"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "Which of the following strategies ensures that a process gets all the resources it needs at once?",
+      "options": [
+        "Allow hold and wait",
+        "Preempt resources",
+        "Require all resources before execution",
+        "Allow circular wait"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 35,
+      "question": "What happens if mutual exclusion is violated in a system?",
+      "options": [
+        "Processes can use resources concurrently without causing deadlock",
+        "Deadlock occurs immediately",
+        "No process can execute",
+        "Resources are reserved for specific processes"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "Which strategy helps in avoiding circular wait in a system?",
+      "options": [
+        "Allowing processes to wait indefinitely for resources",
+        "Ensuring a fixed order for requesting resources",
+        "Allowing random resource allocation",
+        "Allowing a process to take all available resources"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "Which of the following best describes deadlock prevention?",
+      "options": [
+        "It allows all processes to continue even when resources are scarce",
+        "It ensures that deadlock does not occur by preventing one of the four necessary conditions",
+        "It waits for resources to become available without restriction",
+        "It prioritizes processes based on their importance"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "What is a common feature of all necessary conditions for deadlock?",
+      "options": [
+        "They can occur separately without causing issues",
+        "All four must happen simultaneously for deadlock to occur",
+        "They cause resources to become available immediately",
+        "They make the system more efficient"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "What is an example of the 'Mutual Exclusion' condition in a real-world scenario?",
+      "options": [
+        "Two people using the same pen at the same time",
+        "One person using a pen while another waits",
+        "Multiple people sharing a notebook",
+        "Two people working on a computer at the same time"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "Which condition must always be prevented to avoid deadlock?",
+      "options": [
+        "Circular Wait",
+        "Hold and Wait",
+        "No Preemption",
+        "Mutual Exclusion"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "What strategy is used to avoid deadlock in a system?",
+      "options": [
+        "Deadlock recovery",
+        "Deadlock detection",
+        "Deadlock avoidance",
+        "Deadlock prevention"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 42,
+      "question": "Which example best represents 'Circular Wait'?",
+      "options": [
+        "Process A is waiting for a printer while holding a file, and Process B is waiting for the file while holding the printer",
+        "A process requests resources sequentially",
+        "A process finishes its task and releases resources",
+        "A process does not hold any resources"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "Which condition ensures that resources are used by only one process at a time?",
+      "options": [
+        "Hold and Wait",
+        "Circular Wait",
+        "Mutual Exclusion",
+        "No Preemption"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 44,
+      "question": "How does deadlock affect system performance?",
+      "options": [
+        "It increases system performance",
+        "It causes the system to become unresponsive",
+        "It allows resources to be shared more efficiently",
+        "It allows faster processing of tasks"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "Which of the following prevents 'Hold and Wait' condition?",
+      "options": [
+        "Allowing processes to acquire resources as needed",
+        "Allowing processes to wait indefinitely",
+        "Ensuring that processes hold all required resources before starting",
+        "Allowing processes to release resources without using them"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 46,
+      "question": "What is the primary focus of deadlock prevention?",
+      "options": [
+        "To increase system throughput",
+        "To ensure at least one condition for deadlock does not occur",
+        "To reduce memory usage",
+        "To prioritize processes"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "What is one of the consequences of 'Mutual Exclusion'?",
+      "options": [
+        "Processes can share resources simultaneously",
+        "Only one process can use a resource at a time",
+        "Processes do not need resources",
+        "No process waits for resources"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "What does 'Deadlock Recovery' aim to do?",
+      "options": [
+        "Prevent deadlock from occurring",
+        "Allow the system to continue execution despite deadlock",
+        "Detect deadlock immediately",
+        "Force processes to execute without resources"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "Which method allows resources to be preempted to avoid deadlock?",
+      "options": [
+        "Deadlock recovery",
+        "Deadlock prevention",
+        "Deadlock detection",
+        "Resource allocation strategies"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "What should be done to prevent circular wait in a system?",
+      "options": [
+        "Define a fixed order in which resources can be requested",
+        "Allow processes to wait indefinitely",
+        "Allow resources to be requested randomly",
+        "Prevent all resource allocation"
+      ],
+      "answer": 1
+    }
+]
+  

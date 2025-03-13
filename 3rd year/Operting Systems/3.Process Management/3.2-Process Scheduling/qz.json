@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is process scheduling in an operating system?",
+      "options": [
+        "Managing the execution of multiple processes",
+        "Executing only one process at a time",
+        "Deleting processes",
+        "Shutting down the system"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which queue contains all processes that are ready to be executed?",
+      "options": [
+        "Ready Queue",
+        "Job Queue",
+        "Waiting Queue",
+        "Execution Queue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What does the long-term scheduler do?",
+      "options": [
+        "Selects which process gets CPU time next",
+        "Decides which process enters the ready queue",
+        "Swaps processes in and out of memory",
+        "Terminates processes"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "What is another name for the short-term scheduler?",
+      "options": [
+        "Job Scheduler",
+        "CPU Scheduler",
+        "Memory Scheduler",
+        "Process Scheduler"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following runs most frequently?",
+      "options": [
+        "Long-Term Scheduler",
+        "Short-Term Scheduler",
+        "Medium-Term Scheduler",
+        "Job Scheduler"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What happens during a context switch?",
+      "options": [
+        "The OS shuts down",
+        "The CPU switches from one process to another",
+        "All processes are deleted",
+        "Processes merge into one"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which queue contains processes that are waiting for I/O operations to complete?",
+      "options": [
+        "Ready Queue",
+        "Job Queue",
+        "Waiting Queue",
+        "Execution Queue"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of the medium-term scheduler?",
+      "options": [
+        "Terminate processes",
+        "Move processes between RAM and disk",
+        "Assign CPU time",
+        "Handle I/O operations"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "In real life, what is an example of a ready queue?",
+      "options": [
+        "A customer waiting for food at a restaurant",
+        "Passengers waiting at airport security",
+        "A chef cooking food",
+        "A person sleeping"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Why is context switching necessary?",
+      "options": [
+        "To allow multitasking",
+        "To increase CPU speed",
+        "To remove background processes",
+        "To shut down the system"
+      ],
+      "answer": 1
+    }
+  ]
+  

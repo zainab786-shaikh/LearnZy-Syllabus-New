@@ -1,0 +1,542 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary purpose of the Indian Factory Act, 1948?",
+      "options": [
+        "To reduce worker safety",
+        "To ensure the safety, health, and welfare of workers in factories",
+        "To only regulate working hours",
+        "To only protect consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What is the main provision regarding working hours in the Indian Factory Act, 1948?",
+      "options": [
+        "Adults can work more than 48 hours per week",
+        "Adults cannot work more than 48 hours per week",
+        "There is no limit on working hours",
+        "Only children can work more than 48 hours"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Why is it important to provide proper ventilation and drinking water in factories?",
+      "options": [
+        "It reduces worker health",
+        "It has no impact on worker health",
+        "It improves worker health and safety",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What is the minimum age for children to work in factories according to the Indian Factory Act, 1948?",
+      "options": [
+        "12 years",
+        "14 years",
+        "16 years",
+        "18 years"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Why is the Industrial Dispute Act, 1947 important?",
+      "options": [
+        "It reduces conflict resolution",
+        "It helps resolve conflicts between workers and employers",
+        "It only regulates working hours",
+        "It only protects consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is the main provision regarding strikes in the Industrial Dispute Act, 1947?",
+      "options": [
+        "Workers can strike without notice",
+        "Workers must give a notice of 6 weeks before striking",
+        "Employers can declare a lockout without notice",
+        "Only employers can strike"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Why is the Workman Compensation Act, 1923 important?",
+      "options": [
+        "It reduces worker compensation",
+        "It ensures compensation for workers injured or disabled at work",
+        "It only regulates working hours",
+        "It only protects consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What type of compensation is provided for permanent disability under the Workman Compensation Act, 1923?",
+      "options": [
+        "Temporary compensation",
+        "Lifelong compensation",
+        "No compensation",
+        "Only death compensation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of the Minimum Wages Act, 1948?",
+      "options": [
+        "To reduce worker wages",
+        "To ensure fair wages for workers",
+        "To only regulate working hours",
+        "To only protect consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Why is timely payment of wages important under the Minimum Wages Act, 1948?",
+      "options": [
+        "It reduces worker satisfaction",
+        "It has no impact on worker satisfaction",
+        "It improves worker satisfaction by ensuring regular payment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "What happens if an employer does not pay minimum wages as per the Minimum Wages Act, 1948?",
+      "options": [
+        "The employer faces no penalties",
+        "The employer may face legal penalties and fines",
+        "The employer becomes more competitive",
+        "The employer grows technologically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "How do Industrial Acts impact worker safety?",
+      "options": [
+        "They reduce safety measures",
+        "They improve safety by setting standards and regulations",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Why is it important to register and license factories under the Indian Factory Act, 1948?",
+      "options": [
+        "It reduces compliance",
+        "It ensures compliance with safety and health regulations",
+        "It only affects productivity",
+        "It only protects consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "What is the role of the Industrial Dispute Act, 1947 in resolving conflicts?",
+      "options": [
+        "To reduce conflict resolution",
+        "To resolve conflicts through negotiations, conciliation, and tribunals",
+        "To only regulate working hours",
+        "To only protect consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Why is it important to provide overtime pay under the Indian Factory Act, 1948?",
+      "options": [
+        "It reduces worker satisfaction",
+        "It has no impact on worker satisfaction",
+        "It improves worker satisfaction by providing extra compensation",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "What happens if a worker is injured at work and does not receive compensation?",
+      "options": [
+        "The employer faces no penalties",
+        "The employer may face legal penalties and fines",
+        "The employer becomes more competitive",
+        "The employer grows technologically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "How do Industrial Acts impact worker morale?",
+      "options": [
+        "They decrease morale",
+        "They improve morale by providing fair wages and safe conditions",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "What is the benefit of having clear provisions in Industrial Acts?",
+      "options": [
+        "It reduces clarity and compliance",
+        "It improves clarity and compliance by providing specific rules",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Why is it important to amend Industrial Acts to keep them relevant?",
+      "options": [
+        "It reduces their effectiveness",
+        "It updates laws to address new challenges and technologies",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "What happens if an employer violates the Workman Compensation Act, 1923?",
+      "options": [
+        "The employer faces no penalties",
+        "The employer may face legal penalties and fines",
+        "The employer becomes more competitive",
+        "The employer grows technologically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "How do Industrial Acts impact organizational culture?",
+      "options": [
+        "They decrease positive culture",
+        "They improve culture by promoting fairness and safety",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 22,
+      "question": "What is the role of the Minimum Wages Act, 1948 in preventing worker exploitation?",
+      "options": [
+        "To reduce worker wages",
+        "To ensure fair wages and prevent exploitation",
+        "To only regulate working hours",
+        "To only protect consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Why is it important to specify penalties for offenses in Industrial Acts?",
+      "options": [
+        "It reduces compliance",
+        "It ensures compliance by providing clear consequences for violations",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "What happens if a factory does not comply with safety regulations under the Indian Factory Act, 1948?",
+      "options": [
+        "Safety improves",
+        "Safety decreases due to lack of compliance",
+        "Businesses become more competitive",
+        "Technology grows faster"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "How do Industrial Acts impact business operations in terms of fairness?",
+      "options": [
+        "They reduce fairness in competition",
+        "They ensure fairness in competition by setting legal standards",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "What is the benefit of having safety provisions in the Indian Factory Act, 1948?",
+      "options": [
+        "It reduces safety",
+        "It improves safety by regulating hazardous processes",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "Why is it important to ensure that workers receive fair wages under the Minimum Wages Act, 1948?",
+      "options": [
+        "It reduces worker satisfaction",
+        "It has no impact on worker satisfaction",
+        "It improves worker satisfaction by preventing exploitation",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 28,
+      "question": "What happens if a company does not comply with the Industrial Dispute Act, 1947?",
+      "options": [
+        "The company faces no penalties",
+        "The company may face legal penalties and fines",
+        "The company becomes more competitive",
+        "The company grows technologically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "How do Industrial Acts impact employee retention?",
+      "options": [
+        "They decrease retention",
+        "They increase retention by providing fair wages and safe conditions",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "What is the role of the Workman Compensation Act, 1923 in supporting workers?",
+      "options": [
+        "To reduce worker compensation",
+        "To ensure compensation for workers injured or disabled at work",
+        "To only regulate working hours",
+        "To only protect consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "Why is it important to specify working hours in the Indian Factory Act, 1948?",
+      "options": [
+        "It reduces worker satisfaction",
+        "It has no impact on worker satisfaction",
+        "It improves worker satisfaction by regulating work-life balance",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 32,
+      "question": "What happens if a worker is not paid overtime wages as per the Indian Factory Act, 1948?",
+      "options": [
+        "The employer faces no penalties",
+        "The employer may face legal penalties and fines",
+        "The employer becomes more competitive",
+        "The employer grows technologically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "How do Industrial Acts impact organizational sustainability?",
+      "options": [
+        "They decrease sustainability",
+        "They improve sustainability by promoting fair practices",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "What is the benefit of having clear provisions for child labor in the Indian Factory Act, 1948?",
+      "options": [
+        "It reduces child protection",
+        "It improves child protection by setting age limits",
+        "It only affects productivity",
+        "It only protects consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "Why is it important to ensure that factories are registered and licensed?",
+      "options": [
+        "It reduces compliance",
+        "It ensures compliance with safety and health regulations",
+        "It only affects productivity",
+        "It only protects consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "What happens if an employer does not provide compensation under the Workman Compensation Act, 1923?",
+      "options": [
+        "The employer faces no penalties",
+        "The employer may face legal penalties and fines",
+        "The employer becomes more competitive",
+        "The employer grows technologically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "How do Industrial Acts impact employee well-being?",
+      "options": [
+        "They decrease well-being",
+        "They improve well-being by providing safe conditions and fair wages",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "What is the role of the Industrial Dispute Act, 1947 in promoting labor peace?",
+      "options": [
+        "To reduce conflict resolution",
+        "To resolve conflicts and promote labor peace",
+        "To only regulate working hours",
+        "To only protect consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "Why is it important to specify penalties for non-compliance in Industrial Acts?",
+      "options": [
+        "It reduces compliance",
+        "It ensures compliance by providing clear consequences for violations",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "What happens if a company does not comply with the Minimum Wages Act, 1948?",
+      "options": [
+        "The company faces no penalties",
+        "The company may face legal penalties and fines",
+        "The company becomes more competitive",
+        "The company grows technologically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 41,
+      "question": "How do Industrial Acts impact organizational reputation?",
+      "options": [
+        "They decrease reputation",
+        "They improve reputation by demonstrating a commitment to fairness and safety",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "What is the benefit of having safety measures in the Indian Factory Act, 1948?",
+      "options": [
+        "It reduces safety",
+        "It improves safety by regulating hazardous processes",
+        "It only affects productivity",
+        "It only protects consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "Why is it important to ensure that workers receive fair overtime pay?",
+      "options": [
+        "It reduces worker satisfaction",
+        "It has no impact on worker satisfaction",
+        "It improves worker satisfaction by providing extra compensation",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 44,
+      "question": "What happens if a factory does not provide proper ventilation as per the Indian Factory Act, 1948?",
+      "options": [
+        "Safety improves",
+        "Safety decreases due to lack of ventilation",
+        "Businesses become more competitive",
+        "Technology grows faster"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "How do Industrial Acts impact business operations in terms of compliance?",
+      "options": [
+        "They reduce compliance",
+        "They ensure compliance by setting legal standards",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "What is the role of the Workman Compensation Act, 1923 in supporting worker families?",
+      "options": [
+        "To reduce worker compensation",
+        "To ensure compensation for workers' families in case of death or disability",
+        "To only regulate working hours",
+        "To only protect consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "Why is it important to specify working conditions in Industrial Acts?",
+      "options": [
+        "It reduces worker satisfaction",
+        "It has no impact on worker satisfaction",
+        "It improves worker satisfaction by regulating work conditions",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 48,
+      "question": "What happens if an employer violates the Industrial Dispute Act, 1947?",
+      "options": [
+        "The employer faces no penalties",
+        "The employer may face legal penalties and fines",
+        "The employer becomes more competitive",
+        "The employer grows technologically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "How do Industrial Acts impact employee engagement?",
+      "options": [
+        "They decrease engagement",
+        "They increase engagement by providing fair wages and safe conditions",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    }
+]
+  

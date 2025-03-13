@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that wastewater is used water that needs treatment before being released back into the environment.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that wastewater comes only from industrial sources.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that domestic wastewater includes toilet water, kitchen waste, and laundry water.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that industrial wastewater does not contain any harmful chemicals.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that textile industries release dyes and chemicals into wastewater.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that paper industries do not contribute to wastewater pollution.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that untreated wastewater can cause water pollution.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that untreated wastewater improves soil fertility.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that toxic wastewater can degrade soil quality.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that air pollution is not related to wastewater.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that untreated sewage can make rivers and lakes unfit for drinking.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is false that wastewater cannot cause diseases in humans.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that drinking contaminated water can cause cholera and typhoid.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is false that toxic chemicals in wastewater have no effect on human health.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that a sewage treatment plant (STP) is used to clean wastewater before releasing it into the environment.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is false that sewage treatment plants do not remove bacteria from wastewater.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that screening is the first step in a sewage treatment plant.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is false that grit removal is not necessary in wastewater treatment.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that primary treatment in an STP removes solid waste and floating grease.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is false that bacteria are used in secondary treatment to break down organic waste.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that tertiary treatment removes harmful bacteria and disinfects the water.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is false that final discharge from an STP is released without any treatment.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that CPCB has set rules for sewage discharge to prevent water pollution.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is false that CPCB norms allow untreated sewage to be discharged into rivers.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that the permissible pH level for sewage discharge is between 6.5 and 9.0.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is false that biochemical oxygen demand (BOD) in sewage should be more than 30 mg/L.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is true that chemical oxygen demand (COD) should be less than 250 mg/L for safe sewage discharge.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is false that total suspended solids (TSS) in sewage can be higher than 100 mg/L.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that oil and grease in wastewater should be less than 10 mg/L.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is false that fecal coliform levels in sewage discharge can be above 1000 MPN/100mL.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that untreated wastewater harms aquatic life.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is false that wastewater cannot be reused after treatment.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that treated wastewater can be used for irrigation.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is false that industries do not need to follow sewage treatment regulations.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that industries must treat their wastewater before releasing it.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is false that sewage treatment is only required for large cities.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that sewage treatment can help in water conservation.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is false that all sewage treatment plants use the same method.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that proper wastewater management helps in preventing diseases.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is false that wastewater does not contribute to environmental pollution.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that CPCB sets norms to regulate sewage disposal in India.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is false that wastewater does not need treatment before being discharged into rivers.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that untreated industrial waste is a major cause of water pollution.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is false that sewage treatment removes all pollutants completely.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is true that wastewater treatment plants help protect marine ecosystems.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is false that untreated wastewater has no effect on human health.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "It is true that proper sewage treatment reduces waterborne diseases.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is false that wastewater cannot be recycled for any purpose.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "It is true that public awareness is important for better wastewater management.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is false that wastewater treatment is not necessary in modern cities.",
+      "answer": true
+    }
+]
+  

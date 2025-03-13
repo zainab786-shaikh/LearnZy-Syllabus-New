@@ -1,0 +1,72 @@
+<div>
+    <h1>3.2 Process Scheduling</h1>
+    <p>Process scheduling is the method by which the operating system (OS) manages the execution of multiple processes in a computer. Since the CPU can only execute one process at a time (in a single-core system), the OS ensures that all processes get a fair chance to execute by scheduling them efficiently.</p>
+    
+    <h2>To understand Process Scheduling, we will break it down into the following parts:</h2>
+    <ul>
+      <li>Scheduling Queues</li>
+      <li>Schedulers</li>
+      <li>Context Switch</li>
+    </ul>
+    
+    <h2>1. Scheduling Queues</h2>
+    <p>A queue is like a waiting line where processes stand in order to get executed by the CPU. In an operating system, there are different types of queues to manage processes.</p>
+    
+    <h3>Types of Scheduling Queues</h3>
+    <h4>Job Queue</h4>
+    <p>This queue contains all processes that are ready to be executed.</p>
+    <p><strong>Example:</strong> When you open multiple applications on your computer (such as a web browser, music player, and Word document), all these processes enter the job queue.</p>
+    
+    <h4>Ready Queue</h4>
+    <p>This queue contains all processes that are ready to run and are waiting for CPU time.</p>
+    <p><strong>Example:</strong> Suppose you have 5 apps running, but the CPU can only process one at a time. The remaining 4 processes wait in the ready queue.</p>
+    
+    <h4>Waiting Queue (I/O Queue)</h4>
+    <p>If a process needs to wait for some input/output (I/O) operation (e.g., reading a file, printing a document), it moves to the waiting queue.</p>
+    <p><strong>Example:</strong> When you click Print in MS Word, the document is placed in a queue until the printer is available.</p>
+    
+    <h3>Example of Scheduling Queues in Real Life</h3>
+    <p>Imagine you are in a restaurant:</p>
+    <ul>
+      <li><strong>Job Queue</strong> → All customers who enter the restaurant and are waiting for a table.</li>
+      <li><strong>Ready Queue</strong> → Customers who got a table and are waiting for their food.</li>
+      <li><strong>Waiting Queue</strong> → Customers who ordered food and are waiting for the chef to prepare it.</li>
+    </ul>
+    
+    <h2>2. Schedulers</h2>
+    <p>Schedulers are responsible for managing processes and moving them between different queues.</p>
+    
+    <h3>Types of Schedulers</h3>
+    <h4>1. Long-Term Scheduler (Job Scheduler)</h4>
+    <p>Decides which processes should enter the ready queue from the job queue.</p>
+    <p><strong>Example:</strong> Imagine you are at an airport. Job Scheduler decides which passengers should go through security checks (entering the Ready Queue).</p>
+    
+    <h4>2. Short-Term Scheduler (CPU Scheduler)</h4>
+    <p>Decides which process gets CPU time next from the ready queue.</p>
+    <p><strong>Example:</strong> A teacher asks students one by one to answer a question. The teacher decides who answers next (similar to how the short-term scheduler picks the next process).</p>
+    
+    <h4>3. Medium-Term Scheduler</h4>
+    <p>Removes processes from memory (called swapping out) and brings them back later (called swapping in).</p>
+    <p><strong>Example:</strong> Imagine a restaurant with limited seats. If it’s too crowded, the manager may ask some people to wait outside until seats are available. This is similar to swapping out processes to free up memory.</p>
+    
+    <h2>3. Context Switch</h2>
+    <p>A context switch happens when the CPU switches from one process to another. It saves the state of the current process and loads the state of the new process.</p>
+    
+    <h3>How Context Switching Works</h3>
+    <ul>
+      <li>Save the current process’s state (like remembering what a person was doing before taking a break).</li>
+      <li>Load the next process’s state (like picking up where another person left off).</li>
+      <li>Start executing the new process.</li>
+    </ul>
+    
+    <h3>Example of Context Switching in Real Life</h3>
+    <p>Imagine a teacher calls on Student A to answer a question. Suddenly, the teacher switches to Student B without letting Student A finish. The teacher must remember where Student A stopped before returning to them.</p>
+    
+    <h2>Final Summary</h2>
+    <ul>
+      <li><strong>Scheduling Queues:</strong> Help manage processes waiting to be executed.</li>
+      <li><strong>Schedulers:</strong> Decide which processes get CPU time and when.</li>
+      <li><strong>Context Switch:</strong> Saves and switches processes when multitasking.</li>
+    </ul>
+</div>
+  

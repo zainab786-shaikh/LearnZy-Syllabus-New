@@ -1,0 +1,116 @@
+<div>
+    <h1>2.2 System Calls – Concept, Types of System Calls</h1>
+    <h2>What is a System Call?</h2>
+    <p>A system call is a way for a program to request a service from the operating system. Think of it as a bridge between the user and the operating system.</p>
+    <p>Imagine you are in a restaurant. You (the user) want food, but you cannot directly enter the kitchen to cook. Instead, you call a waiter (system call) who takes your request to the kitchen (operating system). The kitchen prepares the food and gives it to the waiter, who delivers it back to you.</p>
+    <p>Similarly, when a program needs to perform a task (like reading a file or printing something), it cannot do it directly. It asks the operating system using a system call.</p>
+    
+    <h2>Why Are System Calls Important?</h2>
+    <ul>
+      <li>They allow user programs to interact with hardware (files, memory, network, etc.).</li>
+      <li>They ensure security by controlling access to system resources.</li>
+      <li>They simplify programming since developers don’t need to write code for low-level hardware operations.</li>
+    </ul>
+  
+    <h2>Types of System Calls</h2>
+    <ul>
+      <li>Process Control System Calls</li>
+      <li>File Management System Calls</li>
+      <li>Device Management System Calls</li>
+      <li>Information Maintenance System Calls</li>
+      <li>Communication System Calls</li>
+    </ul>
+  
+    <h3>1. Process Control System Calls</h3>
+    <p>A process is any program that is running on a computer. These system calls help to start, stop, or manage a process.</p>
+    <p><strong>Examples:</strong></p>
+    <ul>
+      <li><code>fork()</code> – Creates a new process (like making a photocopy of a document).</li>
+      <li><code>exec()</code> – Runs a new program (like switching from a music app to a video app).</li>
+      <li><code>exit()</code> – Stops a process (like closing an app on your phone).</li>
+      <li><code>wait()</code> – Makes a process wait for another to finish (like waiting for a friend before leaving together).</li>
+    </ul>
+  
+    <h3>2. File Management System Calls</h3>
+    <p>Computers store data in files. These system calls help in creating, opening, reading, writing, and closing files.</p>
+    <p><strong>Examples:</strong></p>
+    <ul>
+      <li><code>open()</code> – Opens a file (like opening a book).</li>
+      <li><code>read()</code> – Reads data from a file (like reading a page).</li>
+      <li><code>write()</code> – Writes data to a file (like writing in a notebook).</li>
+      <li><code>close()</code> – Closes a file (like closing a book after reading).</li>
+    </ul>
+  
+    <h3>3. Device Management System Calls</h3>
+    <p>Computers use various devices like printers, keyboards, and USB drives. These system calls help in managing hardware devices.</p>
+    <p><strong>Examples:</strong></p>
+    <ul>
+      <li><code>ioctl()</code> – Controls a device (like adjusting volume on speakers).</li>
+      <li><code>read()</code> and <code>write()</code> – Transfer data to/from a device (like sending a document to a printer).</li>
+      <li><code>close()</code> – Releases a device (like unplugging a USB drive safely).</li>
+    </ul>
+  
+    <h3>4. Information Maintenance System Calls</h3>
+    <p>These system calls provide system-related information such as date, time, memory usage, and process details.</p>
+    <p><strong>Examples:</strong></p>
+    <ul>
+      <li><code>getpid()</code> – Gets the process ID (like finding your student ID).</li>
+      <li><code>alarm()</code> – Sets a timer (like setting an alarm on your phone).</li>
+      <li><code>gettimeofday()</code> – Gets the current date and time (like checking the time on your phone).</li>
+    </ul>
+  
+    <h3>5. Communication System Calls</h3>
+    <p>These system calls help programs exchange data with each other or over a network.</p>
+    <p><strong>Examples:</strong></p>
+    <ul>
+      <li><code>pipe()</code> – Allows two processes to communicate (like passing a note in class).</li>
+      <li><code>send()</code> and <code>recv()</code> – Send and receive messages (like sending a WhatsApp message).</li>
+      <li><code>connect()</code> – Connects to a server (like opening a website).</li>
+    </ul>
+  
+    <h2>Conclusion</h2>
+    <p>System calls are essential for a computer to function. They allow programs to interact with the operating system securely and efficiently. Without system calls, even simple tasks like opening a file, printing a document, or browsing the internet wouldn’t be possible.</p>
+  
+    <h2>Quick Summary Table:</h2>
+    <table border="1">
+      <tr>
+        <th>Type of System Call</th>
+        <th>Purpose</th>
+        <th>Examples</th>
+        <th>Real-Life Example</th>
+      </tr>
+      <tr>
+        <td>Process Control</td>
+        <td>Start, stop, or manage a process</td>
+        <td>fork(), exec(), exit()</td>
+        <td>Opening and closing apps</td>
+      </tr>
+      <tr>
+        <td>File Management</td>
+        <td>Create, read, write, delete files</td>
+        <td>open(), read(), write()</td>
+        <td>Opening a document</td>
+      </tr>
+      <tr>
+        <td>Device Management</td>
+        <td>Control hardware devices</td>
+        <td>ioctl(), read(), write()</td>
+        <td>Printing a document</td>
+      </tr>
+      <tr>
+        <td>Information Maintenance</td>
+        <td>Get system-related info</td>
+        <td>getpid(), alarm(), gettimeofday()</td>
+        <td>Checking battery percentage</td>
+      </tr>
+      <tr>
+        <td>Communication</td>
+        <td>Exchange data between processes or over a network</td>
+        <td>pipe(), send(), recv()</td>
+        <td>Sending a WhatsApp message</td>
+      </tr>
+    </table>
+    
+    <p>By understanding system calls, you now have a better idea of how computers work behind the scenes! 🚀</p>
+</div>
+  

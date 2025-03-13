@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that management involves planning, organizing, leading, and controlling resources to achieve specific goals.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is true that management does not involve planning, organizing, leading, and controlling resources.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that Henry Fayol defined management as forecasting, planning, organizing, commanding, coordinating, and controlling.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is true that Henry Fayol did not define management as forecasting, planning, organizing, commanding, coordinating, and controlling.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that Peter Drucker distinguished management from leadership by saying management is about doing things right.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is true that Peter Drucker did not distinguish management from leadership in such a manner.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that Harold Koontz defined management as the art of getting things done through and with people in formally organized groups.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is true that Harold Koontz did not define management in such a way.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that management plays interpersonal, informational, and decisional roles in an organization.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that management does not play interpersonal, informational, and decisional roles.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that interpersonal roles in management involve dealing with people inside and outside the organization.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that interpersonal roles in management do not involve dealing with people.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that informational roles in management involve gathering and sharing information.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that informational roles in management do not involve gathering and sharing information.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that decisional roles in management involve making key decisions for the organization.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is true that decisional roles in management do not involve making key decisions.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that management is essential for achieving organizational goals efficiently.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is true that management is not essential for achieving organizational goals.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that good management improves productivity by guiding employees effectively.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that good management does not improve productivity.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that management helps in reducing the wastage of resources.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is true that management does not help in reducing the wastage of resources.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that effective management ensures stability and growth of an organization.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that effective management does not ensure stability and growth of an organization.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that management enhances teamwork and motivation among employees.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that management does not enhance teamwork and motivation among employees.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that management encourages innovation and creativity in organizations.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is true that management does not encourage innovation and creativity in organizations.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that management aids in decision-making by analyzing situations and data.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that management does not aid in decision-making.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that management ensures customer satisfaction by managing quality and service.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that management does not ensure customer satisfaction.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that management is crucial for the success of any organization.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that management is not crucial for the success of any organization.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that management involves aligning resources to achieve specific goals efficiently.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is true that management does not involve aligning resources to achieve specific goals.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that management is a dynamic process that adapts to environmental changes.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is true that management is not a dynamic process.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that management is essential for converting disorganized resources into a useful enterprise.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is true that management is not essential for converting disorganized resources into a useful enterprise.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that management involves maximizing efficiency through effective resource utilization.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is true that management does not involve maximizing efficiency through effective resource utilization.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that management is a comprehensive function that includes planning, organizing, leading, and controlling.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is true that management does not include planning, organizing, leading, and controlling.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that management provides benefits to both the organization and society.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that management does not provide benefits to both the organization and society.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that management involves strategic planning to set long-term goals.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that management does not involve strategic planning to set long-term goals.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that management requires skills like leadership, decision-making, and communication.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that management does not require skills like leadership, decision-making, and communication.",
+      "answer": false
+    }
+]
+  

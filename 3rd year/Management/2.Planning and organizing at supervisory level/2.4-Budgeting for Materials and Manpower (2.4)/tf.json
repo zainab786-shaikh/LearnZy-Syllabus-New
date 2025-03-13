@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "Budgeting is the process of estimating and allocating financial resources to different aspects of a project or business.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Materials in a project only refer to raw materials and do not include tools or equipment.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Manpower includes all human resources required for a project, including skilled and unskilled workers.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Proper budgeting helps a project stay within financial limits and avoid unexpected expenses.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "The first step in budgeting for materials is identifying the required materials for the project.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Raw materials, tools, and office supplies are examples of materials required for a project.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "A bakery only needs flour and sugar for its operations and does not require any machinery.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "Estimating material costs involves checking market prices and considering delivery costs.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Adding a buffer cost helps prevent unexpected expenses in material budgeting.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "Buying materials in bulk can increase overall costs and should always be avoided.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "Using alternative materials can help reduce project costs while maintaining quality.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "Reducing material wastage is an effective way to control project costs.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Manpower budgeting does not include costs for salaries, wages, and benefits.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "To estimate labor costs, we must determine the number and type of workers required.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "A construction project typically requires both skilled and unskilled workers.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "A software company does not need to include designers in its manpower budget.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "Labor costs depend only on wages and do not include overtime pay or benefits.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "A worker’s total monthly salary is calculated based on daily wages and the number of days worked.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Overtime pay is an additional cost that should be considered in manpower budgeting.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "Hiring excess workers can lead to unnecessary increases in labor costs.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "Machines and automation can help reduce manpower costs in certain projects.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "Training workers to improve efficiency can help control labor costs.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "Balancing material and manpower budgets is necessary for a successful project.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "If material costs are too high, there may not be enough budget left for skilled labor.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "Unexpected cost increases in materials should not affect manpower budgeting.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "A project with a budget of $90,000 should ensure material and labor costs are balanced within this limit.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "Ignoring material and manpower budgeting can lead to cost overruns and project delays.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "Budgeting only for materials is sufficient for a successful project.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "Manpower costs can be reduced by hiring only essential workers.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "Legal fees and transportation costs are not part of project budgeting.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "Project managers should always leave some budget flexibility for unexpected expenses.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "A budget ensures smooth project completion by preventing financial shortages.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "A project can run smoothly without proper budgeting for materials and manpower.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "If material prices increase, project managers may need to adjust the manpower budget.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "Manpower costs can never be reduced in a project.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "Every project requires some form of budgeting, regardless of its size.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "A bakery's budgeting includes both material costs (ingredients) and manpower costs (bakers, cashiers).",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "Project budgets should be flexible to accommodate unexpected price changes.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "Over-budgeting for materials can reduce funds available for skilled workers.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "Accurate budgeting helps businesses complete projects within deadlines.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "Unskilled workers generally have higher wages than skilled workers.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "Using outdated budgeting methods does not affect project efficiency.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "A budget should be monitored regularly to ensure financial control.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "Ignoring budgeting can lead to project failure.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "Budgeting for materials involves considering waste and surplus.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "High material costs always lead to project failure.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "Every project budget should have an emergency fund.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "Project budgeting helps in better financial planning for businesses.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "A project’s total budget includes materials, manpower, and unexpected costs.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "Budgeting only applies to large-scale projects and is not necessary for small businesses.",
+      "answer": false
+    }
+]
+  

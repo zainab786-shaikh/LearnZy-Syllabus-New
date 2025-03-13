@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "The ________ function is used to check the data type of a variable.",
+      "options": [
+        "type()",
+        "int()",
+        "float()",
+        "str()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "To convert a string into an integer, you use the ________ function.",
+      "options": [
+        "int()",
+        "float()",
+        "str()",
+        "bool()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "The ________ function converts a number into a decimal number.",
+      "options": [
+        "int()",
+        "float()",
+        "str()",
+        "bool()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "To convert a number into a string, you use the ________ function.",
+      "options": [
+        "int()",
+        "float()",
+        "str()",
+        "bool()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "The ________ function returns the absolute value of a number.",
+      "options": [
+        "abs()",
+        "pow()",
+        "round()",
+        "max()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "To calculate the power of a number, you use the ________ function.",
+      "options": [
+        "pow()",
+        "abs()",
+        "round()",
+        "max()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "The ________ function rounds off a number to the nearest whole number or decimal place.",
+      "options": [
+        "round()",
+        "pow()",
+        "abs()",
+        "max()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "To find the largest value in a list, you use the ________ function.",
+      "options": [
+        "max()",
+        "min()",
+        "sum()",
+        "len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The ________ function finds the smallest value in a list.",
+      "options": [
+        "min()",
+        "max()",
+        "sum()",
+        "len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "To calculate the sum of all numbers in a list, you use the ________ function.",
+      "options": [
+        "sum()",
+        "max()",
+        "min()",
+        "len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "The ________ module provides additional mathematical functions like sqrt(), ceil(), and floor().",
+      "options": [
+        "math",
+        "statistics",
+        "numpy",
+        "pandas"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "To count the number of characters in a string, you use the ________ function.",
+      "options": [
+        "len()",
+        "lower()",
+        "upper()",
+        "split()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "The ________ function converts a string to lowercase.",
+      "options": [
+        "lower()",
+        "upper()",
+        "replace()",
+        "split()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "To convert a string to uppercase, you use the ________ function.",
+      "options": [
+        "upper()",
+        "lower()",
+        "replace()",
+        "split()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "The ________ function replaces words or letters in a string.",
+      "options": [
+        "replace()",
+        "split()",
+        "lower()",
+        "upper()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "To break a string into a list of words, you use the ________ function.",
+      "options": [
+        "split()",
+        "replace()",
+        "lower()",
+        "upper()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The ________ function allows users to enter data.",
+      "options": [
+        "input()",
+        "print()",
+        "type()",
+        "int()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "To display output on the screen, you use the ________ function.",
+      "options": [
+        "print()",
+        "input()",
+        "type()",
+        "int()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "The ________ function checks if all items in an iterable are true.",
+      "options": [
+        "all()",
+        "any()",
+        "bool()",
+        "int()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "To check if any item in an iterable is true, you use the ________ function.",
+      "options": [
+        "any()",
+        "all()",
+        "bool()",
+        "int()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "The ________ function returns a boolean value of the specified object.",
+      "options": [
+        "bool()",
+        "int()",
+        "float()",
+        "str()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "To convert a string into an integer, you use the ________ function.",
+      "options": [
+        "int()",
+        "float()",
+        "str()",
+        "bool()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "The ________ function converts a number into a decimal number.",
+      "options": [
+        "int()",
+        "float()",
+        "str()",
+        "bool()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "To convert a number into a string, you use the ________ function.",
+      "options": [
+        "int()",
+        "float()",
+        "str()",
+        "bool()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "question": "The ________ function returns the absolute value of a number.",
+      "options": [
+        "abs()",
+        "pow()",
+        "round()",
+        "max()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "To calculate the power of a number, you use the ________ function.",
+      "options": [
+        "pow()",
+        "abs()",
+        "round()",
+        "max()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "The ________ function rounds off a number to the nearest whole number or decimal place.",
+      "options": [
+        "round()",
+        "pow()",
+        "abs()",
+        "max()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "To find the largest value in a list, you use the ________ function.",
+      "options": [
+        "max()",
+        "min()",
+        "sum()",
+        "len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "The ________ function finds the smallest value in a list.",
+      "options": [
+        "min()",
+        "max()",
+        "sum()",
+        "len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "To calculate the sum of all numbers in a list, you use the ________ function.",
+      "options": [
+        "sum()",
+        "max()",
+        "min()",
+        "len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "The ________ module provides additional mathematical functions like sqrt(), ceil(), and floor().",
+      "options": [
+        "math",
+        "statistics",
+        "numpy",
+        "pandas"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "To count the number of characters in a string, you use the ________ function.",
+      "options": [
+        "len()",
+        "lower()",
+        "upper()",
+        "split()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "The ________ function converts a string to lowercase.",
+      "options": [
+        "lower()",
+        "upper()",
+        "replace()",
+        "split()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "To convert a string to uppercase, you use the ________ function.",
+      "options": [
+        "upper()",
+        "lower()",
+        "replace()",
+        "split()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "The ________ function replaces words or letters in a string.",
+      "options": [
+        "replace()",
+        "split()",
+        "lower()",
+        "upper()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "To break a string into a list of words, you use the ________ function.",
+      "options": [
+        "split()",
+        "replace()",
+        "lower()",
+        "upper()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "The ________ function allows users to enter data.",
+      "options": [
+        "input()",
+        "print()",
+        "type()",
+        "int()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "To display output on the screen, you use the ________ function.",
+      "options": [
+        "print()",
+        "input()",
+        "type()",
+        "int()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "The ________ function checks if all items in an iterable are true.",
+      "options": [
+        "all()",
+        "any()",
+        "bool()",
+        "int()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "To check if any item in an iterable is true, you use the ________ function.",
+      "options": [
+        "any()",
+        "all()",
+        "bool()",
+        "int()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "The ________ function returns a boolean value of the specified object.",
+      "options": [
+        "bool()",
+        "int()",
+        "float()",
+        "str()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "To convert a string into an integer, you use the ________ function.",
+      "options": [
+        "int()",
+        "float()",
+        "str()",
+        "bool()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "The ________ function converts a number into a decimal number.",
+      "options": [
+        "int()",
+        "float()",
+        "str()",
+        "bool()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "To convert a number into a string, you use the ________ function.",
+      "options": [
+        "int()",
+        "float()",
+        "str()",
+        "bool()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 45,
+      "question": "The ________ function returns the absolute value of a number.",
+      "options": [
+        "abs()",
+        "pow()",
+        "round()",
+        "max()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "To calculate the power of a number, you use the ________ function.",
+      "options": [
+        "pow()",
+        "abs()",
+        "round()",
+        "max()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "The ________ function rounds off a number to the nearest whole number or decimal place.",
+      "options": [
+        "round()",
+        "pow()",
+        "abs()",
+        "max()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "To find the largest value in a list, you use the ________ function.",
+      "options": [
+        "max()",
+        "min()",
+        "sum()",
+        "len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "The ________ function finds the smallest value in a list.",
+      "options": [
+        "min()",
+        "max()",
+        "sum()",
+        "len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "To calculate the sum of all numbers in a list, you use the ________ function.",
+      "options": [
+        "sum()",
+        "max()",
+        "min()",
+        "len()"
+      ],
+      "answer": 1
+    }
+]
+  

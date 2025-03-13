@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Functional areas of management include departments like ________ to ensure smooth operations.",
+      "options": [
+        "production, marketing, finance, HRM",
+        "production, marketing, finance, HRM, material management",
+        "production, marketing, finance, HRM, R&D",
+        "production, marketing, finance, HRM, office management"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Production management is responsible for the process of producing goods and services, ensuring they are manufactured ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "productively"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Marketing management focuses on promoting and selling products or services by identifying customer needs and creating strategies to ________ them.",
+      "options": [
+        "attract",
+        "retain",
+        "satisfy",
+        "engage"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Financial management involves handling money, investments, and budgeting to ensure the organization has enough funds to ________.",
+      "options": [
+        "operate",
+        "grow",
+        "expand",
+        "sustain"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Human Resource Management (HRM) is responsible for managing employees, including their hiring, training, and overall ________.",
+      "options": [
+        "well-being",
+        "performance",
+        "development",
+        "engagement"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Material management ensures that the right materials are available at the right time and place to support ________.",
+      "options": [
+        "production",
+        "operations",
+        "distribution",
+        "storage"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Research and Development (R&D) management focuses on innovation, improving products, and finding new ways to stay ahead of ________.",
+      "options": [
+        "competitors",
+        "customers",
+        "employees",
+        "suppliers"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Office management ensures that daily operations in an office run ________.",
+      "options": [
+        "smoothly",
+        "efficiently",
+        "effectively",
+        "productively"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Functional areas of management are crucial for an organization’s success because they allow each department to operate within its area of ________.",
+      "options": [
+        "expertise",
+        "specialization",
+        "responsibility",
+        "authority"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Production management involves planning the production process, managing raw materials, ensuring product quality, reducing production costs, and maintaining production ________.",
+      "options": [
+        "schedules",
+        "budgets",
+        "goals",
+        "objectives"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Marketing management involves market research to understand customer needs, advertising and promotion of products, setting prices and sales strategies, and distributing products through different ________.",
+      "options": [
+        "channels",
+        "platforms",
+        "markets",
+        "networks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Financial management involves managing income and expenses, budgeting and financial planning, controlling costs, investing in business growth, and ensuring ________.",
+      "options": [
+        "profitability",
+        "efficiency",
+        "effectiveness",
+        "productivity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Human Resource Management (HRM) involves recruiting and selecting employees, training and development programs, employee motivation and performance evaluation, salary and benefits management, and ensuring a healthy work ________.",
+      "options": [
+        "environment",
+        "culture",
+        "climate",
+        "atmosphere"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Material management ensures that the right materials are available at the right time and place to support production and ________.",
+      "options": [
+        "operations",
+        "distribution",
+        "storage",
+        "transportation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Research and Development (R&D) management focuses on innovation, improving products, and finding new ways to stay ahead of ________.",
+      "options": [
+        "competitors",
+        "customers",
+        "employees",
+        "suppliers"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Office management ensures that daily operations in an office run ________.",
+      "options": [
+        "smoothly",
+        "efficiently",
+        "effectively",
+        "productively"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Functional areas of management are crucial for an organization’s success because they allow each department to operate within its area of ________.",
+      "options": [
+        "expertise",
+        "specialization",
+        "responsibility",
+        "authority"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Production management involves planning the production process, managing raw materials, ensuring product quality, reducing production costs, and maintaining production ________.",
+      "options": [
+        "schedules",
+        "budgets",
+        "goals",
+        "objectives"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Marketing management involves market research to understand customer needs, advertising and promotion of products, setting prices and sales strategies, and distributing products through different ________.",
+      "options": [
+        "channels",
+        "platforms",
+        "markets",
+        "networks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Financial management involves managing income and expenses, budgeting and financial planning, controlling costs, investing in business growth, and ensuring ________.",
+      "options": [
+        "profitability",
+        "efficiency",
+        "effectiveness",
+        "productivity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "Human Resource Management (HRM) involves recruiting and selecting employees, training and development programs, employee motivation and performance evaluation, salary and benefits management, and ensuring a healthy work ________.",
+      "options": [
+        "environment",
+        "culture",
+        "climate",
+        "atmosphere"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Material management ensures that the right materials are available at the right time and place to support production and ________.",
+      "options": [
+        "operations",
+        "distribution",
+        "storage",
+        "transportation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "Research and Development (R&D) management focuses on innovation, improving products, and finding new ways to stay ahead of ________.",
+      "options": [
+        "competitors",
+        "customers",
+        "employees",
+        "suppliers"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "Office management ensures that daily operations in an office run ________.",
+      "options": [
+        "smoothly",
+        "efficiently",
+        "effectively",
+        "productively"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Functional areas of management are crucial for an organization’s success because they allow each department to operate within its area of ________.",
+      "options": [
+        "expertise",
+        "specialization",
+        "responsibility",
+        "authority"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Production management involves planning the production process, managing raw materials, ensuring product quality, reducing production costs, and maintaining production ________.",
+      "options": [
+        "schedules",
+        "budgets",
+        "goals",
+        "objectives"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Marketing management involves market research to understand customer needs, advertising and promotion of products, setting prices and sales strategies, and distributing products through different ________.",
+      "options": [
+        "channels",
+        "platforms",
+        "markets",
+        "networks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Financial management involves managing income and expenses, budgeting and financial planning, controlling costs, investing in business growth, and ensuring ________.",
+      "options": [
+        "profitability",
+        "efficiency",
+        "effectiveness",
+        "productivity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Human Resource Management (HRM) involves recruiting and selecting employees, training and development programs, employee motivation and performance evaluation, salary and benefits management, and ensuring a healthy work ________.",
+      "options": [
+        "environment",
+        "culture",
+        "climate",
+        "atmosphere"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "Material management ensures that the right materials are available at the right time and place to support production and ________.",
+      "options": [
+        "operations",
+        "distribution",
+        "storage",
+        "transportation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "Research and Development (R&D) management focuses on innovation, improving products, and finding new ways to stay ahead of ________.",
+      "options": [
+        "competitors",
+        "customers",
+        "employees",
+        "suppliers"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Office management ensures that daily operations in an office run ________.",
+      "options": [
+        "smoothly",
+        "efficiently",
+        "effectively",
+        "productively"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "Functional areas of management are crucial for an organization’s success because they allow each department to operate within its area of ________.",
+      "options": [
+        "expertise",
+        "specialization",
+        "responsibility",
+        "authority"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "Production management involves planning the production process, managing raw materials, ensuring product quality, reducing production costs, and maintaining production ________.",
+      "options": [
+        "schedules",
+        "budgets",
+        "goals",
+        "objectives"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "Marketing management involves market research to understand customer needs, advertising and promotion of products, setting prices and sales strategies, and distributing products through different ________.",
+      "options": [
+        "channels",
+        "platforms",
+        "markets",
+        "networks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "Financial management involves managing income and expenses, budgeting and financial planning, controlling costs, investing in business growth, and ensuring ________.",
+      "options": [
+        "profitability",
+        "efficiency",
+        "effectiveness",
+        "productivity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "Human Resource Management (HRM) involves recruiting and selecting employees, training and development programs, employee motivation and performance evaluation, salary and benefits management, and ensuring a healthy work ________.",
+      "options": [
+        "environment",
+        "culture",
+        "climate",
+        "atmosphere"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "Material management ensures that the right materials are available at the right time and place to support production and ________.",
+      "options": [
+        "operations",
+        "distribution",
+        "storage",
+        "transportation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "Research and Development (R&D) management focuses on innovation, improving products, and finding new ways to stay ahead of ________.",
+      "options": [
+        "competitors",
+        "customers",
+        "employees",
+        "suppliers"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "Office management ensures that daily operations in an office run ________.",
+      "options": [
+        "smoothly",
+        "efficiently",
+        "effectively",
+        "productively"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Functional areas of management are crucial for an organization’s success because they allow each department to operate within its area of ________.",
+      "options": [
+        "expertise",
+        "specialization",
+        "responsibility",
+        "authority"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "Production management involves planning the production process, managing raw materials, ensuring product quality, reducing production costs, and maintaining production ________.",
+      "options": [
+        "schedules",
+        "budgets",
+        "goals",
+        "objectives"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "Marketing management involves market research to understand customer needs, advertising and promotion of products, setting prices and sales strategies, and distributing products through different ________.",
+      "options": [
+        "channels",
+        "platforms",
+        "markets",
+        "networks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "Financial management involves managing income and expenses, budgeting and financial planning, controlling costs, investing in business growth, and ensuring ________.",
+      "options": [
+        "profitability",
+        "efficiency",
+        "effectiveness",
+        "productivity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Human Resource Management (HRM) involves recruiting and selecting employees, training and development programs, employee motivation and performance evaluation, salary and benefits management, and ensuring a healthy work ________.",
+      "options": [
+        "environment",
+        "culture",
+        "climate",
+        "atmosphere"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Material management ensures that the right materials are available at the right time and place to support production and ________.",
+      "options": [
+        "operations",
+        "distribution",
+        "storage",
+        "transportation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "Research and Development (R&D) management focuses on innovation, improving products, and finding new ways to stay ahead of ________.",
+      "options": [
+        "competitors",
+        "customers",
+        "employees",
+        "suppliers"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "Office management ensures that daily operations in an office run ________.",
+      "options": [
+        "smoothly",
+        "efficiently",
+        "effectively",
+        "productively"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Functional areas of management are crucial for an organization’s success because they allow each department to operate within its area of ________.",
+      "options": [
+        "expertise",
+        "specialization",
+        "responsibility",
+        "authority"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Production management involves planning the production process, managing raw materials, ensuring product quality, reducing production costs, and maintaining production ________.",
+      "options": [
+        "schedules",
+        "budgets",
+        "goals",
+        "objectives"
+      ],
+      "answer": 1
+    }
+]
+  

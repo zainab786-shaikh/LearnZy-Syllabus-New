@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary goal of matching human needs with job needs?",
+      "options": [
+        "To increase workload",
+        "To improve employee satisfaction and productivity",
+        "To reduce training costs",
+        "To decrease employee morale"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Why is job suitability important in task assignment?",
+      "options": [
+        "It reduces employee satisfaction",
+        "It increases workload",
+        "It ensures tasks are assigned based on skills and qualifications",
+        "It decreases productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What happens when employees are assigned tasks that match their skills?",
+      "options": [
+        "Productivity decreases",
+        "Job satisfaction decreases",
+        "Productivity and job satisfaction increase",
+        "Work-life balance is disrupted"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What is the role of a supervisor in ensuring employee satisfaction?",
+      "options": [
+        "To assign tasks without considering employee interests",
+        "To ensure employees feel comfortable and motivated",
+        "To reduce working hours",
+        "To eliminate training opportunities"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Why is work-life balance important for employees?",
+      "options": [
+        "It reduces productivity",
+        "It increases stress",
+        "It provides fair working hours and proper rest",
+        "It decreases job satisfaction"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "What is the benefit of offering training and development opportunities?",
+      "options": [
+        "It reduces employee skills",
+        "It decreases job satisfaction",
+        "It improves employee skills and career growth",
+        "It increases costs without benefits"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "In a software company, why would a tech-savvy employee be assigned programming tasks?",
+      "options": [
+        "Because they have poor communication skills",
+        "Because they have no interest in coding",
+        "Because it matches their skills and interests",
+        "Because it is a low-priority task"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "What happens when an employee is forced to do work they are not skilled at or interested in?",
+      "options": [
+        "Productivity increases",
+        "Job satisfaction increases",
+        "Productivity decreases and job satisfaction goes down",
+        "Work-life balance improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Why is it important to assign critical patient care to a highly experienced nurse?",
+      "options": [
+        "Because they are new to the job",
+        "Because they have limited skills",
+        "Because it matches their experience and skills",
+        "Because it is a low-priority task"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "What is the benefit of providing basic duties with proper training to a junior nurse?",
+      "options": [
+        "It reduces their skills",
+        "It decreases job satisfaction",
+        "It helps them develop skills and confidence",
+        "It increases workload without support"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "How does matching human needs with job needs impact employee morale?",
+      "options": [
+        "It decreases morale",
+        "It has no impact on morale",
+        "It increases morale by aligning tasks with skills and interests",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "What is the role of a supervisor in ensuring work-life balance?",
+      "options": [
+        "To increase working hours",
+        "To provide fair working hours and proper rest",
+        "To eliminate breaks",
+        "To reduce training opportunities"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Why is it important to consider employee interests when assigning tasks?",
+      "options": [
+        "It reduces motivation",
+        "It has no impact on motivation",
+        "It increases motivation and job satisfaction",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "What happens when employees are not provided with opportunities for training and development?",
+      "options": [
+        "Their skills improve",
+        "Their job satisfaction increases",
+        "Their skills stagnate and job satisfaction decreases",
+        "Their workload decreases"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "How does matching human needs with job needs impact organizational performance?",
+      "options": [
+        "It decreases performance",
+        "It has no impact on performance",
+        "It improves performance by increasing productivity and satisfaction",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "What is an example of matching human needs with job needs in a hospital setting?",
+      "options": [
+        "Assigning critical care to a junior nurse",
+        "Assigning basic duties to a highly experienced nurse",
+        "Assigning critical care to an experienced nurse and basic duties to a junior nurse with training",
+        "Eliminating training opportunities"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Why is it important to ensure that employees feel comfortable and motivated?",
+      "options": [
+        "It reduces productivity",
+        "It has no impact on productivity",
+        "It increases productivity and job satisfaction",
+        "It only affects work-life balance"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "What happens when employees are assigned tasks that do not match their skills or interests?",
+      "options": [
+        "Productivity increases",
+        "Job satisfaction increases",
+        "Productivity decreases and job satisfaction goes down",
+        "Work-life balance improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "How does providing fair working hours impact employee well-being?",
+      "options": [
+        "It reduces well-being",
+        "It has no impact on well-being",
+        "It improves well-being by reducing stress",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "What is the benefit of offering learning opportunities to employees?",
+      "options": [
+        "It reduces their skills",
+        "It decreases job satisfaction",
+        "It improves skills and career growth",
+        "It increases costs without benefits"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "Why is it important for a supervisor to consider employee personal needs?",
+      "options": [
+        "It reduces employee satisfaction",
+        "It has no impact on satisfaction",
+        "It increases employee satisfaction and motivation",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "What happens when employees are not provided with proper rest?",
+      "options": [
+        "Productivity increases",
+        "Job satisfaction increases",
+        "Productivity decreases and job satisfaction goes down",
+        "Work-life balance improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 23,
+      "question": "How does matching human needs with job needs impact employee retention?",
+      "options": [
+        "It decreases retention",
+        "It has no impact on retention",
+        "It increases retention by improving job satisfaction",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 24,
+      "question": "What is the role of training and development in employee growth?",
+      "options": [
+        "It reduces employee skills",
+        "It has no impact on skills",
+        "It improves employee skills and career opportunities",
+        "It only affects job satisfaction"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "question": "Why is it important to assign tasks based on employee qualifications?",
+      "options": [
+        "It reduces productivity",
+        "It has no impact on productivity",
+        "It increases productivity by ensuring tasks are handled competently",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 26,
+      "question": "What happens when a tech-savvy employee is assigned non-technical tasks?",
+      "options": [
+        "Productivity increases",
+        "Job satisfaction increases",
+        "Productivity decreases and job satisfaction goes down",
+        "Work-life balance improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 27,
+      "question": "How does ensuring work-life balance impact employee health?",
+      "options": [
+        "It reduces health",
+        "It has no impact on health",
+        "It improves health by reducing stress",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 28,
+      "question": "What is the benefit of providing opportunities for employee growth and development?",
+      "options": [
+        "It reduces employee motivation",
+        "It has no impact on motivation",
+        "It increases employee motivation and job satisfaction",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 29,
+      "question": "Why is it important to match employee skills with job requirements?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It increases efficiency by ensuring tasks are handled competently",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question": "What happens when employees are not given opportunities to develop their skills?",
+      "options": [
+        "Their skills improve",
+        "Their job satisfaction increases",
+        "Their skills stagnate and job satisfaction decreases",
+        "Their workload decreases"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 31,
+      "question": "How does matching human needs with job needs impact organizational culture?",
+      "options": [
+        "It decreases positive culture",
+        "It has no impact on culture",
+        "It improves culture by increasing employee satisfaction",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 32,
+      "question": "What is an example of matching human needs with job needs in a software company?",
+      "options": [
+        "Assigning programming tasks to someone with poor coding skills",
+        "Assigning customer support duties to someone with poor communication skills",
+        "Assigning programming tasks to a tech-savvy employee and customer support duties to someone with good communication skills",
+        "Eliminating training opportunities"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 33,
+      "question": "Why is it important for a supervisor to ensure that employees have opportunities for growth?",
+      "options": [
+        "It reduces employee motivation",
+        "It has no impact on motivation",
+        "It increases employee motivation and job satisfaction",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 34,
+      "question": "What happens when employees are not provided with fair working hours?",
+      "options": [
+        "Productivity increases",
+        "Job satisfaction increases",
+        "Productivity decreases and job satisfaction goes down",
+        "Work-life balance improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 35,
+      "question": "How does matching human needs with job needs impact employee engagement?",
+      "options": [
+        "It decreases engagement",
+        "It has no impact on engagement",
+        "It increases engagement by aligning tasks with skills and interests",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "What is the role of a supervisor in ensuring employee skills are utilized effectively?",
+      "options": [
+        "To assign tasks without considering employee skills",
+        "To ensure tasks are assigned based on employee skills and qualifications",
+        "To reduce training opportunities",
+        "To eliminate breaks"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "Why is it important to provide proper rest to employees?",
+      "options": [
+        "It reduces productivity",
+        "It has no impact on productivity",
+        "It improves productivity by reducing fatigue",
+        "It only affects job satisfaction"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 38,
+      "question": "What happens when employees are not motivated due to poor task assignment?",
+      "options": [
+        "Productivity increases",
+        "Job satisfaction increases",
+        "Productivity decreases and job satisfaction goes down",
+        "Work-life balance improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 39,
+      "question": "How does matching human needs with job needs impact organizational reputation?",
+      "options": [
+        "It decreases reputation",
+        "It has no impact on reputation",
+        "It improves reputation by increasing employee satisfaction and productivity",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 40,
+      "question": "What is the benefit of ensuring that employees have a good work-life balance?",
+      "options": [
+        "It reduces productivity",
+        "It has no impact on productivity",
+        "It improves productivity and job satisfaction by reducing stress",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 41,
+      "question": "Why is it important to consider employee interests when making job assignments?",
+      "options": [
+        "It reduces motivation",
+        "It has no impact on motivation",
+        "It increases motivation and job satisfaction",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 42,
+      "question": "What happens when employees are not given opportunities to learn new skills?",
+      "options": [
+        "Their skills improve",
+        "Their job satisfaction increases",
+        "Their skills stagnate and job satisfaction decreases",
+        "Their workload decreases"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 43,
+      "question": "How does matching human needs with job needs impact employee loyalty?",
+      "options": [
+        "It decreases loyalty",
+        "It has no impact on loyalty",
+        "It increases loyalty by improving job satisfaction",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 44,
+      "question": "What is the role of a supervisor in ensuring that employees are satisfied with their job assignments?",
+      "options": [
+        "To assign tasks without considering employee satisfaction",
+        "To ensure employees feel comfortable and motivated with their tasks",
+        "To reduce training opportunities",
+        "To eliminate breaks"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "Why is it important to provide opportunities for employee development?",
+      "options": [
+        "It reduces employee skills",
+        "It has no impact on skills",
+        "It improves employee skills and career growth",
+        "It only affects job satisfaction"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 46,
+      "question": "What happens when employees are assigned tasks that align with their skills and interests?",
+      "options": [
+        "Productivity decreases",
+        "Job satisfaction decreases",
+        "Productivity and job satisfaction increase",
+        "Work-life balance is disrupted"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 47,
+      "question": "How does ensuring that employees have opportunities for growth impact organizational success?",
+      "options": [
+        "It decreases success",
+        "It has no impact on success",
+        "It improves success by increasing employee motivation and skills",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 48,
+      "question": "What is the benefit of providing fair working conditions to employees?",
+      "options": [
+        "It reduces productivity",
+        "It has no impact on productivity",
+        "It improves productivity and job satisfaction by reducing stress",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 49,
+      "question": "Why is it important for a supervisor to consider employee well-being when assigning tasks?",
+      "options": [
+        "It reduces employee satisfaction",
+        "It has no impact on satisfaction",
+        "It increases employee satisfaction and motivation",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 50,
+      "question": "What is the impact of matching human needs with job needs on overall organizational performance?",
+      "options": [
+        "It decreases performance",
+        "It has no impact on performance",
+        "It improves performance by increasing productivity and satisfaction",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    }
+]
+  

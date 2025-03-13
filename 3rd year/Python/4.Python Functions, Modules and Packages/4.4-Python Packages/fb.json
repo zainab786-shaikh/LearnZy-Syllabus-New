@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "A Python package is a collection of related ________ bundled together.",
+      "options": [
+        "modules",
+        "functions",
+        "classes",
+        "variables"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Packages help organize code by structuring large programs into smaller, ________ components.",
+      "options": [
+        "reusable",
+        "repetitive",
+        "complex",
+        "inefficient"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "To create a package, you need to create a new ________ that will serve as your package name.",
+      "options": [
+        "folder",
+        "file",
+        "module",
+        "directory"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Inside a package folder, you create Python files (modules) and an empty file named ________.",
+      "options": [
+        "__init__.py",
+        "__main__.py",
+        "package.py",
+        "module.py"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "The ________ file tells Python that the directory is a package.",
+      "options": [
+        "__init__.py",
+        "__main__.py",
+        "package.py",
+        "module.py"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "To import a module from a package, you use the format ________.",
+      "options": [
+        "package_name.module_name",
+        "module_name.package_name",
+        "package_name()",
+        "module_name()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Python provides many built-in packages like ________ for mathematical operations.",
+      "options": [
+        "math",
+        "numpy",
+        "pandas",
+        "matplotlib"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "The ________ package is used for advanced scientific computations.",
+      "options": [
+        "scipy",
+        "numpy",
+        "pandas",
+        "matplotlib"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The ________ package helps in handling large datasets and performing mathematical operations efficiently.",
+      "options": [
+        "numpy",
+        "pandas",
+        "matplotlib",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "The ________ package is used for creating graphs and charts.",
+      "options": [
+        "matplotlib",
+        "pandas",
+        "numpy",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "The ________ package is used to work with large datasets in table format.",
+      "options": [
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "To create a user-defined package, you start by creating a new ________.",
+      "options": [
+        "folder",
+        "file",
+        "module",
+        "directory"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Inside a package folder, you create Python files (modules) and an empty file named ________.",
+      "options": [
+        "__init__.py",
+        "__main__.py",
+        "package.py",
+        "module.py"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "The ________ file tells Python that the directory is a package.",
+      "options": [
+        "__init__.py",
+        "__main__.py",
+        "package.py",
+        "module.py"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "To import a module from a package, you use the format ________.",
+      "options": [
+        "package_name.module_name",
+        "module_name.package_name",
+        "package_name()",
+        "module_name()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Python provides many built-in packages like ________ for mathematical operations.",
+      "options": [
+        "math",
+        "numpy",
+        "pandas",
+        "matplotlib"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The ________ package is used for advanced scientific computations.",
+      "options": [
+        "scipy",
+        "numpy",
+        "pandas",
+        "matplotlib"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "The ________ package helps in handling large datasets and performing mathematical operations efficiently.",
+      "options": [
+        "numpy",
+        "pandas",
+        "matplotlib",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "The ________ package is used for creating graphs and charts.",
+      "options": [
+        "matplotlib",
+        "pandas",
+        "numpy",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "The ________ package is used to work with large datasets in table format.",
+      "options": [
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "Packages help organize code by structuring large programs into smaller, ________ components.",
+      "options": [
+        "reusable",
+        "repetitive",
+        "complex",
+        "inefficient"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "To create a package, you need to create a new ________ that will serve as your package name.",
+      "options": [
+        "folder",
+        "file",
+        "module",
+        "directory"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "Inside a package folder, you create Python files (modules) and an empty file named ________.",
+      "options": [
+        "__init__.py",
+        "__main__.py",
+        "package.py",
+        "module.py"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "The ________ file tells Python that the directory is a package.",
+      "options": [
+        "__init__.py",
+        "__main__.py",
+        "package.py",
+        "module.py"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "To import a module from a package, you use the format ________.",
+      "options": [
+        "package_name.module_name",
+        "module_name.package_name",
+        "package_name()",
+        "module_name()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Python provides many built-in packages like ________ for mathematical operations.",
+      "options": [
+        "math",
+        "numpy",
+        "pandas",
+        "matplotlib"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "The ________ package is used for advanced scientific computations.",
+      "options": [
+        "scipy",
+        "numpy",
+        "pandas",
+        "matplotlib"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "The ________ package helps in handling large datasets and performing mathematical operations efficiently.",
+      "options": [
+        "numpy",
+        "pandas",
+        "matplotlib",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "The ________ package is used for creating graphs and charts.",
+      "options": [
+        "matplotlib",
+        "pandas",
+        "numpy",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "The ________ package is used to work with large datasets in table format.",
+      "options": [
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "To create a user-defined package, you start by creating a new ________.",
+      "options": [
+        "folder",
+        "file",
+        "module",
+        "directory"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Inside a package folder, you create Python files (modules) and an empty file named ________.",
+      "options": [
+        "__init__.py",
+        "__main__.py",
+        "package.py",
+        "module.py"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "The ________ file tells Python that the directory is a package.",
+      "options": [
+        "__init__.py",
+        "__main__.py",
+        "package.py",
+        "module.py"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "To import a module from a package, you use the format ________.",
+      "options": [
+        "package_name.module_name",
+        "module_name.package_name",
+        "package_name()",
+        "module_name()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "Python provides many built-in packages like ________ for mathematical operations.",
+      "options": [
+        "math",
+        "numpy",
+        "pandas",
+        "matplotlib"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "The ________ package is used for advanced scientific computations.",
+      "options": [
+        "scipy",
+        "numpy",
+        "pandas",
+        "matplotlib"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "The ________ package helps in handling large datasets and performing mathematical operations efficiently.",
+      "options": [
+        "numpy",
+        "pandas",
+        "matplotlib",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "The ________ package is used for creating graphs and charts.",
+      "options": [
+        "matplotlib",
+        "pandas",
+        "numpy",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "The ________ package is used to work with large datasets in table format.",
+      "options": [
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "Packages help organize code by structuring large programs into smaller, ________ components.",
+      "options": [
+        "reusable",
+        "repetitive",
+        "complex",
+        "inefficient"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "To create a package, you need to create a new ________ that will serve as your package name.",
+      "options": [
+        "folder",
+        "file",
+        "module",
+        "directory"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "Inside a package folder, you create Python files (modules) and an empty file named ________.",
+      "options": [
+        "__init__.py",
+        "__main__.py",
+        "package.py",
+        "module.py"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "The ________ file tells Python that the directory is a package.",
+      "options": [
+        "__init__.py",
+        "__main__.py",
+        "package.py",
+        "module.py"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "To import a module from a package, you use the format ________.",
+      "options": [
+        "package_name.module_name",
+        "module_name.package_name",
+        "package_name()",
+        "module_name()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Python provides many built-in packages like ________ for mathematical operations.",
+      "options": [
+        "math",
+        "numpy",
+        "pandas",
+        "matplotlib"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "The ________ package is used for advanced scientific computations.",
+      "options": [
+        "scipy",
+        "numpy",
+        "pandas",
+        "matplotlib"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "The ________ package helps in handling large datasets and performing mathematical operations efficiently.",
+      "options": [
+        "numpy",
+        "pandas",
+        "matplotlib",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "The ________ package is used for creating graphs and charts.",
+      "options": [
+        "matplotlib",
+        "pandas",
+        "numpy",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "The ________ package is used to work with large datasets in table format.",
+      "options": [
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "scipy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Packages help organize code by structuring large programs into smaller, ________ components.",
+      "options": [
+        "reusable",
+        "repetitive",
+        "complex",
+        "inefficient"
+      ],
+      "answer": 1
+    }
+]
+  

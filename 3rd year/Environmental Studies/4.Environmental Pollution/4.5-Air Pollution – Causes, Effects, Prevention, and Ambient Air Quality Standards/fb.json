@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "Air pollution occurs when harmful substances such as gases, dust, smoke, or _______ are released into the air.",
+      "options": ["chemicals", "water vapors", "oxygen", "carbon"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "One of the natural sources of air pollution is _______ eruptions, which release ash and gases into the air.",
+      "options": ["chemical", "volcanic", "industrial", "forest"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Deforestation contributes to air pollution by increasing the level of _______ in the atmosphere.",
+      "options": ["oxygen", "carbon dioxide", "hydrogen", "nitrogen"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Vehicles and industries emit _______ gases like sulfur dioxide and nitrogen oxides.",
+      "options": ["harmless", "toxic", "inert", "neutral"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "The burning of fossil fuels releases _______ into the air, contributing to air pollution.",
+      "options": ["carbon dioxide", "helium", "neon", "argon"],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Particulate Matter (PM2.5 and PM10) primarily comes from _______ and industrial activities.",
+      "options": ["rainfall", "volcanic eruptions", "vehicle exhaust", "photosynthesis"],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Smog is caused by a combination of pollutants, mainly from vehicle emissions and _______.",
+      "options": ["factories", "forests", "ocean waves", "clouds"],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Exposure to polluted air increases the risk of _______ diseases like asthma and bronchitis.",
+      "options": ["respiratory", "digestive", "nervous", "circulatory"],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The depletion of the _______ layer is caused by chemicals like chlorofluorocarbons (CFCs).",
+      "options": ["oxygen", "ozone", "carbon", "methane"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Acid rain is formed when pollutants like sulfur dioxide and nitrogen oxides mix with _______.",
+      "options": ["oxygen", "rainwater", "sunlight", "carbon dioxide"],
+      "answer": 2
+    }
+]
+  

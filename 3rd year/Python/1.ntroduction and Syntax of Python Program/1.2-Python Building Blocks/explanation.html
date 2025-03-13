@@ -1,0 +1,175 @@
+<div>
+  <h2>1.2 Python Building Blocks</h2>
+  <p>
+    When writing Python programs, we need to follow some rules and use certain
+    elements correctly. These fundamental elements are called building blocks of
+    Python. They include Identifiers, Keywords, Indentation, Variables, and
+    Comments.
+  </p>
+
+  <h3>1. Identifiers</h3>
+  <p>
+    <strong>Definition:</strong> An identifier is the name given to variables,
+    functions, classes, and other objects in Python. It helps the program
+    recognize and use them.
+  </p>
+  <p><strong>Rules for Identifiers:</strong></p>
+  <ul>
+    <li>
+      ✅ Can contain letters (A-Z, a-z), digits (0-9), and underscore (_).
+    </li>
+    <li>✅ Must not start with a digit (e.g., 1name is invalid).</li>
+    <li>
+      ✅ Cannot use Python keywords as identifiers (e.g., def, class, if).
+    </li>
+    <li>✅ Case-sensitive (e.g., Name and name are different).</li>
+  </ul>
+  <p><strong>Examples of Valid Identifiers:</strong></p>
+  <pre>
+      name = "Alice"       # Valid
+      age_25 = 25          # Valid
+      _employeeID = 101    # Valid
+    </pre
+  >
+  <p><strong>Examples of Invalid Identifiers:</strong></p>
+  <pre>
+      1name = "Bob"        # Invalid (cannot start with a digit)
+      class = "Student"    # Invalid (class is a keyword)
+      my-name = "John"     # Invalid (hyphens are not allowed)
+    </pre
+  >
+
+  <h3>2. Keywords</h3>
+  <p>
+    <strong>Definition:</strong> Keywords are special reserved words in Python
+    that have predefined meanings and cannot be used as variable names.
+  </p>
+  <table border="1">
+    <tr>
+      <th>Keyword</th>
+      <th>Use in Python</th>
+    </tr>
+    <tr>
+      <td>if</td>
+      <td>Conditional statement</td>
+    </tr>
+    <tr>
+      <td>else</td>
+      <td>Alternative condition</td>
+    </tr>
+    <tr>
+      <td>for</td>
+      <td>Loop</td>
+    </tr>
+    <tr>
+      <td>while</td>
+      <td>Loop</td>
+    </tr>
+    <tr>
+      <td>def</td>
+      <td>Define a function</td>
+    </tr>
+    <tr>
+      <td>return</td>
+      <td>Return a value from a function</td>
+    </tr>
+    <tr>
+      <td>import</td>
+      <td>Import a module</td>
+    </tr>
+    <tr>
+      <td>class</td>
+      <td>Define a class</td>
+    </tr>
+  </table>
+  <p><strong>Example of Keywords in Use:</strong></p>
+  <pre>
+      if True:
+          print("This is a keyword example")
+    </pre
+  >
+
+  <h3>3. Indentation</h3>
+  <p>
+    <strong>Definition:</strong> Indentation in Python refers to the spaces or
+    tabs at the beginning of a line to define code blocks. Python uses
+    indentation instead of {} (like in C or Java) to group statements.
+  </p>
+  <ul>
+    <li>✅ Python requires indentation (unlike other languages).</li>
+    <li>✅ Typically, 4 spaces per indentation level is recommended.</li>
+    <li>✅ Incorrect indentation causes errors.</li>
+  </ul>
+  <p><strong>Example of Proper Indentation:</strong></p>
+  <pre>
+      if True:
+          print("Indented correctly")
+          print("Still inside the if-block")
+      print("Outside the if-block")
+    </pre
+  >
+  <p><strong>Example of Incorrect Indentation (Error):</strong></p>
+  <pre>
+      if True:
+      print("This will cause an error")  # Incorrect indentation
+    </pre
+  >
+  <p>
+    <strong>🔴 Output:</strong> IndentationError: expected an indented block
+  </p>
+
+  <h3>4. Variables</h3>
+  <p>
+    <strong>Definition:</strong> A variable is a name that stores data (like
+    numbers, text, lists, etc.). Variables allow us to use and manipulate data
+    in a program.
+  </p>
+  <p><strong>Rules for Variables:</strong></p>
+  <ul>
+    <li>✅ Can contain letters, numbers, and underscores (_).</li>
+    <li>✅ Must start with a letter or underscore, not a number.</li>
+    <li>✅ No special characters (@, $, %) allowed.</li>
+    <li>✅ Python automatically detects the type of data stored.</li>
+  </ul>
+  <p><strong>Example:</strong></p>
+  <pre>
+      x = 10        # Integer variable
+      name = "Tom"  # String variable
+      price = 99.99 # Float variable
+    </pre
+  >
+  <p><strong>Dynamic Typing in Python:</strong></p>
+  <pre>
+      x = 5       # Integer
+      x = "Hello" # Now it's a string
+      print(x)    # Output: Hello
+    </pre
+  >
+
+  <h3>5. Comments</h3>
+  <p>
+    <strong>Definition:</strong> Comments are used to add explanations to the
+    code, making it easier to understand. Python ignores comments when executing
+    the program.
+  </p>
+  <p><strong>Types of Comments in Python:</strong></p>
+  <ul>
+    <li>1️⃣ Single-line comment: Starts with #</li>
+    <li>2️⃣ Multi-line comment: Uses triple quotes (""" """ or ''' ''')</li>
+  </ul>
+  <p><strong>Example of a Single-line Comment:</strong></p>
+  <pre>
+      # This is a comment
+      print("Hello, World!")  # This prints a message
+    </pre
+  >
+  <p><strong>Example of a Multi-line Comment:</strong></p>
+  <pre>
+      """
+      This is a multi-line comment.
+      Python will ignore everything inside these triple quotes.
+      """
+      print("Python is fun!")
+    </pre
+  >
+</div>

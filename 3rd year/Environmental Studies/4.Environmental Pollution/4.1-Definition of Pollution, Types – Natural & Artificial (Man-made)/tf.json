@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that pollution is the introduction of harmful substances into the environment.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that pollution only affects humans and not animals or plants.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that pollutants can come from both natural events and human activities.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that pollution does not affect water sources like rivers and lakes.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that pollution can be categorized as natural and artificial (man-made).",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that only artificial pollution is harmful to the environment.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that volcanic eruptions are a source of natural pollution.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that wildfires do not contribute to air pollution.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that dust storms can cause air pollution by carrying large amounts of dust.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that pollen from plants does not cause any kind of pollution.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that landslides and soil erosion can reduce water quality.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is false that natural pollution is caused by human activities.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that artificial pollution is caused by human activities like industries and vehicles.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is false that air pollution from factories and vehicles does not harm human health.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that water pollution is caused by dumping waste, chemicals, and plastic into water bodies.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is false that land pollution is only caused by deforestation and not by waste disposal.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that noise pollution is caused by traffic, machines, and loudspeakers.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is false that excessive artificial lights do not contribute to pollution.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that artificial pollution can be controlled by adopting eco-friendly habits.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is false that pollution only affects humans and not animals or ecosystems.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that volcanic eruptions release gases like sulfur dioxide, which can pollute the air.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is false that landslides have no impact on water quality.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that reducing plastic use can help reduce pollution.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is false that deforestation does not contribute to pollution.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that planting trees can help improve air quality.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is false that noise pollution has no impact on human health.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that industries and vehicles are major contributors to artificial pollution.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is false that water pollution only affects marine animals and not humans.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that light pollution affects sleep cycles of both humans and animals.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is false that air pollution is only caused by human activities.",
+      "answer": false
+    }
+]
+  

@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Why is public awareness about the environment important?",
+      "options": [
+        "To increase pollution",
+        "To promote waste generation",
+        "To ensure a clean and healthy future",
+        "To ignore environmental issues"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an example of environmental awareness campaigns?",
+      "options": [
+        "Earth Hour",
+        "Plastic Waste Promotion",
+        "Deforestation Drive",
+        "Increasing Air Pollution"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "What is the main goal of environmental public awareness?",
+      "options": [
+        "To encourage deforestation",
+        "To conserve natural resources",
+        "To promote single-use plastics",
+        "To increase carbon emissions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT a benefit of public awareness about the environment?",
+      "options": [
+        "Prevents pollution",
+        "Encourages conservation",
+        "Promotes wasteful living",
+        "Protects wildlife"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Which day is celebrated as World Environment Day?",
+      "options": [
+        "June 5",
+        "April 22",
+        "March 8",
+        "December 25"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which government campaign in India promotes cleanliness and waste management?",
+      "options": [
+        "Green Planet Movement",
+        "Save the Earth Campaign",
+        "Swachh Bharat Abhiyan",
+        "Pollution Awareness Initiative"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "What does the term 'Sustainable Living' refer to?",
+      "options": [
+        "Using resources responsibly to reduce environmental impact",
+        "Wasting resources as much as possible",
+        "Using only non-renewable energy sources",
+        "Ignoring environmental concerns"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which of these actions helps in public awareness about the environment?",
+      "options": [
+        "Teaching about pollution control in schools",
+        "Encouraging deforestation",
+        "Increasing plastic waste",
+        "Ignoring environmental laws"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Which of the following organizations promotes awareness about climate change?",
+      "options": [
+        "Fridays for Future",
+        "Plastic Pollution Support Group",
+        "Deforestation Council",
+        "Smoke & Emissions Committee"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What is the purpose of banning single-use plastics?",
+      "options": [
+        "To increase plastic production",
+        "To reduce plastic pollution",
+        "To promote waste accumulation",
+        "To encourage landfill expansion"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "What is an effective way to spread environmental awareness?",
+      "options": [
+        "Avoiding discussions on climate change",
+        "Posting environmental news on social media",
+        "Ignoring environmental laws",
+        "Burning waste in open areas"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which of these is an example of corporate environmental responsibility?",
+      "options": [
+        "Using renewable energy sources",
+        "Dumping toxic waste into rivers",
+        "Cutting down forests for profit",
+        "Increasing industrial pollution"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "How can individuals contribute to environmental protection?",
+      "options": [
+        "Recycling waste materials",
+        "Using plastic bags",
+        "Wasting water and electricity",
+        "Burning fossil fuels excessively"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which type of transport helps reduce air pollution?",
+      "options": [
+        "Public bike-sharing programs",
+        "Using petrol-powered vehicles",
+        "Increasing diesel trucks",
+        "Encouraging long flights"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Why is rainwater harvesting promoted?",
+      "options": [
+        "To increase water wastage",
+        "To reduce water scarcity",
+        "To contaminate groundwater",
+        "To ignore water conservation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is NOT a way to spread environmental awareness?",
+      "options": [
+        "Tree plantation drives",
+        "Beach cleanups",
+        "Pollution control campaigns",
+        "Encouraging littering"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 17,
+      "question": "What role do documentaries play in environmental awareness?",
+      "options": [
+        "They provide education about environmental issues",
+        "They promote deforestation",
+        "They encourage the use of plastic waste",
+        "They discourage climate action"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is an environmental awareness program?",
+      "options": [
+        "Clean Air Act",
+        "Toxic Emissions Promotion",
+        "Global Deforestation Campaign",
+        "Plastic Waste Encouragement Initiative"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "What is a common theme in environmental campaigns?",
+      "options": [
+        "Protecting biodiversity",
+        "Encouraging pollution",
+        "Destroying forests",
+        "Increasing carbon emissions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What is one benefit of afforestation programs?",
+      "options": [
+        "Increases deforestation",
+        "Enhances air quality",
+        "Increases soil erosion",
+        "Encourages waste production"
+      ],
+      "answer": 2
+    }
+]
+  

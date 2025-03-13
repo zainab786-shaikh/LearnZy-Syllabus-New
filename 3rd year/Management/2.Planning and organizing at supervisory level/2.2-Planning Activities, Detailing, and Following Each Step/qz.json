@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary role of planning in management?",
+      "options": [
+        "To only manage resources",
+        "To organize tasks efficiently",
+        "To control performance",
+        "To only set long-term goals"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What is the benefit of gathering requirements in planning?",
+      "options": [
+        "It only involves budgeting",
+        "It does nothing",
+        "It reduces efficiency",
+        "It helps in determining what resources are needed"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "Can management improve organizational efficiency?",
+      "options": [
+        "Only with technology",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "What is the role of a manager in leading employees?",
+      "options": [
+        "To only manage resources",
+        "To only set goals",
+        "To only control performance",
+        "To guide and motivate employees"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 5,
+      "question": "Can management improve customer satisfaction?",
+      "options": [
+        "Only with marketing",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 6,
+      "question": "What is the effect of management on organizational stability?",
+      "options": [
+        "It only affects financials",
+        "It reduces stability and growth",
+        "It does nothing",
+        "It ensures stability and growth"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "Can management enhance teamwork and collaboration?",
+      "options": [
+        "Only with technology",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 8,
+      "question": "What is the benefit of management in achieving long-term sustainability?",
+      "options": [
+        "It only involves financial planning",
+        "It reduces long-term success and sustainability",
+        "It does nothing",
+        "It ensures long-term success and sustainability"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 9,
+      "question": "Can management enhance organizational culture?",
+      "options": [
+        "Only with HR policies",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 10,
+      "question": "What is the role of a liaison in management?",
+      "options": [
+        "To only manage resources",
+        "To only set goals",
+        "To only control performance",
+        "To build relationships with people inside and outside the company"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 11,
+      "question": "Can management improve organizational growth?",
+      "options": [
+        "Only with marketing strategies",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 12,
+      "question": "What is the benefit of management in decision-making?",
+      "options": [
+        "It only involves budgeting",
+        "It does nothing",
+        "It only involves planning",
+        "It helps in analyzing situations and making informed decisions"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 13,
+      "question": "Can management enhance employee engagement?",
+      "options": [
+        "Only with HR policies",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 14,
+      "question": "What is the role of a resource allocator in ensuring resource efficiency?",
+      "options": [
+        "To only manage financials",
+        "To only set goals",
+        "To only control performance",
+        "To decide how to distribute resources efficiently"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 15,
+      "question": "Can management improve customer retention strategies?",
+      "options": [
+        "Only with marketing",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 16,
+      "question": "What is the effect of management on organizational stability and stability?",
+      "options": [
+        "It only affects financials",
+        "It reduces stability and growth",
+        "It does nothing",
+        "It ensures stability and growth"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 17,
+      "question": "Can management enhance teamwork and collaboration among employees?",
+      "options": [
+        "Only with technology",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 18,
+      "question": "What is the benefit of management in achieving long-term sustainability?",
+      "options": [
+        "It only involves financial planning",
+        "It reduces long-term success and sustainability",
+        "It does nothing",
+        "It ensures long-term success and sustainability"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 19,
+      "question": "Can management enhance organizational culture?",
+      "options": [
+        "Only with HR policies",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 20,
+      "question": "What is the role of a liaison in management?",
+      "options": [
+        "To only manage resources",
+        "To only set goals",
+        "To only control performance",
+        "To build relationships with people inside and outside the company"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 21,
+      "question": "Can management improve organizational growth?",
+      "options": [
+        "Only with marketing strategies",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 22,
+      "question": "What is the benefit of management in decision-making?",
+      "options": [
+        "It only involves budgeting",
+        "It does nothing",
+        "It only involves planning",
+        "It helps in analyzing situations and making informed decisions"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 23,
+      "question": "Can management enhance employee development and training?",
+      "options": [
+        "Only with HR policies",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 24,
+      "question": "What is the role of a resource allocator in ensuring resource efficiency?",
+      "options": [
+        "To only manage financials",
+        "To only set goals",
+        "To only control performance",
+        "To decide how to distribute resources efficiently"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 25,
+      "question": "Can management improve customer retention strategies?",
+      "options": [
+        "Only with marketing",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 26,
+      "question": "What is the effect of management on organizational stability and stability?",
+      "options": [
+        "It only affects financials",
+        "It reduces stability and growth",
+        "It does nothing",
+        "It ensures stability and growth"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 27,
+      "question": "Can management enhance teamwork and collaboration among employees?",
+      "options": [
+        "Only with technology",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 28,
+      "question": "What is the benefit of management in achieving long-term sustainability?",
+      "options": [
+        "It only involves financial planning",
+        "It reduces long-term success and sustainability",
+        "It does nothing",
+        "It ensures long-term success and sustainability"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 29,
+      "question": "Can management enhance organizational culture?",
+      "options": [
+        "Only with HR policies",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 30,
+      "question": "What is the role of a liaison in management?",
+      "options": [
+        "To only manage resources",
+        "To only set goals",
+        "To only control performance",
+        "To build relationships with people inside and outside the company"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 31,
+      "question": "Can management improve organizational growth?",
+      "options": [
+        "Only with marketing strategies",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 32,
+      "question": "What is the benefit of management in decision-making?",
+      "options": [
+        "It only involves budgeting",
+        "It does nothing",
+        "It only involves planning",
+        "It helps in analyzing situations and making informed decisions"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 33,
+      "question": "Can management enhance employee engagement?",
+      "options": [
+        "Only with HR policies",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 34,
+      "question": "What is the role of a resource allocator in ensuring resource efficiency?",
+      "options": [
+        "To only manage financials",
+        "To only set goals",
+        "To only control performance",
+        "To decide how to distribute resources efficiently"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 35,
+      "question": "Can management improve customer retention strategies?",
+      "options": [
+        "Only with marketing",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 36,
+      "question": "What is the effect of management on organizational stability and stability?",
+      "options": [
+        "It only affects financials",
+        "It reduces stability and growth",
+        "It does nothing",
+        "It ensures stability and growth"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 37,
+      "question": "Can management enhance teamwork and collaboration among employees?",
+      "options": [
+        "Only with technology",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 38,
+      "question": "What is the benefit of management in achieving long-term sustainability?",
+      "options": [
+        "It only involves financial planning",
+        "It reduces long-term success and sustainability",
+        "It does nothing",
+        "It ensures long-term success and sustainability"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 39,
+      "question": "Can management enhance organizational culture?",
+      "options": [
+        "Only with HR policies",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 40,
+      "question": "What is the role of a liaison in management?",
+      "options": [
+        "To only manage resources",
+        "To only set goals",
+        "To only control performance",
+        "To build relationships with people inside and outside the company"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 41,
+      "question": "Can management improve organizational growth?",
+      "options": [
+        "Only with marketing strategies",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 42,
+      "question": "What is the benefit of management in decision-making?",
+      "options": [
+        "It only involves budgeting",
+        "It does nothing",
+        "It only involves planning",
+        "It helps in analyzing situations and making informed decisions"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 43,
+      "question": "Can management enhance employee development and training?",
+      "options": [
+        "Only with HR policies",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 44,
+      "question": "What is the role of a resource allocator in ensuring resource efficiency?",
+      "options": [
+        "To only manage financials",
+        "To only set goals",
+        "To only control performance",
+        "To decide how to distribute resources efficiently"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 45,
+      "question": "Can management improve customer retention strategies?",
+      "options": [
+        "Only with marketing",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 46,
+      "question": "What is the effect of management on organizational stability and stability?",
+      "options": [
+        "It only affects financials",
+        "It reduces stability and growth",
+        "It does nothing",
+        "It ensures stability and growth"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 47,
+      "question": "Can management enhance teamwork and collaboration among employees?",
+      "options": [
+        "Only with technology",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 48,
+      "question": "What is the benefit of management in achieving long-term sustainability?",
+      "options": [
+        "It only involves financial planning",
+        "It reduces long-term success and sustainability",
+        "It does nothing",
+        "It ensures long-term success and sustainability"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 49,
+      "question": "Can management enhance organizational culture?",
+      "options": [
+        "Only with HR policies",
+        "No",
+        "Only with specific methods",
+        "Yes"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 50,
+      "question": "What is the role of a liaison in management?",
+      "options": [
+        "To only manage resources",
+        "To only set goals",
+        "To only control performance",
+        "To build relationships with people inside and outside the company"
+      ],
+      "answer": 4
+    }
+]
+  

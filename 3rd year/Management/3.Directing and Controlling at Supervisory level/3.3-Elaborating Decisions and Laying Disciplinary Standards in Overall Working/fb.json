@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "A supervisor must explain the reasons behind their decisions so that employees understand their importance and follow them ________.",
+      "options": [
+        "reluctantly",
+        "willingly",
+        "passively",
+        "aggressively"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Laying disciplinary standards in the workplace ensures that employees ________ to work on time.",
+      "options": [
+        "do not have to",
+        "must",
+        "can choose to",
+        "are not required to"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Misconduct in the workplace includes behaviors like ________ or dishonesty.",
+      "options": [
+        "honesty",
+        "stealing",
+        "integrity",
+        "professionalism"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "In a call center, if an employee speaks rudely to a customer, the supervisor must ________ the company’s customer service rules.",
+      "options": [
+        "ignore",
+        "explain",
+        "change",
+        "dismiss"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Nurses in a hospital must follow strict ________ rules to ensure patient safety.",
+      "options": [
+        "safety",
+        "hygiene",
+        "security",
+        "privacy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Directing at the supervisory level involves guiding employees properly, predicting and preventing mistakes, and ensuring ________ in the workplace.",
+      "options": [
+        "chaos",
+        "discipline",
+        "confusion",
+        "disorder"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "A good supervisor communicates clearly, supports employees, and enforces company rules ________.",
+      "options": [
+        "ineffectively",
+        "effectively",
+        "occasionally",
+        "rarely"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Explaining decisions helps employees understand and follow them more ________.",
+      "options": [
+        "reluctantly",
+        "willingly",
+        "passively",
+        "aggressively"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Laying disciplinary standards ensures that work is done as per ________ guidelines.",
+      "options": [
+        "personal",
+        "company",
+        "industry",
+        "government"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Predicting and preventing mistakes helps maintain a ________ work environment.",
+      "options": [
+        "chaotic",
+        "safe",
+        "inefficient",
+        "disorganized"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "A supervisor should address an employee who is consistently ________ to work.",
+      "options": [
+        "early",
+        "on time",
+        "late",
+        "absent"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Explaining decisions is important for employee ________ and engagement.",
+      "options": [
+        "dissatisfaction",
+        "satisfaction",
+        "motivation",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 13,
+      "question": "In a hospital setting, following strict hygiene rules is crucial for ________ safety.",
+      "options": [
+        "employee",
+        "patient",
+        "visitor",
+        "community"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "A supervisor must ensure that employees do not engage in ________ like stealing or dishonesty.",
+      "options": [
+        "misconduct",
+        "good conduct",
+        "professional behavior",
+        "respectful behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Effective supervisory direction involves guiding employees properly and enforcing ________.",
+      "options": [
+        "chaos",
+        "discipline",
+        "confusion",
+        "disorder"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "A good supervisor communicates clearly and supports employees to enhance their ________.",
+      "options": [
+        "productivity",
+        "motivation",
+        "focus",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 17,
+      "question": "Laying disciplinary standards helps maintain a ________ work environment.",
+      "options": [
+        "hostile",
+        "professional",
+        "chaotic",
+        "disorganized"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Explaining decisions helps employees understand the ________ behind them.",
+      "options": [
+        "importance",
+        "irrelevance",
+        "complexity",
+        "simplicity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "A supervisor should take disciplinary action if an employee engages in ________ behavior.",
+      "options": [
+        "professional",
+        "respectful",
+        "poor",
+        "excellent"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "Predicting and preventing mistakes helps supervisors maintain a ________ workflow.",
+      "options": [
+        "disorganized",
+        "smooth",
+        "inefficient",
+        "chaotic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "A supervisor must ensure that employees follow company ________ to maintain professionalism.",
+      "options": [
+        "guidelines",
+        "rules",
+        "policies",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 22,
+      "question": "Explaining decisions clearly helps reduce employee ________.",
+      "options": [
+        "satisfaction",
+        "dissatisfaction",
+        "motivation",
+        "engagement"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "In a call center, a supervisor must address an employee who speaks ________ to a customer.",
+      "options": [
+        "kindly",
+        "rudely",
+        "professionally",
+        "politely"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "A good supervisor communicates clearly to ensure employees understand and follow ________ willingly.",
+      "options": [
+        "instructions",
+        "decisions",
+        "policies",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 25,
+      "question": "Laying disciplinary standards helps prevent ________ in the workplace.",
+      "options": [
+        "misconduct",
+        "good conduct",
+        "professional behavior",
+        "respectful behavior"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "A supervisor should correct an employee who does not follow ________ protocols in a hospital.",
+      "options": [
+        "safety",
+        "hygiene",
+        "security",
+        "privacy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "Effective supervisory direction involves guiding employees properly and enforcing ________ effectively.",
+      "options": [
+        "company rules",
+        "industry standards",
+        "government regulations",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 28,
+      "question": "A good supervisor supports employees to enhance their ________ and motivation.",
+      "options": [
+        "productivity",
+        "focus",
+        "engagement",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 29,
+      "question": "Laying disciplinary standards helps maintain a ________ and respectful work environment.",
+      "options": [
+        "hostile",
+        "professional",
+        "chaotic",
+        "disorganized"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "Explaining decisions helps employees understand the ________ behind them and follow them willingly.",
+      "options": [
+        "importance",
+        "irrelevance",
+        "complexity",
+        "simplicity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "A supervisor should address an employee who engages in ________ behavior like dishonesty.",
+      "options": [
+        "professional",
+        "respectful",
+        "poor",
+        "excellent"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 32,
+      "question": "Predicting and preventing mistakes helps supervisors maintain a ________ and efficient workflow.",
+      "options": [
+        "disorganized",
+        "smooth",
+        "inefficient",
+        "chaotic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "A supervisor must ensure that employees follow company ________ to maintain a professional environment.",
+      "options": [
+        "guidelines",
+        "rules",
+        "policies",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 34,
+      "question": "Explaining decisions clearly helps increase employee ________ and engagement.",
+      "options": [
+        "satisfaction",
+        "dissatisfaction",
+        "motivation",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 35,
+      "question": "In a call center, a supervisor must address an employee who speaks ________ to customers.",
+      "options": [
+        "kindly",
+        "rudely",
+        "professionally",
+        "politely"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "A good supervisor communicates clearly to ensure employees understand and follow ________ effectively.",
+      "options": [
+        "instructions",
+        "decisions",
+        "policies",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 37,
+      "question": "Laying disciplinary standards helps prevent ________ behaviors in the workplace.",
+      "options": [
+        "professional",
+        "respectful",
+        "misconduct",
+        "excellent"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 38,
+      "question": "A supervisor should correct an employee who does not follow ________ protocols in a healthcare setting.",
+      "options": [
+        "safety",
+        "hygiene",
+        "security",
+        "privacy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "Effective supervisory direction involves guiding employees properly and enforcing ________ effectively to maintain discipline.",
+      "options": [
+        "company rules",
+        "industry standards",
+        "government regulations",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 40,
+      "question": "A good supervisor supports employees to enhance their ________ and productivity.",
+      "options": [
+        "motivation",
+        "focus",
+        "engagement",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 41,
+      "question": "Laying disciplinary standards helps maintain a ________ and respectful workplace.",
+      "options": [
+        "hostile",
+        "professional",
+        "chaotic",
+        "disorganized"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "Explaining decisions helps employees understand the ________ behind them and follow them more willingly.",
+      "options": [
+        "importance",
+        "irrelevance",
+        "complexity",
+        "simplicity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "A supervisor should address an employee who engages in ________ behavior such as stealing.",
+      "options": [
+        "professional",
+        "respectful",
+        "poor",
+        "excellent"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 44,
+      "question": "Predicting and preventing mistakes helps supervisors maintain a ________ workflow by reducing errors.",
+      "options": [
+        "disorganized",
+        "smooth",
+        "inefficient",
+        "chaotic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "A supervisor must ensure that employees follow company ________ to maintain a safe work environment.",
+      "options": [
+        "guidelines",
+        "rules",
+        "policies",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 46,
+      "question": "Explaining decisions clearly helps increase employee ________ and motivation.",
+      "options": [
+        "satisfaction",
+        "dissatisfaction",
+        "engagement",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 47,
+      "question": "In a call center, a supervisor must address an employee who speaks ________ to customers, which is against company policy.",
+      "options": [
+        "kindly",
+        "rudely",
+        "professionally",
+        "politely"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "A good supervisor communicates clearly to ensure employees understand and follow ________ effectively to achieve goals.",
+      "options": [
+        "instructions",
+        "decisions",
+        "policies",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 49,
+      "question": "Laying disciplinary standards helps prevent ________ behaviors that can harm the workplace environment.",
+      "options": [
+        "professional",
+        "respectful",
+        "misconduct",
+        "excellent"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 50,
+      "question": "A supervisor should correct an employee who does not follow ________ protocols to ensure compliance with company standards.",
+      "options": [
+        "safety",
+        "hygiene",
+        "security",
+        "privacy"
+      ],
+      "answer": 2
+    }
+]
+  

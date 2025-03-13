@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Natural resources are materials and substances found in ________ that humans use for survival and development.",
+      "options": [
+        "factories",
+        "nature",
+        "laboratories",
+        "industries"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Renewable resources are those that can be replaced ________ over time.",
+      "options": [
+        "artificially",
+        "naturally",
+        "chemically",
+        "mechanically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Coal, petroleum, and minerals are examples of ________ resources.",
+      "options": [
+        "renewable",
+        "non-renewable",
+        "unlimited",
+        "synthetic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "The excessive use of natural resources leads to their ________, making them scarce or unavailable.",
+      "options": [
+        "renewal",
+        "depletion",
+        "abundance",
+        "formation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "A major cause of overuse of natural resources is rapid ________ growth.",
+      "options": [
+        "technological",
+        "population",
+        "industrial",
+        "economic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Cutting down trees at a faster rate than they can regrow is known as ________.",
+      "options": [
+        "deforestation",
+        "afforestation",
+        "conservation",
+        "reforestation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Overfishing results in a significant reduction in ________ population.",
+      "options": [
+        "forest",
+        "fish",
+        "bird",
+        "mammal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Burning fossil fuels releases ________, which contributes to climate change.",
+      "options": [
+        "oxygen",
+        "carbon dioxide",
+        "nitrogen",
+        "hydrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Excessive groundwater usage can cause ________ and lakes to dry up.",
+      "options": [
+        "oceans",
+        "rivers",
+        "hills",
+        "mountains"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "The melting of glaciers due to climate change leads to rising ________ levels.",
+      "options": [
+        "sea",
+        "air",
+        "land",
+        "temperature"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Overuse of natural resources leads to ________, which results in the loss of plant and animal species.",
+      "options": [
+        "urbanization",
+        "biodiversity loss",
+        "industrialization",
+        "agriculture"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "The Sahara Desert is expanding due to excessive land use and ________ change.",
+      "options": [
+        "cultural",
+        "climate",
+        "economic",
+        "political"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "One of the major reasons for water scarcity is excessive use of ________ water.",
+      "options": [
+        "surface",
+        "ground",
+        "rain",
+        "seawater"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Dumping industrial waste into rivers leads to ________ pollution.",
+      "options": [
+        "air",
+        "soil",
+        "water",
+        "noise"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "Overuse of fertilizers can degrade farmland and reduce soil ________.",
+      "options": [
+        "productivity",
+        "fertility",
+        "pollution",
+        "hardness"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Using solar and wind energy instead of fossil fuels helps in reducing ________ emissions.",
+      "options": [
+        "oxygen",
+        "carbon dioxide",
+        "hydrogen",
+        "methane"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "A sustainable way to conserve water is through ________ harvesting.",
+      "options": [
+        "rainwater",
+        "groundwater",
+        "river",
+        "seawater"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Planting more trees to restore forests is called ________.",
+      "options": [
+        "deforestation",
+        "afforestation",
+        "industrialization",
+        "urbanization"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Banning ________ plastics can help in reducing pollution.",
+      "options": [
+        "biodegradable",
+        "single-use",
+        "recyclable",
+        "natural"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Extreme weather patterns like hurricanes and droughts are becoming more frequent due to ________ change.",
+      "options": [
+        "economic",
+        "cultural",
+        "climate",
+        "technological"
+      ],
+      "answer": 3
+    }
+]
+  

@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "A ________ is a running program managed by the operating system.",
+      "options": ["Thread", "Process", "Task", "Application"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The OS assigns a unique identifier called ________ to each process.",
+      "options": ["Process Name", "Process ID", "Thread ID", "Execution Code"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "A process in the ________ state is waiting for CPU execution.",
+      "options": ["New", "Ready", "Blocked", "Terminated"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "When a process is currently being executed by the CPU, it is in the ________ state.",
+      "options": ["Ready", "Blocked", "Running", "Terminated"],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "A process moves to the ________ state when it has completed execution.",
+      "options": ["Waiting", "Terminated", "Blocked", "Running"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The Process Control Block (PCB) stores important information about a ________.",
+      "options": ["Thread", "Task", "Process", "File"],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "The ________ stores the memory address of the next instruction to be executed.",
+      "options": ["Program Counter", "Stack Pointer", "Process ID", "Register"],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "A process that is waiting for a resource moves to the ________ state.",
+      "options": ["New", "Ready", "Blocked", "Running"],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "The OS manages multiple processes at the same time to ensure ________.",
+      "options": ["Slow execution", "Efficiency", "System failure", "Overheating"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Each PCB stores the ________ of the process, which determines its execution stage.",
+      "options": ["Name", "State", "Size", "Creation Time"],
+      "answer": 2
+    }
+]
+  

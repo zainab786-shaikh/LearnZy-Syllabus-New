@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that a work permit is not an official document issued by an authority.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "It is true that a work permit allows a person or group to perform specific work under defined conditions.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that work permits are not used to ensure safety or prevent unauthorized work.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "It is true that a General Work Permit is used for regular jobs that do not involve high risks.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that a Hot Work Permit is not required for tasks involving fire or heat.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "It is true that a Hot Work Permit is necessary for welding, cutting, or soldering.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that a Cold Work Permit involves tasks that generate heat.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "It is true that a Cold Work Permit is used for non-heat-related tasks like mechanical work or painting.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that a Confined Space Work Permit is not needed for work in tight spaces.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "It is true that a Confined Space Work Permit is required for work in tanks or underground pipes.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that an Electrical Work Permit is not necessary for working with live electrical systems.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "It is true that an Electrical Work Permit is required to prevent electrical accidents.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that an Excavation Work Permit is not needed before digging or drilling.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "It is true that an Excavation Work Permit is issued to avoid damaging underground utilities.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that a Working at Heights Permit is not required for jobs performed at an elevated height.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "It is true that a Working at Heights Permit is necessary for jobs like cleaning windows on tall buildings.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that work permits do not play a role in ensuring safety.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "It is true that work permits reduce risks by requiring proper precautions.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that work permits are not necessary for legal compliance.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "It is true that work permits ensure legal compliance by requiring authorization for hazardous jobs.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that work permits do not prevent accidents by ensuring only trained personnel perform tasks.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "It is true that work permits prevent accidents by ensuring only authorized personnel do dangerous tasks.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that work permits do not include guidelines for environmental protection.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "It is true that some work permits include guidelines to prevent pollution and environmental damage.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that work permits do not provide accountability by tracking who is responsible for a job.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "It is true that a work permit tracks who is responsible for a particular job, providing accountability.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is true that a Hot Work Permit does not ensure that fire extinguishers are nearby during welding.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "It is true that a Hot Work Permit ensures that no flammable materials are in the area during welding.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that a foreign worker does not need a work permit to work in a foreign country.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "It is true that a foreign worker needs a work permit to legally work in a foreign country.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that a Confined Space Work Permit does not ensure the worker wears an oxygen mask if needed.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "It is true that a Confined Space Work Permit ensures a safety harness is used to pull the worker out in case of emergency.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that obtaining a work permit does not involve submitting an application.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "It is true that obtaining a work permit involves submitting an application and awaiting approval.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that working without a required permit does not lead to fines or legal action.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "It is true that working without a required permit can lead to fines, legal action, or job loss.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that not following safety guidelines in a work permit does not increase accident risks.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "It is true that not following safety guidelines in a work permit increases accident risks.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that using a fake work permit does not have legal consequences.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "It is true that using a fake work permit may result in criminal charges.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that working beyond the permit’s expiry date does not have consequences.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "It is true that working beyond the permit’s expiry date can lead to deportation for international work permits.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that a work permit is not a crucial document for ensuring jobs are done safely and legally.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "It is true that a work permit is a crucial document that ensures jobs are done safely, legally, and with proper authorization.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is true that a work permit does not involve supervision and compliance with specified rules.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "It is true that a work permit requires workers to follow the rules specified in the permit.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "It is true that a work permit is not necessary for hazardous tasks in industries.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "It is true that a work permit is necessary for hazardous tasks in industries to ensure safety and compliance.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "It is true that a work permit does not protect both workers and organizations.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "It is true that a work permit protects both workers and organizations by ensuring safe and authorized work practices.",
+      "answer": true
+    }
+]
+  

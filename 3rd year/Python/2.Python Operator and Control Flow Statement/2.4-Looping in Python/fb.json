@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "In Python, loops help to _______ a block of code multiple times.",
+      "options": [
+        "ignore",
+        "execute",
+        "delete",
+        "modify"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "A _______ loop executes a block of code as long as the condition is true.",
+      "options": [
+        "for",
+        "while",
+        "nested",
+        "infinite"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "The for loop is generally used for iterating over a _______ such as lists, strings, or range.",
+      "options": [
+        "function",
+        "sequence",
+        "class",
+        "variable"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "The _______ statement is used to exit a loop immediately.",
+      "options": [
+        "continue",
+        "return",
+        "break",
+        "pass"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "The keyword used to skip the current iteration in a loop and move to the next one is _______.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "return"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "A loop inside another loop is called a _______ loop.",
+      "options": [
+        "while",
+        "for",
+        "nested",
+        "infinite"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "The range() function in a for loop generates a sequence of _______ values.",
+      "options": [
+        "floating-point",
+        "random",
+        "integer",
+        "boolean"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "In a while loop, the loop condition is checked _______ executing the loop body.",
+      "options": [
+        "after",
+        "before",
+        "during",
+        "never"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "To print numbers from 1 to 10 using a while loop, we initialize the variable to _______ before the loop starts.",
+      "options": [
+        "0",
+        "1",
+        "10",
+        "None"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "A _______ loop is best used when the number of iterations is unknown.",
+      "options": [
+        "for",
+        "while",
+        "nested",
+        "do-while"
+      ],
+      "answer": 2
+    }
+]
+  

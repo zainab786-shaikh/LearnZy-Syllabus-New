@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Biodiversity refers to the variety of ________ on Earth.",
+      "options": [
+        "ecosystems",
+        "species",
+        "life",
+        "genes"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "The three levels of biodiversity are genetic, ________, and ecosystem biodiversity.",
+      "options": [
+        "species",
+        "population",
+        "habitat",
+        "community"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Genetic biodiversity refers to variations within a ________.",
+      "options": [
+        "species",
+        "community",
+        "population",
+        "habitat"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "A region with a high number of different species has high ________ biodiversity.",
+      "options": [
+        "genetic",
+        "species",
+        "ecosystem",
+        "functional"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "The Amazon rainforest is an example of an ecosystem with ________ biodiversity.",
+      "options": [
+        "low",
+        "moderate",
+        "high",
+        "no"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "The Sahara Desert has relatively ________ biodiversity due to its extreme conditions.",
+      "options": [
+        "high",
+        "low",
+        "moderate",
+        "infinite"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Biodiversity provides economic value through industries such as ________.",
+      "options": [
+        "fishing and agriculture",
+        "mining and logging",
+        "construction and manufacturing",
+        "tourism and transportation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "The ethical value of biodiversity suggests that all species have the ________ to exist.",
+      "options": [
+        "opportunity",
+        "ability",
+        "right",
+        "necessity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Habitat destruction is a major cause of biodiversity ________.",
+      "options": [
+        "increase",
+        "stability",
+        "growth",
+        "loss"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 10,
+      "question": "The introduction of non-native species can lead to biodiversity ________.",
+      "options": [
+        "growth",
+        "protection",
+        "loss",
+        "expansion"
+      ],
+      "answer": 3
+    }
+]
+  

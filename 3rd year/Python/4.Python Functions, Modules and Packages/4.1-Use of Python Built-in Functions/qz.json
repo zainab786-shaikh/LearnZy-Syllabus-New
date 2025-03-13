@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What does the type() function do in Python?",
+      "options": [
+        "Converts data from one type to another",
+        "Checks the type of a variable",
+        "Performs mathematical calculations",
+        "Works with strings"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "How do you convert a string to an integer in Python?",
+      "options": [
+        "Using str()",
+        "Using int()",
+        "Using float()",
+        "Using type()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the purpose of the abs() function?",
+      "options": [
+        "Returns the absolute value of a number",
+        "Returns the square root of a number",
+        "Returns the maximum value in a list",
+        "Returns the minimum value in a list"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "How do you calculate the power of a number in Python?",
+      "options": [
+        "Using pow()",
+        "Using abs()",
+        "Using round()",
+        "Using max()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "What does the round() function do?",
+      "options": [
+        "Rounds a number to the nearest whole number or decimal place",
+        "Finds the maximum value in a list",
+        "Finds the minimum value in a list",
+        "Converts a string to an integer"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "How do you find the maximum value in a list?",
+      "options": [
+        "Using max()",
+        "Using min()",
+        "Using sum()",
+        "Using len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "What does the sum() function do?",
+      "options": [
+        "Calculates the total sum of a list of numbers",
+        "Finds the maximum value in a list",
+        "Finds the minimum value in a list",
+        "Rounds a number to the nearest whole number"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "How do you import the math module in Python?",
+      "options": [
+        "Using import math",
+        "Using import random",
+        "Using import time",
+        "Using import sys"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What does the math.sqrt() function do?",
+      "options": [
+        "Returns the square root of a number",
+        "Returns the absolute value of a number",
+        "Returns the maximum value in a list",
+        "Returns the minimum value in a list"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "How do you count the number of characters in a string?",
+      "options": [
+        "Using len()",
+        "Using lower()",
+        "Using upper()",
+        "Using replace()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "What does the lower() function do?",
+      "options": [
+        "Converts a string to lowercase",
+        "Converts a string to uppercase",
+        "Replaces words in a string",
+        "Splits a string into a list"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "How do you replace words in a string?",
+      "options": [
+        "Using replace()",
+        "Using split()",
+        "Using lower()",
+        "Using upper()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "What does the split() function do?",
+      "options": [
+        "Breaks a string into a list of words",
+        "Replaces words in a string",
+        "Converts a string to lowercase",
+        "Converts a string to uppercase"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "How do you take user input in Python?",
+      "options": [
+        "Using input()",
+        "Using print()",
+        "Using type()",
+        "Using int()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "What does the print() function do?",
+      "options": [
+        "Displays output on the screen",
+        "Takes user input",
+        "Checks the type of a variable",
+        "Converts data from one type to another"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Can you use the int() function to convert a float to an integer?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "What is the effect of using the pow() function?",
+      "options": [
+        "Returns the square root of a number",
+        "Returns the absolute value of a number",
+        "Calculates x raised to the power y",
+        "Rounds a number to the nearest whole number"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "How do you find the minimum value in a list?",
+      "options": [
+        "Using max()",
+        "Using min()",
+        "Using sum()",
+        "Using len()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "What does the math.ceil() function do?",
+      "options": [
+        "Rounds down to the nearest integer",
+        "Rounds up to the nearest integer",
+        "Returns the square root of a number",
+        "Returns the absolute value of a number"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Can you use the str() function to convert an integer to a string?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "What is the purpose of the upper() function?",
+      "options": [
+        "Converts a string to lowercase",
+        "Converts a string to uppercase",
+        "Replaces words in a string",
+        "Splits a string into a list"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 22,
+      "question": "How do you convert a float to a string?",
+      "options": [
+        "Using str()",
+        "Using int()",
+        "Using float()",
+        "Using type()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "What does the math.floor() function do?",
+      "options": [
+        "Rounds up to the nearest integer",
+        "Rounds down to the nearest integer",
+        "Returns the square root of a number",
+        "Returns the absolute value of a number"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "Can you use the input() function to display output?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "What is the effect of using the round() function with two arguments?",
+      "options": [
+        "Rounds to the nearest whole number",
+        "Rounds to the specified decimal place",
+        "Finds the maximum value in a list",
+        "Finds the minimum value in a list"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "How do you check if a variable is of a certain type?",
+      "options": [
+        "Using type()",
+        "Using int()",
+        "Using float()",
+        "Using str()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "What does the len() function return for an empty string?",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Can you use the max() function with strings?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "What is the effect of using the min() function with a list of strings?",
+      "options": [
+        "Returns the lexicographically smallest string",
+        "Returns the lexicographically largest string",
+        "Returns the longest string",
+        "Returns the shortest string"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "How do you convert a string to a float?",
+      "options": [
+        "Using str()",
+        "Using int()",
+        "Using float()",
+        "Using type()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 31,
+      "question": "What does the math.sqrt() function return for a negative number?",
+      "options": [
+        "A complex number",
+        "An error",
+        "A real number",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Can you use the sum() function with a list of strings?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "What is the effect of using the pow() function with negative numbers?",
+      "options": [
+        "Returns a complex number",
+        "Returns a real number",
+        "Throws an error",
+        "Does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "How do you convert an integer to a float?",
+      "options": [
+        "Using str()",
+        "Using int()",
+        "Using float()",
+        "Using type()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 35,
+      "question": "What does the abs() function return for a complex number?",
+      "options": [
+        "The real part",
+        "The imaginary part",
+        "The magnitude",
+        "An error"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "Can you use the input() function to take multiple inputs?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "What is the effect of using the print() function with multiple arguments?",
+      "options": [
+        "Prints each argument on a new line",
+        "Prints all arguments on the same line separated by spaces",
+        "Throws an error",
+        "Does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "How do you convert a list to a string?",
+      "options": [
+        "Using str()",
+        "Using int()",
+        "Using float()",
+        "Using join()"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 39,
+      "question": "What does the replace() function do?",
+      "options": [
+        "Replaces words in a string",
+        "Splits a string into a list",
+        "Converts a string to lowercase",
+        "Converts a string to uppercase"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "Can you use the split() function without an argument?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "What is the effect of using the upper() function on a string?",
+      "options": [
+        "Converts the string to lowercase",
+        "Converts the string to uppercase",
+        "Replaces words in the string",
+        "Splits the string into a list"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "How do you find the length of a list?",
+      "options": [
+        "Using len()",
+        "Using max()",
+        "Using min()",
+        "Using sum()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "What does the math.ceil() function do?",
+      "options": [
+        "Rounds down to the nearest integer",
+        "Rounds up to the nearest integer",
+        "Returns the square root of a number",
+        "Returns the absolute value of a number"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "Can you use the input() function to convert input to an integer?",
+      "options": [
+        "Yes, directly",
+        "No, needs conversion",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "What is the effect of using the lower() function on a string?",
+      "options": [
+        "Converts the string to uppercase",
+        "Converts the string to lowercase",
+        "Replaces words in the string",
+        "Splits the string into a list"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "How do you convert a float to an integer?",
+      "options": [
+        "Using str()",
+        "Using int()",
+        "Using float()",
+        "Using type()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "What does the math.floor() function do?",
+      "options": [
+        "Rounds up to the nearest integer",
+        "Rounds down to the nearest integer",
+        "Returns the square root of a number",
+        "Returns the absolute value of a number"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "Can you use the sum() function with a list of floats?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "What is the effect of using the pow() function with two arguments?",
+      "options": [
+        "Returns the square root of a number",
+        "Returns the absolute value of a number",
+        "Calculates x raised to the power y",
+        "Rounds a number to the nearest whole number"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 50,
+      "question": "How do you convert a string to a float?",
+      "options": [
+        "Using str()",
+        "Using int()",
+        "Using float()",
+        "Using type()"
+      ],
+      "answer": 3
+    }
+]
+  

@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "question": "Rainwater harvesting helps in ________ water for future use.",
+      "options": ["storing", "wasting", "polluting", "evaporating"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "________ is an example of a city where rainwater harvesting is compulsory for buildings.",
+      "options": ["Mumbai", "Chennai", "Delhi", "Kolkata"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Green Belt Development helps in reducing ________.",
+      "options": ["air pollution", "water pollution", "noise pollution", "soil erosion"],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Renewable energy sources include ________.",
+      "options": ["solar energy", "coal", "natural gas", "petroleum"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Groundwater recharge helps in replenishing ________ water.",
+      "options": ["surface", "rain", "underground", "ocean"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "The process of connecting rivers to transfer water from surplus to deficit areas is called ________.",
+      "options": ["watershed management", "river interlinking", "rainwater harvesting", "groundwater recharge"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Sutlej-Yamuna link project is an example of ________.",
+      "options": ["river interlinking", "rainwater harvesting", "solar power plant", "green belt development"],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is NOT a method of rainwater harvesting?",
+      "options": ["rooftop harvesting", "surface runoff harvesting", "water evaporation", "recharge pits"],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Contour farming is a technique used in ________.",
+      "options": ["watershed management", "groundwater recharge", "solar power generation", "interlinking of rivers"],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Afforestation is important in ________ management.",
+      "options": ["watershed", "energy", "air", "waste"],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "A major benefit of interlinking rivers is prevention of ________.",
+      "options": ["floods", "earthquakes", "hurricanes", "global warming"],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Solar energy is harnessed using ________.",
+      "options": ["turbines", "solar panels", "coal plants", "dams"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Bhadla Solar Park is located in ________.",
+      "options": ["Gujarat", "Rajasthan", "Tamil Nadu", "Maharashtra"],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Muppandal Wind Farm is an example of ________ energy generation.",
+      "options": ["hydro", "solar", "wind", "geothermal"],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "Watershed management primarily focuses on the conservation of ________.",
+      "options": ["soil and water", "air", "forests", "minerals"],
+      "answer": 1
+    }
+]
+  

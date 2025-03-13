@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "How are lists defined in Python?",
+      "options": [
+        "Using parentheses ()",
+        "Using square brackets []",
+        "Using curly brackets {}",
+        "Using angle brackets <>"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What types of data can be stored in a Python list?",
+      "options": [
+        "Only numbers",
+        "Only strings",
+        "Different types including numbers, strings, and lists",
+        "Only booleans"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "How do you access the first element of a list in Python?",
+      "options": [
+        "list_name[1]",
+        "list_name[0]",
+        "list_name[-1]",
+        "list_name[2]"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "What is the purpose of negative indexing in Python lists?",
+      "options": [
+        "To access elements from the start of the list",
+        "To access elements from the end of the list",
+        "To skip elements",
+        "To restart the list"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "How do you update an element in a Python list?",
+      "options": [
+        "By using the append() method",
+        "By assigning a new value to a specific index",
+        "By using the insert() method",
+        "By using the sort() method"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is the effect of using del on a list?",
+      "options": [
+        "It removes all elements",
+        "It removes a specific element by index",
+        "It removes a specific element by value",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "How do you remove an element by value from a list?",
+      "options": [
+        "Using del",
+        "Using remove()",
+        "Using pop()",
+        "Using clear()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What does the clear() method do to a list?",
+      "options": [
+        "Removes the first element",
+        "Removes the last element",
+        "Removes all elements",
+        "Does nothing"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "How do you concatenate two lists in Python?",
+      "options": [
+        "Using the + operator",
+        "Using the * operator",
+        "Using the append() method",
+        "Using the insert() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What is the purpose of the * operator with lists?",
+      "options": [
+        "To concatenate lists",
+        "To repeat a list",
+        "To remove elements",
+        "To sort elements"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "How do you check if an item exists in a list?",
+      "options": [
+        "Using the in operator",
+        "Using the not in operator",
+        "Using the append() method",
+        "Using the remove() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "What does the len() function return for a list?",
+      "options": [
+        "The first element",
+        "The last element",
+        "The number of elements",
+        "The type of elements"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "How do you slice a list to get a subset of elements?",
+      "options": [
+        "Using list_name[start:end]",
+        "Using list_name[start]",
+        "Using list_name[end]",
+        "Using list_name[start:]"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "What is the effect of slicing a list with list_name[start:]?",
+      "options": [
+        "It returns elements from the start to the end of the list",
+        "It returns elements from the start to the second last element",
+        "It returns all elements from the specified start index to the end",
+        "It returns an empty list"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "How do you add an element to the end of a list?",
+      "options": [
+        "Using append()",
+        "Using insert()",
+        "Using extend()",
+        "Using sort()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "What does the insert() method do?",
+      "options": [
+        "Adds an element at the end of the list",
+        "Adds an element at a specific position",
+        "Removes an element by value",
+        "Removes an element by index"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "How do you sort a list in ascending order?",
+      "options": [
+        "Using sort()",
+        "Using reverse()",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "What does the reverse() method do?",
+      "options": [
+        "Sorts the list in ascending order",
+        "Sorts the list in descending order",
+        "Reverses the order of elements",
+        "Does nothing"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "How do you count the occurrences of a value in a list?",
+      "options": [
+        "Using count()",
+        "Using index()",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What does the index() method return?",
+      "options": [
+        "The count of a value",
+        "The first occurrence of a value",
+        "The last occurrence of a value",
+        "The type of a value"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "How do you create a copy of a list?",
+      "options": [
+        "Using copy()",
+        "Using append()",
+        "Using insert()",
+        "Using sort()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "What is the difference between append() and insert()?",
+      "options": [
+        "append() adds at the end, insert() adds at a specific position",
+        "append() adds at a specific position, insert() adds at the end",
+        "append() removes elements, insert() adds elements",
+        "append() sorts the list, insert() reverses the list"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "Can lists in Python store duplicate values?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if they are numbers",
+        "Only if they are strings"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "What is the effect of using pop() without an index?",
+      "options": [
+        "It removes the first element",
+        "It removes the last element",
+        "It removes all elements",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "How do you check if a list is empty?",
+      "options": [
+        "Using len() == 0",
+        "Using len() > 0",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "What does the in operator do with lists?",
+      "options": [
+        "Checks if a value is present",
+        "Checks if a value is absent",
+        "Adds a value to the list",
+        "Removes a value from the list"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Can you use negative indexing to access elements from the start of a list?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "What is the purpose of the clear() method?",
+      "options": [
+        "To remove a specific element",
+        "To remove all elements",
+        "To add an element",
+        "To sort the list"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "How do you repeat a list multiple times?",
+      "options": [
+        "Using the + operator",
+        "Using the * operator",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "What does the len() function return for an empty list?",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "Can you use slicing to get all elements from the start to a specific index?",
+      "options": [
+        "Yes, using list_name[:index]",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "What is the effect of using list_name[:]?",
+      "options": [
+        "It returns a copy of the list",
+        "It returns the original list",
+        "It removes all elements",
+        "It does nothing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "How do you add multiple elements to a list at once?",
+      "options": [
+        "Using append()",
+        "Using extend()",
+        "Using insert()",
+        "Using sort()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "What does the reverse() method do to a list?",
+      "options": [
+        "Sorts the list in ascending order",
+        "Sorts the list in descending order",
+        "Reverses the order of elements",
+        "Does nothing"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 35,
+      "question": "Can you use the index() method to find the last occurrence of a value?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "What is the purpose of the copy() method?",
+      "options": [
+        "To create a new list with the same elements",
+        "To remove all elements",
+        "To add an element",
+        "To sort the list"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "How do you check if a value is not present in a list?",
+      "options": [
+        "Using the in operator",
+        "Using the not in operator",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "What does the pop() method do without an index specified?",
+      "options": [
+        "Removes the first element",
+        "Removes the last element",
+        "Removes all elements",
+        "Does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "Can lists be modified after creation?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "What is the effect of using the sort() method on a list?",
+      "options": [
+        "It reverses the list",
+        "It sorts the list in ascending order",
+        "It sorts the list in descending order",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 41,
+      "question": "How do you find the number of occurrences of a specific value in a list?",
+      "options": [
+        "Using count()",
+        "Using index()",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "What does the insert() method require to add an element?",
+      "options": [
+        "Only the value to be added",
+        "The index and the value to be added",
+        "Only the index",
+        "Neither index nor value"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "Can you use the append() method to add multiple elements at once?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "What is the effect of using the remove() method on a list?",
+      "options": [
+        "It removes an element by index",
+        "It removes an element by value",
+        "It removes all elements",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "How do you get the last element of a list using negative indexing?",
+      "options": [
+        "list_name[-1]",
+        "list_name[0]",
+        "list_name[1]",
+        "list_name[-2]"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "What does the del statement do to a list?",
+      "options": [
+        "Removes all elements",
+        "Removes a specific element by index",
+        "Removes a specific element by value",
+        "Does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "Can you use the * operator to concatenate lists?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "What is the purpose of the len() function?",
+      "options": [
+        "To check if a list is empty",
+        "To get the number of elements in a list",
+        "To add an element to a list",
+        "To remove an element from a list"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "How do you reverse the order of elements in a list?",
+      "options": [
+        "Using sort()",
+        "Using reverse()",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "What is the effect of using the clear() method on a list?",
+      "options": [
+        "It removes the first element",
+        "It removes the last element",
+        "It removes all elements",
+        "It does nothing"
+      ],
+      "answer": 3
+    }
+]
+  

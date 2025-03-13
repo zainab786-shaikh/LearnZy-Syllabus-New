@@ -1,0 +1,117 @@
+<div>
+    <h1>6.2 File Handling in Python</h1>
+    <p>File handling is one of the most important features of Python. It allows us to store, retrieve, and manipulate data in files. Instead of losing data when a program stops, we can save it in a file and access it anytime.</p>
+    
+    <h2>Why is File Handling Important?</h2>
+    <ul>
+      <li>It helps store data permanently.</li>
+      <li>It allows reading and writing large amounts of data efficiently.</li>
+      <li>It is useful for applications like data logging, report generation, and data storage.</li>
+    </ul>
+    
+    <h2>1. Opening a File in Different Modes</h2>
+    <p>Before working with a file, we need to open it using Python’s <code>open()</code> function. The <code>open()</code> function allows us to open a file in different modes.</p>
+    <pre><code>file = open("filename.txt", "mode")</code></pre>
+    
+    <h3>File Modes in Python</h3>
+    <table border="1">
+      <tr><th>Mode</th><th>Description</th></tr>
+      <tr><td>'r'</td><td>Read mode (default). Opens the file for reading.</td></tr>
+      <tr><td>'w'</td><td>Write mode. Creates a new file if it doesn’t exist or overwrites if it exists.</td></tr>
+      <tr><td>'a'</td><td>Append mode. Adds new data to the file without deleting existing content.</td></tr>
+      <tr><td>'x'</td><td>Exclusive creation mode. Creates a file but gives an error if it already exists.</td></tr>
+      <tr><td>'b'</td><td>Binary mode (used with other modes like 'rb' or 'wb').</td></tr>
+      <tr><td>'t'</td><td>Text mode (default, used with other modes like 'rt' or 'wt').</td></tr>
+    </table>
+    
+    <h3>Examples: Opening Files in Different Modes</h3>
+    <pre><code># Opening a file in Read Mode ('r')
+  file = open("sample.txt", "r")
+  print(file.read())
+  file.close()</code></pre>
+    
+    <pre><code># Opening a file in Write Mode ('w')
+  file = open("sample.txt", "w")
+  file.write("Hello, this is a new file!")
+  file.close()</code></pre>
+    
+    <pre><code># Opening a file in Append Mode ('a')
+  file = open("sample.txt", "a")
+  file.write("\nAppending new content!")
+  file.close()</code></pre>
+    
+    <h2>2. Accessing File Contents Using Standard Library Functions</h2>
+    <pre><code># Using read() Method
+  file = open("sample.txt", "r")
+  content = file.read()
+  print(content)
+  file.close()</code></pre>
+    
+    <pre><code># Using readline() Method
+  file = open("sample.txt", "r")
+  line1 = file.readline()
+  print(line1)
+  file.close()</code></pre>
+    
+    <pre><code># Using readlines() Method
+  file = open("sample.txt", "r")
+  lines = file.readlines()
+  print(lines)
+  file.close()</code></pre>
+    
+    <h2>3. Writing and Appending to a File</h2>
+    <pre><code># Writing to a File (write())
+  file = open("sample.txt", "w")
+  file.write("Python file handling is easy!")
+  file.close()</code></pre>
+    
+    <pre><code># Appending to a File (write())
+  file = open("sample.txt", "a")
+  file.write("\nAppending new information.")
+  file.close()</code></pre>
+    
+    <h2>4. Closing a File (close())</h2>
+    <pre><code>file = open("sample.txt", "r")
+  print(file.read())
+  file.close()</code></pre>
+    
+    <h2>5. Renaming and Deleting Files</h2>
+    <pre><code># Renaming a File
+  import os
+  os.rename("oldname.txt", "newname.txt")</code></pre>
+    
+    <pre><code># Deleting a File
+  import os
+  os.remove("newname.txt")</code></pre>
+    
+    <h2>6. Directories in Python</h2>
+    <pre><code># Creating a Directory (mkdir())
+  import os
+  os.mkdir("NewFolder")</code></pre>
+    
+    <pre><code># Removing a Directory (rmdir())
+  import os
+  os.rmdir("NewFolder")</code></pre>
+    
+    <pre><code># Listing Files in a Directory (listdir())
+  import os
+  print(os.listdir())</code></pre>
+    
+    <h2>7. File and Directory Related Standard Functions</h2>
+    <table border="1">
+      <tr><th>Function</th><th>Description</th></tr>
+      <tr><td>open()</td><td>Opens a file.</td></tr>
+      <tr><td>read()</td><td>Reads file content.</td></tr>
+      <tr><td>write()</td><td>Writes to a file.</td></tr>
+      <tr><td>close()</td><td>Closes the file.</td></tr>
+      <tr><td>rename(old, new)</td><td>Renames a file.</td></tr>
+      <tr><td>remove(file)</td><td>Deletes a file.</td></tr>
+      <tr><td>mkdir(dir)</td><td>Creates a directory.</td></tr>
+      <tr><td>rmdir(dir)</td><td>Deletes a directory.</td></tr>
+      <tr><td>listdir()</td><td>Lists files and directories.</td></tr>
+    </table>
+    
+    <h2>Conclusion</h2>
+    <p>File handling in Python allows you to create, read, write, rename, delete, and manage files and directories easily. Understanding these concepts is important for working with data storage, logging, and automation.</p>
+</div>
+  

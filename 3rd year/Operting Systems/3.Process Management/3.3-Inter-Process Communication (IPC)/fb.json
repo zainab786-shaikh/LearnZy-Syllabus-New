@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Inter-Process Communication (IPC) allows multiple processes to ________ with each other.",
+      "options": [
+        "compete",
+        "communicate",
+        "terminate",
+        "execute"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "IPC is essential for processes to share ________ and coordinate tasks.",
+      "options": [
+        "data",
+        "memory",
+        "CPU",
+        "output"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "One of the main methods of IPC is ________, where multiple processes use a common memory space to communicate.",
+      "options": [
+        "message passing",
+        "shared memory",
+        "networking",
+        "threading"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Another IPC method is ________, where processes exchange messages instead of sharing memory.",
+      "options": [
+        "paging",
+        "message passing",
+        "buffering",
+        "synchronization"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Shared memory communication is ________ compared to message passing.",
+      "options": [
+        "slower",
+        "faster",
+        "more secure",
+        "less efficient"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Message passing ensures that messages are delivered in the correct ________.",
+      "options": [
+        "time",
+        "order",
+        "format",
+        "size"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "A ________ message passing system requires the sender to wait for the receiver to acknowledge before continuing.",
+      "options": [
+        "synchronous",
+        "asynchronous",
+        "buffered",
+        "non-blocking"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "An asynchronous message passing system allows the sender to send messages without waiting for ________.",
+      "options": [
+        "processing",
+        "response",
+        "execution",
+        "transmission"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Shared memory requires ________ to prevent data conflicts when multiple processes access it.",
+      "options": [
+        "virtualization",
+        "synchronization",
+        "paging",
+        "segmentation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "A real-life example of message passing is a ________, where one person speaks and the other listens.",
+      "options": [
+        "whiteboard",
+        "walkie-talkie",
+        "file storage",
+        "RAM"
+      ],
+      "answer": 2
+    }
+]
+  

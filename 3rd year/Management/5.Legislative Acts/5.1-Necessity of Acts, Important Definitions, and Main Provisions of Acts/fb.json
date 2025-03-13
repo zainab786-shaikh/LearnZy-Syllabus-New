@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "An Act is a law that is officially passed by the government to regulate or control various aspects of ________.",
+      "options": [
+        "society",
+        "business",
+        "technology",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 2,
+      "question": "Acts are necessary to maintain ________ in society and prevent crimes.",
+      "options": [
+        "order",
+        "chaos",
+        "peace",
+        "justice"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "The Indian Penal Code (IPC) defines crimes like ________ and provides punishments for them.",
+      "options": [
+        "theft and murder",
+        "fraud and bribery",
+        "assault and battery",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "Acts protect people's ________ and interests.",
+      "options": [
+        "rights",
+        "duties",
+        "responsibilities",
+        "privileges"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "The Consumer Protection Act safeguards consumers from ________ trade practices.",
+      "options": [
+        "fair",
+        "unfair",
+        "legal",
+        "illegal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Acts ensure fairness in ________ and trade by setting legal standards.",
+      "options": [
+        "business",
+        "commerce",
+        "industry",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "The Factories Act promotes ________ and security in workplaces.",
+      "options": [
+        "safety",
+        "health",
+        "security",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 8,
+      "question": "Acts support technological and digital growth by preventing ________ and data misuse.",
+      "options": [
+        "cybercrimes",
+        "online fraud",
+        "data breaches",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 9,
+      "question": "A Bill is a proposed law that is yet to be passed by the government and becomes an Act once ________.",
+      "options": [
+        "rejected",
+        "passed",
+        "amended",
+        "approved"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "An Ordinance is a temporary law made by the President or Governor when Parliament or State Assembly is not in ________.",
+      "options": [
+        "session",
+        "recess",
+        "holiday",
+        "meeting"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "An Amendment refers to changes or modifications made to an existing law to update or ________ it.",
+      "options": [
+        "improve",
+        "reduce",
+        "amend",
+        "abolish"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Acts are divided into sections, and sections may have sub-sections or ________ explaining rules in detail.",
+      "options": [
+        "clauses",
+        "paragraphs",
+        "articles",
+        "chapters"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Jurisdiction refers to the area where a law is ________.",
+      "options": [
+        "applicable",
+        "applicable only",
+        "not applicable",
+        "partially applicable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "An Offense is any act against the law, and the punishment for it is a ________.",
+      "options": [
+        "penalty",
+        "fine",
+        "sentence",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 15,
+      "question": "The Information Technology (IT) Act, 2000 protects against ________ and promotes secure online transactions.",
+      "options": [
+        "cybercrimes",
+        "online fraud",
+        "data breaches",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 16,
+      "question": "The Consumer Protection Act, 2019 ensures consumers receive ________ products and services.",
+      "options": [
+        "good-quality",
+        "low-quality",
+        "expensive",
+        "cheap"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The Right to Information (RTI) Act, 2005 gives citizens the right to access ________ information.",
+      "options": [
+        "government",
+        "private",
+        "public",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "The Indian Contract Act, 1872 regulates agreements and contracts between individuals and ________.",
+      "options": [
+        "businesses",
+        "organizations",
+        "institutions",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 19,
+      "question": "The Motor Vehicles Act, 1988 regulates traffic rules and ________ safety.",
+      "options": [
+        "vehicle",
+        "road",
+        "traffic",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 20,
+      "question": "Acts are important laws that maintain order, protect rights, and regulate different aspects of ________.",
+      "options": [
+        "life",
+        "society",
+        "business",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 21,
+      "question": "Acts define legal terms and provide clear provisions to ensure ________.",
+      "options": [
+        "compliance",
+        "adherence",
+        "obedience",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 22,
+      "question": "The Factories Act, 1948 is applicable to premises where the manufacturing process is carried out with or without ________.",
+      "options": [
+        "power",
+        "machinery",
+        "equipment",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "The Factories Act ensures workers' ________ in industries by setting safety standards.",
+      "options": [
+        "safety",
+        "health",
+        "security",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 24,
+      "question": "The Occupational Safety, Health and Working Conditions Code, 2019 consolidates laws regulating health and safety in ________ like factories and mines.",
+      "options": [
+        "industries",
+        "sectors",
+        "establishments",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 25,
+      "question": "The Code applies to establishments employing at least ________ workers.",
+      "options": [
+        "5",
+        "10",
+        "20",
+        "50"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "Welfare facilities such as canteens and crèches may be provided as per standards notified by the central ________.",
+      "options": [
+        "government",
+        "state",
+        "local",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "The Factories Act, 1948 includes provisions for fencing of machinery and restrictions on employing young persons on ________ machines.",
+      "options": [
+        "dangerous",
+        "safe",
+        "heavy",
+        "light"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "The Act requires employers to provide striking gear and devices for cutting off power in case of ________.",
+      "options": [
+        "emergency",
+        "accident",
+        "incident",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 29,
+      "question": "Industrial safety rules include using personal protective equipment (PPE) and proper handling of ________.",
+      "options": [
+        "materials",
+        "machinery",
+        "equipment",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 30,
+      "question": "Workplace safety rules emphasize following a dress code and wearing safety ________.",
+      "options": [
+        "gear",
+        "equipment",
+        "clothing",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 31,
+      "question": "Acts are necessary to maintain order and prevent ________ in society.",
+      "options": [
+        "chaos",
+        "crimes",
+        "violence",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 32,
+      "question": "The Indian Penal Code (IPC) defines crimes like theft and ________ and provides punishments for them.",
+      "options": [
+        "murder",
+        "fraud",
+        "assault",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 33,
+      "question": "Acts protect people's rights and ________.",
+      "options": [
+        "interests",
+        "duties",
+        "responsibilities",
+        "privileges"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "The Consumer Protection Act safeguards consumers from unfair trade ________.",
+      "options": [
+        "practices",
+        "policies",
+        "procedures",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 35,
+      "question": "Acts ensure fairness in business and trade by setting legal ________.",
+      "options": [
+        "standards",
+        "regulations",
+        "guidelines",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 36,
+      "question": "The Factories Act promotes safety and ________ in workplaces.",
+      "options": [
+        "health",
+        "security",
+        "welfare",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 37,
+      "question": "Acts support technological and digital growth by preventing cybercrimes and ________ misuse.",
+      "options": [
+        "data",
+        "information",
+        "technology",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 38,
+      "question": "A Bill is a proposed law that becomes an Act once it is ________ by the government.",
+      "options": [
+        "passed",
+        "rejected",
+        "amended",
+        "approved"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "An Ordinance is a temporary law made when Parliament or State Assembly is not in ________.",
+      "options": [
+        "session",
+        "recess",
+        "holiday",
+        "meeting"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "An Amendment refers to changes made to an existing law to update or ________ it.",
+      "options": [
+        "improve",
+        "reduce",
+        "amend",
+        "abolish"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Acts are divided into sections, and sections may have sub-sections or clauses explaining rules in ________.",
+      "options": [
+        "detail",
+        "brief",
+        "summary",
+        "outline"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "Jurisdiction refers to the area where a law is ________.",
+      "options": [
+        "applicable",
+        "applicable only",
+        "not applicable",
+        "partially applicable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "An Offense is any act against the law, and the punishment for it is a ________.",
+      "options": [
+        "penalty",
+        "fine",
+        "sentence",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 44,
+      "question": "The Information Technology (IT) Act, 2000 protects against cybercrimes and promotes secure online ________.",
+      "options": [
+        "transactions",
+        "communications",
+        "activities",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 45,
+      "question": "The Consumer Protection Act, 2019 ensures consumers receive good-quality ________ and services.",
+      "options": [
+        "products",
+        "goods",
+        "services",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 46,
+      "question": "The Right to Information (RTI) Act, 2005 gives citizens the right to access government ________.",
+      "options": [
+        "information",
+        "data",
+        "records",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 47,
+      "question": "The Indian Contract Act, 1872 regulates agreements and contracts between individuals and ________.",
+      "options": [
+        "businesses",
+        "organizations",
+        "institutions",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 48,
+      "question": "The Motor Vehicles Act, 1988 regulates traffic rules and vehicle ________ safety.",
+      "options": [
+        "road",
+        "traffic",
+        "vehicle",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 49,
+      "question": "Acts are important laws that maintain order, protect rights, and regulate different aspects of ________.",
+      "options": [
+        "life",
+        "society",
+        "business",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 50,
+      "question": "Acts define legal terms and provide clear provisions to ensure ________ with the law.",
+      "options": [
+        "compliance",
+        "adherence",
+        "obedience",
+        "all of the above"
+      ],
+      "answer": 4
+    }
+]
+  

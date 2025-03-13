@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is Inter-Process Communication (IPC)?",
+      "options": [
+        "A method for processes to execute independently",
+        "A mechanism that allows processes to communicate with each other",
+        "A technique for process scheduling",
+        "A system that prevents process execution"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Why is IPC needed?",
+      "options": [
+        "To allow multiple processes to share data and coordinate tasks",
+        "To prevent processes from communicating",
+        "To slow down process execution",
+        "To limit the number of running processes"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an example of IPC in daily life?",
+      "options": [
+        "Watching a movie on a single device",
+        "Two employees working on different tasks without communication",
+        "Chat applications where messages are exchanged between users",
+        "Writing a document without internet connectivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What is a shared memory system?",
+      "options": [
+        "A communication method where processes share a common memory space",
+        "A technique where processes send messages to each other",
+        "A scheduling method for running processes",
+        "A way to prevent data exchange between processes"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which step is NOT part of the shared memory communication process?",
+      "options": [
+        "Creating a shared memory segment",
+        "Processes attach to the shared memory",
+        "Processes send messages over a network",
+        "Processes detach from shared memory after communication"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an example of shared memory IPC?",
+      "options": [
+        "Two employees writing on a shared whiteboard",
+        "Two people talking over a phone call",
+        "Sending an email to a colleague",
+        "A teacher giving a lecture in a class"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "What is a disadvantage of shared memory communication?",
+      "options": [
+        "Fast communication speed",
+        "Requires synchronization to avoid conflicts",
+        "More secure than message passing",
+        "Does not require memory allocation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What is a message passing system in IPC?",
+      "options": [
+        "A method where processes communicate by sending and receiving messages",
+        "A system where processes share memory directly",
+        "A way to block communication between processes",
+        "A technique to increase CPU execution speed"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is an example of message passing?",
+      "options": [
+        "Two employees writing on a shared whiteboard",
+        "Sending an email to a colleague",
+        "Reading a book individually",
+        "Opening multiple applications on a computer"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is a disadvantage of message passing?",
+      "options": [
+        "Slower than shared memory communication",
+        "Data conflicts occur frequently",
+        "Requires direct memory access",
+        "Processes need to use the same memory space"
+      ],
+      "answer": 1
+    }
+]
+  

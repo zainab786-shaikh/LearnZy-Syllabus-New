@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "question": "Python Interpreter is responsible for executing Python code.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "IDLE is not included with the standard Python installation.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "PyCharm is a lightweight and minimalistic code editor for Python.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "Jupyter Notebook is commonly used for data science and machine learning.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "To check if Python is installed, you can run the command 'python --version' in the terminal.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Python virtual environments allow developers to manage dependencies for different projects separately.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The command 'pip install requests' is used to uninstall the requests library.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "VS Code requires a Python extension to support Python development.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Python code can be executed directly in the command line or terminal.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "The 'Add Python to PATH' option during installation is not necessary for running Python from the terminal.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "Python libraries can be installed using the command 'python install <package_name>'.", 
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "A virtual environment in Python can be activated using 'source my_project_env/bin/activate' on macOS/Linux.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "The Python environment consists of the interpreter, text editor/IDE, and libraries.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "Running 'python' in the terminal starts the Python interactive shell.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "IDLE is an advanced IDE that is used mainly by professional developers.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "Python virtual environments help in avoiding conflicts between different project dependencies.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "PyCharm is available in both free (Community) and paid (Professional) versions.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "The command 'python -m venv my_env' creates a virtual environment named 'my_env'.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Jupyter Notebook is mainly used for developing mobile applications.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "The Python Interpreter converts Python code into machine code directly.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "Spyder is an IDE specifically designed for scientific computing.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "PyCharm is developed by Microsoft.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "Python scripts can be saved with the .py file extension.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "Python cannot be installed on macOS.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "The Python standard library provides a rich set of modules and functions.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "To run a Python script from the terminal, you can use the command 'python script.py'.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "The command 'pip list' displays all installed Python packages.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "Python can only be used for web development and data science.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "An IDE like PyCharm provides features like debugging, code completion, and version control integration.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "Python code must be compiled before execution.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "A Python virtual environment helps to create isolated environments for different projects.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "The 'requests' library in Python is used for making HTTP requests.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "Python is an interpreted language.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "Python scripts cannot be executed without an IDE.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "To execute a Python file, we use the command 'run filename.py'.",
+      "answer": false
+    }
+]
+  

@@ -1,0 +1,81 @@
+<div>
+    <h1>5.1 Basic Memory Management</h1>
+    <h2>What is Memory Management?</h2>
+    <p>Memory management is how a computer organizes and controls its memory (RAM) to store and retrieve data efficiently. Think of it like organizing shelves in a library—if books (data) are stored properly, you can find and use them quickly.</p>
+    <p>When we run a program, it needs memory to execute. The Operating System (OS) allocates memory to different programs based on availability and requirements.</p>
+    
+    <h2>1. Partitioning in Memory Management</h2>
+    <h3>(a) Fixed Partitioning (Static Partitioning)</h3>
+    <p>In fixed partitioning, memory is divided into fixed-sized blocks before running any program. Each program gets a block, but it may not use the entire space.</p>
+    <ul>
+      <li>If a program is smaller than the partition, the remaining memory is wasted (internal fragmentation).</li>
+      <li>If a program is larger than the partition, it cannot be loaded (size limitation).</li>
+    </ul>
+    <p><strong>Example:</strong> Imagine a cinema hall with fixed-size seats (partitions). If a person (program) is smaller than the seat, extra space is wasted. If a person is bigger than the seat, they cannot fit in.</p>
+    
+    <h3>(b) Variable Partitioning (Dynamic Partitioning)</h3>
+    <p>In variable partitioning, memory is divided into partitions dynamically as needed. No fixed sizes; partitions are created based on the program's size.</p>
+    <ul>
+      <li>Eliminates internal fragmentation but can cause external fragmentation (small free spaces between partitions).</li>
+    </ul>
+    <p><strong>Example:</strong> Imagine a parking lot where cars (programs) park based on available space. A small car may leave some extra space, but at least it fits.</p>
+    
+    <h2>2. Free Space Management Techniques</h2>
+    <h3>(a) Bitmap Method</h3>
+    <p>The memory is represented as a sequence of bits (0s and 1s).</p>
+    <ul>
+      <li>1 → Occupied block</li>
+      <li>0 → Free block</li>
+    </ul>
+    <p>The OS scans the bitmap to find free blocks and allocates them.</p>
+    <h3>(b) Linked List Method</h3>
+    <p>Memory blocks are organized as a linked list. Each block has a pointer to the next block.</p>
+    <ul>
+      <li>Free List: Stores free memory blocks.</li>
+      <li>Allocated List: Stores occupied memory blocks.</li>
+    </ul>
+    
+    <h2>Comparison Table: Fixed vs Variable Partitioning</h2>
+    <table border="1">
+      <tr>
+        <th>Feature</th>
+        <th>Fixed Partitioning</th>
+        <th>Variable Partitioning</th>
+      </tr>
+      <tr>
+        <td>Partition Size</td>
+        <td>Predefined (Fixed)</td>
+        <td>Dynamic (Changes as needed)</td>
+      </tr>
+      <tr>
+        <td>Flexibility</td>
+        <td>Low</td>
+        <td>High</td>
+      </tr>
+      <tr>
+        <td>Internal Fragmentation</td>
+        <td>High</td>
+        <td>No</td>
+      </tr>
+      <tr>
+        <td>External Fragmentation</td>
+        <td>No</td>
+        <td>Yes</td>
+      </tr>
+      <tr>
+        <td>Efficient Memory Usage</td>
+        <td>Low</td>
+        <td>High</td>
+      </tr>
+    </table>
+    
+    <h2>Final Thoughts</h2>
+    <ul>
+      <li>Fixed Partitioning is simple but wastes memory.</li>
+      <li>Variable Partitioning is flexible but can cause fragmentation.</li>
+      <li>Bitmap is an easy way to track free memory but is slow.</li>
+      <li>Linked List is more efficient but needs extra storage.</li>
+    </ul>
+    <p>Memory management is crucial for computers to run multiple programs efficiently. The OS decides which technique to use based on system requirements.</p>
+</div>
+  

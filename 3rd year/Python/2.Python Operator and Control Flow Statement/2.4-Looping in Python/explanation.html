@@ -1,0 +1,85 @@
+<div>
+    <h2>2.4 Looping in Python</h2>
+    <p>Loops are used in Python to execute a block of code multiple times without writing the same code again and again. Instead of writing repetitive instructions, loops allow us to repeat actions efficiently.</p>
+    <p>Python provides different types of loops:</p>
+    <ul>
+      <li>while loop</li>
+      <li>for loop</li>
+      <li>Nested loops (A loop inside another loop)</li>
+    </ul>
+  
+    <h3>1. while Loop in Python</h3>
+    <p>The while loop executes a block of code as long as the condition is true. When the condition becomes false, the loop stops.</p>
+    <pre>
+      <code>
+  while condition:
+      # Code to execute
+      </code>
+    </pre>
+    <p>Example 1: Printing numbers from 1 to 5</p>
+    <pre>
+      <code>
+  num = 1
+  while num &lt;= 5:
+      print(num)
+      num += 1  # Increases num by 1 in each loop
+      </code>
+    </pre>
+  
+    <h3>2. for Loop in Python</h3>
+    <p>A for loop is used to iterate over a sequence (like a list, string, or range of numbers).</p>
+    <pre>
+      <code>
+  for variable in sequence:
+      # Code to execute
+      </code>
+    </pre>
+    <p>Example 1: Printing numbers from 1 to 5</p>
+    <pre>
+      <code>
+  for num in range(1, 6):
+      print(num)
+      </code>
+    </pre>
+  
+    <h3>3. Nested Loops in Python</h3>
+    <p>A nested loop is a loop inside another loop.</p>
+    <p>Example: Printing a Pattern</p>
+    <pre>
+      <code>
+  for i in range(1, 4):   # Outer loop (rows)
+      for j in range(1, 4):  # Inner loop (columns)
+          print("*", end=" ")
+      print()  # Moves to the next line
+      </code>
+    </pre>
+  
+    <h3>When to Use Which Loop?</h3>
+    <table border="1">
+      <tr>
+        <th>Loop Type</th>
+        <th>Best For</th>
+      </tr>
+      <tr>
+        <td>while loop</td>
+        <td>When the number of iterations is unknown (repeat until a condition is false)</td>
+      </tr>
+      <tr>
+        <td>for loop</td>
+        <td>When looping through a sequence (like lists, strings, or a range of numbers)</td>
+      </tr>
+      <tr>
+        <td>Nested loops</td>
+        <td>When working with tables, patterns, or multi-level structures</td>
+      </tr>
+    </table>
+  
+    <h3>Conclusion</h3>
+    <ul>
+      <li>&#9989; <strong>while</strong> loop runs until a condition is false.</li>
+      <li>&#9989; <strong>for</strong> loop runs for a fixed number of times.</li>
+      <li>&#9989; <strong>Nested loops</strong> allow looping inside another loop.</li>
+    </ul>
+    <p>Python loops make programming efficient by reducing repetition. 🚀</p>
+</div>
+  

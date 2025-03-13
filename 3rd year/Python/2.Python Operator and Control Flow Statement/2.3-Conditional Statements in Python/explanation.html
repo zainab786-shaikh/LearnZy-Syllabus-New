@@ -1,0 +1,109 @@
+<div>
+  <h1>2.3 Conditional Statements in Python</h1>
+  <p>
+    Conditional statements in Python allow a program to make decisions based on
+    conditions. These statements help the program execute different code blocks
+    depending on whether a condition is True or False.
+  </p>
+  <p>Think of it like this:</p>
+  <ul>
+    <li>👉 If it's raining, take an umbrella.</li>
+    <li>👉 If it's sunny, wear sunglasses.</li>
+    <li>👉 If the weather is cloudy, you may or may not take an umbrella.</li>
+  </ul>
+  <p>
+    In Python, conditional statements work in the same way—making decisions
+    based on conditions.
+  </p>
+
+  <h2>1. if Statement</h2>
+  <p>
+    The if statement allows a program to execute a block of code only if a
+    certain condition is True.
+  </p>
+  <pre>
+if condition:
+    # Code to execute if condition is True</pre
+  >
+  <h3>Example 1: Checking if a number is positive</h3>
+  <pre>
+num = 10
+
+if num > 0:
+    print("The number is positive.")</pre
+  >
+
+  <h2>2. if … else Statement</h2>
+  <p>The if … else statement allows two possibilities:</p>
+  <pre>
+if condition:
+    # Code if condition is True
+else:
+    # Code if condition is False</pre
+  >
+  <h3>Example 2: Checking if a number is positive or negative</h3>
+  <pre>
+num = -5
+
+if num > 0:
+    print("The number is positive.")
+else:
+    print("The number is negative.")</pre
+  >
+
+  <h2>3. if … elif … else Statement</h2>
+  <p>
+    Sometimes, we have multiple conditions. Instead of writing multiple if
+    statements, we use elif (short for else if) to check additional conditions.
+  </p>
+  <pre>
+if condition1:
+    # Code if condition1 is True
+elif condition2:
+    # Code if condition2 is True
+else:
+    # Code if none of the conditions are True</pre
+  >
+  <h3>Example 3: Checking if a number is positive, negative, or zero</h3>
+  <pre>
+num = 0
+
+if num > 0:
+    print("The number is positive.")
+elif num < 0:
+    print("The number is negative.")
+else:
+    print("The number is zero.")</pre
+  >
+
+  <h2>4. Nested if Statement</h2>
+  <p>
+    A nested if statement is when an if statement is placed inside another if
+    statement.
+  </p>
+  <pre>
+if condition1:
+    if condition2:
+        # Code if both conditions are True</pre
+  >
+  <h3>Example 4: Checking if a number is positive and even</h3>
+  <pre>
+num = 8
+
+if num > 0:
+    print("The number is positive.")
+
+    if num % 2 == 0:
+        print("It is also even.")</pre
+  >
+
+  <h2>Real-Life Example: Age Verification System</h2>
+  <pre>
+age = int(input("Enter your age: "))
+
+if age >= 18:
+    print("You are eligible to vote.")
+else:
+    print("Sorry, you must be at least 18 years old to vote.")</pre
+  >
+</div>

@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "A Python script is a file that contains Python code and is saved with the .py extension.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "The Python Interactive Shell (IDLE) does not allow users to execute Python commands immediately.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Python scripts can only be run using an installed Python interpreter and not through an online compiler.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "The command `python welcome.py` is used to run a Python script from the command line.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Python requires a semicolon at the end of every print statement.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "The function `print()` is used to display messages on the screen in Python.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "In Python, the `input()` function is used to receive user input.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Python scripts must always contain a `main()` function to execute properly.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "A Python script saved with the .txt extension can be executed directly by the Python interpreter.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "A Python script can be created using Notepad, VS Code, or PyCharm.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "In Python, `print(\"Hello, World!\")` will display an error because it lacks a semicolon.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "The command `cd Desktop` is used to change the directory to the Desktop before running a script.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Python scripts cannot be executed from the terminal or command prompt.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "A Python script must always be named `script.py` to run successfully.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "In Python, using `*` in a print statement can be used to repeat characters.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "Python allows users to format output messages using variables and string concatenation.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "To run a Python script online, we can use platforms like Programiz and Replit.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "A Python script can contain multiple print statements to display multiple messages.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "To execute a Python script in IDLE, we must press F5 or click 'Run Module'.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "Python does not support user input through the `input()` function.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "Python scripts require compilation before execution.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "The command `python --version` is used to check the installed Python version.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "Python programs can only be executed in PyCharm.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "The print statement `print(\"Welcome to Python!\")` will output: Welcome to Python!",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "Python scripts can include loops, such as a `for` loop, to repeat messages multiple times.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "Python scripts can only be run on Windows operating systems.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "Python programs can only be written in an IDE and not in a text editor.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "In Python, a variable can be assigned a string value and used in a print statement.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "Python uses indentation instead of brackets `{}` for code blocks.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "Running `print(Welcome to Python!)` without quotes will result in an error.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "Python scripts do not require a specific file extension.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "Online Python compilers allow users to execute Python scripts without installing Python on their system.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "The `print()` function can display numbers, text, and variables.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "Python programs can run without being saved to a file using the interactive shell.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "Python scripts cannot contain more than one print statement.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "In Python, the `#` symbol is used to write comments in scripts.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "The `input()` function in Python requires an argument inside the parentheses.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "A Python script can be executed multiple times without modification.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "A Python script must contain at least one variable declaration.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "Python is a case-sensitive language, so `Print()` is different from `print()`.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "The `print()` function can only display text and not numbers.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "Python requires double quotes for strings and does not support single quotes.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "Python scripts can be modified and re-executed without re-installing Python.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "Python allows multiple variables to be declared in a single line.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "A Python script cannot be executed inside a Jupyter Notebook.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "To run a Python script in PyCharm, you must create a new Python project.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "Python programs always require an internet connection to run.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "A Python script can contain functions and loops.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "The command `python3 script.py` can be used on Linux and macOS to run a Python script.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "Python scripts must always start with a comment describing the program.",
+      "answer": false
+    }
+]
+  

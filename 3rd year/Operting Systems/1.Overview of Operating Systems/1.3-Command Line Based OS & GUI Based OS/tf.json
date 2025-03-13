@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that a Command Line Interface (CLI) OS requires users to type text commands to perform tasks.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that CLI-based operating systems support graphical icons and mouse interaction.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that DOS was one of the earliest operating systems used on personal computers.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that DOS was developed by Apple in the 1990s.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that in DOS, the 'dir' command is used to display files and folders in the current directory.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that UNIX was developed in the early 2000s.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that UNIX was developed at AT&T Bell Labs in 1969.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that UNIX is mainly used in personal home computers.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that the 'ls' command in UNIX is used to list files in a directory.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that the 'rm' command in UNIX is used to create a new directory.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that GUI-based operating systems allow users to interact with the system using icons, windows, and a mouse.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is false that Windows was developed in 1975.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that Windows was developed by Microsoft in 1985.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is false that Windows uses only command-line interaction without a graphical interface.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that Linux was developed by Linus Torvalds in 1991.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is false that Linux is a closed-source operating system.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that Linux is open-source, meaning it is free to use and modify.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is false that Linux does not support any graphical user interface.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that Linux supports both CLI and GUI interfaces.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is false that the main advantage of GUI-based OS is that they are difficult to use.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that GUI-based OS is easier to use compared to CLI-based OS.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is false that CLI-based OS is slower than GUI-based OS.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that CLI-based OS consumes less memory and is faster than GUI-based OS.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is false that Windows and Linux are examples of CLI-based operating systems.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that Windows and Linux are examples of GUI-based operating systems.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is false that UNIX and DOS are examples of GUI-based operating systems.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is true that UNIX and DOS are examples of CLI-based operating systems.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is false that Linux does not have different versions.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that Linux comes in different versions like Ubuntu, Fedora, and Debian.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is false that the 'mkdir' command is used to delete files in UNIX.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that the 'mkdir' command is used to create directories in UNIX.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is false that Windows is an open-source operating system.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that Windows is a proprietary operating system developed by Microsoft.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is false that Linux is mainly used for gaming and multimedia only.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that Linux is widely used by developers, servers, and cybersecurity experts.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is false that CLI-based OS does not require users to remember commands.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that CLI-based OS requires users to remember and type commands manually.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is false that GUI-based OS lacks any security features.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that GUI-based OS includes security features like user authentication and encryption.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is false that UNIX is an example of a GUI-based OS.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that UNIX is a CLI-based OS used mainly in servers.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is false that Windows is the only GUI-based OS available.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that both Windows and Linux provide a graphical user interface.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is false that CLI-based OS is commonly used in personal computers today.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is true that GUI-based OS is more common in personal computers.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is false that UNIX was originally designed for home users.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "It is true that UNIX was developed for multi-user environments like servers.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is false that Linux does not support software development.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "It is true that Linux is widely used for software development and security testing.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is false that the 'copy' command in DOS is used to delete files.",
+      "answer": true
+    }
+]
+  

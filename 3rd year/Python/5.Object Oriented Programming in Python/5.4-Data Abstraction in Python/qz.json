@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is data abstraction in Python?",
+      "options": [
+        "A process of exposing all internal details of a system",
+        "A process of hiding internal details and exposing only necessary functionality",
+        "A method to increase complexity",
+        "A way to define public variables"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "How is data abstraction achieved in Python?",
+      "options": [
+        "Using only abstract classes",
+        "Using classes and objects along with abstract classes",
+        "Using private variables",
+        "Using public methods"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the purpose of using abstract classes in Python?",
+      "options": [
+        "To provide full implementation of methods",
+        "To define methods without implementation",
+        "To import modules",
+        "To define functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Can you instantiate an abstract class in Python?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What is the benefit of using data abstraction in programming?",
+      "options": [
+        "It increases complexity",
+        "It simplifies complex systems by hiding unnecessary details",
+        "It reduces security",
+        "It decreases code reusability"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "How do you implement data abstraction using abstract classes in Python?",
+      "options": [
+        "By importing the ABC module and defining abstract methods",
+        "By using only concrete classes",
+        "By importing modules",
+        "By defining functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "What is the role of the ABC module in Python?",
+      "options": [
+        "To provide a framework for defining abstract classes",
+        "To import modules",
+        "To define functions",
+        "To create concrete classes"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Can you use data abstraction to improve code security?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What is the effect of using abstract methods in a class?",
+      "options": [
+        "They provide full implementation",
+        "They do not provide implementation and must be overridden",
+        "They increase complexity",
+        "They reduce security"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Can you use data abstraction to enhance code reusability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "What is the purpose of using abstract classes in real-world applications?",
+      "options": [
+        "To make code more complex",
+        "To provide a blueprint for other classes with required methods",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Can you use data abstraction to improve code maintainability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "What happens if a subclass does not implement an abstract method?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It provides a default implementation",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Can you use data abstraction to simplify complex tasks?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "What is the effect of using data abstraction in object-oriented programming?",
+      "options": [
+        "It makes code more procedural",
+        "It simplifies complex systems by hiding unnecessary details",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Can you use data abstraction to improve code flexibility?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "What is the purpose of using the @abstractmethod decorator in Python?",
+      "options": [
+        "To define a concrete method",
+        "To define an abstract method",
+        "To import modules",
+        "To define functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Can you use data abstraction to handle different data types?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "What happens if you try to instantiate an abstract class without implementing all abstract methods?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It provides a default implementation",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Can you use data abstraction to improve code readability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "What is the benefit of using abstract classes in data abstraction?",
+      "options": [
+        "They provide full implementation of methods",
+        "They define methods without implementation, ensuring subclasses implement them",
+        "They reduce security",
+        "They decrease code reusability"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 22,
+      "question": "Can you use data abstraction to reduce debugging time?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "What is the effect of using data abstraction in real-world applications like banking systems?",
+      "options": [
+        "It reduces security and reliability",
+        "It increases security and reliability by hiding internal details",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "Can you use data abstraction to improve code maintainability by organizing related data and behavior?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "What happens if you try to access an abstract method directly?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It provides a default implementation",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Can you use data abstraction to handle exceptions?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "What is the purpose of using data abstraction in object-oriented programming?",
+      "options": [
+        "To make code more procedural",
+        "To simplify complex systems by hiding unnecessary details",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "Can you use data abstraction to improve code efficiency?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "What is the effect of using abstract classes in modular programming?",
+      "options": [
+        "It makes code more complex",
+        "It breaks down code into smaller reusable modules with abstract interfaces",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "Can you use data abstraction to improve code flexibility by providing different implementations?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "What happens if you try to create an object of an abstract class without implementing all abstract methods?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It provides a default implementation",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Can you use data abstraction to improve code security by hiding internal implementation?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "What is the purpose of using the ABC module in data abstraction?",
+      "options": [
+        "To provide a framework for defining abstract classes",
+        "To import modules",
+        "To define functions",
+        "To create concrete classes"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "Can you use data abstraction to handle different scenarios based on input?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "What happens if a subclass does not override an abstract method?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It provides a default implementation",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "Can you use data abstraction to improve code maintainability by reducing interdependencies?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "What is the benefit of using data abstraction in real-world applications like ATMs?",
+      "options": [
+        "It reduces security and reliability",
+        "It increases security and reliability by hiding internal details",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "Can you use data abstraction to improve code flexibility by organizing data access?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "What happens if you try to access an abstract method without overriding it?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It provides a default implementation",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "Can you use data abstraction to reduce debugging time by isolating complex details?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "What is the effect of using data abstraction in object-oriented programming?",
+      "options": [
+        "It makes code more procedural",
+        "It simplifies complex systems by hiding unnecessary details",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "Can you use data abstraction to improve code maintainability by organizing related data and behavior?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "What happens if you try to instantiate an abstract class without implementing all abstract methods?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It provides a default implementation",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "Can you use data abstraction to improve code security by restricting unauthorized access?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "What is the purpose of using abstract classes in modular programming?",
+      "options": [
+        "To make code more complex",
+        "To break down code into smaller reusable modules with abstract interfaces",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "Can you use data abstraction to handle exceptions by isolating sensitive data?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "What is the effect of using data abstraction in real-world applications like secure login systems?",
+      "options": [
+        "It reduces security and reliability",
+        "It increases security and reliability by hiding internal details",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "Can you use data abstraction to improve code flexibility by providing different implementations?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Can you use data abstraction to simplify complex tasks by hiding unnecessary details?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Can you use data abstraction to improve code maintainability by organizing related data and behavior?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    }
+]
+  

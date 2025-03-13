@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "Access methods define how data is ________ from or ________ to a storage device.",
+      "options": ["deleted, retrieved", "organized, managed", "read, written", "transferred, copied"],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "In ________ access, data is read or written in a specific order, one after another.",
+      "options": ["random", "direct", "sequential", "indexed"],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "An example of sequential access is a ________.",
+      "options": ["cassette tape", "USB drive", "hard disk", "SSD"],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Direct access is also known as ________ access.",
+      "options": ["random", "indexed", "linked", "contiguous"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "A ________ allows you to directly jump to the required data without reading everything before it.",
+      "options": ["sequential system", "direct access method", "linked list", "contiguous block"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Hard drives and SSDs use ________ access to retrieve files quickly.",
+      "options": ["sequential", "direct", "linked", "contiguous"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Swapping is a memory management technique that moves processes between ________ and disk storage.",
+      "options": ["CPU", "RAM", "GPU", "Cache"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "In swapping, inactive applications are moved to ________ when RAM gets full.",
+      "options": ["CPU", "GPU", "cache memory", "disk storage"],
+      "answer": 4
+    },
+    {
+      "id": 9,
+      "question": "File allocation methods define how files are ________ on a disk.",
+      "options": ["organized", "deleted", "stored", "compressed"],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "In contiguous allocation, a file is stored in ________.",
+      "options": ["scattered blocks", "a continuous block", "an index table", "linked fragments"],
+      "answer": 2
+    }
+]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Energy conservation means using energy ________ and reducing waste.",
+      "options": [
+        "carelessly",
+        "wisely",
+        "recklessly",
+        "excessively"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Natural resources like coal, oil, and gas are ________ in supply.",
+      "options": [
+        "unlimited",
+        "renewable",
+        "limited",
+        "everlasting"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Burning fossil fuels releases ________ into the atmosphere, causing pollution.",
+      "options": [
+        "carbon dioxide",
+        "oxygen",
+        "nitrogen",
+        "hydrogen"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Using LED bulbs instead of traditional bulbs helps in ________ energy consumption.",
+      "options": [
+        "increasing",
+        "wasting",
+        "reducing",
+        "ignoring"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Public transport and carpooling help conserve ________ resources.",
+      "options": [
+        "water",
+        "fuel",
+        "electricity",
+        "sunlight"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Energy conservation helps in reducing ________ bills.",
+      "options": [
+        "electricity",
+        "water",
+        "food",
+        "gas"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Using energy-efficient appliances like refrigerators with a 5-star rating helps in ________ energy.",
+      "options": [
+        "saving",
+        "wasting",
+        "producing",
+        "ignoring"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Keeping an air conditioner at ________ instead of 18°C helps save energy.",
+      "options": [
+        "15°C",
+        "30°C",
+        "24°C",
+        "10°C"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Solar panels are used to generate ________, reducing the use of fossil fuels.",
+      "options": [
+        "coal",
+        "electricity",
+        "gas",
+        "petrol"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Smart homes use ________ lights that turn off when no one is in the room.",
+      "options": [
+        "manual",
+        "automatic",
+        "incandescent",
+        "non-functional"
+      ],
+      "answer": 2
+    }
+]
+  

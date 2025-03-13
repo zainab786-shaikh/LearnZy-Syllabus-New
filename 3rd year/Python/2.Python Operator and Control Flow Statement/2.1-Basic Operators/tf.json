@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that the addition operator (+) in Python is used to add two numbers.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that the exponentiation operator (**) is used for division.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "The modulus operator (%) returns the quotient of two numbers.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "The floor division operator (//) in Python removes the decimal part of a division result.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is false that the multiplication operator (*) cannot be used with strings.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "The comparison operator (==) checks if two values are exactly the same.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The operator (!=) returns True if both values are equal.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "The logical AND operator (and) returns True if both conditions are True.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "The logical OR operator (or) returns True only if both conditions are True.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "The NOT operator (not) inverts the Boolean value of a condition.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "Bitwise operators work at the binary level in Python.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "The bitwise AND operator (&) returns 1 if either bit is 1.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "The bitwise OR operator (|) returns 1 if either bit is 1.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "The membership operator 'in' checks if a value is present in a sequence.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "The membership operator 'not in' returns True if the value exists in the sequence.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "Identity operators check whether two variables refer to the same object in memory.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "The 'is' operator returns True if two variables store the same values, regardless of memory location.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "Operator precedence determines the order in which expressions are evaluated in Python.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Parentheses () have the lowest precedence among all Python operators.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "The expression 2 + 3 * 4 evaluates to 14 because multiplication has higher precedence.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "Using parentheses in an expression changes the order of evaluation.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "The exponentiation operator (**) has a lower precedence than multiplication (*).",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "In Python, x += 5 is equivalent to x = x + 5.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "The assignment operator '=' is used for comparison between two values.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "Python supports array operators as built-in functionality.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "NumPy is commonly used for array operations in Python.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "Using 'is not' returns True when two variables refer to the same object in memory.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "The floor division operator (//) returns a float result always.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "The modulus operator (%) can be used to determine if a number is even or odd.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "The NOT (~) operator inverts Boolean values but does not work on integers.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "Using parentheses in expressions can override operator precedence.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "Python supports the use of multiple assignment operators in a single statement.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "The logical AND operator (and) has higher precedence than the logical OR operator (or).",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "The expression 5 == '5' evaluates to True in Python.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "The greater than operator (>) and the less than operator (<) have the same precedence.",
+      "answer": true
+    }
+]
+  

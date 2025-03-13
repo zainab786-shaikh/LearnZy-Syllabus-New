@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary purpose of a work permit?",
+      "options": [
+        "To reduce safety measures",
+        "To ensure safety, prevent unauthorized work, and comply with legal requirements",
+        "To only comply with legal regulations",
+        "To increase productivity"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What is an example of a Hot Work Permit?",
+      "options": [
+        "Painting a wall",
+        "Welding metal pipes in a factory",
+        "Repairing a water pipeline",
+        "Cleaning a window"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Why is a Hot Work Permit necessary for welding tasks?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures fire safety measures are in place",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What is a Cold Work Permit used for?",
+      "options": [
+        "Tasks involving heat or sparks",
+        "Tasks not involving heat, such as mechanical work or painting",
+        "Only electrical repairs",
+        "Only excavation work"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Why is a Confined Space Work Permit important?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures safe entry into confined spaces with potential hazards",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "What is an example of a Confined Space Work Permit?",
+      "options": [
+        "Cleaning a large underground water tank",
+        "Welding metal pipes",
+        "Painting a wall",
+        "Digging a trench"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Why is an Electrical Work Permit necessary?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures safety while working with live electrical systems",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of an Excavation Work Permit?",
+      "options": [
+        "To prevent unauthorized work",
+        "To ensure safety during digging or trenching activities",
+        "To only comply with legal regulations",
+        "To increase productivity"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Why is a Working at Heights Permit important?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures safety for tasks performed at elevated heights",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "What happens if a worker performs a hazardous task without a required permit?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to lack of safety measures",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "How do work permits impact organizational safety?",
+      "options": [
+        "They decrease safety",
+        "They have no impact on safety",
+        "They improve safety by requiring proper precautions",
+        "They only affect productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Why is legal compliance important for work permits?",
+      "options": [
+        "It reduces compliance",
+        "It has no impact on compliance",
+        "It ensures adherence to legal requirements for hazardous tasks",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "What is the role of a work permit in preventing accidents?",
+      "options": [
+        "To increase accident risks",
+        "To have no impact on accident risks",
+        "To prevent accidents by ensuring trained personnel and safety measures",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Why is environmental protection important in work permits?",
+      "options": [
+        "It reduces environmental protection",
+        "It has no impact on environmental protection",
+        "It includes guidelines to prevent pollution and damage",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "What is the benefit of having a work permit for foreign employees?",
+      "options": [
+        "It reduces legal compliance",
+        "It has no impact on legal compliance",
+        "It provides legal permission to work in a foreign country",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "What happens if a foreign worker does not have a required work permit?",
+      "options": [
+        "They can work legally",
+        "They face no legal consequences",
+        "They may face fines or deportation",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "How does a work permit ensure accountability?",
+      "options": [
+        "It reduces accountability",
+        "It has no impact on accountability",
+        "It tracks who is responsible for a particular job",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "What is the first step in obtaining a work permit?",
+      "options": [
+        "Review and approval",
+        "Training and inspection",
+        "Application submission",
+        "Permit issuance"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "Why is it important to follow safety guidelines specified in a work permit?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents accidents by ensuring proper safety measures",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "What happens if a work permit is used beyond its expiry date?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to outdated safety measures",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "How does a work permit impact employee morale?",
+      "options": [
+        "It decreases morale",
+        "It has no impact on morale",
+        "It improves morale by providing a safe work environment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "What is the role of a supervisor in ensuring compliance with work permits?",
+      "options": [
+        "To reduce compliance",
+        "To have no impact on compliance",
+        "To ensure that workers follow the conditions specified in the permit",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 23,
+      "question": "Why is it important to conduct safety training for workers before issuing a permit?",
+      "options": [
+        "It reduces safety awareness",
+        "It has no impact on safety awareness",
+        "It educates workers on safety procedures and hazards",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 24,
+      "question": "What happens if a work permit is not properly reviewed and approved?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to unaddressed hazards",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "question": "How does a work permit impact organizational culture?",
+      "options": [
+        "It decreases positive culture",
+        "It has no impact on culture",
+        "It improves culture by promoting safety and accountability",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 26,
+      "question": "What is the benefit of having a comprehensive work permit system?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It improves safety by managing hazards and ensuring compliance",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 27,
+      "question": "Why is it important to ensure that work permits are issued for the correct duration?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures that safety measures are relevant and up-to-date",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 28,
+      "question": "What happens if a worker uses a fake work permit?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to unauthorized work",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 29,
+      "question": "How does a work permit impact organizational sustainability?",
+      "options": [
+        "It decreases sustainability",
+        "It has no impact on sustainability",
+        "It improves sustainability by preventing accidents and environmental damage",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question": "What is the role of a safety officer in ensuring compliance with work permits?",
+      "options": [
+        "To reduce safety measures",
+        "To have no impact on safety measures",
+        "To monitor safety protocols and ensure compliance",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 31,
+      "question": "Why is it important to inspect the worksite before issuing a permit?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures that the site meets all safety conditions",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 32,
+      "question": "What happens if a work permit is not properly documented?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to lack of accountability",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 33,
+      "question": "How does a work permit impact employee retention?",
+      "options": [
+        "It decreases retention",
+        "It has no impact on retention",
+        "It increases retention by providing a safe work environment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 34,
+      "question": "What is the benefit of having clear guidelines in a work permit?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures that workers understand safety procedures and hazards",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 35,
+      "question": "Why is it important to specify the duration of work in a permit?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures that safety measures are relevant for the duration of the task",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "What happens if a work permit is not properly supervised?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to lack of oversight",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 37,
+      "question": "How does a work permit impact organizational adaptability?",
+      "options": [
+        "It decreases adaptability",
+        "It has no impact on adaptability",
+        "It improves adaptability by ensuring flexibility in response to safety needs",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 38,
+      "question": "What is the role of an escalation reviewer in a work permit process?",
+      "options": [
+        "To reduce safety measures",
+        "To have no impact on safety measures",
+        "To override decisions in case of disputes or unavailability",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 39,
+      "question": "Why is it important to ensure that work permits are accessible and retrievable?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures that permits can be easily stored and retrieved for compliance",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 40,
+      "question": "What happens if a work permit is not properly inspected before issuance?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to unaddressed hazards",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 41,
+      "question": "How does a work permit impact employee well-being?",
+      "options": [
+        "It decreases well-being",
+        "It has no impact on well-being",
+        "It improves well-being by providing a safe work environment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 42,
+      "question": "What is the benefit of having a comprehensive checklist for work permits?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures that all safety aspects are covered",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 43,
+      "question": "Why is it important to specify safety gear in a work permit?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures that workers use necessary protective equipment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 44,
+      "question": "What happens if a work permit is not properly reviewed by authorities?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to unaddressed hazards",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 45,
+      "question": "How does a work permit impact organizational reputation?",
+      "options": [
+        "It decreases reputation",
+        "It has no impact on reputation",
+        "It improves reputation by demonstrating a commitment to safety",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 46,
+      "question": "What is the role of a work permit in ensuring legal compliance for foreign workers?",
+      "options": [
+        "To reduce compliance",
+        "To have no impact on compliance",
+        "To provide legal permission to work in a foreign country",
+        "To only affect productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 47,
+      "question": "Why is it important to ensure that work permits are issued for the correct type of work?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures that safety measures are relevant to the task",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 48,
+      "question": "What happens if a work permit is not properly documented and stored?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to lack of accountability",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 49,
+      "question": "How does a work permit impact employee engagement?",
+      "options": [
+        "It decreases engagement",
+        "It has no impact on engagement",
+        "It increases engagement by providing a safe work environment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 50,
+      "question": "What is the overall impact of effective work permit systems on organizational performance?",
+      "options": [
+        "It decreases performance",
+        "It has no impact on performance",
+        "It improves performance by ensuring safety and compliance",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    }
+]
+  

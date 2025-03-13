@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that budgeting helps in estimating and allocating financial resources efficiently.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that manpower refers to only unskilled workers in a project.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that raw materials, tools, and equipment are considered essential materials for a project.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that estimating material costs does not include checking market prices from suppliers.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that buying materials in bulk can help in reducing costs.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that labor costs include only basic salaries and wages.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that manpower budgeting should consider benefits, insurance, and overtime pay.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that budgeting for manpower does not require identifying the number of workers needed.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that hiring only essential workers can help reduce manpower costs.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that supervisors do not play any role in organizing physical resources.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that organizing physical resources ensures a smooth workflow and reduces wastage.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is false that a restaurant supervisor does not need to organize ingredients and cooking equipment.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that matching employees to suitable jobs improves productivity and job satisfaction.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is false that work-life balance is not a factor in matching human needs with job needs.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that a software developer should be assigned programming tasks instead of customer support duties.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is false that junior nurses should handle critical patient care without proper training.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that a proper chain of command helps prevent confusion and promotes teamwork.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is false that engineers should handle brick-laying tasks on a construction site.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that task allotment ensures each worker knows their specific role.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is false that supervisors should not monitor and adjust task allotment.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that directing at the supervisory level involves guiding and supervising employees.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is false that incomplete instructions can improve workplace efficiency.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that clear instructions help avoid mistakes and delays in a project.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is false that feasibility of instructions is not important for employees.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that a supervisor must ensure that mobile phone assembly workers follow proper steps.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is false that feasibility in instructions means making them complicated.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that supervisors should explain tasks clearly to avoid defective products.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is false that training workers does not contribute to cost reduction.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that motivation plays an important role in improving worker performance.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is false that providing fair wages is unnecessary for employee motivation.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that discipline in the workplace ensures smooth operations.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is false that giving detailed instructions leads to confusion among workers.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that a supervisor’s role includes correcting mistakes made by employees.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is false that teamwork and cooperation are unimportant in an organization.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that establishing relationships among workers can reduce conflicts.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is false that a disorganized workplace leads to better productivity.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that organizing and budgeting go hand in hand in project planning.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is false that setting a realistic budget is unnecessary for project success.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that an efficient supervisor ensures both materials and manpower are well managed.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is false that unnecessary hiring of workers reduces manpower costs.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that work efficiency improves when tasks match employee skills.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is false that businesses do not need to plan for unexpected expenses.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that a clear reporting structure speeds up decision-making.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is false that supervisors do not need to track worker performance.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that reducing wastage of materials helps maintain the project budget.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is false that workers perform best when given unclear instructions.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that proper direction ensures employees stay motivated and productive.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is false that discipline in the workplace negatively impacts employee performance.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that a well-organized workplace increases overall efficiency.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is false that organizing tasks is unnecessary for company success.",
+      "answer": false
+    }
+]
+  

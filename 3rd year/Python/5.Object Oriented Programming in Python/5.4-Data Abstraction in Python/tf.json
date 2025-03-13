@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that data abstraction in Python involves hiding internal implementation details and exposing only necessary functionalities.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is true that data abstraction in Python does not involve hiding internal implementation details.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that data abstraction helps in simplifying complex systems by focusing on what is needed rather than how it works.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is true that data abstraction does not simplify complex systems.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that data abstraction in Python is achieved using classes and objects.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is true that data abstraction in Python is not achieved using classes and objects.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that abstract classes in Python are used to implement data abstraction.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is true that abstract classes in Python are not used to implement data abstraction.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that abstract methods in Python do not have an implementation.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that abstract methods in Python must have an implementation.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that a subclass must implement abstract methods inherited from an abstract class.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that a subclass does not need to implement abstract methods inherited from an abstract class.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that data abstraction improves code reusability by allowing abstract classes to be reused.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that data abstraction does not improve code reusability.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that data abstraction enhances flexibility by allowing different implementations of abstract methods.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is true that data abstraction does not enhance flexibility.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that data abstraction is used in real-life applications like ATMs and cars to improve security and maintainability.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is true that data abstraction is not used in real-life applications like ATMs and cars.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that the ABC module in Python is used to define abstract classes.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that the ABC module in Python is not used to define abstract classes.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that abstract classes in Python cannot be instantiated directly.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is true that abstract classes in Python can be instantiated directly.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that data abstraction helps in managing complexity by focusing on essential functionalities.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that data abstraction does not help in managing complexity.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that data abstraction improves code readability by exposing only necessary information.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that data abstraction does not improve code readability.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that data abstraction is a fundamental concept in object-oriented programming.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is true that data abstraction is not a fundamental concept in object-oriented programming.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that data abstraction aids in enhancing code maintainability.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that data abstraction does not aid in enhancing code maintainability.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that data abstraction increases security by hiding internal implementation details.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that data abstraction does not increase security.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that data abstraction is similar to encapsulation but focuses on hiding implementation details.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that data abstraction is not similar to encapsulation.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that data abstraction helps in organizing code better by focusing on essential functionalities.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is true that data abstraction does not help in organizing code better.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that data abstraction is used in software development to build robust and maintainable systems.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is true that data abstraction is not used in software development to build robust and maintainable systems.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that abstract classes can have both abstract and concrete methods.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is true that abstract classes can only have abstract methods.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that data abstraction is beneficial for reducing complexity in large systems.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is true that data abstraction is not beneficial for reducing complexity in large systems.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that data abstraction helps in improving the scalability of software systems.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is true that data abstraction does not help in improving the scalability of software systems.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that data abstraction is essential for building efficient and maintainable codebases.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that data abstraction is not essential for building efficient and maintainable codebases.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that data abstraction aids in creating modular code structures.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that data abstraction does not aid in creating modular code structures.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that data abstraction is a key concept in object-oriented programming that simplifies complex systems.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that data abstraction is not a key concept in object-oriented programming.",
+      "answer": false
+    }
+]
+  

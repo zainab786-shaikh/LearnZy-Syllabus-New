@@ -1,0 +1,355 @@
+[
+    {
+      "id": 1,
+      "question": "What is the main purpose of virtual memory?",
+      "options": [
+        "To increase the CPU speed",
+        "To allow programs larger than available RAM to run",
+        "To reduce the need for paging",
+        "To manage disk space efficiently"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What is Paging in memory management?",
+      "options": [
+        "Dividing memory into logical sections",
+        "Dividing memory into fixed-size blocks called frames",
+        "Dividing memory into variable-sized blocks",
+        "Dividing memory into small, non-contiguous parts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which type of memory fragmentation is caused by unused space within allocated blocks?",
+      "options": [
+        "External Fragmentation",
+        "Internal Fragmentation",
+        "External Memory Loss",
+        "Internal Memory Loss"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "What is Segmentation in memory management?",
+      "options": [
+        "Dividing memory into small fixed-size blocks",
+        "Dividing memory into logical sections based on the program's needs",
+        "Dividing memory into random sizes",
+        "Dividing memory into the same size chunks"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is true about Segmentation?",
+      "options": [
+        "It causes internal fragmentation",
+        "It divides memory into logical segments",
+        "It is simpler than paging",
+        "It reduces the need for virtual memory"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What causes External Fragmentation?",
+      "options": [
+        "Variable memory allocation",
+        "Fixed memory allocation",
+        "Excessive memory swapping",
+        "Large memory blocks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "How does paging help avoid external fragmentation?",
+      "options": [
+        "By using variable-sized partitions",
+        "By using fixed-size blocks called pages",
+        "By swapping pages between RAM and disk",
+        "By reducing the total amount of memory needed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which type of fragmentation occurs when free memory is scattered in small blocks?",
+      "options": [
+        "External Fragmentation",
+        "Internal Fragmentation",
+        "Page Fault Fragmentation",
+        "Segmentation Fragmentation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of a Page Table in memory management?",
+      "options": [
+        "To store the pages in RAM",
+        "To track the location of each page in virtual memory",
+        "To store program data",
+        "To map the process code to physical memory"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is a Page Fault?",
+      "options": [
+        "When a page is available in RAM",
+        "When a program tries to access a page not in RAM",
+        "When the page table is full",
+        "When a process completes execution"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "What is the difference between a Minor and a Major Page Fault?",
+      "options": [
+        "Minor occurs when a page is missing from RAM; Major occurs when it's in RAM but not linked",
+        "Minor occurs when the page is not in RAM; Major occurs when it's missing from RAM",
+        "Minor requires fewer resources to fix; Major requires more",
+        "Minor happens when a page is in RAM; Major happens when a page is missing"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "How can you reduce Page Faults?",
+      "options": [
+        "By increasing the number of pages used",
+        "By increasing RAM size and optimizing program execution",
+        "By using larger page sizes",
+        "By reducing the use of paging"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "What type of fragmentation does Segmentation cause?",
+      "options": [
+        "External Fragmentation",
+        "Internal Fragmentation",
+        "Both external and internal",
+        "Neither"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is an advantage of Paging?",
+      "options": [
+        "No external fragmentation",
+        "Better memory usage",
+        "Faster program execution",
+        "All of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "What is the main disadvantage of Paging?",
+      "options": [
+        "Causes external fragmentation",
+        "Increases internal fragmentation",
+        "Requires continuous memory allocation",
+        "Is inefficient for small programs"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "How does Paging solve the issue of external fragmentation?",
+      "options": [
+        "By using fixed-size memory blocks",
+        "By rearranging memory blocks",
+        "By reducing the size of pages",
+        "By increasing the size of RAM"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "What happens when a Page Fault occurs?",
+      "options": [
+        "The page is fetched from RAM",
+        "The page is moved to virtual memory",
+        "The page is loaded from secondary storage to RAM",
+        "The system stops execution until the page is available"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "What is a disadvantage of Segmentation?",
+      "options": [
+        "It causes internal fragmentation",
+        "It increases the complexity of memory management",
+        "It requires more space than paging",
+        "It eliminates the need for virtual memory"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Which technique helps in reducing external fragmentation in memory management?",
+      "options": [
+        "Segmentation",
+        "Paging",
+        "Dynamic memory allocation",
+        "Fixed memory partitioning"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "What does the operating system use to track the allocation of pages in virtual memory?",
+      "options": [
+        "Page Table",
+        "Process Table",
+        "Fragmentation Table",
+        "Memory Allocation Table"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "What is the main advantage of Segmentation?",
+      "options": [
+        "Reduces external fragmentation",
+        "Simplifies memory allocation",
+        "Allows for logical grouping of data",
+        "Provides fixed-sized blocks for memory allocation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is caused by inefficient allocation of memory in the paging technique?",
+      "options": [
+        "Internal Fragmentation",
+        "External Fragmentation",
+        "Both internal and external fragmentation",
+        "Memory Overload"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "What can help reduce the number of page faults?",
+      "options": [
+        "Decreasing the number of processes running",
+        "Using larger pages",
+        "Increasing RAM size",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 24,
+      "question": "In virtual memory, where are pages stored when they are not in RAM?",
+      "options": [
+        "Secondary storage (e.g., Hard Disk)",
+        "Cache memory",
+        "Main memory",
+        "Process buffer"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Which memory management technique involves dividing a program into logical sections?",
+      "options": [
+        "Paging",
+        "Segmentation",
+        "Fragmentation",
+        "Compaction"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "Which technique is more prone to cause external fragmentation?",
+      "options": [
+        "Paging",
+        "Segmentation",
+        "Both Paging and Segmentation",
+        "Neither"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is true about Paging?",
+      "options": [
+        "It allows memory allocation in logical sections",
+        "It does not suffer from external fragmentation",
+        "It is complex to manage",
+        "It causes internal fragmentation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is a solution to external fragmentation?",
+      "options": [
+        "Paging",
+        "Segmentation",
+        "Compaction",
+        "Both Paging and Compaction"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 29,
+      "question": "What is an example of a situation where a page fault occurs?",
+      "options": [
+        "A program accesses memory in a continuous sequence",
+        "A program requests data not present in RAM",
+        "A program completes its execution",
+        "A page is linked properly in memory"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "What happens during a Page Fault?",
+      "options": [
+        "The page is swapped out",
+        "The page is fetched from RAM",
+        "The page is fetched from virtual memory",
+        "The process is terminated"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 31,
+      "question": "What is a key benefit of Segmentation over Paging?",
+      "options": [
+        "Less external fragmentation",
+        "No internal fragmentation",
+        "Smaller memory allocation",
+        "Faster program execution"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 32,
+      "question": "Which of the following reduces the overhead of managing memory in virtual memory systems?",
+      "options": [
+        "Using large pages",
+        "Using small pages",
+        "Dynamic memory allocation",
+        "Paging and Segmentation together"
+      ],
+      "answer": 1
+    }
+]
+  

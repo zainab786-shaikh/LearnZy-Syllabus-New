@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "The process that arrives first is executed first in the ________ scheduling algorithm.",
+      "options": [
+        "First Come First Served (FCFS)",
+        "Shortest Job First (SJF)",
+        "Round Robin (RR)",
+        "Multilevel Queue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "The ________ scheduling algorithm uses a fixed time quantum for each process.",
+      "options": [
+        "First Come First Served (FCFS)",
+        "Round Robin (RR)",
+        "Priority Scheduling",
+        "Shortest Job First (SJF)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "In ________ scheduling, the task with the shortest remaining time is always given priority.",
+      "options": [
+        "Shortest Remaining Time Next (SRTN)",
+        "First Come First Served (FCFS)",
+        "Priority Scheduling",
+        "Round Robin (RR)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "The ________ algorithm ensures that the CPU is allocated to tasks based on their priority.",
+      "options": [
+        "Priority Scheduling",
+        "First Come First Served (FCFS)",
+        "Shortest Job First (SJF)",
+        "Multilevel Queue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "In ________ scheduling, the task that arrives first is executed first, but once started, it cannot be interrupted.",
+      "options": [
+        "Preemptive Scheduling",
+        "Non-preemptive Scheduling",
+        "Multilevel Queue",
+        "Shortest Job First (SJF)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The ________ scheduling algorithm is best suited for systems where important tasks need to finish first.",
+      "options": [
+        "Shortest Job First (SJF)",
+        "Priority Scheduling",
+        "Multilevel Queue",
+        "First Come First Served (FCFS)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "In ________ scheduling, the CPU switches between processes based on a fixed time quantum.",
+      "options": [
+        "Shortest Job First (SJF)",
+        "Round Robin (RR)",
+        "First Come First Served (FCFS)",
+        "Multilevel Queue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "The ________ scheduling algorithm does not allow a process to interrupt another process until it completes.",
+      "options": [
+        "Preemptive Scheduling",
+        "Non-preemptive Scheduling",
+        "Shortest Remaining Time Next (SRTN)",
+        "Round Robin (RR)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "In ________ scheduling, processes are divided into multiple queues with different priorities.",
+      "options": [
+        "Multilevel Queue",
+        "Shortest Job First (SJF)",
+        "Priority Scheduling",
+        "Round Robin (RR)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "The ________ scheduling algorithm is known for its simplicity but can cause long wait times for some processes.",
+      "options": [
+        "First Come First Served (FCFS)",
+        "Priority Scheduling",
+        "Round Robin (RR)",
+        "Shortest Job First (SJF)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "In ________ scheduling, a process can be preempted if a higher-priority process arrives.",
+      "options": [
+        "Preemptive Scheduling",
+        "Non-preemptive Scheduling",
+        "Multilevel Queue",
+        "First Come First Served (FCFS)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "The ________ scheduling algorithm aims to minimize the average waiting time for processes.",
+      "options": [
+        "Shortest Job First (SJF)",
+        "Round Robin (RR)",
+        "Priority Scheduling",
+        "Multilevel Queue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "In ________ scheduling, a process is only executed after other higher-priority processes have finished.",
+      "options": [
+        "Non-preemptive Scheduling",
+        "Preemptive Scheduling",
+        "Multilevel Queue",
+        "Shortest Job First (SJF)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "The ________ scheduling algorithm can be preemptive or non-preemptive, depending on the implementation.",
+      "options": [
+        "Priority Scheduling",
+        "Multilevel Queue",
+        "First Come First Served (FCFS)",
+        "Shortest Job First (SJF)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "The ________ scheduling algorithm helps prevent starvation by using aging to gradually increase the priority of waiting tasks.",
+      "options": [
+        "Priority Scheduling",
+        "First Come First Served (FCFS)",
+        "Shortest Job First (SJF)",
+        "Round Robin (RR)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "The ________ scheduling algorithm can lead to starvation of low-priority tasks if aging is not used.",
+      "options": [
+        "Priority Scheduling",
+        "First Come First Served (FCFS)",
+        "Shortest Job First (SJF)",
+        "Multilevel Queue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The ________ scheduling algorithm can result in frequent context switching if the time slice is too small.",
+      "options": [
+        "Round Robin (RR)",
+        "Shortest Job First (SJF)",
+        "Priority Scheduling",
+        "First Come First Served (FCFS)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "In ________ scheduling, the CPU switches to the process that has the shortest remaining execution time.",
+      "options": [
+        "Shortest Remaining Time Next (SRTN)",
+        "First Come First Served (FCFS)",
+        "Round Robin (RR)",
+        "Priority Scheduling"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "The ________ scheduling algorithm is often used in systems where processes are grouped based on priority.",
+      "options": [
+        "Multilevel Queue",
+        "Priority Scheduling",
+        "Shortest Job First (SJF)",
+        "First Come First Served (FCFS)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "The ________ scheduling algorithm minimizes the number of processes that wait in line.",
+      "options": [
+        "First Come First Served (FCFS)",
+        "Round Robin (RR)",
+        "Shortest Job First (SJF)",
+        "Priority Scheduling"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "In the ________ scheduling algorithm, each task gets a fixed time slice in a circular manner.",
+      "options": [
+        "Shortest Job First (SJF)",
+        "Multilevel Queue",
+        "Round Robin (RR)",
+        "First Come First Served (FCFS)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "The ________ scheduling algorithm executes processes with the shortest total remaining execution time first.",
+      "options": [
+        "Shortest Remaining Time Next (SRTN)",
+        "Priority Scheduling",
+        "Round Robin (RR)",
+        "First Come First Served (FCFS)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "The ________ scheduling algorithm may cause processes to starve if they are constantly preempted.",
+      "options": [
+        "Priority Scheduling",
+        "Round Robin (RR)",
+        "Shortest Job First (SJF)",
+        "First Come First Served (FCFS)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "In ________ scheduling, processes with the same priority are executed based on their arrival time.",
+      "options": [
+        "Multilevel Queue",
+        "Priority Scheduling",
+        "Shortest Job First (SJF)",
+        "Round Robin (RR)"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 25,
+      "question": "In the ________ scheduling algorithm, the CPU selects the process with the shortest job to execute.",
+      "options": [
+        "Shortest Job First (SJF)",
+        "Multilevel Queue",
+        "Priority Scheduling",
+        "Round Robin (RR)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "The ________ scheduling algorithm is especially useful in systems where time-sharing is important.",
+      "options": [
+        "Round Robin (RR)",
+        "Priority Scheduling",
+        "Shortest Job First (SJF)",
+        "First Come First Served (FCFS)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "The ________ scheduling algorithm can be optimized by adjusting the time quantum according to the system's needs.",
+      "options": [
+        "Round Robin (RR)",
+        "Priority Scheduling",
+        "Multilevel Queue",
+        "First Come First Served (FCFS)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "In ________ scheduling, long processes can delay shorter tasks if not handled efficiently.",
+      "options": [
+        "First Come First Served (FCFS)",
+        "Priority Scheduling",
+        "Shortest Job First (SJF)",
+        "Multilevel Queue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "The ________ scheduling algorithm ensures fairness by giving each process a fixed time slot to run.",
+      "options": [
+        "Round Robin (RR)",
+        "Shortest Job First (SJF)",
+        "Priority Scheduling",
+        "Multilevel Queue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "The ________ scheduling algorithm is best used in systems where some tasks have higher priority than others.",
+      "options": [
+        "Priority Scheduling",
+        "First Come First Served (FCFS)",
+        "Round Robin (RR)",
+        "Multilevel Queue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "The ________ scheduling algorithm guarantees that high-priority tasks are handled first, but may cause starvation of low-priority tasks.",
+      "options": [
+        "Priority Scheduling",
+        "Multilevel Queue",
+        "Shortest Job First (SJF)",
+        "Round Robin (RR)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "In ________ scheduling, the queue's structure depends on the specific algorithm used for each priority level.",
+      "options": [
+        "Multilevel Queue",
+        "Round Robin (RR)",
+        "Priority Scheduling",
+        "First Come First Served (FCFS)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "The ________ scheduling algorithm may lead to poor system performance if the time slice is set too high or low.",
+      "options": [
+        "Round Robin (RR)",
+        "Shortest Job First (SJF)",
+        "Priority Scheduling",
+        "Multilevel Queue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "The ________ scheduling algorithm reduces the number of context switches by allowing processes to run to completion when they arrive.",
+      "options": [
+        "First Come First Served (FCFS)",
+        "Shortest Job First (SJF)",
+        "Round Robin (RR)",
+        "Multilevel Queue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "In ________ scheduling, each queue can have its own scheduling policy depending on the task's type.",
+      "options": [
+        "Multilevel Queue",
+        "Priority Scheduling",
+        "Round Robin (RR)",
+        "Shortest Job First (SJF)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "The ________ scheduling algorithm does not preempt tasks, meaning a process continues to run until it is completed.",
+      "options": [
+        "First Come First Served (FCFS)",
+        "Shortest Job First (SJF)",
+        "Multilevel Queue",
+        "Priority Scheduling"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "The ________ scheduling algorithm tries to minimize turnaround time but may cause starvation for longer tasks.",
+      "options": [
+        "Shortest Job First (SJF)",
+        "Multilevel Queue",
+        "First Come First Served (FCFS)",
+        "Priority Scheduling"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "The ________ scheduling algorithm requires careful management to avoid starvation of low-priority tasks.",
+      "options": [
+        "Priority Scheduling",
+        "Round Robin (RR)",
+        "Shortest Job First (SJF)",
+        "Multilevel Queue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "The ________ scheduling algorithm can cause problems if tasks with very different execution times are handled together.",
+      "options": [
+        "First Come First Served (FCFS)",
+        "Priority Scheduling",
+        "Multilevel Queue",
+        "Round Robin (RR)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "The ________ scheduling algorithm can be beneficial for both real-time and general-purpose systems.",
+      "options": [
+        "Priority Scheduling",
+        "Round Robin (RR)",
+        "First Come First Served (FCFS)",
+        "Shortest Job First (SJF)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "The ________ scheduling algorithm uses a multistep approach where different levels of priority are managed in separate queues.",
+      "options": [
+        "Multilevel Queue",
+        "Priority Scheduling",
+        "First Come First Served (FCFS)",
+        "Shortest Job First (SJF)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "The ________ scheduling algorithm can sometimes lead to poor system performance if processes have too similar execution times.",
+      "options": [
+        "Round Robin (RR)",
+        "Priority Scheduling",
+        "Shortest Job First (SJF)",
+        "First Come First Served (FCFS)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "The ________ scheduling algorithm's time complexity increases as the number of processes grows.",
+      "options": [
+        "Shortest Job First (SJF)",
+        "Priority Scheduling",
+        "Round Robin (RR)",
+        "First Come First Served (FCFS)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "The ________ scheduling algorithm may cause significant delays in a system with many short tasks if long tasks are allowed to run first.",
+      "options": [
+        "First Come First Served (FCFS)",
+        "Shortest Job First (SJF)",
+        "Round Robin (RR)",
+        "Multilevel Queue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "The ________ scheduling algorithm can perform poorly if a large number of long processes arrive before short ones.",
+      "options": [
+        "First Come First Served (FCFS)",
+        "Priority Scheduling",
+        "Round Robin (RR)",
+        "Shortest Job First (SJF)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "The ________ scheduling algorithm prioritizes processes with higher importance, which can lead to delays for less critical tasks.",
+      "options": [
+        "Priority Scheduling",
+        "Multilevel Queue",
+        "Round Robin (RR)",
+        "First Come First Served (FCFS)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "The ________ scheduling algorithm ensures that processes are executed in order based on their arrival time.",
+      "options": [
+        "First Come First Served (FCFS)",
+        "Multilevel Queue",
+        "Shortest Job First (SJF)",
+        "Round Robin (RR)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "The ________ scheduling algorithm works best for systems with varying workloads where each task is assigned a specific priority.",
+      "options": [
+        "Priority Scheduling",
+        "First Come First Served (FCFS)",
+        "Multilevel Queue",
+        "Shortest Job First (SJF)"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "The ________ scheduling algorithm is most effective in systems where tasks need to be completed in a specific order based on their arrival time.",
+      "options": [
+        "First Come First Served (FCFS)",
+        "Round Robin (RR)",
+        "Multilevel Queue",
+        "Priority Scheduling"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "The ________ scheduling algorithm is ideal for systems that need to ensure fairness by giving all processes equal CPU time.",
+      "options": [
+        "Round Robin (RR)",
+        "Priority Scheduling",
+        "Multilevel Queue",
+        "Shortest Job First (SJF)"
+      ],
+      "answer": 1
+    }
+]
+  

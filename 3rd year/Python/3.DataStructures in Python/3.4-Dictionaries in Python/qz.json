@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is a dictionary in Python?",
+      "options": [
+        "A collection of key-value pairs",
+        "A collection of unique values",
+        "A collection of ordered items",
+        "A collection of unordered items"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "How do you define a dictionary in Python?",
+      "options": [
+        "Using square brackets []",
+        "Using curly brackets {}",
+        "Using parentheses ()",
+        "Using angle brackets <>"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the purpose of keys in a dictionary?",
+      "options": [
+        "To store values",
+        "To access values",
+        "To store keys",
+        "To access keys"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "How do you access a value in a dictionary?",
+      "options": [
+        "Using numerical indexes",
+        "Using keys",
+        "Using the in keyword",
+        "Using the get() method"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What does the get() method do in a dictionary?",
+      "options": [
+        "Returns a value if the key exists, otherwise throws an error",
+        "Returns a value if the key exists, otherwise returns a default value",
+        "Adds a new key-value pair",
+        "Removes a key-value pair"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "How do you update a value in a dictionary?",
+      "options": [
+        "Using the update() method",
+        "Using the add() method",
+        "By assigning a new value to a key",
+        "Using the append() method"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "How do you add a new key-value pair to a dictionary?",
+      "options": [
+        "Using the update() method",
+        "Using the add() method",
+        "By assigning a value to a new key",
+        "Using the append() method"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "What does the del statement do to a dictionary?",
+      "options": [
+        "Removes a specific key-value pair",
+        "Removes all key-value pairs",
+        "Deletes the entire dictionary",
+        "Does nothing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "How do you remove a key-value pair using a method?",
+      "options": [
+        "Using pop()",
+        "Using remove()",
+        "Using delete()",
+        "Using clear()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What does the clear() method do to a dictionary?",
+      "options": [
+        "Removes a specific key-value pair",
+        "Removes all key-value pairs",
+        "Deletes the entire dictionary",
+        "Does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "How do you find the number of key-value pairs in a dictionary?",
+      "options": [
+        "Using len()",
+        "Using max()",
+        "Using min()",
+        "Using sum()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "How do you check if a key exists in a dictionary?",
+      "options": [
+        "Using the in keyword",
+        "Using the not in keyword",
+        "Using the get() method",
+        "Using the update() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "How do you loop through the keys of a dictionary?",
+      "options": [
+        "Using a for loop with .keys()",
+        "Using a for loop without .keys()",
+        "Using the in keyword",
+        "Using the get() method"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "How do you loop through the values of a dictionary?",
+      "options": [
+        "Using a for loop with .values()",
+        "Using a for loop without .values()",
+        "Using the in keyword",
+        "Using the get() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "How do you loop through both keys and values of a dictionary?",
+      "options": [
+        "Using a for loop with .items()",
+        "Using a for loop without .items()",
+        "Using the in keyword",
+        "Using the get() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "What does the keys() method return?",
+      "options": [
+        "A list of all keys",
+        "A list of all values",
+        "A list of key-value pairs",
+        "A dictionary of keys"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "What does the values() method return?",
+      "options": [
+        "A list of all keys",
+        "A list of all values",
+        "A list of key-value pairs",
+        "A dictionary of values"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "What does the items() method return?",
+      "options": [
+        "A list of all keys",
+        "A list of all values",
+        "A list of tuples containing key-value pairs",
+        "A dictionary of key-value pairs"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "How do you merge two dictionaries?",
+      "options": [
+        "Using the update() method",
+        "Using the merge() method",
+        "Using the add() method",
+        "Using the append() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What does the copy() method do?",
+      "options": [
+        "Creates a duplicate dictionary",
+        "Removes a key-value pair",
+        "Adds a new key-value pair",
+        "Deletes the entire dictionary"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "What does the popitem() method do?",
+      "options": [
+        "Removes and returns the last key-value pair",
+        "Removes and returns a specific key-value pair",
+        "Removes all key-value pairs",
+        "Deletes the entire dictionary"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Can you use the pop() method to remove a specific key-value pair?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "What is the effect of using the del statement on a dictionary?",
+      "options": [
+        "Deletes the entire dictionary",
+        "Deletes a specific key-value pair",
+        "Deletes all key-value pairs",
+        "Does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "How do you check if a value exists in a dictionary?",
+      "options": [
+        "Using the in keyword with keys",
+        "Using the in keyword with values",
+        "Using the get() method",
+        "Using the update() method"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "What does the get() method return if the key does not exist?",
+      "options": [
+        "Throws an error",
+        "Returns None",
+        "Returns a default value",
+        "Does nothing"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 26,
+      "question": "Can you use the update() method to add multiple key-value pairs?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "What is the purpose of the clear() method?",
+      "options": [
+        "Removes a specific key-value pair",
+        "Removes all key-value pairs",
+        "Deletes the entire dictionary",
+        "Does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "How do you create a copy of a dictionary?",
+      "options": [
+        "Using copy()",
+        "Using update()",
+        "Using add()",
+        "Using append()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Can you use the popitem() method on an empty dictionary?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "What does the items() method return?",
+      "options": [
+        "A list of keys",
+        "A list of values",
+        "A list of tuples containing key-value pairs",
+        "A dictionary of key-value pairs"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 31,
+      "question": "How do you loop through the keys and values of a dictionary?",
+      "options": [
+        "Using a for loop with .items()",
+        "Using a for loop without .items()",
+        "Using the in keyword",
+        "Using the get() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Can you use the update() method to update existing key-value pairs?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "What is the effect of using the pop() method on a dictionary?",
+      "options": [
+        "Removes a specific key-value pair",
+        "Removes all key-value pairs",
+        "Deletes the entire dictionary",
+        "Does nothing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "How do you check if a key exists in a dictionary?",
+      "options": [
+        "Using the in keyword",
+        "Using the not in keyword",
+        "Using the get() method",
+        "Using the update() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "What does the keys() method return?",
+      "options": [
+        "A list of all values",
+        "A list of all keys",
+        "A list of key-value pairs",
+        "A dictionary of keys"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "Can you use the clear() method to delete a specific key-value pair?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "How do you merge two dictionaries?",
+      "options": [
+        "Using the update() method",
+        "Using the merge() method",
+        "Using the add() method",
+        "Using the append() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "What does the copy() method do?",
+      "options": [
+        "Creates a duplicate dictionary",
+        "Removes a key-value pair",
+        "Adds a new key-value pair",
+        "Deletes the entire dictionary"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "Can you use the popitem() method to remove a specific key-value pair?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "What is the effect of using the del statement on a dictionary?",
+      "options": [
+        "Deletes the entire dictionary",
+        "Deletes a specific key-value pair",
+        "Deletes all key-value pairs",
+        "Does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 41,
+      "question": "How do you check if a value exists in a dictionary?",
+      "options": [
+        "Using the in keyword with keys",
+        "Using the in keyword with values",
+        "Using the get() method",
+        "Using the update() method"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "What does the get() method return if the key does not exist?",
+      "options": [
+        "Throws an error",
+        "Returns None",
+        "Returns a default value",
+        "Does nothing"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 43,
+      "question": "Can you use the update() method to add multiple key-value pairs?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "What is the purpose of the clear() method?",
+      "options": [
+        "Removes a specific key-value pair",
+        "Removes all key-value pairs",
+        "Deletes the entire dictionary",
+        "Does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "How do you create a copy of a dictionary?",
+      "options": [
+        "Using copy()",
+        "Using update()",
+        "Using add()",
+        "Using append()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Can you use the popitem() method on an empty dictionary?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "What does the items() method return?",
+      "options": [
+        "A list of keys",
+        "A list of values",
+        "A list of tuples containing key-value pairs",
+        "A dictionary of key-value pairs"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 48,
+      "question": "How do you loop through the keys and values of a dictionary?",
+      "options": [
+        "Using a for loop with .items()",
+        "Using a for loop without .items()",
+        "Using the in keyword",
+        "Using the get() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Can you use the update() method to update existing key-value pairs?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "What is the effect of using the pop() method on a dictionary?",
+      "options": [
+        "Removes a specific key-value pair",
+        "Removes all key-value pairs",
+        "Deletes the entire dictionary",
+        "Does nothing"
+      ],
+      "answer": 1
+    }
+]
+  

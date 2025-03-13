@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "The greenhouse effect is a harmful phenomenon that should be completely eliminated.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "Carbon dioxide is one of the main greenhouse gases responsible for global warming.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Methane is produced from sources like cattle farming and landfills.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Deforestation has no impact on climate change.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "Climate change leads to rising sea levels and extreme weather conditions.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "The melting of glaciers is a sign of global warming.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The ozone layer protects Earth from harmful ultraviolet (UV) rays.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "CFCs (Chlorofluorocarbons) help in repairing the ozone layer.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "Acid rain is caused by sulfur dioxide and nitrogen oxides mixing with rainwater.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "The Taj Mahal is unaffected by acid rain.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "Burning fossil fuels does not contribute to global warming.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "Using renewable energy sources like solar and wind power can help reduce climate change effects.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Global warming has no impact on animal habitats.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "Excess greenhouse gases trap heat in the Earth's atmosphere, making the planet warmer.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Australia and California experience frequent wildfires due to rising global temperatures.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "Nuclear accidents have long-term environmental consequences.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "The Chernobyl nuclear accident happened in Japan.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "The Fukushima nuclear disaster was caused by an earthquake and tsunami.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Acid rain is beneficial for plant growth.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "Polar bears are losing their natural habitat due to climate change.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "People in Australia are at a higher risk of skin cancer due to ozone layer depletion.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "Burning coal, oil, and gas contributes to climate change.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "Planting more trees can help reduce carbon dioxide in the atmosphere.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "Nuclear radiation from accidents disappears within a few days.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "Ozone layer depletion has no impact on human health.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "Using public transport instead of private cars helps in reducing greenhouse gas emissions.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "Extreme droughts and heavy rainfall are effects of climate change.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "Deforestation increases oxygen levels in the atmosphere.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "Wildlife is unaffected by climate change.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "The hole in the ozone layer has been getting smaller due to global efforts to reduce CFCs.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "Fossil fuels are a sustainable and eco-friendly energy source.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "Recycling waste helps in reducing environmental pollution.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "Global warming only affects tropical countries.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "The Arctic region is experiencing rapid ice loss due to rising global temperatures.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "Acid rain has no effect on water bodies.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "Cattle farming contributes to methane emissions, a greenhouse gas.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "Solar and wind power are examples of renewable energy sources.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "Rising sea levels threaten coastal cities and small islands.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "The burning of fossil fuels has no impact on air quality.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "Trees absorb carbon dioxide from the atmosphere, helping to reduce global warming.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "Climate change has no effect on food production.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "Water vapor is a greenhouse gas.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "Nuclear accidents release radiation that remains hazardous for decades.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "Hydroelectric power generation contributes to greenhouse gas emissions.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "Extreme weather events like hurricanes and heat waves are linked to climate change.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "Carbon footprint refers to the total amount of oxygen produced by an individual.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "Electric vehicles produce less pollution than gasoline-powered cars.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "Ozone layer depletion is primarily caused by excessive CO₂ emissions.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "Protecting forests helps combat climate change.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "Radiation exposure from nuclear accidents can lead to genetic mutations in humans and animals.",
+      "answer": true
+    }
+]
+  

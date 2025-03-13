@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Natural resources are materials provided by ________ that humans use for survival and development.",
+      "options": [
+        "technology",
+        "factories",
+        "nature",
+        "science"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Renewable resources can be naturally ________ over time.",
+      "options": [
+        "used up",
+        "replenished",
+        "exhausted",
+        "polluted"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Non-renewable resources take ________ of years to form.",
+      "options": [
+        "hundreds",
+        "thousands",
+        "millions",
+        "decades"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Forests play a key role in producing ________ by absorbing carbon dioxide.",
+      "options": [
+        "oxygen",
+        "carbon monoxide",
+        "hydrogen",
+        "nitrogen"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "The Amazon Rainforest is the ________ tropical rainforest in the world.",
+      "options": [
+        "smallest",
+        "largest",
+        "coldest",
+        "driest"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Deforestation is the process of cutting down trees for ________ and urbanization.",
+      "options": [
+        "recreation",
+        "wildlife conservation",
+        "agriculture",
+        "climate control"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Water covers about ________% of the Earth's surface.",
+      "options": [
+        "50",
+        "60",
+        "71",
+        "80"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Only about ________% of Earth's water is freshwater.",
+      "options": [
+        "1%",
+        "2%",
+        "3%",
+        "5%"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "A major source of hydropower is ________.",
+      "options": [
+        "wind",
+        "sunlight",
+        "water",
+        "coal"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Overuse of water resources can lead to ________ and shortages.",
+      "options": [
+        "droughts",
+        "floods",
+        "increased rainfall",
+        "water abundance"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Solar energy is harnessed using ________ panels.",
+      "options": [
+        "water",
+        "wooden",
+        "solar",
+        "metal"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Wind energy is generated using large structures called ________.",
+      "options": [
+        "solar panels",
+        "wind turbines",
+        "water wheels",
+        "coal plants"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Coal, petroleum, and natural gas are examples of ________ energy resources.",
+      "options": [
+        "renewable",
+        "sustainable",
+        "non-renewable",
+        "eco-friendly"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Mining of minerals can lead to ________, damaging soil and water quality.",
+      "options": [
+        "pollution",
+        "reforestation",
+        "conservation",
+        "farming"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Excessive farming can lead to a loss of ________ in the soil.",
+      "options": [
+        "fertility",
+        "pollution",
+        "oxygen",
+        "water"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Gold and silver are mainly used for making ________.",
+      "options": [
+        "furniture",
+        "jewelry",
+        "paper",
+        "cement"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Bauxite is the primary mineral used to produce ________.",
+      "options": [
+        "steel",
+        "copper",
+        "aluminum",
+        "iron"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "Soil erosion occurs when topsoil is removed due to ________.",
+      "options": [
+        "excessive rainfall",
+        "deforestation",
+        "urbanization",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 19,
+      "question": "Recycling helps in reducing the excessive use of ________ resources.",
+      "options": [
+        "water",
+        "natural",
+        "pollution",
+        "oxygen"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "The Sundarbans forest is famous for its ________ trees.",
+      "options": [
+        "mangrove",
+        "oak",
+        "pine",
+        "teak"
+      ],
+      "answer": 1
+    }
+]
+  

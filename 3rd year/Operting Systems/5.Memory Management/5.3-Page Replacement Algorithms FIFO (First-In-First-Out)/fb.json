@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "The FIFO page replacement algorithm works like a ________.",
+      "options": [
+        "queue",
+        "stack",
+        "tree",
+        "graph"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "In FIFO, the ________ page that enters memory is the first to be removed when a new page is needed.",
+      "options": [
+        "last",
+        "middle",
+        "oldest",
+        "newest"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "When the page is needed, and all frames are full, FIFO removes the ________ page.",
+      "options": [
+        "most recent",
+        "oldest",
+        "least used",
+        "most accessed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "FIFO is a page replacement algorithm that removes the ________ page from memory when new pages need to be loaded.",
+      "options": [
+        "most frequent",
+        "oldest",
+        "least frequently used",
+        "largest"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "FIFO is easy to implement because it only requires tracking the ________ of arrival.",
+      "options": [
+        "priority",
+        "frequency",
+        "order",
+        "size"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "In FIFO, if all frames are full and a new page is needed, a ________ occurs.",
+      "options": [
+        "cache miss",
+        "page fault",
+        "disk write",
+        "swap"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "One disadvantage of FIFO is that it may remove important pages ________.",
+      "options": [
+        "after they are accessed",
+        "too early",
+        "when they are frequently needed",
+        "just before they are needed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "FIFO is not always optimal because it may remove pages that are ________.",
+      "options": [
+        "never used",
+        "needed frequently",
+        "small in size",
+        "the least important"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "FIFO can lead to unnecessary ________ if important pages are removed too soon.",
+      "options": [
+        "page faults",
+        "cache hits",
+        "swaps",
+        "disk accesses"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "FIFO is often compared to a queue at a ________, where the first person to enter is the first to leave.",
+      "options": [
+        "bank",
+        "library",
+        "movie theater",
+        "grocery store"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "The total number of page faults in the given example of FIFO with a page reference string of '1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5' and 3 frames is ________.",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "12"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "The FIFO page replacement algorithm requires a ________ to keep track of which page entered first.",
+      "options": [
+        "queue",
+        "stack",
+        "list",
+        "table"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "In FIFO, when a new page is needed and the RAM is full, the oldest page is replaced regardless of how ________ it is used.",
+      "options": [
+        "frequently",
+        "rarely",
+        "recently",
+        "large"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "In FIFO, when a page is requested but is not in RAM, this event is known as a ________.",
+      "options": [
+        "cache miss",
+        "page fault",
+        "disk write",
+        "swap"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "One advantage of FIFO is that it is ________ and easy to implement.",
+      "options": [
+        "complex",
+        "simple",
+        "optimally efficient",
+        "difficult"
+      ],
+      "answer": 2
+    }
+]
+  

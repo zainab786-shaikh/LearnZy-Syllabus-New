@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is wastewater?",
+      "options": [
+        "Freshwater from lakes",
+        "Used water containing pollutants",
+        "Only water from industries",
+        "Water stored in dams"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a major source of wastewater?",
+      "options": [
+        "Glaciers",
+        "Waterfalls",
+        "Domestic and industrial waste",
+        "Rainwater"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What is an example of domestic wastewater?",
+      "options": [
+        "Wastewater from oil refineries",
+        "Water used in chemical factories",
+        "Toilet and kitchen waste",
+        "Wastewater from textile industries"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Which of these is a source of industrial wastewater?",
+      "options": [
+        "Agriculture",
+        "Textile industry",
+        "Rainwater harvesting",
+        "Groundwater recharge"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is NOT a type of wastewater?",
+      "options": [
+        "Industrial wastewater",
+        "Domestic wastewater",
+        "Freshwater",
+        "Sewage"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which industry produces wastewater containing dyes and fabric residues?",
+      "options": [
+        "Chemical industry",
+        "Textile industry",
+        "Food processing industry",
+        "Automobile industry"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a major environmental impact of untreated wastewater?",
+      "options": [
+        "Water pollution",
+        "Increase in fish population",
+        "Reduction of soil fertility",
+        "Growth of medicinal plants"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What is a major health issue caused by wastewater pollution?",
+      "options": [
+        "Common cold",
+        "Waterborne diseases like cholera",
+        "Vitamin deficiency",
+        "Increase in oxygen levels in water"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which stage in a sewage treatment plant removes large objects like plastic and paper?",
+      "options": [
+        "Grit removal",
+        "Screening",
+        "Primary treatment",
+        "Tertiary treatment"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is the first step in wastewater treatment?",
+      "options": [
+        "Filtration",
+        "Screening",
+        "Chlorination",
+        "Sedimentation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "What does the secondary treatment of sewage involve?",
+      "options": [
+        "Adding chemicals to water",
+        "Removing bacteria using UV light",
+        "Using microorganisms to break down organic waste",
+        "Filtering large solids"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Which parameter should be below 30 mg/L in treated wastewater as per CPCB norms?",
+      "options": [
+        "pH level",
+        "Biochemical Oxygen Demand (BOD)",
+        "Total Suspended Solids (TSS)",
+        "Chemical Oxygen Demand (COD)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "What is the permissible pH range for treated wastewater according to CPCB?",
+      "options": [
+        "3.5 - 5.5",
+        "6.5 - 9.0",
+        "8.5 - 11.5",
+        "4.0 - 7.0"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "What is the purpose of chlorination in a sewage treatment plant?",
+      "options": [
+        "To remove large solids",
+        "To kill harmful bacteria",
+        "To increase oxygen levels",
+        "To remove heavy metals"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "What is the final step in a sewage treatment plant?",
+      "options": [
+        "Screening",
+        "Filtration",
+        "Final discharge",
+        "Sedimentation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "Which type of wastewater contains oil and grease?",
+      "options": [
+        "Domestic wastewater",
+        "Industrial wastewater",
+        "Groundwater",
+        "Rainwater"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "What happens if untreated wastewater is released into rivers?",
+      "options": [
+        "It improves water quality",
+        "It causes pollution and kills aquatic life",
+        "It increases oxygen content",
+        "It promotes fish farming"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "What is an example of an organic waste in wastewater?",
+      "options": [
+        "Lead",
+        "Plastic",
+        "Food waste",
+        "Glass"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "Which industry generates wastewater containing petroleum waste?",
+      "options": [
+        "Oil refineries",
+        "Textile industry",
+        "Paper industry",
+        "Agriculture"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What does CPCB stand for?",
+      "options": [
+        "Central Pollution Control Board",
+        "Chemical Pollution Control Bureau",
+        "Central Public Cleaning Bureau",
+        "Certified Pollution Control Board"
+      ],
+      "answer": 1
+    }
+]
+  

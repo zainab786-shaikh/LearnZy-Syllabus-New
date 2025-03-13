@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "Pollution is the introduction of harmful substances into the ________.",
+      "options": ["environment", "soil", "water", "air"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "The two main types of pollution based on their source are ________ and artificial (man-made) pollution.",
+      "options": ["chemical", "industrial", "natural", "biological"],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "An example of natural pollution is ________, which releases ash and harmful gases.",
+      "options": ["deforestation", "factory emissions", "volcanic eruptions", "sewage dumping"],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Cutting down forests leads to ________, which makes the soil loose and more prone to erosion.",
+      "options": ["landslides", "fertility", "biodiversity", "plant growth"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "A major cause of soil pollution is the excessive use of ________ in agriculture.",
+      "options": ["organic manure", "fertilizers and pesticides", "crop rotation", "water"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Improper waste disposal leads to ________, which releases harmful chemicals into the soil.",
+      "options": ["air pollution", "land pollution", "reforestation", "wildlife conservation"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "One of the effects of soil pollution is reduced ________, making farming difficult.",
+      "options": ["temperature", "biodiversity", "soil fertility", "air quality"],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Industrial waste contains harmful chemicals like ________, which damage the soil.",
+      "options": ["oxygen", "mercury and lead", "carbon dioxide", "water"],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Large landfills release gases like ________, which contribute to global warming.",
+      "options": ["oxygen", "methane", "nitrogen", "hydrogen"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "The practice of planting more trees to restore forests is called ________.",
+      "options": ["deforestation", "urbanization", "afforestation", "industrialization"],
+      "answer": 3
+    }
+]
+  

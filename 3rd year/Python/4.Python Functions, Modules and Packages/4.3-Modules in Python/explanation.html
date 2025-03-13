@@ -1,0 +1,114 @@
+<div>
+    <h2>4.3 Modules in Python</h2>
+    <p>A module in Python is a file that contains Python code, such as functions, variables, and classes. Modules help organize code into smaller, reusable parts, making programs easier to manage.</p>
+    <p>For example, instead of writing all the functions in one long script, we can separate them into different files (modules) and use them wherever needed.</p>
+    <h3>1. Writing a Module in Python</h3>
+    <p>To create a module, simply write Python code in a file and save it with a .py extension.</p>
+    <pre><code># mymodule.py - This is a Python module
+  def greet(name):
+      return f"Hello, {name}!"
+  
+  pi = 3.1416</code></pre>
+    <h3>2. Importing a Module in Python</h3>
+    <pre><code>import mymodule
+  
+  print(mymodule.greet("Alice"))  # Output: Hello, Alice!
+  print(mymodule.pi)              # Output: 3.1416</code></pre>
+    <h3>3. Importing Specific Objects from a Module</h3>
+    <pre><code>from mymodule import greet
+  
+  print(greet("Bob"))  # Output: Hello, Bob!</code></pre>
+    <h3>4. Using Aliases for Modules and Objects</h3>
+    <pre><code>import mymodule as mm
+  
+  print(mm.greet("Charlie"))  # Output: Hello, Charlie!</code></pre>
+    <h3>5. Python Built-in Modules</h3>
+    <h4>5.1 Numeric and Mathematical Modules</h4>
+    <pre><code>import math
+  
+  print(math.sqrt(25))  # Output: 5.0
+  print(math.factorial(5))  # Output: 120
+  print(math.pi)  # Output: 3.141592653589793</code></pre>
+    <h4>Example: Using the random module</h4>
+    <pre><code>import random
+  
+  print(random.randint(1, 10))
+  print(random.choice(["apple", "banana", "cherry"]))</code></pre>
+    <h4>5.2 Functional Programming Module (functools)</h4>
+    <pre><code>from functools import reduce
+  
+  numbers = [1, 2, 3, 4]
+  sum_numbers = reduce(lambda x, y: x + y, numbers)
+  
+  print(sum_numbers)  # Output: 10</code></pre>
+    <h3>6. Namespace and Scoping in Python</h3>
+    <p>What is a Namespace? A namespace is a space where variable names are stored. Python uses namespaces to keep track of all variables and functions.</p>
+    <h4>Example: Local and Global Scope</h4>
+    <pre><code>x = 10  # Global variable
+  
+  def my_function():
+      y = 5  # Local variable
+      print(y)  # Output: 5
+  
+  print(x)  # Output: 10
+  my_function()</code></pre>
+    <h4>Example: Modifying Global Variables inside a Function</h4>
+    <pre><code>count = 0  # Global variable
+  
+  def increase():
+      global count  # Allows modification of the global variable
+      count += 1
+  
+  increase()
+  print(count)  # Output: 1</code></pre>
+    <h3>Summary of Key Concepts</h3>
+    <table border="1">
+      <tr>
+        <th>Feature</th>
+        <th>Explanation</th>
+        <th>Example</th>
+      </tr>
+      <tr>
+        <td>Module</td>
+        <td>A file containing Python code (functions, variables)</td>
+        <td>mymodule.py</td>
+      </tr>
+      <tr>
+        <td>Importing Modules</td>
+        <td>Using import to use a module</td>
+        <td>import math</td>
+      </tr>
+      <tr>
+        <td>Importing Specific Objects</td>
+        <td>Importing only needed parts</td>
+        <td>from math import sqrt</td>
+      </tr>
+      <tr>
+        <td>Using Aliases</td>
+        <td>Shortening module/function names</td>
+        <td>import math as m</td>
+      </tr>
+      <tr>
+        <td>Built-in Modules</td>
+        <td>Pre-installed modules in Python</td>
+        <td>math, random, functools</td>
+      </tr>
+      <tr>
+        <td>Namespace</td>
+        <td>The space where variable names exist</td>
+        <td>Global, Local</td>
+      </tr>
+      <tr>
+        <td>Scope</td>
+        <td>Where a variable is accessible</td>
+        <td>Inside or outside a function</td>
+      </tr>
+    </table>
+    <h3>Conclusion</h3>
+    <ul>
+      <li>Modules help organize Python code into reusable files</li>
+      <li>Importing allows using functions from other files or built-in modules</li>
+      <li>Python built-in modules like math, random, and functools simplify coding</li>
+      <li>Namespace and Scope define where variables exist and how they can be accessed</li>
+    </ul>
+</div>

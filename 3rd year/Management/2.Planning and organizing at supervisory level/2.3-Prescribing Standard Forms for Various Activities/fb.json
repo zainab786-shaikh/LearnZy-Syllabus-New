@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "A ________ is a predefined document that follows a fixed format for collecting information.",
+      "options": ["handwritten note", "standard form", "random paper", "verbal request"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Using standard forms ensures ________ in information collection and processing.",
+      "options": ["uniformity", "confusion", "randomness", "delay"],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Standard forms help in ________ errors and missing important details.",
+      "options": ["increasing", "reducing", "ignoring", "encouraging"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "A job application form is used when applying for a ________.",
+      "options": ["loan", "passport", "job", "medical test"],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "A deposit slip is used in the ________ sector.",
+      "options": ["healthcare", "education", "banking", "government"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "A student needs to fill an ________ form to register for exams.",
+      "options": ["admission", "examination", "library", "withdrawal"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "A patient registration form is used in ________.",
+      "options": ["schools", "hospitals", "banks", "government offices"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "A standard form helps in easy ________ and retrieval of data.",
+      "options": ["misplacement", "destruction", "record-keeping", "deletion"],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "A driving license application form is required to obtain a ________.",
+      "options": ["passport", "voter ID", "driving license", "ration card"],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Forms ensure that all necessary details are included in a ________ format.",
+      "options": ["structured", "confusing", "incomplete", "random"],
+      "answer": 1
+    }
+]
+  

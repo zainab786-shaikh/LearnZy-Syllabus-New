@@ -1,0 +1,78 @@
+[
+    {
+      "id": 1,
+      "question": "Resource depletion occurs when natural resources are used up faster than they can be replaced.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Overpopulation decreases the demand for food, water, energy, and land.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Leaving the tap open while brushing your teeth is an example of resource conservation.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "Deforestation leads to a decrease in oxygen production.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Industrialization increases the consumption of raw materials like coal, iron, and oil.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Oil drilling in oceans has no impact on marine life.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Pollution can make natural resources unusable.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Melting glaciers increase the amount of freshwater available.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "Excessive use of chemical fertilizers improves soil quality permanently.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Water scarcity affects industries as well as farming and drinking water supply.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "Loss of forests does not affect animal habitats.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "An energy crisis can occur due to the depletion of fossil fuels.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Droughts in India have no impact on food prices.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "Burning fossil fuels does not contribute to climate change.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "Shortage of natural resources can lead to job losses and economic issues.",
+      "answer": true
+    }
+]
+  

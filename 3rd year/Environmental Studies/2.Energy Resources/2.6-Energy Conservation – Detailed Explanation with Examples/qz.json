@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What does energy conservation mean?",
+      "options": [
+        "Using energy wisely and reducing waste",
+        "Using as much energy as possible",
+        "Only using renewable energy sources",
+        "Stopping energy use completely"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Why is energy conservation important?",
+      "options": [
+        "It helps waste natural resources",
+        "It reduces electricity bills and pollution",
+        "It makes people spend more money",
+        "It increases fossil fuel consumption"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a non-renewable energy source?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Hydropower"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a renewable energy source?",
+      "options": [
+        "Natural gas",
+        "Oil",
+        "Coal",
+        "Solar energy"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 5,
+      "question": "Which household appliance can help save electricity?",
+      "options": [
+        "Incandescent bulbs",
+        "LED bulbs",
+        "Old tube lights",
+        "High-energy consuming appliances"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which action can help save electricity at home?",
+      "options": [
+        "Leaving lights on all day",
+        "Using energy-efficient appliances",
+        "Keeping fans running in empty rooms",
+        "Using electric geysers frequently"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What is an example of energy conservation in industries?",
+      "options": [
+        "Using outdated machinery",
+        "Using energy-efficient machines",
+        "Running machines continuously",
+        "Using more fossil fuels"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "How can vehicles help conserve energy?",
+      "options": [
+        "Using public transport or carpooling",
+        "Driving alone in large vehicles",
+        "Keeping engines running unnecessarily",
+        "Ignoring vehicle maintenance"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What is one of the environmental benefits of energy conservation?",
+      "options": [
+        "Increases air pollution",
+        "Reduces carbon dioxide emissions",
+        "Makes fossil fuels last longer",
+        "Stops climate change"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which sector consumes energy for lighting, heating, and cooling?",
+      "options": [
+        "Residential sector",
+        "Agricultural sector",
+        "Transportation sector",
+        "Mining sector"
+      ],
+      "answer": 1
+    }
+]
+  

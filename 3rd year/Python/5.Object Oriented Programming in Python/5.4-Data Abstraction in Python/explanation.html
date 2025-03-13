@@ -1,0 +1,116 @@
+<div>
+    <h1>5.4 Data Abstraction in Python</h1>
+    
+    <h2>What is Data Abstraction?</h2>
+    <p>Data abstraction is the process of hiding the internal details of how something works and only showing the necessary functionality to the user. It helps in simplifying complex systems by focusing only on what is needed, rather than how it works behind the scenes.</p>
+    
+    <h2>Real-Life Example of Data Abstraction</h2>
+    <p>Think of a car:</p>
+    <ul>
+      <li>When you drive a car, you use the steering wheel, accelerator, and brakes.</li>
+      <li>You don’t need to know how the engine works internally or how fuel is burned inside the engine.</li>
+      <li>The car’s internal mechanics are hidden, and you only interact with the essential parts to drive.</li>
+    </ul>
+    
+    <h2>Data Abstraction in Python</h2>
+    <p>In Python, data abstraction is achieved using classes and objects, along with abstract classes and methods.</p>
+    
+    <h3>How does Data Abstraction work?</h3>
+    <ul>
+      <li>Python allows us to create abstract classes that define methods but do not provide implementation for those methods.</li>
+      <li>A normal class has methods with full implementation.</li>
+      <li>An abstract class contains one or more abstract methods (methods without implementation).</li>
+      <li>A subclass (child class) must provide the actual implementation of the abstract methods.</li>
+    </ul>
+    
+    <h2>Implementing Data Abstraction in Python</h2>
+    <p>Python provides a built-in module called ABC (Abstract Base Class) to implement abstraction.</p>
+    
+    <h3>Steps to Achieve Abstraction in Python:</h3>
+    <ol>
+      <li>Import the ABC module.</li>
+      <li>Create an abstract class (a class with abstract methods).</li>
+      <li>Define an abstract method (a method without implementation).</li>
+      <li>Create a child class that inherits from the abstract class and implements the abstract method.</li>
+    </ol>
+    
+    <h3>Example 1: Understanding Abstraction Using an Abstract Class</h3>
+    <pre>
+      <code>
+  from abc import ABC, abstractmethod
+  
+  # Step 1: Creating an abstract class
+  class Vehicle(ABC):  
+      @abstractmethod
+      def start(self):
+          pass
+  
+  # Step 2: Creating a subclass that implements the abstract method
+  class Car(Vehicle):
+      def start(self):
+          print("Car engine started using the key.")
+  
+  class Bike(Vehicle):
+      def start(self):
+          print("Bike started using self-start button.")
+  
+  # Step 3: Creating objects and calling methods
+  c = Car()
+  c.start()
+  
+  b = Bike()
+  b.start()
+      </code>
+    </pre>
+    
+    <h3>Example 2: ATM Machine (Real-Life Data Abstraction Example)</h3>
+    <pre>
+      <code>
+  from abc import ABC, abstractmethod
+  
+  # Abstract class
+  class Bank(ABC):
+      @abstractmethod
+      def withdraw(self, amount):
+          pass
+      
+      @abstractmethod
+      def deposit(self, amount):
+          pass
+  
+  # Concrete class (subclass)
+  class ATM(Bank):
+      def __init__(self, balance):
+          self.balance = balance  
+      
+      def withdraw(self, amount):
+          if amount > self.balance:
+              print("Insufficient balance!")
+          else:
+              self.balance -= amount
+              print(f"Withdrawal successful! New balance: {self.balance}")
+      
+      def deposit(self, amount):
+          self.balance += amount
+          print(f"Deposit successful! New balance: {self.balance}")
+  
+  # Creating an ATM object
+  atm = ATM(1000)
+  atm.deposit(500)
+  atm.withdraw(2000)
+  atm.withdraw(300)
+      </code>
+    </pre>
+    
+    <h2>Benefits of Data Abstraction</h2>
+    <ul>
+      <li>✅ Hides unnecessary details: The user only interacts with the required functions.</li>
+      <li>✅ Increases security: Internal implementation is hidden, preventing unauthorized access.</li>
+      <li>✅ Improves code reusability: Abstract classes can be reused in different programs.</li>
+      <li>✅ Enhances flexibility: Different classes can provide different implementations of the same abstract method.</li>
+    </ul>
+    
+    <h2>Conclusion</h2>
+    <p>Data abstraction is a powerful concept that simplifies programming by hiding complex details and showing only the necessary functionalities. It is used in real-life applications like ATMs, cars, and software programs to improve security and maintainability.</p>
+</div>
+  

@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "The ________ command is used to display the list of running processes in Linux.",
+      "options": [
+        "ps",
+        "wait",
+        "sleep",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "The ps command displays information like Process ID (PID), terminal, and ________ usage.",
+      "options": [
+        "CPU",
+        "memory",
+        "disk",
+        "network"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "The ________ command makes a script pause until a process finishes executing.",
+      "options": [
+        "wait",
+        "ps",
+        "sleep",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "The ________ command delays execution for a given time (in seconds, minutes, or hours).",
+      "options": [
+        "sleep",
+        "ps",
+        "wait",
+        "exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "The ________ command is used to terminate a script or process in Linux.",
+      "options": [
+        "ps",
+        "wait",
+        "kill",
+        "exit"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 6,
+      "question": "To forcefully terminate a process, you can use the ________ option with the kill command.",
+      "options": [
+        "-9",
+        "-f",
+        "-kill",
+        "-force"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "The ________ command is useful when you need to wait for a process to finish before starting another task.",
+      "options": [
+        "ps",
+        "sleep",
+        "wait",
+        "exit"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "The ________ command shows all running processes, including their CPU and memory usage.",
+      "options": [
+        "ps aux",
+        "ps",
+        "wait",
+        "exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The ________ command can be used to find the process ID (PID) of a program.",
+      "options": [
+        "ps aux",
+        "sleep",
+        "kill",
+        "wait"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "To end a process in Linux, you use the ________ command.",
+      "options": [
+        "exit",
+        "wait",
+        "kill",
+        "ps"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "The ________ command is often used to pause execution for a specified time during a script.",
+      "options": [
+        "sleep",
+        "ps",
+        "wait",
+        "exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "The exit command returns a ________ code, which helps in error handling.",
+      "options": [
+        "status",
+        "process",
+        "timeout",
+        "file"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "The ________ command is used to pause execution for 3 seconds in a script.",
+      "options": [
+        "sleep 3",
+        "sleep 5",
+        "sleep 2",
+        "wait 3"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "The ________ command can be used to terminate all instances of a program.",
+      "options": [
+        "kill",
+        "ps",
+        "exit",
+        "pkill"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 15,
+      "question": "The ________ command shows the process ID (PID), terminal, and CPU usage of running processes.",
+      "options": [
+        "ps",
+        "sleep",
+        "wait",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "The ________ command ends a process or script without any error handling.",
+      "options": [
+        "exit 0",
+        "exit 1",
+        "kill 0",
+        "wait 0"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The ________ command can be used to kill a process by its PID in Linux.",
+      "options": [
+        "kill",
+        "ps",
+        "wait",
+        "sleep"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "You can use the ________ command to terminate a process forcefully by its PID.",
+      "options": [
+        "kill -9",
+        "ps aux",
+        "exit 1",
+        "sleep 3"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "The ________ command will wait for the specified process ID to complete before continuing.",
+      "options": [
+        "wait",
+        "sleep",
+        "exit",
+        "ps"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "The ________ command is used to check if a process is running in the background.",
+      "options": [
+        "ps",
+        "wait",
+        "kill",
+        "sleep"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "The ________ command is useful when you want to pause execution between iterations in a loop.",
+      "options": [
+        "sleep",
+        "ps",
+        "wait",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "The ________ command can be used to check if a specific file exists before terminating a process.",
+      "options": [
+        "exit",
+        "wait",
+        "kill",
+        "ps"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "The ________ command is used to check running processes with detailed information such as memory usage.",
+      "options": [
+        "ps aux",
+        "ps",
+        "wait",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "The ________ command is helpful to stop an unresponsive process by using its PID.",
+      "options": [
+        "kill",
+        "sleep",
+        "ps",
+        "wait"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "The ________ command is useful when you want to delay the execution of the script for 5 seconds.",
+      "options": [
+        "sleep 5",
+        "ps",
+        "kill 5",
+        "exit 5"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "The ________ command can be used to pause execution between each iteration of a loop.",
+      "options": [
+        "sleep",
+        "kill",
+        "exit",
+        "ps"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "The ________ command displays all the processes running under the root user.",
+      "options": [
+        "ps aux",
+        "ps",
+        "sleep",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "The ________ command is often used to pause the execution of a script during debugging.",
+      "options": [
+        "sleep",
+        "wait",
+        "kill",
+        "ps"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "The ________ command can be used to stop a process by its name instead of the PID.",
+      "options": [
+        "pkill",
+        "ps aux",
+        "exit",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "The ________ command can be used in scripts to ensure that a background process completes before proceeding.",
+      "options": [
+        "wait",
+        "sleep",
+        "ps",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "The ________ command provides the status of a process, such as CPU time and memory usage.",
+      "options": [
+        "ps",
+        "wait",
+        "sleep",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "The ________ command can be used to run a process in the background while continuing other tasks.",
+      "options": [
+        "sleep &",
+        "ps",
+        "wait",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "The ________ command helps to stop a program or process that is taking too long to respond.",
+      "options": [
+        "kill",
+        "ps",
+        "wait",
+        "sleep"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "The ________ command is used to terminate a running process by its PID in Linux.",
+      "options": [
+        "kill",
+        "ps",
+        "wait",
+        "sleep"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "The ________ command is often used to add a pause in the execution of a script during automation.",
+      "options": [
+        "sleep",
+        "kill",
+        "wait",
+        "ps"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "The ________ command helps to ensure that background tasks are completed before the next step is executed.",
+      "options": [
+        "wait",
+        "sleep",
+        "kill",
+        "ps"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "The ________ command is used to monitor and manage processes in Linux.",
+      "options": [
+        "ps",
+        "kill",
+        "exit",
+        "wait"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "The ________ command is used to run a process in the background while the terminal remains free for other commands.",
+      "options": [
+        "sleep &",
+        "ps",
+        "kill",
+        "exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "The ________ command pauses a script for 2 seconds during execution.",
+      "options": [
+        "sleep 2",
+        "ps",
+        "wait 2",
+        "exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "The ________ command can be used to send a kill signal to a process by its name.",
+      "options": [
+        "pkill",
+        "ps",
+        "sleep",
+        "exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "The ________ command helps to check the status of processes running on your system.",
+      "options": [
+        "ps",
+        "kill",
+        "wait",
+        "sleep"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "The ________ command is often used when you want to wait for a process to finish before doing something else.",
+      "options": [
+        "wait",
+        "kill",
+        "ps",
+        "sleep"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "The ________ command can be used to check the current processes running on your system.",
+      "options": [
+        "ps",
+        "sleep",
+        "exit",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "The ________ command helps to stop a process or program that has become unresponsive.",
+      "options": [
+        "kill",
+        "ps",
+        "wait",
+        "sleep"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "The ________ command returns a success status code when a script ends normally.",
+      "options": [
+        "exit 0",
+        "exit 1",
+        "kill",
+        "ps"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "The ________ command pauses for 5 seconds before executing the next line of code in a script.",
+      "options": [
+        "sleep 5",
+        "ps",
+        "wait 5",
+        "exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "The ________ command can be used to end a process by its name without specifying the PID.",
+      "options": [
+        "pkill",
+        "kill",
+        "ps",
+        "exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "The ________ command is used to forcefully stop a process that is not responding to a normal kill signal.",
+      "options": [
+        "kill -9",
+        "kill",
+        "ps",
+        "exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "The ________ command pauses for 3 seconds before printing 'Done!' in a script.",
+      "options": [
+        "sleep 3",
+        "ps",
+        "wait",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "The ________ command is useful when you want to delay the script execution for debugging purposes.",
+      "options": [
+        "sleep",
+        "ps",
+        "kill",
+        "wait"
+      ],
+      "answer": 1
+    }
+]
+  

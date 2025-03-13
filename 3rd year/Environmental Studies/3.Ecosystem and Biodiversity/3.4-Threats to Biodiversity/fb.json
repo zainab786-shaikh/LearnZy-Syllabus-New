@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "The most significant threat to biodiversity is ________.",
+      "options": ["pollution", "habitat destruction", "overfishing", "climate change"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Excessive hunting and fishing are examples of ________.",
+      "options": ["habitat destruction", "overexploitation", "deforestation", "invasive species"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "A species that is found only in a particular region and nowhere else is called ________.",
+      "options": ["native species", "invasive species", "endemic species", "migratory species"],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "The introduction of non-native species into an ecosystem can lead to ________.",
+      "options": ["pollution", "invasive species", "climate change", "deforestation"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Global warming is primarily caused by increased levels of ________ in the atmosphere.",
+      "options": ["oxygen", "nitrogen", "carbon dioxide", "hydrogen"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "The Western Ghats is one of the four ________ in India.",
+      "options": ["national parks", "biodiversity hotspots", "wildlife sanctuaries", "biosphere reserves"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "The Great Indian Bustard is an endangered species protected under ________.",
+      "options": ["National Biodiversity Action Plan", "Wildlife Protection Act", "Forest Conservation Act", "Indian Biodiversity Information System"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "The Amazon Rainforest is being cleared mainly for ________.",
+      "options": ["tourism", "cattle ranching and farming", "urbanization", "fishing"],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Coral bleaching occurs due to ________.",
+      "options": ["water pollution", "rising ocean temperatures", "oil spills", "deforestation"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "India has ________ major biodiversity hotspots.",
+      "options": ["two", "four", "six", "eight"],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "The Himalayan biodiversity hotspot is home to ________.",
+      "options": ["Royal Bengal Tiger", "Snow Leopard", "Asian Elephant", "Indian Peafowl"],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Illegal hunting of animals for their body parts is known as ________.",
+      "options": ["conservation", "poaching", "breeding", "domestication"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Excessive use of chemical fertilizers and pesticides leads to ________.",
+      "options": ["pollution", "biodiversity conservation", "wildlife protection", "species diversity"],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "The Indian State of Forest Report (ISFR) is published every ________ years.",
+      "options": ["one", "two", "three", "five"],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "The Biological Diversity Act was enacted in the year ________.",
+      "options": ["1992", "2002", "2010", "2015"],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "People’s Biodiversity Registers (PBRs) document ________.",
+      "options": ["climate data", "local biodiversity", "economic growth", "scientific research"],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "The National Mission for Green India aims to increase ________.",
+      "options": ["water conservation", "pollution", "forest and tree cover", "industrial growth"],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "A region must have at least ________ species of vascular plants to qualify as a biodiversity hotspot.",
+      "options": ["500", "1,500", "5,000", "10,000"],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "The Sundarbans are known for the conservation of ________.",
+      "options": ["Asiatic Lion", "Royal Bengal Tiger", "Indian Cobra", "Black Panther"],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Overfishing has led to a decline in ________ populations.",
+      "options": ["pandas", "dolphins", "tuna and cod", "kangaroos"],
+      "answer": 3
+    }
+]
+  

@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that First Come First Served (FCFS) scheduling is non-preemptive.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that First Come First Served (FCFS) scheduling is preemptive.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that Shortest Job First (SJF) scheduling executes the process with the shortest execution time first.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that Shortest Job First (SJF) scheduling executes the process with the longest execution time first.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that in Round Robin (RR) scheduling, each process gets a fixed time slice.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that in Round Robin (RR) scheduling, each process gets unlimited time without preemption.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that Shortest Remaining Time Next (SRTN) can preempt a process if a shorter task arrives.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that Shortest Remaining Time Next (SRTN) does not allow preemption.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that Priority Scheduling can be either preemptive or non-preemptive.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that Priority Scheduling is always non-preemptive.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that Multilevel Queue Scheduling organizes tasks into multiple queues based on priority.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is false that Multilevel Queue Scheduling uses a single queue for all tasks.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that the Shortest Job First (SJF) algorithm can lead to starvation for long tasks.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is false that Shortest Job First (SJF) algorithm guarantees equal treatment for long and short tasks.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that in Round Robin (RR) scheduling, a process will not starve since it is given a fixed time slice.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is false that Round Robin (RR) scheduling guarantees the fastest execution time for all tasks.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that Priority Scheduling may cause starvation for low-priority tasks.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is false that Priority Scheduling always avoids starvation by executing low-priority tasks first.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that Multilevel Queue Scheduling allows processes to move between different queues based on priority.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "It is false that Multilevel Queue Scheduling allows processes to move between queues dynamically.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that in First Come First Served (FCFS), the process that arrives first is executed first.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is false that in First Come First Served (FCFS), the last arriving process is executed first.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that Shortest Job First (SJF) scheduling may result in faster completion times for shorter tasks.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is false that Shortest Job First (SJF) scheduling always leads to faster completion for all tasks.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that Round Robin (RR) scheduling prevents starvation by giving each task a fixed time slot.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is false that Round Robin (RR) scheduling does not allow preemption.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is true that Priority Scheduling executes higher-priority tasks before lower-priority tasks.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is false that Priority Scheduling executes lower-priority tasks first.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that Multilevel Queue Scheduling can cause low-priority tasks to wait indefinitely.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is false that Multilevel Queue Scheduling ensures low-priority tasks are always executed.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that in Shortest Remaining Time Next (SRTN), tasks with shorter remaining times preempt longer tasks.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is false that in Shortest Remaining Time Next (SRTN), longer tasks always execute before shorter ones.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that Priority Scheduling may result in starvation if low-priority tasks are never executed.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is false that Priority Scheduling avoids starvation without any modifications.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that Multilevel Queue Scheduling uses multiple scheduling algorithms for different priority queues.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is false that Multilevel Queue Scheduling uses a single scheduling algorithm for all processes.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that Round Robin (RR) scheduling is fair since it gives each process an equal time slice.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is false that Round Robin (RR) scheduling always leads to the shortest execution time for processes.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that Shortest Job First (SJF) can be more efficient when all tasks have similar burst times.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is false that Shortest Job First (SJF) always guarantees the best performance for all types of workloads.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that Priority Scheduling can handle important tasks first if the system is preemptive.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is false that Priority Scheduling always executes tasks with the lowest priority first.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that First Come First Served (FCFS) is simple to implement but may not be efficient for tasks with widely varying burst times.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is false that First Come First Served (FCFS) scheduling is always the most efficient scheduling method for all types of workloads.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is true that Shortest Remaining Time Next (SRTN) can cause frequent context switching due to preemption.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is false that Shortest Remaining Time Next (SRTN) eliminates context switching.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "It is true that Round Robin (RR) scheduling can cause frequent context switching if the time slice is too small.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is false that Round Robin (RR) scheduling never results in context switching.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "It is true that Priority Scheduling can be modified with aging to prevent starvation of low-priority tasks.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is false that Priority Scheduling is not affected by aging mechanisms.",
+      "answer": true
+    }
+  ]
+  

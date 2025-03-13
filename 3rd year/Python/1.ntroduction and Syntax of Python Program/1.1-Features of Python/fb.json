@@ -1,0 +1,129 @@
+[
+    {
+      "id": 1,
+      "question": "Python is a ________, easy-to-learn, and widely used programming language.",
+      "options": ["complex", "powerful", "weak", "limited"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Python has a simple and easy-to-read ________, making it beginner-friendly.",
+      "options": ["syntax", "compiler", "algorithm", "hardware"],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Unlike Java or C++, Python runs code ________ line by line.",
+      "options": ["simultaneously", "in reverse", "randomly", "sequentially"],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "Python is an ________ language, meaning it does not require compilation before execution.",
+      "options": ["interpreted", "compiled", "assembled", "encrypted"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Python is ________, meaning it can be downloaded and used for free.",
+      "options": ["paid", "proprietary", "open-source", "subscription-based"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Python is a ________-level language, meaning it does not require managing memory manually.",
+      "options": ["low", "mid", "high", "assembly"],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Python programs can run on Windows, macOS, and Linux without modifications, making it ________.",
+      "options": ["system-dependent", "platform-independent", "OS-restricted", "hardware-limited"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Python supports ________ programming, allowing the use of classes and objects.",
+      "options": ["structured", "functional", "object-oriented", "imperative"],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Python comes with a large ________, providing built-in modules and functions.",
+      "options": ["compiler", "standard library", "database", "server"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Python is ________ typed, meaning it does not require specifying data types.",
+      "options": ["statically", "dynamically", "strongly", "weakly"],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Python can be ________ with C, C++, or Java to extend its functionality.",
+      "options": ["embedded", "ignored", "removed", "restricted"],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Python supports creating GUI applications using libraries like ________.",
+      "options": ["Tkinter", "Jupyter", "SQLite", "NumPy"],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "A Python GUI window can be created using the ________ module.",
+      "options": ["math", "sys", "tkinter", "random"],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Python is widely used in ________, allowing developers to build web applications.",
+      "options": ["game development", "web development", "cybersecurity", "data science"],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "The ________ framework is used in Python for web development.",
+      "options": ["Flask", "TensorFlow", "PyQt", "Matplotlib"],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Python is extensively used in ________ for building AI models.",
+      "options": ["networking", "machine learning", "system administration", "gaming"],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "In Python, we use the ________ function to display output.",
+      "options": ["echo", "cout", "display", "print"],
+      "answer": 4
+    },
+    {
+      "id": 18,
+      "question": "To find the square root of 16 in Python, we use the ________ module.",
+      "options": ["random", "math", "sys", "os"],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "In Python, ________ refers to using the same code on multiple operating systems without modification.",
+      "options": ["cross-platform", "single-platform", "restricted", "exclusive"],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Python has an ________ that executes code directly without compilation.",
+      "options": ["assembler", "interpreter", "compiler", "processor"],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Python's syntax is similar to the English language, making it ________ to understand.",
+      "options": ["difficult", "simple", "complex", "inaccessible"],
+      "answer": 2
+    }
+  ]
+  

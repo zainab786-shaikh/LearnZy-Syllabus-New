@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary function of organizing in management?",
+      "options": [
+        "To manage finances",
+        "To ensure smooth operations",
+        "To hire employees",
+        "To market products"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "At the supervisory level, what does organizing involve?",
+      "options": [
+        "Only managing workers",
+        "Arranging and coordinating resources",
+        "Only allocating tasks",
+        "Only ensuring safety"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What are some examples of physical resources?",
+      "options": [
+        "Only machines and tools",
+        "Machines, tools, raw materials, office supplies, workspace, and infrastructure",
+        "Only raw materials and office supplies",
+        "Only workspace and infrastructure"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Why is organizing physical resources important?",
+      "options": [
+        "It only reduces wastage of materials",
+        "It only increases efficiency",
+        "It reduces wastage, increases efficiency, improves safety, and ensures smooth workflow",
+        "It only improves safety"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is a supervisor responsible for?",
+      "options": [
+        "Only managing workers",
+        "Managing workers, allocating tasks, and ensuring necessary resources",
+        "Only allocating tasks",
+        "Only ensuring safety"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "In a car manufacturing company, what should a supervisor ensure?",
+      "options": [
+        "Only that machines are working properly",
+        "That machines are working properly, workers have required tools, raw materials are available, and finished cars are moved efficiently",
+        "Only that raw materials are available",
+        "Only that finished cars are moved efficiently"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "In a restaurant, what should a supervisor ensure?",
+      "options": [
+        "Only that the kitchen has necessary ingredients",
+        "That the kitchen has necessary ingredients, cooking equipment is working, and tables are arranged properly",
+        "Only that cooking equipment is working",
+        "Only that tables are arranged properly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What is the role of a supervisor in resource allocation?",
+      "options": [
+        "To allocate tasks only",
+        "To ensure resources are available and utilized efficiently",
+        "To manage finances only",
+        "To hire employees only"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Why is it important to place resources where they are needed?",
+      "options": [
+        "It only reduces wastage",
+        "It increases efficiency and reduces delays",
+        "It only improves safety",
+        "It only ensures smooth workflow"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What happens when physical resources are not properly maintained?",
+      "options": [
+        "Efficiency increases",
+        "Safety improves",
+        "Wastage reduces",
+        "Workflow may be disrupted"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 11,
+      "question": "What is the impact of efficient resource utilization on workflow?",
+      "options": [
+        "It causes unnecessary delays",
+        "It reduces efficiency",
+        "It ensures a smooth workflow without unnecessary delays",
+        "It increases wastage"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "How does organizing physical resources improve safety?",
+      "options": [
+        "By reducing the availability of resources",
+        "By ensuring resources are properly maintained and used",
+        "By increasing the number of workers",
+        "By decreasing the number of machines"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "What is the benefit of reducing wastage of materials?",
+      "options": [
+        "It increases costs",
+        "It reduces efficiency",
+        "It conserves resources and reduces costs",
+        "It disrupts workflow"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "In what type of environment is organizing physical resources crucial?",
+      "options": [
+        "Only in manufacturing",
+        "Only in service industries",
+        "In all types of organizations",
+        "Only in non-profit organizations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "What is the role of a supervisor in ensuring resource availability?",
+      "options": [
+        "To ensure resources are available on time",
+        "To allocate tasks only",
+        "To manage finances only",
+        "To hire employees only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "How does organizing resources affect employee productivity?",
+      "options": [
+        "It decreases productivity",
+        "It has no impact on productivity",
+        "It increases productivity by providing necessary resources",
+        "It only affects safety"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "What is an example of a physical resource in an office setting?",
+      "options": [
+        "Only computers",
+        "Computers, office supplies, and workspace",
+        "Only office supplies",
+        "Only workspace"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Why is it important to maintain machines properly?",
+      "options": [
+        "It reduces efficiency",
+        "It increases wastage",
+        "It ensures smooth workflow and safety",
+        "It disrupts workflow"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "In a restaurant, what physical resource is crucial for food preparation?",
+      "options": [
+        "Only tables and chairs",
+        "Only refrigerators and cooking equipment",
+        "Refrigerators, cooking equipment, and ingredients",
+        "Only ingredients"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "How does organizing resources impact customer satisfaction?",
+      "options": [
+        "It decreases customer satisfaction",
+        "It has no impact on customer satisfaction",
+        "It increases customer satisfaction by ensuring smooth operations",
+        "It only affects employee productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "What is the role of a supervisor in maintaining infrastructure?",
+      "options": [
+        "To ensure infrastructure is properly maintained",
+        "To allocate tasks only",
+        "To manage finances only",
+        "To hire employees only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Why is efficient resource utilization important in manufacturing?",
+      "options": [
+        "It reduces efficiency",
+        "It increases costs",
+        "It ensures timely production and reduces delays",
+        "It disrupts workflow"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 23,
+      "question": "What happens when resources are not efficiently utilized?",
+      "options": [
+        "Efficiency increases",
+        "Costs decrease",
+        "Wastage reduces",
+        "Delays and inefficiencies occur"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 24,
+      "question": "How does organizing physical resources impact the overall performance of an organization?",
+      "options": [
+        "It decreases performance",
+        "It has no impact on performance",
+        "It improves performance by ensuring smooth operations",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "question": "What is an example of organizing physical resources in a service industry?",
+      "options": [
+        "Only in manufacturing",
+        "In a restaurant, ensuring kitchen equipment and ingredients are available",
+        "Only in non-profit organizations",
+        "Only in retail"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "Why is it important for a supervisor to ensure that raw materials are available on time?",
+      "options": [
+        "It reduces efficiency",
+        "It increases costs",
+        "It ensures smooth production and reduces delays",
+        "It disrupts workflow"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 27,
+      "question": "What is the impact of proper resource maintenance on safety?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It improves safety by preventing accidents",
+        "It only affects efficiency"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 28,
+      "question": "How does organizing resources affect the morale of employees?",
+      "options": [
+        "It decreases morale",
+        "It has no impact on morale",
+        "It increases morale by providing necessary resources",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 29,
+      "question": "What is the role of a supervisor in ensuring that workers have the necessary tools?",
+      "options": [
+        "To allocate tasks only",
+        "To ensure workers have necessary tools and resources",
+        "To manage finances only",
+        "To hire employees only"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "Why is it important to arrange tables and chairs properly in a dining area?",
+      "options": [
+        "It reduces customer satisfaction",
+        "It has no impact on customer satisfaction",
+        "It improves customer satisfaction by creating a welcoming environment",
+        "It only affects employee productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 31,
+      "question": "What is an example of a physical resource in a manufacturing setting?",
+      "options": [
+        "Only raw materials",
+        "Machines, tools, raw materials, and workspace",
+        "Only machines",
+        "Only workspace"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 32,
+      "question": "How does organizing physical resources impact the quality of products or services?",
+      "options": [
+        "It decreases quality",
+        "It has no impact on quality",
+        "It improves quality by ensuring necessary resources are available",
+        "It only affects customer satisfaction"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 33,
+      "question": "What is the benefit of ensuring that finished products are moved efficiently?",
+      "options": [
+        "It reduces efficiency",
+        "It increases costs",
+        "It ensures timely delivery and reduces delays",
+        "It disrupts workflow"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 34,
+      "question": "Why is it important for a supervisor to ensure that refrigerators are in working condition?",
+      "options": [
+        "It reduces efficiency",
+        "It increases costs",
+        "It ensures food safety and quality",
+        "It disrupts workflow"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 35,
+      "question": "What happens when a supervisor fails to allocate resources efficiently?",
+      "options": [
+        "Efficiency increases",
+        "Costs decrease",
+        "Wastage reduces",
+        "Delays and inefficiencies occur"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 36,
+      "question": "How does organizing physical resources impact the competitive advantage of an organization?",
+      "options": [
+        "It decreases competitive advantage",
+        "It has no impact on competitive advantage",
+        "It improves competitive advantage by ensuring efficient operations",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 37,
+      "question": "What is the role of a supervisor in maintaining office supplies?",
+      "options": [
+        "To ensure office supplies are available and used efficiently",
+        "To allocate tasks only",
+        "To manage finances only",
+        "To hire employees only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "Why is it important to ensure that workspace is properly arranged?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It improves efficiency and safety by reducing clutter",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 39,
+      "question": "What is the impact of efficient resource utilization on costs?",
+      "options": [
+        "It increases costs",
+        "It has no impact on costs",
+        "It reduces costs by minimizing wastage",
+        "It only affects efficiency"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 40,
+      "question": "How does organizing physical resources affect the sustainability of an organization?",
+      "options": [
+        "It decreases sustainability",
+        "It has no impact on sustainability",
+        "It improves sustainability by conserving resources",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 41,
+      "question": "What is an example of organizing physical resources in a manufacturing company?",
+      "options": [
+        "Only ensuring machines are working properly",
+        "Ensuring machines are working, workers have tools, raw materials are available, and finished products are moved efficiently",
+        "Only ensuring raw materials are available",
+        "Only ensuring finished products are moved efficiently"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "Why is it important for a supervisor to ensure that tools are available to workers?",
+      "options": [
+        "It reduces efficiency",
+        "It increases costs",
+        "It ensures workers can perform tasks effectively",
+        "It disrupts workflow"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 43,
+      "question": "What happens when physical resources are not available on time?",
+      "options": [
+        "Efficiency increases",
+        "Costs decrease",
+        "Wastage reduces",
+        "Delays and inefficiencies occur"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 44,
+      "question": "How does organizing resources impact the adaptability of an organization?",
+      "options": [
+        "It decreases adaptability",
+        "It has no impact on adaptability",
+        "It improves adaptability by ensuring efficient operations",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 45,
+      "question": "What is the role of a supervisor in ensuring that infrastructure is properly maintained?",
+      "options": [
+        "To ensure infrastructure is properly maintained",
+        "To allocate tasks only",
+        "To manage finances only",
+        "To hire employees only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Why is it important to maintain cooking equipment properly in a restaurant?",
+      "options": [
+        "It reduces efficiency",
+        "It increases costs",
+        "It ensures food quality and safety",
+        "It disrupts workflow"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 47,
+      "question": "What happens when resources are not properly maintained?",
+      "options": [
+        "Efficiency increases",
+        "Costs decrease",
+        "Wastage reduces",
+        "Delays and inefficiencies occur"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 48,
+      "question": "How does organizing physical resources impact the reputation of an organization?",
+      "options": [
+        "It decreases reputation",
+        "It has no impact on reputation",
+        "It improves reputation by ensuring efficient and quality operations",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 49,
+      "question": "What is the benefit of ensuring that raw materials are used efficiently?",
+      "options": [
+        "It increases costs",
+        "It reduces efficiency",
+        "It conserves resources and reduces costs",
+        "It disrupts workflow"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 50,
+      "question": "Why is it important for a supervisor to ensure that workspace is safe and efficient?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It improves efficiency and safety by reducing accidents",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    }
+]
+  

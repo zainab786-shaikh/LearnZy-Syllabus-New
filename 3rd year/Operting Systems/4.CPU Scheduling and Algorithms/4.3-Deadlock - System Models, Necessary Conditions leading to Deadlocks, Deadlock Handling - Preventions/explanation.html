@@ -1,0 +1,44 @@
+<div>
+    <h2>4.3 Deadlock - System Models, Necessary Conditions leading to Deadlocks, Deadlock Handling - Preventions</h2>
+    
+    <h3>What is Deadlock?</h3>
+    <p>Imagine you and your friend are playing a game. You need two toys to complete your turn, and your friend also needs the same two toys. You take one toy, and your friend takes the other. Now, both of you are waiting for each other to give up the toy, but neither of you is willing to do so. This situation is called a deadlock—nobody can move forward, and the system is stuck.</p>
+    <p>In computers, deadlock happens when two or more processes (tasks running in the system) are waiting for resources, but none can proceed because they are waiting on each other.</p>
+    
+    <h3>System Models</h3>
+    <p>A system consists of:</p>
+    <ul>
+      <li><strong>Processes:</strong> Tasks that need resources to execute.</li>
+      <li><strong>Resources:</strong> Objects like CPU time, memory, files, or printers that processes need.</li>
+    </ul>
+    
+    <h4>Example of a System with Potential Deadlock</h4>
+    <p>Imagine a bank with two counters:</p>
+    <ul>
+      <li>Counter A is serving a customer who needs an ID card to continue but has already taken a token.</li>
+      <li>Counter B is serving another customer who has the ID card but is waiting for a token.</li>
+    </ul>
+    <p>Since both customers need both resources, neither can proceed, leading to a deadlock.</p>
+    
+    <h3>Necessary Conditions Leading to Deadlock</h3>
+    <p>For a deadlock to occur, four conditions must be met simultaneously. If even one of these conditions is prevented, deadlock will not happen.</p>
+    <ul>
+      <li><strong>Mutual Exclusion (Resource Locking):</strong> A resource can only be used by one process at a time.</li>
+      <li><strong>Hold and Wait:</strong> A process holds some resources and waits for others.</li>
+      <li><strong>No Preemption:</strong> Resources cannot be forcibly taken away from a process; they must be released voluntarily.</li>
+      <li><strong>Circular Wait:</strong> A chain of waiting processes exists where each process is waiting for a resource held by the next process in the chain.</li>
+    </ul>
+    
+    <h3>Deadlock Handling - Prevention</h3>
+    <p>Deadlock can be prevented by ensuring that at least one of the four necessary conditions does not occur.</p>
+    <ul>
+      <li><strong>Preventing Mutual Exclusion:</strong> Allow multiple processes to use the same resource simultaneously.</li>
+      <li><strong>Preventing Hold and Wait:</strong> Ensure a process gets all required resources at once before starting.</li>
+      <li><strong>Preventing No Preemption:</strong> Take away resources from a waiting process and give them to another process that can proceed.</li>
+      <li><strong>Preventing Circular Wait:</strong> Assign an order to resources so that they are always allocated in a fixed sequence.</li>
+    </ul>
+    
+    <h3>Conclusion</h3>
+    <p>Deadlocks can bring a system to a standstill, just like a traffic jam where no vehicle can move forward. By carefully managing resource allocation and ensuring that at least one of the four necessary conditions does not happen, we can prevent deadlocks and keep the system running smoothly.</p>
+</div>
+  

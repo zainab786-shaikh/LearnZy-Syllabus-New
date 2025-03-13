@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that Python is an object-oriented programming language.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is true that Python is not an object-oriented programming language.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that a class in Python is a template for creating objects.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is true that a class in Python is not a template for creating objects.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that the keyword class is used to define a class in Python.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is true that the keyword function is used to define a class in Python.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that class names in Python typically start with a capital letter.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is true that class names in Python typically start with a lowercase letter.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that an object in Python is an instance of a class.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that an object in Python is not an instance of a class.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that the __init__() method in Python is used to initialize object attributes.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that the __init__() method in Python is not used to initialize object attributes.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that self in Python refers to the object itself.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that self in Python does not refer to the object itself.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that methods in Python are functions defined inside a class.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is true that methods in Python are not functions defined inside a class.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that you can create multiple objects from the same class in Python.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is true that you cannot create multiple objects from the same class in Python.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that object attributes in Python can be modified after creation.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that object attributes in Python cannot be modified after creation.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that you can delete an object or its attributes using the del statement in Python.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is true that you cannot delete an object or its attributes using the del statement in Python.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that classes in Python help in organizing code into structured and reusable components.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that classes in Python do not help in organizing code into structured and reusable components.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that objects in Python can represent real-world entities like cars or bank accounts.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that objects in Python cannot represent real-world entities like cars or bank accounts.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that the __init__() method is called automatically when an object is created.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is true that the __init__() method is not called automatically when an object is created.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that methods in Python can perform actions on objects.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that methods in Python cannot perform actions on objects.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that classes and objects in Python are essential for object-oriented programming.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that classes and objects in Python are not essential for object-oriented programming.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that Python classes can contain both attributes and methods.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that Python classes cannot contain both attributes and methods.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that objects in Python can be used to model complex systems.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is true that objects in Python cannot be used to model complex systems.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that Python classes are useful for encapsulating data and behavior.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is true that Python classes are not useful for encapsulating data and behavior.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that inheritance is a feature of object-oriented programming in Python.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is true that inheritance is not a feature of object-oriented programming in Python.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that polymorphism is a feature of object-oriented programming in Python.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is true that polymorphism is not a feature of object-oriented programming in Python.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that classes in Python can be used to create reusable code.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is true that classes in Python cannot be used to create reusable code.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that Python classes help in abstracting complex details.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that Python classes do not help in abstracting complex details.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that objects in Python can be used to represent dynamic data structures.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that objects in Python cannot be used to represent dynamic data structures.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that Python classes are essential for building robust and maintainable software systems.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that Python classes are not essential for building robust and maintainable software systems.",
+      "answer": false
+    }
+]
+  

@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "A directory structure helps in _______ files on a computer.",
+      "options": ["deleting", "organizing", "corrupting", "hiding"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "In a _______ directory structure, all files are stored in a single directory.",
+      "options": ["single-level", "two-level", "tree-structured", "graph"],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "The _______ directory structure allows users to create subdirectories.",
+      "options": ["single-level", "two-level", "tree-structured", "flat"],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "A major disadvantage of a single-level directory is _______.",
+      "options": ["fast access", "name conflicts", "high security", "easy sharing"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "A _______ directory structure has a separate directory for each user.",
+      "options": ["single-level", "two-level", "tree-structured", "hierarchical"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "A _______ directory structure allows better organization with subdirectories.",
+      "options": ["flat", "single-level", "tree-structured", "loop"],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "The root directory is the _______ directory in a tree-structured system.",
+      "options": ["innermost", "topmost", "bottommost", "shared"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "The _______ structure determines how data is physically stored on a disk.",
+      "options": ["logical", "directory", "physical", "RAID"],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Tracks are divided into smaller units called _______ on a hard disk.",
+      "options": ["platters", "sectors", "blocks", "clusters"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "A file system like NTFS or EXT4 manages the _______ structure of a disk.",
+      "options": ["logical", "physical", "hardware", "fragmented"],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "The _______ contains information about the disk, including free space and structure.",
+      "options": ["boot block", "superblock", "data block", "file control block"],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "The purpose of RAID is to improve disk _______.",
+      "options": ["color", "performance", "cost", "size"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "RAID stands for _______.",
+      "options": ["Redundant Array of Independent Disks", "Random Access of Integrated Data", "Reliable Architecture for Intelligent Disks", "Rapid Access to Information Disks"],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "RAID 0 provides increased speed by using _______.",
+      "options": ["mirroring", "parity", "striping", "duplication"],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "RAID 1 ensures data protection by using _______.",
+      "options": ["striping", "mirroring", "parity", "compression"],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "RAID 5 distributes both data and _______ across multiple disks.",
+      "options": ["errors", "mirrors", "parity", "clusters"],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "RAID 6 provides extra security by using _______ parity blocks.",
+      "options": ["single", "double", "triple", "none"],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "The boot block stores _______ information for the system startup.",
+      "options": ["user", "hardware", "operating system", "superblock"],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "A major advantage of RAID 1 is _______.",
+      "options": ["increased speed", "data redundancy", "lower cost", "striping"],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Which RAID level offers the best balance between speed and security?",
+      "options": ["RAID 0", "RAID 1", "RAID 5", "RAID 6"],
+      "answer": 3
+    }
+]
+  

@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that water pollution occurs when harmful substances enter water bodies, making it unsafe for use.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that groundwater is found only in lakes and rivers.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that surface water sources include rivers, lakes, and oceans.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that aquifers are found on the Earth's surface.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that industrial waste is a major cause of water pollution.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that oil spills have no impact on marine life.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that agricultural runoff containing fertilizers and pesticides pollutes water bodies.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is true that water pollution has no effect on human health.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that eutrophication occurs when excess nutrients cause uncontrolled algae growth in water bodies.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that domestic waste, including detergents and sewage, has no role in polluting water.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that waterborne diseases such as cholera and typhoid result from consuming contaminated water.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that polluted water is always safe for aquatic life.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that plastic pollution in oceans affects marine life.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that natural sources like volcanic eruptions can never contribute to water pollution.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that oil spills lead to the destruction of marine ecosystems.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is true that heavy metals like lead and mercury are safe for water quality.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that untreated sewage discharge pollutes rivers and lakes.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is true that industries do not contribute to water pollution.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that drinking contaminated water can lead to poisoning and other serious health issues.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that pH levels of drinking water should be between 1 and 3.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that dissolved oxygen levels in water should be above 5 mg/L for aquatic life to survive.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is true that water turbidity is not an indicator of water quality.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that excess algae growth in water bodies blocks sunlight and harms aquatic life.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that lead and arsenic in water are completely safe for drinking.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that screening is the first step in water treatment plants to remove large objects.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that filtration is not necessary in water treatment.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that chlorine or UV light is used in disinfection to kill bacteria in water treatment plants.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is true that untreated water is safe for human consumption.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that water conservation methods help prevent water shortages.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that rainwater harvesting is not a useful method of water conservation.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that fixing leaks in household plumbing helps conserve water.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that recycling wastewater has no benefits for water conservation.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that government regulations help reduce industrial water pollution.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that all pollutants in water are visible to the naked eye.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that untreated industrial waste can make water sources toxic.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is true that afforestation has no role in protecting water quality.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that wastewater treatment plants help clean polluted water before it is reused.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is true that drinking polluted water has no long-term health effects.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that proper disposal of household waste can reduce water pollution.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is true that water pollution affects only humans and not animals.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that polluted water can cause skin and eye infections.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is true that eutrophication improves water quality.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that conserving water resources is necessary for future generations.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is true that all lakes and rivers naturally clean themselves without human intervention.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that promoting eco-friendly farming can help reduce water pollution.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that using organic fertilizers has no impact on water conservation.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that illegal dumping of waste into rivers should be strictly punished.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that clean drinking water is a luxury and not a necessity.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that industries should treat their wastewater before releasing it into the environment.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that water treatment plants are unnecessary because water cleans itself naturally.",
+      "answer": false
+    }
+]
+  

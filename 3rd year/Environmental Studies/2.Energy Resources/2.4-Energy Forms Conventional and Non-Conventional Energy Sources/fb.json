@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Conventional energy sources are mostly ________ in nature.",
+      "options": [
+        "renewable",
+        "non-renewable",
+        "unlimited",
+        "sustainable"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The main disadvantage of conventional energy sources is that they cause ________.",
+      "options": [
+        "pollution",
+        "more energy generation",
+        "low costs",
+        "less demand"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Coal is an example of a ________ energy source.",
+      "options": [
+        "renewable",
+        "non-conventional",
+        "non-renewable",
+        "tidal"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Solar energy is a form of ________ energy source.",
+      "options": [
+        "conventional",
+        "non-conventional",
+        "fossil fuel",
+        "nuclear"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Petroleum is refined to produce fuels such as ________.",
+      "options": [
+        "coal and biomass",
+        "diesel and petrol",
+        "solar and wind",
+        "water and air"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The energy generated from the movement of wind is called ________ energy.",
+      "options": [
+        "solar",
+        "hydropower",
+        "wind",
+        "tidal"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Hydropower is generated using the force of ________.",
+      "options": [
+        "sunlight",
+        "wind",
+        "water",
+        "biomass"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Nuclear energy is produced through a process called nuclear ________.",
+      "options": [
+        "fusion",
+        "fission",
+        "conduction",
+        "convection"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Energy obtained from organic waste materials is known as ________ energy.",
+      "options": [
+        "solar",
+        "biomass",
+        "wind",
+        "geothermal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "The energy derived from the Earth's internal heat is called ________ energy.",
+      "options": [
+        "solar",
+        "wind",
+        "geothermal",
+        "tidal"
+      ],
+      "answer": 3
+    }
+]
+  

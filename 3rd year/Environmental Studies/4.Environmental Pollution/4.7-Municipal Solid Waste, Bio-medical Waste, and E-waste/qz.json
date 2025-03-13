@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is Municipal Solid Waste (MSW)?",
+      "options": [
+        "Waste generated from households, offices, and public places",
+        "Waste generated only from industries",
+        "Waste generated from hospitals",
+        "Waste generated only from natural disasters"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an example of household waste?",
+      "options": [
+        "Medical syringes",
+        "Vegetable peels",
+        "Bricks and cement",
+        "Old circuit boards"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What type of waste is generated from restaurants and shops?",
+      "options": [
+        "E-waste",
+        "Bio-medical waste",
+        "Commercial waste",
+        "Radioactive waste"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Which type of waste is biodegradable?",
+      "options": [
+        "Plastic bottles",
+        "Glass containers",
+        "Vegetable peels",
+        "Metal cans"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is one of the main effects of Municipal Solid Waste?",
+      "options": [
+        "Increases productivity in industries",
+        "Prevents soil erosion",
+        "Causes environmental pollution",
+        "Boosts economic growth"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "What is the 3R principle in waste management?",
+      "options": [
+        "Recycle, Reuse, Reduce",
+        "Repair, Recover, Reduce",
+        "Renew, Reduce, Regenerate",
+        "Recycle, Repair, React"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which method is used for disposing of non-recyclable solid waste?",
+      "options": [
+        "Landfilling",
+        "Composting",
+        "Reusing",
+        "Recycling"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which sector generates bio-medical waste?",
+      "options": [
+        "Schools",
+        "Hospitals",
+        "Supermarkets",
+        "Factories"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which color bin is used for disposing of infected medical waste?",
+      "options": [
+        "Blue",
+        "Yellow",
+        "Green",
+        "Red"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Why is bio-medical waste hazardous?",
+      "options": [
+        "It contains toxic chemicals and infectious materials",
+        "It is heavy and difficult to transport",
+        "It is biodegradable and decomposes quickly",
+        "It is used in making medicines"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a source of E-waste?",
+      "options": [
+        "Plastic bottles",
+        "Expired medicines",
+        "Old mobile phones",
+        "Newspapers"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "What hazardous substances are found in E-waste?",
+      "options": [
+        "Lead and mercury",
+        "Oxygen and nitrogen",
+        "Iron and aluminum",
+        "Water and carbon dioxide"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which is NOT a proper method of E-waste management?",
+      "options": [
+        "Burning electronic waste",
+        "Recycling valuable metals",
+        "Proper disposal in collection centers",
+        "Refurbishing old electronic devices"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "What does EPR stand for in E-waste management?",
+      "options": [
+        "Electronic Product Recycling",
+        "Extended Producer Responsibility",
+        "Environmental Pollution Reduction",
+        "Electronic Product Reuse"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "What is the primary cause of noise pollution?",
+      "options": [
+        "Loud music",
+        "Vehicle horns",
+        "Industrial machinery",
+        "All of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 16,
+      "question": "Which type of waste can be turned into compost?",
+      "options": [
+        "Glass and metals",
+        "Plastic and paper",
+        "Food scraps and vegetable peels",
+        "Batteries and circuit boards"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "What is the major drawback of incineration?",
+      "options": [
+        "Generates energy",
+        "Releases harmful gases",
+        "Reduces waste volume",
+        "Produces compost"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Which zone has the highest permissible noise levels?",
+      "options": [
+        "Residential",
+        "Commercial",
+        "Industrial",
+        "Silent"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "What happens when heavy metals from E-waste enter soil and water?",
+      "options": [
+        "They fertilize crops",
+        "They cause pollution",
+        "They improve soil structure",
+        "They increase oxygen levels"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is NOT a source of bio-medical waste?",
+      "options": [
+        "Blood-stained bandages",
+        "Used syringes",
+        "Plastic packaging",
+        "Surgical gloves"
+      ],
+      "answer": 3
+    }
+]
+  

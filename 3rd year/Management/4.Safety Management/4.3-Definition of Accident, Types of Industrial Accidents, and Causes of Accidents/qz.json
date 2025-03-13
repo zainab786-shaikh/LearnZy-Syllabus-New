@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is the definition of an accident?",
+      "options": [
+        "A planned event causing no harm",
+        "An unexpected event causing harm or injury",
+        "A routine occurrence with no impact",
+        "A deliberate act causing damage"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What is an example of an industrial accident?",
+      "options": [
+        "A worker slipping on a wet floor",
+        "A machine operating smoothly",
+        "A planned maintenance shutdown",
+        "A routine safety inspection"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "What are mechanical accidents in industrial settings?",
+      "options": [
+        "Accidents due to electrical issues",
+        "Accidents due to machinery or equipment failure",
+        "Accidents due to chemical spills",
+        "Accidents due to slips and falls"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Why is it important to maintain machinery properly to prevent accidents?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on safety",
+        "It prevents mechanical accidents by ensuring equipment is in good working condition",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is an example of an electrical accident?",
+      "options": [
+        "A worker getting caught in a machine",
+        "An electrician receiving an electric shock",
+        "A chemical spill causing burns",
+        "A worker slipping on an oily floor"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Why is it important to ensure proper wiring to prevent electrical accidents?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents electrical shocks and fires by maintaining proper wiring",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "What are fire and explosion accidents in industrial settings?",
+      "options": [
+        "Accidents due to machinery failure",
+        "Accidents due to flammable materials or gas leaks",
+        "Accidents due to chemical spills",
+        "Accidents due to slips and falls"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What is an example of a chemical accident?",
+      "options": [
+        "A worker inhaling toxic fumes from a spill",
+        "A machine operator getting caught in moving parts",
+        "An electrician receiving an electric shock",
+        "A worker slipping on an oily floor"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Why is it important to handle chemicals safely to prevent accidents?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents chemical accidents by minimizing exposure to hazardous substances",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "What are slips, trips, and falls accidents in industrial settings?",
+      "options": [
+        "Accidents due to machinery failure",
+        "Accidents due to electrical issues",
+        "Accidents due to workers falling on slippery surfaces",
+        "Accidents due to chemical spills"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Why is it important to maintain clean and dry floors to prevent slips and falls?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents accidents by reducing slippery surfaces",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "What are falling objects accidents in industrial settings?",
+      "options": [
+        "Accidents due to machinery failure",
+        "Accidents due to electrical issues",
+        "Accidents caused by objects falling from heights",
+        "Accidents due to chemical spills"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "Why is it important to secure objects at heights to prevent falling objects accidents?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents accidents by ensuring objects are properly secured",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "What are confined space accidents in industrial settings?",
+      "options": [
+        "Accidents due to machinery failure",
+        "Accidents due to electrical issues",
+        "Accidents occurring in small spaces with low oxygen levels",
+        "Accidents due to chemical spills"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "Why is it important to ensure proper ventilation in confined spaces to prevent accidents?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents accidents by maintaining adequate oxygen levels",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "What are human causes of industrial accidents?",
+      "options": [
+        "Faulty equipment or machinery issues",
+        "Hazardous workplace conditions",
+        "Workers' mistakes, negligence, or lack of training",
+        "Natural disasters"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Why is it important to provide safety training to prevent human error accidents?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents accidents by educating workers on safe practices",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "What are mechanical causes of industrial accidents?",
+      "options": [
+        "Workers' mistakes or negligence",
+        "Hazardous workplace conditions",
+        "Faulty equipment or machinery issues",
+        "Natural disasters"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "Why is regular maintenance important to prevent mechanical accidents?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on safety",
+        "It prevents accidents by ensuring equipment is in good working condition",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "What are environmental causes of industrial accidents?",
+      "options": [
+        "Workers' mistakes or negligence",
+        "Faulty equipment or machinery issues",
+        "Hazardous workplace conditions",
+        "Natural disasters"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "Why is it important to improve workplace conditions to prevent accidents?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents accidents by reducing hazards in the work environment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "How do industrial accidents impact organizational performance?",
+      "options": [
+        "They increase performance",
+        "They have no impact on performance",
+        "They decrease performance by causing injuries and downtime",
+        "They only affect employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 23,
+      "question": "What is the role of safety training in preventing industrial accidents?",
+      "options": [
+        "To reduce safety awareness",
+        "To have no impact on safety awareness",
+        "To educate workers on safe practices and prevent accidents",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 24,
+      "question": "Why is it important to conduct regular safety audits to prevent accidents?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It helps identify and fix potential hazards before accidents occur",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "question": "What happens if safety protocols are not followed in industrial settings?",
+      "options": [
+        "Accidents decrease",
+        "Safety improves",
+        "Accidents increase due to lack of safety measures",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 26,
+      "question": "How does industrial safety impact employee morale?",
+      "options": [
+        "It decreases morale",
+        "It has no impact on morale",
+        "It improves morale by providing a safe work environment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 27,
+      "question": "What is the benefit of having a comprehensive safety program in industrial settings?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It improves safety and reduces accidents",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 28,
+      "question": "Why is it important to ensure that workers wear personal protective equipment (PPE)?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It protects workers from injuries in hazardous areas",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 29,
+      "question": "What happens if PPE is not used in industrial settings?",
+      "options": [
+        "Injuries decrease",
+        "Safety improves",
+        "Injuries increase due to lack of protection",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question": "How does industrial safety impact organizational reputation?",
+      "options": [
+        "It decreases reputation",
+        "It has no impact on reputation",
+        "It improves reputation by demonstrating a commitment to safety",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 31,
+      "question": "What is the role of regular maintenance in preventing mechanical accidents?",
+      "options": [
+        "To reduce safety",
+        "To have no impact on safety",
+        "To prevent accidents by ensuring equipment is in good working condition",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 32,
+      "question": "Why is it important to ensure proper ventilation in industrial settings?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents accidents by maintaining air quality",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 33,
+      "question": "What happens if hazardous materials are not handled safely?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to improper handling",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 34,
+      "question": "How does industrial safety impact employee retention?",
+      "options": [
+        "It decreases retention",
+        "It has no impact on retention",
+        "It increases retention by providing a safe work environment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 35,
+      "question": "What is the benefit of having clear safety protocols in industrial settings?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It improves safety by providing clear guidelines for workers",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "Why is it important to enforce safety rules strictly in industrial settings?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures compliance with safety protocols and reduces accidents",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 37,
+      "question": "What happens if safety rules are not enforced strictly?",
+      "options": [
+        "Accidents decrease",
+        "Safety improves",
+        "Accidents increase due to lack of compliance",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 38,
+      "question": "How does industrial safety impact organizational sustainability?",
+      "options": [
+        "It decreases sustainability",
+        "It has no impact on sustainability",
+        "It improves sustainability by preventing environmental hazards",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 39,
+      "question": "What is the role of automation in reducing industrial accidents?",
+      "options": [
+        "To increase accidents",
+        "To have no impact on accidents",
+        "To reduce accidents by minimizing human involvement in risky tasks",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 40,
+      "question": "Why is it important to provide safety training on handling hazardous materials?",
+      "options": [
+        "It reduces safety awareness",
+        "It has no impact on safety awareness",
+        "It educates workers on safe handling procedures",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 41,
+      "question": "What happens if safety data sheets (SDS) are not available for hazardous materials?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to lack of hazard information",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 42,
+      "question": "How does regular equipment maintenance impact employee safety?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents accidents by ensuring equipment is in good working condition",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 43,
+      "question": "What is the benefit of having a comprehensive safety program in a chemical plant?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It improves safety and emergency preparedness",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 44,
+      "question": "Why is emergency preparedness important in industrial settings?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures readiness to respond to emergencies like chemical spills",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 45,
+      "question": "What happens if safety audits are not conducted regularly?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to undetected hazards",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 46,
+      "question": "How does industrial safety impact employee well-being?",
+      "options": [
+        "It decreases well-being",
+        "It has no impact on well-being",
+        "It improves well-being by providing a safe work environment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 47,
+      "question": "What is the role of safety signage in preventing industrial accidents?",
+      "options": [
+        "To reduce safety",
+        "To have no impact on safety",
+        "To warn workers of potential hazards",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 48,
+      "question": "Why is enforcing safety rules important for reducing workplace injuries?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures compliance with safety protocols and reduces injuries",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 49,
+      "question": "What happens if automation is not used in hazardous tasks?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to human involvement in risky tasks",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 50,
+      "question": "What is the overall impact of effective industrial safety measures on organizational performance?",
+      "options": [
+        "It decreases performance",
+        "It has no impact on performance",
+        "It improves performance by preventing accidents and ensuring a safe work environment",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    }
+]
+  

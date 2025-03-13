@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "A process is a running program in the operating system.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "A process cannot exist in multiple states during its execution.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "The 'New' state of a process means that it has just been created and is waiting for resources.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "A process in the 'Ready' state is currently being executed by the CPU.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "The 'Running' state means that the process is actively being executed by the CPU.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "A process in the 'Waiting' state is waiting for some resource like user input or file access.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Once a process enters the 'Terminated' state, it can move back to 'Running' state.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "The operating system assigns a unique Process ID (PID) to each process.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "A Process Control Block (PCB) stores important details about a process.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "The PCB does not contain information about the process state.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "The program counter in the PCB stores the memory address of the next instruction to be executed.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "The CPU registers in the PCB store temporary data like calculations and function calls.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Memory management information in the PCB includes details about RAM usage by a process.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "A PCB does not store information about input/output requests made by the process.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "Every process has the same priority level in the operating system.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "The parent process ID in the PCB helps track child processes created by another process.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "The operating system does not require a PCB to manage processes.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "Multitasking is possible because the OS efficiently manages multiple processes.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "The 'Ready' state means a process is waiting for the CPU to execute it.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "A process can move directly from 'Running' to 'New' state.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "A process in the 'Waiting' state is waiting for CPU time to execute instructions.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "Once a process starts running, it cannot return to the 'Ready' state.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "The PCB acts like an identity card for a process in the OS.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "The PCB does not store any security-related information.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "When you close an application, its process moves to the 'Terminated' state.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "The operating system does not need to track process execution states.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "Processes in the 'Blocked' state require CPU time to continue execution.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "The process priority helps the OS decide which process should be executed first.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "A single process can have multiple PCBs assigned to it.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "The PCB of a process is removed when the process enters the 'Terminated' state.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "A process can remain in the 'New' state indefinitely.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "The OS can create a new process without assigning it a Process ID.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "The 'Running' state is the only state where a process can execute instructions.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "A process in the 'Ready' state is waiting for memory allocation.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "The OS can schedule a process to move back and forth between 'Ready' and 'Running' states.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "The program counter in the PCB helps resume a paused process.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "All processes in an operating system have the same execution time.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "Processes in the 'Blocked' state are removed from memory.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "Process management ensures efficient execution of multiple processes.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "The PCB contains information about the process owner.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "A process can never move directly from 'Running' to 'Waiting'.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "Each process in the OS is isolated from other processes.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "The OS can kill a process before it finishes execution.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "The PCB does not contain information about allocated memory resources.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "Processes in the 'Ready' state cannot return to the 'New' state.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "The process scheduling algorithm decides which process gets CPU time.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "Process priority is not considered in CPU scheduling.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "A terminated process can be restarted without re-creation.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "The OS can handle multiple processes simultaneously.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "Every process in an OS shares the same memory space.",
+      "answer": false
+    }
+]
+  

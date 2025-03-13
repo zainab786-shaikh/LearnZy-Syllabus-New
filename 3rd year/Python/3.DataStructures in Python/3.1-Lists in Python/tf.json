@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that lists in Python are collections of multiple values stored in a single variable.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is true that lists in Python cannot store multiple values.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that lists in Python are ordered and mutable.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is true that lists in Python are unordered and immutable.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that lists in Python can store different data types such as numbers and strings.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is true that lists in Python cannot store different data types.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that lists in Python allow duplicate values.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is true that lists in Python do not allow duplicate values.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that lists in Python are defined using square brackets [ ].",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that lists in Python are defined using parentheses ( ).",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that each item in a list has an index starting from 0.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that each item in a list has an index starting from 1.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that negative indexing in Python refers to the last item as -1.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that negative indexing in Python does not refer to the last item as -1.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that lists in Python are mutable, allowing changes after creation.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is true that lists in Python are immutable and cannot be changed after creation.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that the del statement can be used to delete items from a list.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is true that the del statement cannot be used to delete items from a list.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that the remove() method removes an item by value from a list.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that the remove() method removes an item by index from a list.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that the pop() method removes an item by index and returns its value.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is true that the pop() method removes an item by value and returns its index.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that the clear() method removes all elements from a list.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that the clear() method does not remove all elements from a list.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that lists can be concatenated using the + operator.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that lists cannot be concatenated using the + operator.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that lists can be repeated using the * operator.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is true that lists cannot be repeated using the * operator.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that the in operator checks if an item exists in a list.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that the in operator does not check if an item exists in a list.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that the len() function returns the number of elements in a list.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that the len() function does not return the number of elements in a list.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that slicing allows extracting a portion of a list.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that slicing does not allow extracting a portion of a list.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that the append() method adds an item to the end of a list.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is true that the append() method adds an item to the beginning of a list.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that the insert() method inserts an item at a specific position in a list.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is true that the insert() method does not insert an item at a specific position in a list.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that the sort() method sorts a list in ascending order.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is true that the sort() method does not sort a list in ascending order.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that the reverse() method reverses the order of a list.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is true that the reverse() method does not reverse the order of a list.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that the count() method counts the occurrences of a value in a list.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is true that the count() method does not count the occurrences of a value in a list.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that the index() method finds the position of an item in a list.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that the index() method does not find the position of an item in a list.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that the copy() method creates a copy of a list.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that the copy() method does not create a copy of a list.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that lists are widely used in programming for managing data efficiently.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that lists are not widely used in programming for managing data efficiently.",
+      "answer": false
+    }
+]
+  

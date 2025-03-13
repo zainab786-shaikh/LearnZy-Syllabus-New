@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "A module in Python is a file that contains ________ code.",
+      "options": [
+        "C++",
+        "Java",
+        "Python",
+        "JavaScript"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Modules help organize code into smaller, ________ parts.",
+      "options": [
+        "reusable",
+        "repetitive",
+        "complex",
+        "inefficient"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "To create a module, you save Python code in a file with a ________ extension.",
+      "options": [
+        ".py",
+        ".txt",
+        ".java",
+        ".cpp"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Modules can contain ________ like functions, variables, and classes.",
+      "options": [
+        "functions",
+        "variables",
+        "classes",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 5,
+      "question": "To use a module, you must ________ it into your script.",
+      "options": [
+        "import",
+        "export",
+        "include",
+        "require"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "When importing a module, you use the ________ statement.",
+      "options": [
+        "import",
+        "export",
+        "include",
+        "require"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "To access a function from a module, you use the format ________.",
+      "options": [
+        "module_name.function_name()",
+        "function_name()",
+        "module_name()",
+        "function_name.module_name()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "You can import only specific parts of a module using the ________ keyword.",
+      "options": [
+        "from",
+        "import",
+        "as",
+        "with"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "To give a shorter name to a module, you use the ________ keyword.",
+      "options": [
+        "as",
+        "from",
+        "import",
+        "with"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Python has many ________ modules that provide additional functionality.",
+      "options": [
+        "built-in",
+        "user-defined",
+        "imported",
+        "exported"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "The ________ module provides mathematical functions like sqrt() and factorial().",
+      "options": [
+        "math",
+        "random",
+        "functools",
+        "statistics"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "The ________ module is used for generating random numbers.",
+      "options": [
+        "random",
+        "math",
+        "functools",
+        "statistics"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "A ________ is a space where variable names are stored in Python.",
+      "options": [
+        "namespace",
+        "scope",
+        "module",
+        "function"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Python has three types of namespaces: local, global, and ________.",
+      "options": [
+        "built-in",
+        "imported",
+        "exported",
+        "user-defined"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "To modify a global variable inside a function, you use the ________ keyword.",
+      "options": [
+        "global",
+        "local",
+        "static",
+        "dynamic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "A module in Python is a file that contains ________ code.",
+      "options": [
+        "C++",
+        "Java",
+        "Python",
+        "JavaScript"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Modules help organize code into smaller, ________ parts.",
+      "options": [
+        "reusable",
+        "repetitive",
+        "complex",
+        "inefficient"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "To create a module, you save Python code in a file with a ________ extension.",
+      "options": [
+        ".py",
+        ".txt",
+        ".java",
+        ".cpp"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Modules can contain ________ like functions, variables, and classes.",
+      "options": [
+        "functions",
+        "variables",
+        "classes",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 20,
+      "question": "To use a module, you must ________ it into your script.",
+      "options": [
+        "import",
+        "export",
+        "include",
+        "require"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "When importing a module, you use the ________ statement.",
+      "options": [
+        "import",
+        "export",
+        "include",
+        "require"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "To access a function from a module, you use the format ________.",
+      "options": [
+        "module_name.function_name()",
+        "function_name()",
+        "module_name()",
+        "function_name.module_name()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "You can import only specific parts of a module using the ________ keyword.",
+      "options": [
+        "from",
+        "import",
+        "as",
+        "with"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "To give a shorter name to a module, you use the ________ keyword.",
+      "options": [
+        "as",
+        "from",
+        "import",
+        "with"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Python has many ________ modules that provide additional functionality.",
+      "options": [
+        "built-in",
+        "user-defined",
+        "imported",
+        "exported"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "The ________ module provides mathematical functions like sqrt() and factorial().",
+      "options": [
+        "math",
+        "random",
+        "functools",
+        "statistics"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "The ________ module is used for generating random numbers.",
+      "options": [
+        "random",
+        "math",
+        "functools",
+        "statistics"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "A ________ is a space where variable names are stored in Python.",
+      "options": [
+        "namespace",
+        "scope",
+        "module",
+        "function"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Python has three types of namespaces: local, global, and ________.",
+      "options": [
+        "built-in",
+        "imported",
+        "exported",
+        "user-defined"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "To modify a global variable inside a function, you use the ________ keyword.",
+      "options": [
+        "global",
+        "local",
+        "static",
+        "dynamic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "Modules are useful for organizing code into smaller, ________ files.",
+      "options": [
+        "reusable",
+        "repetitive",
+        "complex",
+        "inefficient"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "To import a module, you use the ________ statement.",
+      "options": [
+        "import",
+        "export",
+        "include",
+        "require"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "Modules can contain ________ such as functions, variables, and classes.",
+      "options": [
+        "functions",
+        "variables",
+        "classes",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 34,
+      "question": "To access a function from a module, you use the format ________.",
+      "options": [
+        "module_name.function_name()",
+        "function_name()",
+        "module_name()",
+        "function_name.module_name()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "You can import only specific parts of a module using the ________ keyword.",
+      "options": [
+        "from",
+        "import",
+        "as",
+        "with"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "To give a shorter name to a module, you use the ________ keyword.",
+      "options": [
+        "as",
+        "from",
+        "import",
+        "with"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "Python has many ________ modules that provide additional functionality.",
+      "options": [
+        "built-in",
+        "user-defined",
+        "imported",
+        "exported"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "The ________ module provides mathematical functions like sqrt() and factorial().",
+      "options": [
+        "math",
+        "random",
+        "functools",
+        "statistics"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "The ________ module is used for generating random numbers.",
+      "options": [
+        "random",
+        "math",
+        "functools",
+        "statistics"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "A ________ is a space where variable names are stored in Python.",
+      "options": [
+        "namespace",
+        "scope",
+        "module",
+        "function"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Python has three types of namespaces: local, global, and ________.",
+      "options": [
+        "built-in",
+        "imported",
+        "exported",
+        "user-defined"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "To modify a global variable inside a function, you use the ________ keyword.",
+      "options": [
+        "global",
+        "local",
+        "static",
+        "dynamic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "Modules are useful for organizing code into smaller, ________ files.",
+      "options": [
+        "reusable",
+        "repetitive",
+        "complex",
+        "inefficient"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "To import a module, you use the ________ statement.",
+      "options": [
+        "import",
+        "export",
+        "include",
+        "require"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Modules can contain ________ such as functions, variables, and classes.",
+      "options": [
+        "functions",
+        "variables",
+        "classes",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 46,
+      "question": "To access a function from a module, you use the format ________.",
+      "options": [
+        "module_name.function_name()",
+        "function_name()",
+        "module_name()",
+        "function_name.module_name()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "You can import only specific parts of a module using the ________ keyword.",
+      "options": [
+        "from",
+        "import",
+        "as",
+        "with"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "To give a shorter name to a module, you use the ________ keyword.",
+      "options": [
+        "as",
+        "from",
+        "import",
+        "with"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Python has many ________ modules that provide additional functionality.",
+      "options": [
+        "built-in",
+        "user-defined",
+        "imported",
+        "exported"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "The ________ module provides mathematical functions like sqrt() and factorial().",
+      "options": [
+        "math",
+        "random",
+        "functools",
+        "statistics"
+      ],
+      "answer": 1
+    }
+]
+  

@@ -1,0 +1,303 @@
+[
+    {
+      "id": 1,
+      "question": "The main objective of scheduling is to maximize ________ usage.",
+      "options": ["CPU", "memory", "disk", "I/O"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Scheduling aims to minimize ________ time, ensuring no process waits too long.",
+      "options": ["waiting", "turnaround", "response", "completion"],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "________ is the total time taken by a process from arrival to completion.",
+      "options": ["Waiting Time", "Turnaround Time", "CPU Burst", "Response Time"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "One of the objectives of scheduling is to ensure that every process gets a ________ chance to run.",
+      "options": ["fair", "quick", "delayed", "limited"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "________ is the number of processes completed per unit time.",
+      "options": ["CPU Utilization", "Throughput", "Response Time", "Turnaround Time"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "In a system, when a process is using the CPU for calculations, it is performing a ________ burst.",
+      "options": ["CPU", "I/O", "waiting", "turnaround"],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "When a process is waiting for input or output, it is performing a ________ burst.",
+      "options": ["CPU", "I/O", "processing", "response"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "A ________ scheduling algorithm ensures that the CPU switches from one process to another before the current process finishes.",
+      "options": ["Non-Preemptive", "Preemptive", "First Come First Served", "Shortest Job Next"],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "In a ________ scheduling algorithm, the CPU does not switch from one process to another until the running process completes its execution.",
+      "options": ["Preemptive", "Non-Preemptive", "Round Robin", "Shortest Remaining Time First"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "The ________ algorithm assigns a fixed time slot to each process and cycles through them.",
+      "options": ["Round Robin", "First Come First Served", "Priority Scheduling", "Shortest Job Next"],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "________ Scheduling can be more efficient in resource allocation but may introduce more overhead.",
+      "options": ["Non-Preemptive", "Preemptive", "Shortest Job Next", "First Come First Served"],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "In ________ Scheduling, once a process begins execution, it cannot be interrupted until it finishes.",
+      "options": ["Non-Preemptive", "Preemptive", "Priority", "Round Robin"],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "The ________ Scheduling algorithm executes the process with the shortest remaining time next.",
+      "options": ["Shortest Job Next", "Shortest Remaining Time First", "Priority Scheduling", "First Come First Served"],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "________ Scheduling ensures that the process with the highest priority is executed first.",
+      "options": ["Priority Scheduling", "Round Robin", "Shortest Job Next", "First Come First Served"],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "The ________ Scheduling algorithm executes processes based on their arrival time.",
+      "options": ["Shortest Job Next", "Priority Scheduling", "First Come First Served", "Round Robin"],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "In a ________ Scheduling algorithm, once a process starts, it cannot be preempted by any other process.",
+      "options": ["Non-Preemptive", "Preemptive", "Round Robin", "First Come First Served"],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The number of completed processes per unit time is known as ________.",
+      "options": ["CPU Utilization", "Throughput", "Turnaround Time", "Response Time"],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "The time a process spends waiting in the queue is known as ________ time.",
+      "options": ["Response", "Turnaround", "Waiting", "CPU Burst"],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "________ is the percentage of time the CPU is busy executing processes.",
+      "options": ["CPU Utilization", "Throughput", "Waiting Time", "Turnaround Time"],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "The time taken from when a request is made until it starts execution is known as ________ time.",
+      "options": ["Response", "Waiting", "Turnaround", "CPU Burst"],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "In a system, if the CPU is kept busy as much as possible, the system is said to have ________ utilization.",
+      "options": ["high", "low", "fair", "average"],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "The time taken from the arrival of a process to its completion is known as ________ time.",
+      "options": ["Response", "Waiting", "Turnaround", "CPU Burst"],
+      "answer": 3
+    },
+    {
+      "id": 23,
+      "question": "________ is an important scheduling criterion that refers to the total time spent by a process in the system.",
+      "options": ["Turnaround Time", "Waiting Time", "Response Time", "CPU Utilization"],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "A system that ensures fairness in executing processes is said to have a ________ scheduling strategy.",
+      "options": ["preemptive", "non-preemptive", "fair", "flexible"],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "question": "A process with the ________ execution time is given priority in the Shortest Job Next scheduling algorithm.",
+      "options": ["longest", "shortest", "medium", "variable"],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "________ is a scheduling criterion where the system aims to respond quickly to user actions.",
+      "options": ["Waiting Time", "Turnaround Time", "Response Time", "Throughput"],
+      "answer": 3
+    },
+    {
+      "id": 27,
+      "question": "When using ________ Scheduling, a process that arrives first is executed first.",
+      "options": ["Priority", "First Come First Served", "Shortest Job Next", "Round Robin"],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "In ________ Scheduling, the CPU executes the process with the highest priority first.",
+      "options": ["Priority Scheduling", "First Come First Served", "Shortest Job Next", "Round Robin"],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "________ scheduling algorithms are considered more flexible because they allow preemption of tasks.",
+      "options": ["Non-Preemptive", "Preemptive", "Round Robin", "Priority"],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "In ________ scheduling, the CPU never switches to another task until the current one finishes.",
+      "options": ["Preemptive", "Non-Preemptive", "Priority", "First Come First Served"],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "The scheduling algorithm that assigns the CPU to the process with the shortest remaining time is known as ________.",
+      "options": ["Shortest Remaining Time First", "Shortest Job Next", "Round Robin", "Priority Scheduling"],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "In ________ Scheduling, each process gets a fixed time slot and is executed in a circular order.",
+      "options": ["Round Robin", "Priority", "First Come First Served", "Shortest Job Next"],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "The total time taken for a process to complete from the moment it arrives to its completion is referred to as ________ time.",
+      "options": ["Turnaround", "Waiting", "CPU Burst", "Response"],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "In ________ Scheduling, the process that arrives first is executed first, without interruption.",
+      "options": ["First Come First Served", "Priority Scheduling", "Round Robin", "Shortest Job Next"],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "________ scheduling is used to allocate CPU time between multiple tasks that have varying priorities.",
+      "options": ["Priority Scheduling", "Shortest Job Next", "Round Robin", "First Come First Served"],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "The ________ algorithm ensures a fair distribution of CPU time among processes.",
+      "options": ["Round Robin", "Priority Scheduling", "Shortest Job Next", "First Come First Served"],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "________ time is the time a process spends in the ready queue, waiting for the CPU to execute it.",
+      "options": ["Turnaround", "Waiting", "CPU Burst", "Response"],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "A system's ________ aims to ensure that no process is starved of CPU time for too long.",
+      "options": ["fairness", "efficiency", "utilization", "throughput"],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "In ________ Scheduling, once the CPU starts executing a process, it cannot be interrupted until completion.",
+      "options": ["Preemptive", "Non-Preemptive", "Round Robin", "Shortest Job Next"],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "________ Scheduling can cause long waiting times, as processes are not preempted during execution.",
+      "options": ["Non-Preemptive", "Preemptive", "Round Robin", "Shortest Job Next"],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "In ________ scheduling, the CPU is allocated to the process that is waiting the least amount of time.",
+      "options": ["Shortest Job Next", "Round Robin", "First Come First Served", "Priority"],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "In ________ Scheduling, the CPU switches between processes in a circular fashion, giving each a fixed time slice.",
+      "options": ["Priority", "Round Robin", "First Come First Served", "Shortest Job Next"],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "One of the criteria for scheduling is to maximize the ________ time of the CPU.",
+      "options": ["utilization", "waiting", "turnaround", "response"],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "________ is an important scheduling criterion that minimizes the total time spent by a process in the system.",
+      "options": ["Turnaround Time", "Waiting Time", "Response Time", "CPU Utilization"],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "A process that is waiting for I/O tasks to complete is in the ________ burst phase.",
+      "options": ["CPU", "Waiting", "I/O", "Processing"],
+      "answer": 3
+    },
+    {
+      "id": 46,
+      "question": "The goal of scheduling is to ________ the system's efficiency and performance.",
+      "options": ["maximize", "minimize", "optimize", "maintain"],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "________ Scheduling ensures that no process is interrupted before completing its task.",
+      "options": ["Non-Preemptive", "Preemptive", "Round Robin", "Shortest Job Next"],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "________ Scheduling is efficient for systems that prioritize fairness and quick responses.",
+      "options": ["Preemptive", "Non-Preemptive", "Shortest Job Next", "Round Robin"],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "A well-designed scheduling algorithm aims to balance ________ and resource utilization.",
+      "options": ["fairness", "overhead", "speed", "response"],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "The goal of ________ scheduling is to reduce the time processes spend waiting for the CPU.",
+      "options": ["Preemptive", "Non-Preemptive", "First Come First Served", "Shortest Job Next"],
+      "answer": 1
+    }
+]
+  

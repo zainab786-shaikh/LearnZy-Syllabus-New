@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that energy is essential for running industries, homes, and transportation.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that fossil fuels are classified as renewable energy sources.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Coal is a non-renewable energy source used primarily for generating electricity in power plants.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Solar energy is a non-renewable energy source that takes millions of years to replenish.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "Natural gas is primarily used for heating homes and generating electricity.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Countries like Norway and Brazil generate most of their electricity using wind power.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Fossil fuels, such as coal and oil, contribute significantly to global warming.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Hydropower relies on flowing water to generate electricity.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Geothermal energy is produced using wind turbines.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Wind energy is generated using solar panels.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "The industrial sector consumes energy to manufacture goods like steel and chemicals.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "Air conditioners and heaters used in homes contribute to high residential energy consumption.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Electric water pumps used in irrigation are an example of energy consumption in the agricultural sector.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "Urbanization reduces electricity demand in cities.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "An increase in living standards leads to higher energy consumption.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "Depletion of fossil fuel reserves is a major concern for future energy demands.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "Nuclear energy is a renewable source of energy.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "Wind energy contributes to air pollution and carbon emissions.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "Many rural areas in Africa still lack access to electricity.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "Renewable energy sources are naturally replenished over time.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "Infrastructure limitations can prevent some countries from generating enough electricity.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "The Three Gorges Dam in China is the largest hydroelectric power plant in the world.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "Recycling materials helps to conserve energy and reduce waste.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "Public transport systems like buses and trains consume more energy than individual cars.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "Electric vehicles (EVs) do not contribute to energy consumption.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "Energy efficiency improvements in homes and buildings can help reduce electricity consumption.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "Fossil fuels will last forever and will never run out.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "Many countries are transitioning to clean and sustainable energy sources to meet future demands.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "The burning of fossil fuels releases carbon dioxide (CO₂), contributing to climate change.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "Using smart meters and LED lights can help in energy conservation.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "Solar panels generate electricity even at night.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "The aviation industry is a major consumer of energy in the transportation sector.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "Fossil fuels are a clean source of energy with no environmental impact.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "The UAE has built one of the world's largest solar farms, known as the Mohammed bin Rashid Al Maktoum Solar Park.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "Hydropower projects do not produce any electricity.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "Burning biomass energy produces emissions that can impact air quality.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "Energy shortages are a global issue, affecting both developed and developing nations.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "Using electric vehicles reduces the demand for gasoline and diesel.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "Technological advancements have no impact on future energy demand.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "More people moving to cities leads to a decrease in electricity demand.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "The commercial sector does not require energy for lighting, elevators, or air conditioning.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "Energy conservation can help reduce overall energy consumption and costs.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "If we continue using fossil fuels at the current rate, oil reserves may run out by 2050-2070.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "A sustainable energy future depends on the use of only fossil fuels.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "Solar panels convert wind energy into electricity.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "Singapore has an advanced public transport system that helps reduce energy consumption.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "Nuclear power plants generate energy by burning coal.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "The choices we make today regarding energy use will impact future generations.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "Coal is considered a clean and renewable energy source.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "Reducing energy waste and investing in renewables can create a cleaner and more sustainable future.",
+      "answer": true
+    }
+]
+  

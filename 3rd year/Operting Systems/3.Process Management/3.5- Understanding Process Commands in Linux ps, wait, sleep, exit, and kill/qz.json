@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Which command is used to view the list of running processes in Linux?",
+      "options": [
+        "ps",
+        "exit",
+        "kill",
+        "wait"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "What does the ps command show in Linux?",
+      "options": [
+        "List of files",
+        "Running processes",
+        "List of users",
+        "System errors"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which option with ps command displays all running processes on the system?",
+      "options": [
+        "ps aux",
+        "ps -e",
+        "ps -f",
+        "ps -l"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "What does the 'PID' column in ps command output represent?",
+      "options": [
+        "Process ID",
+        "Process Information",
+        "Program Instance",
+        "Process Initialization Date"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "What does the wait command do in a shell script?",
+      "options": [
+        "Pauses execution for a specified time",
+        "Waits for a process to finish",
+        "Terminates a process",
+        "Exits the script"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which command pauses the execution for a given number of seconds?",
+      "options": [
+        "wait",
+        "sleep",
+        "exit",
+        "ps"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "How long does the sleep command pause execution in the following example? 'sleep 5'",
+      "options": [
+        "5 minutes",
+        "5 seconds",
+        "5 hours",
+        "5 milliseconds"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which command is used to exit a process or script in Linux?",
+      "options": [
+        "ps",
+        "exit",
+        "wait",
+        "kill"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What does the exit command return to indicate a successful process termination?",
+      "options": [
+        "1",
+        "0",
+        "exit",
+        "done"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is the purpose of the kill command in Linux?",
+      "options": [
+        "Stops a process",
+        "Starts a process",
+        "Pauses a process",
+        "Renames a process"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Which option is used with the kill command to forcefully stop a process?",
+      "options": [
+        "-9",
+        "-f",
+        "-x",
+        "-force"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "What does the command 'kill -9' do?",
+      "options": [
+        "Forcefully stops a process",
+        "Pauses a process",
+        "Starts a process",
+        "Waits for a process to finish"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which command finds and terminates all instances of a program by name?",
+      "options": [
+        "kill",
+        "pkill",
+        "killall",
+        "ps aux"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which command is used to display running processes along with their CPU and memory usage?",
+      "options": [
+        "ps aux",
+        "ps",
+        "top",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "What does the 'TTY' column represent in the output of ps aux?",
+      "options": [
+        "Time of process",
+        "Terminal associated with the process",
+        "User who started the process",
+        "Memory usage"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "What will the following script do? 'sleep 5 &' followed by 'wait $pid'",
+      "options": [
+        "Runs sleep in background and waits for it to complete",
+        "Runs the script indefinitely",
+        "Waits for 5 seconds and ends",
+        "Pauses the process indefinitely"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "What does the 'TIME' column in ps output indicate?",
+      "options": [
+        "CPU time used by the process",
+        "Time the process started",
+        "Time the process was terminated",
+        "Time the process was created"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Which command can be used to view only the processes related to Firefox?",
+      "options": [
+        "ps aux | grep firefox",
+        "ps aux | find firefox",
+        "ps aux | firefox",
+        "ps | grep firefox"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "How do you run a command in the background in Linux?",
+      "options": [
+        "command &",
+        "command > background",
+        "background command",
+        "command --bg"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Which of the following commands can terminate a process using its PID?",
+      "options": [
+        "kill",
+        "ps",
+        "exit",
+        "wait"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "Which command will terminate the process with PID 5678?",
+      "options": [
+        "kill 5678",
+        "pkill 5678",
+        "ps kill 5678",
+        "killall 5678"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "What is the default exit code for a script that ends successfully?",
+      "options": [
+        "1",
+        "0",
+        "exit",
+        "done"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Which of the following commands is used to forcefully terminate a non-responsive process?",
+      "options": [
+        "kill -9",
+        "kill -1",
+        "ps -9",
+        "exit -9"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "In the ps command output, what does the 'STAT' column represent?",
+      "options": [
+        "Process status",
+        "CPU usage",
+        "Memory usage",
+        "PID"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "What is the role of the sleep command in a script?",
+      "options": [
+        "Pauses execution for a specified time",
+        "Terminates the script",
+        "Starts a process",
+        "Waits for a process"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "What is the primary function of the wait command in Linux?",
+      "options": [
+        "Pauses the script indefinitely",
+        "Waits for a process to finish",
+        "Kills a process",
+        "Exits a script"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "How do you kill all instances of a program named 'firefox'?",
+      "options": [
+        "pkill firefox",
+        "kill firefox",
+        "killall firefox",
+        "kill -9 firefox"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Which command is used to display the processes in a more detailed view, including memory and CPU usage?",
+      "options": [
+        "ps aux",
+        "ps -l",
+        "ps -f",
+        "ps -e"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Which command is useful for checking the status of a process before deciding to kill it?",
+      "options": [
+        "ps",
+        "top",
+        "kill",
+        "wait"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "What is the function of the 'kill' command?",
+      "options": [
+        "Starts a process",
+        "Stops a running process",
+        "Pauses execution",
+        "Waits for process to finish"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "What does the command 'ps aux | grep firefox' do?",
+      "options": [
+        "Finds and lists processes related to Firefox",
+        "Kills all Firefox processes",
+        "Starts a Firefox process",
+        "Exits the Firefox process"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Which command in Linux helps to display the process ID and terminal information of running processes?",
+      "options": [
+        "ps",
+        "kill",
+        "sleep",
+        "exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "How can you view the processes that are running in the background?",
+      "options": [
+        "ps aux",
+        "ps background",
+        "ps -b",
+        "ps -f"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "What does the command 'exit 1' do in a script?",
+      "options": [
+        "Exits with an error code",
+        "Exits successfully",
+        "Pauses the script",
+        "Kills the script"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "Which command is used to run a command in the background?",
+      "options": [
+        "command &",
+        "command > background",
+        "background command",
+        "command bg"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "What will happen if a process is terminated using the kill command?",
+      "options": [
+        "The process will be paused",
+        "The process will be stopped",
+        "The process will restart",
+        "The process will complete"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "Which command waits for a process to finish before continuing with the next task?",
+      "options": [
+        "wait",
+        "kill",
+        "exit",
+        "sleep"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "Which command is useful for creating a delay between commands in a script?",
+      "options": [
+        "sleep",
+        "wait",
+        "exit",
+        "kill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "How can you see the status of multiple running processes at once?",
+      "options": [
+        "ps aux",
+        "ps -p",
+        "ps -a",
+        "ps -f"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "Which of these commands will forcefully terminate a non-responsive process in Linux?",
+      "options": [
+        "kill -9",
+        "kill -1",
+        "kill -x",
+        "kill -f"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Which of these commands can be used to terminate a process using its PID?",
+      "options": [
+        "kill",
+        "exit",
+        "sleep",
+        "wait"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "What does the 'RSS' column in ps aux output represent?",
+      "options": [
+        "Resident Set Size (memory usage)",
+        "Process ID",
+        "CPU usage",
+        "Time of execution"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "What is the primary purpose of the sleep command?",
+      "options": [
+        "Pauses execution for a set period",
+        "Waits for a process to finish",
+        "Exits a process",
+        "Kills a process"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "How can you exit a script immediately with an error?",
+      "options": [
+        "exit 1",
+        "exit 0",
+        "exit error",
+        "exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Which command can be used to see the detailed list of processes in Linux?",
+      "options": [
+        "ps aux",
+        "ps -e",
+        "ps -a",
+        "ps -l"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Which command is used to list processes and display CPU and memory usage?",
+      "options": [
+        "ps aux",
+        "ps -e",
+        "ps -s",
+        "ps -p"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "Which command allows you to pause a process for a specified amount of time?",
+      "options": [
+        "sleep",
+        "wait",
+        "kill",
+        "exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "What does the exit command do in a script?",
+      "options": [
+        "Terminates the script or process",
+        "Pauses the process",
+        "Waits for a process to finish",
+        "Kills a process"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Which command is used to terminate a specific process in Linux?",
+      "options": [
+        "kill",
+        "ps",
+        "sleep",
+        "exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Which of these commands shows all processes running in the system?",
+      "options": [
+        "ps aux",
+        "ps",
+        "ps -e",
+        "ps -l"
+      ],
+      "answer": 1
+    }
+]
+  

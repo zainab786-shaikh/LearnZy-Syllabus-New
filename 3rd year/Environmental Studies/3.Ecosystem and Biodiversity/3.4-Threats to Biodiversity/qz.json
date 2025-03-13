@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is biodiversity?",
+      "options": [
+        "Variety of life on Earth",
+        "Only plant species on Earth",
+        "Only animal species on Earth",
+        "The number of human populations"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a major threat to biodiversity?",
+      "options": [
+        "Planting trees",
+        "Deforestation",
+        "Organic farming",
+        "Wildlife conservation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the most significant threat to biodiversity?",
+      "options": [
+        "Air pollution",
+        "Climate change",
+        "Habitat destruction",
+        "Sustainable agriculture"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What is an example of habitat destruction?",
+      "options": [
+        "Planting forests",
+        "Clearing wetlands for urbanization",
+        "Setting up wildlife sanctuaries",
+        "Reducing air pollution"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which human activity has led to deforestation in the Amazon Rainforest?",
+      "options": [
+        "Fishing",
+        "Cattle ranching",
+        "Solar power generation",
+        "Eco-tourism"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is a major effect of plastic pollution?",
+      "options": [
+        "Improved soil fertility",
+        "Increased oxygen levels in water",
+        "Death of marine animals",
+        "Better plant growth"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a result of climate change?",
+      "options": [
+        "Coral bleaching",
+        "More stable weather patterns",
+        "Growth of new forests",
+        "Increase in biodiversity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What led to the extinction of the dodo bird?",
+      "options": [
+        "Pollution",
+        "Overhunting",
+        "Climate change",
+        "Invasive species"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is an example of an invasive species?",
+      "options": [
+        "Snow leopard",
+        "Water hyacinth",
+        "Bengal tiger",
+        "Indian elephant"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which species is at risk due to melting ice caps?",
+      "options": [
+        "Lions",
+        "Polar bears",
+        "Elephants",
+        "Peacocks"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "What percentage of original vegetation must be lost for a region to qualify as a biodiversity hotspot?",
+      "options": [
+        "30%",
+        "50%",
+        "70%",
+        "90%"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "How many biodiversity hotspots exist globally?",
+      "options": [
+        "12",
+        "24",
+        "36",
+        "50"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "Which is the world’s largest tropical rainforest?",
+      "options": [
+        "Amazon Rainforest",
+        "Congo Basin",
+        "Sundaland",
+        "Himalayas"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which biodiversity hotspot in Africa is known for its unique species such as lemurs?",
+      "options": [
+        "Sundaland",
+        "Amazon Rainforest",
+        "Madagascar",
+        "Western Ghats"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "How many biodiversity hotspots are present in India?",
+      "options": [
+        "Two",
+        "Four",
+        "Six",
+        "Eight"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Which Indian biodiversity hotspot is home to the snow leopard?",
+      "options": [
+        "Western Ghats",
+        "Sundaland",
+        "The Himalayas",
+        "Indo-Burma region"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "What species is native to the Indo-Burma biodiversity hotspot?",
+      "options": [
+        "Malabar civet",
+        "One-horned rhinoceros",
+        "Royal Bengal Tiger",
+        "Red panda"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Which Indian biodiversity hotspot includes the Nicobar Islands?",
+      "options": [
+        "Western Ghats",
+        "Sundaland",
+        "Himalayas",
+        "Indo-Burma region"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Which of the following helps in protecting biodiversity?",
+      "options": [
+        "Deforestation",
+        "Illegal poaching",
+        "Wildlife conservation",
+        "Overfishing"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "Why is biodiversity important for humans?",
+      "options": [
+        "It provides resources for food, medicine, and economy",
+        "It increases desertification",
+        "It reduces ecosystem stability",
+        "It has no impact on human life"
+      ],
+      "answer": 1
+    }
+]
+  

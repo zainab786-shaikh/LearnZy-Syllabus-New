@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Which of the following is a conventional energy source?",
+      "options": [
+        "Solar Energy",
+        "Wind Energy",
+        "Coal",
+        "Geothermal Energy"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "What is the main disadvantage of conventional energy sources?",
+      "options": [
+        "They are renewable",
+        "They cause pollution and are limited",
+        "They are cost-effective",
+        "They do not produce carbon emissions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which energy source is obtained by burning fossil fuels?",
+      "options": [
+        "Solar Energy",
+        "Nuclear Energy",
+        "Wind Energy",
+        "Petroleum"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT a non-conventional energy source?",
+      "options": [
+        "Wind Energy",
+        "Geothermal Energy",
+        "Coal",
+        "Biomass Energy"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is the primary fuel used in coal-fired power plants?",
+      "options": [
+        "Natural Gas",
+        "Coal",
+        "Solar Energy",
+        "Wind Energy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which energy source is derived from the Sun?",
+      "options": [
+        "Nuclear Energy",
+        "Tidal Energy",
+        "Solar Energy",
+        "Geothermal Energy"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "What is the main benefit of non-conventional energy sources?",
+      "options": [
+        "They are cheaper to install",
+        "They are renewable and environment-friendly",
+        "They generate more power than coal",
+        "They are easy to transport"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is an example of a biomass energy source?",
+      "options": [
+        "Nuclear Power",
+        "Biogas",
+        "Natural Gas",
+        "Petroleum"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which energy source relies on the movement of water?",
+      "options": [
+        "Wind Energy",
+        "Hydropower",
+        "Solar Energy",
+        "Geothermal Energy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which of these energy sources is NOT affected by weather conditions?",
+      "options": [
+        "Wind Energy",
+        "Solar Energy",
+        "Geothermal Energy",
+        "Hydropower"
+      ],
+      "answer": 3
+    }
+]
+  

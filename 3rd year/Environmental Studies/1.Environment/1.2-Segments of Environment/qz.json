@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Which of the following is NOT a segment of the environment?",
+      "options": [
+        "Atmosphere",
+        "Hydrosphere",
+        "Stratosphere",
+        "Lithosphere"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Which segment of the environment includes all water bodies on Earth?",
+      "options": [
+        "Atmosphere",
+        "Hydrosphere",
+        "Lithosphere",
+        "Biosphere"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the main gas in the atmosphere that humans breathe?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Helium"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which part of the environment provides land for living and farming?",
+      "options": [
+        "Lithosphere",
+        "Atmosphere",
+        "Hydrosphere",
+        "Biosphere"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Forests, animals, and humans are part of which environmental segment?",
+      "options": [
+        "Biosphere",
+        "Lithosphere",
+        "Hydrosphere",
+        "Atmosphere"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an example of the hydrosphere?",
+      "options": [
+        "Mountains",
+        "Air currents",
+        "Oceans",
+        "Forests"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "What is the function of the atmosphere in protecting life on Earth?",
+      "options": [
+        "Provides land for agriculture",
+        "Supplies minerals and rocks",
+        "Shields from harmful sun rays",
+        "Contains living organisms"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Which environmental segment includes clouds and rain formation?",
+      "options": [
+        "Biosphere",
+        "Atmosphere",
+        "Lithosphere",
+        "Hydrosphere"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which of these is an example of the lithosphere?",
+      "options": [
+        "Rivers",
+        "Mountains",
+        "Oxygen",
+        "Fish"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "How are the four segments of the environment connected?",
+      "options": [
+        "Each segment functions separately",
+        "They do not affect each other",
+        "They work together to support life",
+        "Only the biosphere depends on the others"
+      ],
+      "answer": 3
+    }
+]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is resource depletion?",
+      "options": [
+        "The increase in natural resources over time",
+        "The overuse of natural resources faster than they can be replaced",
+        "The conservation of natural resources",
+        "The process of recycling resources"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a cause of resource depletion?",
+      "options": [
+        "Overpopulation",
+        "Conservation efforts",
+        "Sustainable practices",
+        "Using renewable energy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a non-renewable resource?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Coal",
+        "Forests"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "How does deforestation contribute to resource depletion?",
+      "options": [
+        "By increasing soil fertility",
+        "By reducing oxygen production and destroying habitats",
+        "By promoting sustainable agriculture",
+        "By increasing biodiversity"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is NOT a cause of resource depletion?",
+      "options": [
+        "Overconsumption",
+        "Mining and extraction",
+        "Pollution",
+        "Recycling"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 6,
+      "question": "Which human activity is a major cause of soil degradation?",
+      "options": [
+        "Overuse of chemical fertilizers",
+        "Reforestation",
+        "Water conservation",
+        "Sustainable farming"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "How does overfishing affect the environment?",
+      "options": [
+        "It increases fish populations",
+        "It disrupts the marine ecosystem",
+        "It reduces water pollution",
+        "It increases ocean biodiversity"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which country faced a major water crisis in 2018?",
+      "options": [
+        "India",
+        "Brazil",
+        "South Africa",
+        "Canada"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "What happens when fossil fuel reserves run low?",
+      "options": [
+        "Energy prices increase",
+        "Air pollution decreases",
+        "Greenhouse gas emissions drop",
+        "Energy becomes more sustainable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is an example of sustainable resource use?",
+      "options": [
+        "Cutting down trees without replanting",
+        "Using solar energy instead of coal",
+        "Drilling for more oil",
+        "Increasing fossil fuel consumption"
+      ],
+      "answer": 2
+    }
+]
+  

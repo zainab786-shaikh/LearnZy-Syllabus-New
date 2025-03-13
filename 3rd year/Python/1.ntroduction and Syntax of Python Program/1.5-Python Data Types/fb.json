@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "In Python, a variable that stores text is called a ________.",
+      "options": [
+        "list",
+        "tuple",
+        "string",
+        "dictionary"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "A Python ________ is an ordered and mutable collection of values.",
+      "options": [
+        "set",
+        "list",
+        "tuple",
+        "dictionary"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "A ________ in Python is used to store key-value pairs.",
+      "options": [
+        "list",
+        "dictionary",
+        "tuple",
+        "set"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "An unordered collection of unique values in Python is called a ________.",
+      "options": [
+        "list",
+        "tuple",
+        "set",
+        "dictionary"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "A Python list is defined using ________ brackets.",
+      "options": [
+        "curly",
+        "square",
+        "round",
+        "angle"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "A tuple in Python is ________, meaning it cannot be changed once created.",
+      "options": [
+        "mutable",
+        "ordered",
+        "immutable",
+        "unordered"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Python stores numbers as _______, _______, or _______ types.",
+      "options": [
+        "int, float, complex",
+        "list, tuple, dictionary",
+        "string, set, tuple",
+        "char, string, boolean"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "The function used to find the data type of a variable in Python is ________.",
+      "options": [
+        "data()",
+        "typeof()",
+        "type()",
+        "datatype()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "The output of type(3.14) in Python will be ________.",
+      "options": [
+        "int",
+        "float",
+        "complex",
+        "string"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "In a Python dictionary, values are accessed using their ________.",
+      "options": [
+        "position",
+        "index",
+        "key",
+        "value"
+      ],
+      "answer": 3
+    }
+]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Which of the following is a non-renewable energy source?",
+      "options": [
+        "Solar Energy",
+        "Wind Energy",
+        "Coal",
+        "Hydropower"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "What percentage of global electricity came from fossil fuels in 2023?",
+      "options": [
+        "40%",
+        "50%",
+        "60%",
+        "70%"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which country relies heavily on hydropower for electricity?",
+      "options": [
+        "India",
+        "Brazil",
+        "USA",
+        "Germany"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which sector consumes the most energy globally?",
+      "options": [
+        "Agricultural Sector",
+        "Residential Sector",
+        "Industrial Sector",
+        "Commercial Sector"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is the main reason for increasing global energy demand?",
+      "options": [
+        "Population growth",
+        "Decline in coal reserves",
+        "Increased use of bicycles",
+        "Less urbanization"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which energy source is harnessed using wind turbines?",
+      "options": [
+        "Solar Energy",
+        "Geothermal Energy",
+        "Tidal Energy",
+        "Wind Energy"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is NOT a renewable energy source?",
+      "options": [
+        "Geothermal Energy",
+        "Nuclear Energy",
+        "Solar Energy",
+        "Wind Energy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What is one of the major challenges in meeting future energy demands?",
+      "options": [
+        "Abundant fossil fuel reserves",
+        "Unlimited renewable resources",
+        "Depletion of fossil fuels",
+        "Low energy consumption"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Which energy source is generated using the Earth's heat?",
+      "options": [
+        "Solar Energy",
+        "Tidal Energy",
+        "Geothermal Energy",
+        "Hydropower"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "What is a major disadvantage of using fossil fuels?",
+      "options": [
+        "They cause pollution",
+        "They are renewable",
+        "They do not produce CO₂",
+        "They are free of cost"
+      ],
+      "answer": 1
+    }
+]
+  

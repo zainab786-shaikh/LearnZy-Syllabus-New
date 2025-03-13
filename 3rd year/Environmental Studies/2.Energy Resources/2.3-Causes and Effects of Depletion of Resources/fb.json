@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "question": "Resource depletion occurs when natural resources are used up _______ than they can be replaced.",
+      "options": ["slower", "faster", "equally", "randomly"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Overpopulation increases the demand for food, water, energy, and _______.",
+      "options": ["gold", "land", "oxygen", "plastic"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Leaving the tap open while brushing your teeth is an example of _______.",
+      "options": ["conservation", "overconsumption", "recycling", "sustainability"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Deforestation leads to reduced _______ production.",
+      "options": ["hydrogen", "carbon dioxide", "oxygen", "helium"],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Industrialization increases the demand for raw materials like coal, iron, and _______.",
+      "options": ["silver", "wood", "oil", "copper"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Oil drilling in oceans can damage marine life and lead to _______.",
+      "options": ["floods", "oil spills", "earthquakes", "volcanic eruptions"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Pollution contaminates resources, making them _______.",
+      "options": ["cheaper", "valuable", "unusable", "renewable"],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Melting glaciers reduce the amount of _______ available.",
+      "options": ["fossil fuels", "freshwater", "air", "solar energy"],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Excessive use of chemical fertilizers can destroy _______ quality.",
+      "options": ["air", "soil", "water", "metal"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Shortage of clean water affects drinking, farming, and _______.",
+      "options": ["industries", "entertainment", "forests", "mining"],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Loss of forests leads to the loss of animal _______.",
+      "options": ["colors", "habitats", "sounds", "sizes"],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Energy crisis occurs due to the depletion of _______.",
+      "options": ["fossil fuels", "plants", "wind", "rainwater"],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Droughts in India lead to lower crop production and increased _______ prices.",
+      "options": ["gold", "food", "oil", "diamond"],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Deforestation and burning fossil fuels increase _______ emissions.",
+      "options": ["oxygen", "carbon dioxide", "hydrogen", "helium"],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Shortage of resources can lead to job losses and economic _______.",
+      "options": ["growth", "problems", "stability", "increase"],
+      "answer": 2
+    }
+]
+  

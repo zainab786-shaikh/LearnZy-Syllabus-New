@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is the simplest type of directory structure?",
+      "options": [
+        "Single-Level Directory",
+        "Two-Level Directory",
+        "Tree-Structured Directory",
+        "Graph-Based Directory"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which directory structure allows users to have private directories?",
+      "options": [
+        "Single-Level Directory",
+        "Two-Level Directory",
+        "Tree-Structured Directory",
+        "Graph-Based Directory"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "In which directory structure can directories have subdirectories?",
+      "options": [
+        "Single-Level Directory",
+        "Two-Level Directory",
+        "Tree-Structured Directory",
+        "None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What is the topmost directory in a tree-structured directory called?",
+      "options": [
+        "Parent Directory",
+        "Home Directory",
+        "Root Directory",
+        "Subdirectory"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is an advantage of a single-level directory?",
+      "options": [
+        "Easy to manage",
+        "No filename conflicts",
+        "Better organization",
+        "Supports multiple users"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which disk structure consists of platters, tracks, and sectors?",
+      "options": [
+        "Physical Structure",
+        "Logical Structure",
+        "RAID Structure",
+        "Tree Structure"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "What is the purpose of a Read/Write Head in a hard disk?",
+      "options": [
+        "To store data permanently",
+        "To read and write data on platters",
+        "To organize directories",
+        "To boot the operating system"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which file system is commonly used in Windows?",
+      "options": [
+        "NTFS",
+        "EXT4",
+        "FAT32",
+        "Both NTFS and FAT32"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 9,
+      "question": "Which RAID level provides striping without redundancy?",
+      "options": [
+        "RAID 0",
+        "RAID 1",
+        "RAID 5",
+        "RAID 6"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which RAID level uses mirroring for data redundancy?",
+      "options": [
+        "RAID 0",
+        "RAID 1",
+        "RAID 5",
+        "RAID 6"
+      ],
+      "answer": 2
+    }
+]
+  

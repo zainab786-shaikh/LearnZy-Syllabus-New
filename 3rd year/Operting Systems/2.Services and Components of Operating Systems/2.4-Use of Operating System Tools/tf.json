@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that User Management allows creating, modifying, and deleting user accounts.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that the OS does not control what users can do on a system.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "User Management helps prevent unauthorized access to a system.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that in Windows, the Device Manager is used to manage user accounts.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "User Management allows multiple users to have personalized settings on the same system.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is true that Security Policies help protect the system from threats like hacking and malware.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is false that security policies do not include enforcing password rules.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "A strong security policy helps prevent unauthorized users from accessing the system.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that an account may get locked after multiple failed login attempts due to security policies.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that firewalls do not help in protecting a system from harmful network connections.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "Security policies help in password management and account security.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is false that a user with an admin account cannot install software on a system.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Device Management is responsible for handling hardware devices connected to the system.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is false that printers, USB drives, and keyboards are not part of device management.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "The OS installs and updates drivers to ensure proper communication between devices and the system.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is false that Device Management is only required for external hardware and not internal components.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "In Windows, Device Manager allows users to enable or disable devices.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is true that Linux users can use the 'lsusb' command to list connected USB devices.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Performance Monitor helps in checking CPU, memory, and network usage.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is false that Performance Monitor is not useful for identifying slow applications.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "Windows Task Manager can show real-time CPU and memory usage.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is false that Linux has no tools like Task Manager to monitor system performance.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "The 'top' command in Linux displays real-time CPU and memory usage.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that if a program is using too much RAM, it can slow down the system.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is false that performance monitoring tools cannot be used to close unresponsive applications.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "Task Scheduler allows users to automate tasks such as system updates and backups.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is false that Task Scheduler can only run tasks manually and not at a scheduled time.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "Cron jobs in Linux are used for scheduling automated tasks.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is false that Task Scheduler cannot be used to shut down a computer automatically.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that users can schedule antivirus scans using Task Scheduler.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is false that OS tools do not help in managing computer performance.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "A security policy may include firewall settings to block harmful connections.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is false that only administrators can change security policies.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "User Management helps in assigning different permissions to different users.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is false that a computer system can function well without device management.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "Performance monitoring tools help detect system slowdowns caused by high resource usage.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is false that Task Scheduler is only useful for businesses and not for individual users.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "Security policies may require users to change their passwords periodically.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is false that antivirus programs are not part of security policies.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "Device Management helps the OS recognize new hardware when connected.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is false that OS tools have no role in system maintenance.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "User Management allows setting restrictions on how users interact with the system.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is false that performance monitoring tools cannot show disk activity.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "Task Scheduler helps ensure that important tasks run even if the user forgets.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is false that all OS tools must be manually operated every time.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "Security policies can include rules for data encryption.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "It is false that the OS does not need to manage user access levels.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "Performance Monitor helps identify potential security threats from suspicious programs.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "It is false that an OS can function without any security policies.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "Device Management includes managing both input and output devices.",
+      "answer": true
+    }
+]
+  

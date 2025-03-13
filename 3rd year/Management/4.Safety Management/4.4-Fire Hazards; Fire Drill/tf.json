@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that a fire hazard is anything that cannot start a fire.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "It is true that fire hazards include flammable materials, electrical hazards, and improper handling of fire.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that a pile of newspapers near a stove cannot catch fire if exposed to heat.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "It is true that faulty wiring and overloaded circuits can cause fires.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that leaving stoves or candles unattended is not a fire hazard.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "It is true that gas leaks from LPG cylinders can cause explosions.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that blocked fire exits do not pose a risk during a fire emergency.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "It is true that improperly stored chemicals can catch fire easily.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that fire hazards do not lead to property damage or injuries.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "It is true that fires can cause environmental damage by destroying forests and polluting the air.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that a fire drill is not a practice session for reacting safely in case of a fire emergency.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "It is true that the purpose of a fire drill is to ensure safety, reduce panic, and improve response time.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that during a fire drill, people should use elevators to evacuate.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "It is true that people should follow the designated escape plan during a fire drill.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that only trained individuals should not use fire extinguishers during a drill.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "It is true that a fire drill involves assembling at a pre-decided safe location after evacuation.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that schools do not conduct fire drills to train students and staff.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "It is true that offices conduct fire drills for employee safety.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that hospitals do not practice fire drills to protect patients and staff.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "It is true that residential buildings organize fire drills to teach residents how to escape safely.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that overloading electrical sockets is safe and does not pose a fire hazard.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "It is true that leaving stoves or candles unattended is a safe practice.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that storing flammable materials safely is important for fire prevention.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that conducting regular fire drills is not necessary for fire safety.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that keeping fire extinguishers in accessible places is important for fire safety.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that industrial fires are not caused by electrical malfunctions or flammable materials.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that industrial fires can be caused by combustible dust, electrical issues, and improper storage of chemicals.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is true that fire hazards in industrial settings do not include hot work operations like welding.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that fire hazards in warehouses include flammable liquids, gases, and electrical equipment.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that blocked fire exits do not pose a risk during evacuations in industrial settings.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that a fire drill helps identify problems like locked exits or faulty alarms.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that fire drills are not necessary for reducing panic during actual fires.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that practicing fire drills improves response time and saves lives.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that fire hazards do not include combustible materials like wood or paper.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that electrical hazards are a common cause of fires in industrial settings.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is true that gas leaks are not a significant fire hazard in residential or industrial settings.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that improper storage of chemicals can lead to fires and explosions.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is true that fire drills are not conducted in hospitals to ensure patient safety.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that residential buildings do not need to organize fire drills for residents.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "It is true that overloading electrical sockets can cause fires due to overheating.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that leaving candles unattended is a safe practice and does not pose a fire risk.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "It is true that storing flammable materials safely reduces the risk of fires.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that conducting regular fire drills is not important for maintaining fire safety protocols.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "It is true that keeping fire extinguishers accessible is crucial for quick response during fires.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is true that industrial fires are not caused by human error or equipment failure.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "It is true that industrial fires can be caused by human error, equipment failure, and electrical malfunctions.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "It is true that fire hazards in industrial settings do not include improperly stored chemicals or flammable liquids.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "It is true that fire hazards in warehouses include electrical equipment and hot work operations.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "It is true that blocked fire exits do not pose a risk during evacuations in residential settings.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "It is true that practicing fire drills helps identify safety issues and improves evacuation procedures.",
+      "answer": true
+    }
+]
+  

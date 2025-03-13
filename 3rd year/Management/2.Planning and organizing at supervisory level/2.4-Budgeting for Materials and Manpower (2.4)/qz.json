@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is budgeting?",
+      "options": [
+        "A process of spending money randomly",
+        "A process of estimating and allocating financial resources",
+        "A method of avoiding expenses",
+        "A way to increase project costs"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What are the two main cost factors in budgeting for a project?",
+      "options": [
+        "Marketing and advertising",
+        "Materials and manpower",
+        "Electricity and rent",
+        "Taxes and maintenance"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What does manpower refer to in budgeting?",
+      "options": [
+        "Raw materials and tools",
+        "Machines and equipment",
+        "Human resources or labor required for a project",
+        "Transport and logistics"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Why is budgeting for materials and manpower important?",
+      "options": [
+        "To ensure a project runs smoothly and stays within financial limits",
+        "To increase costs and delays",
+        "To reduce the need for planning",
+        "To eliminate the need for skilled labor"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "What is the first step in budgeting for materials?",
+      "options": [
+        "Guessing material costs",
+        "Ignoring market prices",
+        "Identifying required materials",
+        "Avoiding material purchase"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an example of raw materials?",
+      "options": [
+        "Computers and chairs",
+        "Cement, steel, and bricks",
+        "Marketing flyers",
+        "Employee salaries"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "How can businesses reduce material costs?",
+      "options": [
+        "Buy materials in bulk for discounts",
+        "Purchase the most expensive materials",
+        "Ignore material wastage",
+        "Avoid comparing supplier prices"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What factors should be considered while estimating material costs?",
+      "options": [
+        "Market prices, transportation costs, and buffer cost",
+        "Only the price of the most expensive material",
+        "Ignoring additional costs like delivery",
+        "Avoiding market research"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is NOT a method of reducing manpower costs?",
+      "options": [
+        "Hiring only essential workers",
+        "Using technology to replace manual work",
+        "Increasing the number of unskilled workers unnecessarily",
+        "Improving worker efficiency through training"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "What is the impact of an imbalanced material and manpower budget?",
+      "options": [
+        "Leads to project delays and inefficiencies",
+        "Reduces overall costs significantly",
+        "Ensures a perfect project outcome",
+        "Removes the need for budgeting"
+      ],
+      "answer": 1
+    }
+]
+  

@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that safety management involves only identifying risks in the workplace.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "It is true that safety management includes planning, rules, and actions to ensure safety.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that safety management is not necessary to prevent accidents and injuries.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "It is true that safety management protects lives and ensures smooth operations in industries.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that without proper safety measures, businesses may not face serious consequences.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "It is true that safety management helps in preventing accidents and injuries.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that safety management does not protect human life.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "It is true that legal compliance is not a key reason for safety management.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that safety management reduces financial losses by preventing accidents.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that safety management does not improve productivity in workplaces.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that environmental protection is not a part of safety management.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "It is true that safety management is essential in every field to protect lives and maintain order.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that workplace safety involves only physical safety measures.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "It is true that workplace safety includes psychological and emotional well-being.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that safety management systems are not necessary for reducing workplace risks.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "It is true that a safety management system provides a framework to improve employee safety and health.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that hazard identification and assessment are not key elements of safety management.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "It is true that safety management helps in meeting regulatory standards set by authorities like OSHA.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that safety management does not reduce costs associated with workplace accidents.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "It is true that a safe work environment enhances employee morale and productivity.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that safety management is not important for preserving an organization's reputation.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "It is true that safety management attracts potential employees by demonstrating a commitment to well-being.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that safety management does not involve emergency preparedness and response planning.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "It is true that a safety management system includes incident and hazard management processes.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that safety management does not require regular audits and inspections.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "It is true that safety management is essential for both employees and employers alike.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is true that safety management does not impact the well-being of employees and their families.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "It is true that occupational safety deals with physical, mental, and social health and safety in a workplace.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that health and safety management is not crucial for preventing workplace accidents and injuries.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "It is true that a well-run safety management system can save businesses time and money by preventing accidents.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that safety management does not involve assessing and mitigating risks.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "It is true that safety management systems are beneficial for organizations of any size and context.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that safety management does not prevent non-compliance with industry safety regulations.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "It is true that safety management includes planning and actions to ensure the safety of people, property, and the environment.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that safety management is not important for maintaining a safe working environment.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "It is true that safety management helps in reducing workplace risks and creating safer working conditions.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that safety management does not involve educating employees regarding their safety.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "It is true that safety management systems support continual improvement and enable organizations to develop a strong safety culture.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that safety management does not involve compliance documentation management.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "It is true that safety management is essential for protecting industrial equipment and property.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that safety management does not impact employee morale and loyalty.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "It is true that safety management helps in attracting talent by demonstrating a commitment to employee well-being.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that safety management does not involve regular audits and inspections to ensure compliance.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "It is true that safety management systems are not necessary for maintaining a safe and healthy work environment.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that safety management includes incident and hazard management processes to prevent accidents.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that safety management does not involve training employees on safety protocols.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that safety management is crucial for both small and large businesses to protect employees and comply with regulations.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that safety management does not impact the overall efficiency and success of an organization.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that safety management involves fostering a culture of trust and loyalty among workers.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that safety management is essential for ensuring legal compliance and reducing financial losses due to accidents.",
+      "answer": true
+    }
+]
+  

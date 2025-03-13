@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "The world’s energy sources are broadly classified into ________ and ________ energy sources.",
+      "options": [
+        "renewable, non-renewable",
+        "fossil, non-fossil",
+        "solar, wind",
+        "coal, oil"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "________ is a fossil fuel widely used in power plants for electricity generation.",
+      "options": [
+        "Solar",
+        "Coal",
+        "Wind",
+        "Geothermal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Oil, also known as ________, is refined into petrol, diesel, and kerosene.",
+      "options": [
+        "natural gas",
+        "biogas",
+        "crude oil",
+        "solar energy"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Countries like Norway and Brazil generate a large portion of their electricity using ________.",
+      "options": [
+        "solar energy",
+        "hydropower",
+        "wind energy",
+        "biomass energy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Fossil fuels take ________ of years to form and cannot be replaced easily.",
+      "options": [
+        "millions",
+        "hundreds",
+        "tens",
+        "a few"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Natural gas is used for cooking in homes in the form of ________ gas.",
+      "options": [
+        "LPG",
+        "CNG",
+        "kerosene",
+        "diesel"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "________ is a cleaner fuel compared to coal and oil.",
+      "options": [
+        "Petroleum",
+        "Natural gas",
+        "Nuclear energy",
+        "Hydropower"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Electricity produced from the heat inside the Earth is called ________ energy.",
+      "options": [
+        "solar",
+        "wind",
+        "geothermal",
+        "biomass"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "The rise and fall of ocean water is used to generate electricity in ________ energy.",
+      "options": [
+        "tidal",
+        "wind",
+        "solar",
+        "geothermal"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Energy from organic materials such as wood and agricultural waste is called ________ energy.",
+      "options": [
+        "solar",
+        "wind",
+        "nuclear",
+        "biomass"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 11,
+      "question": "One of the biggest sources of renewable energy worldwide is ________ power.",
+      "options": [
+        "nuclear",
+        "solar",
+        "hydropower",
+        "coal"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "The two main sectors that consume energy the most are the ________ and ________ sectors.",
+      "options": [
+        "residential, agricultural",
+        "commercial, industrial",
+        "transportation, industrial",
+        "agricultural, commercial"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "Fossil fuels such as coal, oil, and gas contribute to ________ emissions, causing global warming.",
+      "options": [
+        "oxygen",
+        "carbon dioxide",
+        "nitrogen",
+        "helium"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Solar energy is captured using ________ panels.",
+      "options": [
+        "wind",
+        "hydro",
+        "solar",
+        "nuclear"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "One major challenge in meeting future energy demand is the ________ of fossil fuels.",
+      "options": [
+        "abundance",
+        "overuse",
+        "depletion",
+        "increase"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "Smart meters and LED lighting are examples of ________ energy use.",
+      "options": [
+        "wasteful",
+        "efficient",
+        "costly",
+        "temporary"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "The ________ is the world's largest solar farm, built in the UAE.",
+      "options": [
+        "Tarbela Dam",
+        "Burj Khalifa Solar Plant",
+        "Mohammed bin Rashid Al Maktoum Solar Park",
+        "Three Gorges Dam"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "________ energy sources do not cause air pollution.",
+      "options": [
+        "Renewable",
+        "Non-renewable",
+        "Fossil fuel-based",
+        "All of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Public transport systems like buses and trains help in ________ energy consumption.",
+      "options": [
+        "reducing",
+        "increasing",
+        "wasting",
+        "doubling"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Nuclear power plants use the process of nuclear ________ to generate energy.",
+      "options": [
+        "fusion",
+        "fission",
+        "combustion",
+        "absorption"
+      ],
+      "answer": 2
+    }
+]
+  

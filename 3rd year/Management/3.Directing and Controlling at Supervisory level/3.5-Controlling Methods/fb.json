@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Managers use different methods to control performance in an organization, focusing on ________.",
+      "options": [
+        "quality only",
+        "quantity only",
+        "time only",
+        "quality, quantity, time, and cost"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 2,
+      "question": "Quality control ensures that the product or service meets the required ________.",
+      "options": [
+        "quantity",
+        "time",
+        "cost",
+        "standard"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "A company manufacturing soft drinks checks if every bottle is properly ________ to ensure quality.",
+      "options": [
+        "sealed",
+        "filled",
+        "labeled",
+        "packed"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Quantity control ensures that production meets the required ________ target.",
+      "options": [
+        "quality",
+        "quantity",
+        "time",
+        "cost"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "A bakery must produce ________ loaves of bread daily to meet its quantity target.",
+      "options": [
+        "500",
+        "800",
+        "1,000",
+        "1,200"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "If only 800 loaves are made, the supervisor must increase efficiency by adjusting ________ or using better equipment.",
+      "options": [
+        "working hours",
+        "staff",
+        "equipment",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "Time control ensures that tasks are completed on ________.",
+      "options": [
+        "schedule",
+        "budget",
+        "plan",
+        "policy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "A courier company promises ________ delivery to maintain customer satisfaction.",
+      "options": [
+        "12-hour",
+        "24-hour",
+        "48-hour",
+        "72-hour"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "If deliveries take more than 24 hours, the manager may investigate ________ and change the route planning.",
+      "options": [
+        "delays",
+        "costs",
+        "quality",
+        "quantity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Cost control ensures that expenses remain within the ________.",
+      "options": [
+        "budget",
+        "schedule",
+        "plan",
+        "policy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "A hotel sets a budget of ₹500 per meal. If the cost rises to ₹600, the supervisor must find ways to ________ waste or buy cheaper ingredients.",
+      "options": [
+        "increase",
+        "reduce",
+        "ignore",
+        "delay"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Measuring performance involves checking ________ such as output, quality, time taken, or cost spent.",
+      "options": [
+        "standards",
+        "policies",
+        "procedures",
+        "metrics"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 13,
+      "question": "A bank tracks how many loans an employee processes daily to ________ performance.",
+      "options": [
+        "measure",
+        "compare",
+        "correct",
+        "ignore"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Comparing with standards involves checking if performance meets the required ________.",
+      "options": [
+        "quantity",
+        "quality",
+        "time",
+        "standard"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 15,
+      "question": "If an employee should process 20 loans per day but only processes 15, performance is ________ standard.",
+      "options": [
+        "above",
+        "below",
+        "at",
+        "equal to"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Correcting deviations involves taking action to ________ mistakes.",
+      "options": [
+        "ignore",
+        "delay",
+        "fix",
+        "reduce"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "The bank may introduce faster software or train employees to ________ loan processing speed.",
+      "options": [
+        "decrease",
+        "increase",
+        "ignore",
+        "delay"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Controlling at the supervisory level ensures that employees meet their targets in ________.",
+      "options": [
+        "quality only",
+        "quantity only",
+        "time only",
+        "quality, quantity, time, and cost"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 19,
+      "question": "By monitoring performance, comparing results with standards, and taking corrective action, managers ensure ________ operations and customer satisfaction.",
+      "options": [
+        "smooth",
+        "rough",
+        "slow",
+        "inefficient"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Quality control methods ensure that products meet the required ________ before they are released to the market.",
+      "options": [
+        "quantity",
+        "time",
+        "cost",
+        "standard"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 21,
+      "question": "A company manufacturing soft drinks checks if every bottle has the right amount of liquid to ensure ________ control.",
+      "options": [
+        "quality",
+        "quantity",
+        "time",
+        "cost"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Quantity control ensures that production meets the required ________ to fulfill customer demand.",
+      "options": [
+        "quality",
+        "quantity",
+        "time",
+        "cost"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "A bakery must produce 1,000 loaves of bread daily to meet its ________ target.",
+      "options": [
+        "quality",
+        "quantity",
+        "time",
+        "cost"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "If only 800 loaves are made, the supervisor must increase efficiency by adjusting ________ or using better equipment.",
+      "options": [
+        "working hours",
+        "staff",
+        "equipment",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 25,
+      "question": "Time control ensures that tasks are completed on ________ to meet deadlines.",
+      "options": [
+        "schedule",
+        "budget",
+        "plan",
+        "policy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "A courier company promises 24-hour delivery to maintain ________ satisfaction.",
+      "options": [
+        "customer",
+        "employee",
+        "employer",
+        "supplier"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "If deliveries take more than 24 hours, the manager may investigate ________ and change the route planning.",
+      "options": [
+        "delays",
+        "costs",
+        "quality",
+        "quantity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Cost control ensures that expenses remain within the ________ to avoid financial losses.",
+      "options": [
+        "budget",
+        "schedule",
+        "plan",
+        "policy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "A hotel sets a budget of ₹500 per meal. If the cost rises to ₹600, the supervisor must find ways to ________ waste or optimize resources.",
+      "options": [
+        "increase",
+        "reduce",
+        "ignore",
+        "delay"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "Measuring performance involves checking ________ such as output, quality, time taken, or cost spent to evaluate efficiency.",
+      "options": [
+        "standards",
+        "policies",
+        "procedures",
+        "metrics"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 31,
+      "question": "A bank tracks how many loans an employee processes daily to ________ performance and identify areas for improvement.",
+      "options": [
+        "measure",
+        "compare",
+        "correct",
+        "ignore"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Comparing with standards involves checking if performance meets the required ________ to ensure quality and efficiency.",
+      "options": [
+        "quantity",
+        "quality",
+        "time",
+        "standard"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 33,
+      "question": "If an employee should process 20 loans per day but only processes 15, performance is ________ the standard.",
+      "options": [
+        "above",
+        "below",
+        "at",
+        "equal to"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "Correcting deviations involves taking action to ________ mistakes and improve performance.",
+      "options": [
+        "ignore",
+        "delay",
+        "fix",
+        "reduce"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 35,
+      "question": "The bank may introduce faster software or train employees to ________ loan processing efficiency.",
+      "options": [
+        "decrease",
+        "increase",
+        "ignore",
+        "delay"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "Controlling at the supervisory level ensures that employees meet their targets in ________ to achieve organizational goals.",
+      "options": [
+        "quality only",
+        "quantity only",
+        "time only",
+        "quality, quantity, time, and cost"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 37,
+      "question": "By monitoring performance, comparing results with standards, and taking corrective action, managers ensure ________ operations and high customer satisfaction.",
+      "options": [
+        "smooth",
+        "rough",
+        "slow",
+        "inefficient"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "Quality control methods ensure that products meet the required ________ before they are released to the market to maintain customer trust.",
+      "options": [
+        "quantity",
+        "time",
+        "cost",
+        "standard"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 39,
+      "question": "A company manufacturing soft drinks checks if every bottle has the right amount of liquid to ensure ________ control and prevent waste.",
+      "options": [
+        "quality",
+        "quantity",
+        "time",
+        "cost"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "Quantity control ensures that production meets the required ________ to fulfill customer orders.",
+      "options": [
+        "quality",
+        "quantity",
+        "time",
+        "cost"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 41,
+      "question": "A bakery must produce 1,000 loaves of bread daily to meet its ________ target and avoid shortages.",
+      "options": [
+        "quality",
+        "quantity",
+        "time",
+        "cost"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "If only 800 loaves are made, the supervisor must increase efficiency by adjusting ________ or using better equipment to meet demand.",
+      "options": [
+        "working hours",
+        "staff",
+        "equipment",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 43,
+      "question": "Time control ensures that tasks are completed on ________ to meet deadlines and maintain customer satisfaction.",
+      "options": [
+        "schedule",
+        "budget",
+        "plan",
+        "policy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "A courier company promises 24-hour delivery to maintain ________ satisfaction and build customer loyalty.",
+      "options": [
+        "customer",
+        "employee",
+        "employer",
+        "supplier"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "If deliveries take more than 24 hours, the manager may investigate ________ and change the route planning to improve efficiency.",
+      "options": [
+        "delays",
+        "costs",
+        "quality",
+        "quantity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Cost control ensures that expenses remain within the ________ to avoid financial losses and maintain profitability.",
+      "options": [
+        "budget",
+        "schedule",
+        "plan",
+        "policy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "A hotel sets a budget of ₹500 per meal. If the cost rises to ₹600, the supervisor must find ways to ________ waste or optimize resources to reduce expenses.",
+      "options": [
+        "increase",
+        "reduce",
+        "ignore",
+        "delay"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "Measuring performance involves checking ________ such as output, quality, time taken, or cost spent to evaluate organizational efficiency.",
+      "options": [
+        "standards",
+        "policies",
+        "procedures",
+        "metrics"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 49,
+      "question": "A bank tracks how many loans an employee processes daily to ________ performance and identify areas for improvement to enhance productivity.",
+      "options": [
+        "measure",
+        "compare",
+        "correct",
+        "ignore"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Comparing with standards involves checking if performance meets the required ________ to ensure quality, efficiency, and customer satisfaction.",
+      "options": [
+        "quantity",
+        "quality",
+        "time",
+        "standard"
+      ],
+      "answer": 4
+    }
+]
+  

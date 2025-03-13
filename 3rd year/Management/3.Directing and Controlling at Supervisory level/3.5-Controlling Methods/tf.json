@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that controlling methods focus only on quality and quantity.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "It is true that controlling methods focus on quality, quantity, time, and cost.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that quality control does not ensure that products meet required standards.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "It is true that a company manufacturing soft drinks should not check if every bottle is properly sealed.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that quantity control ensures that production meets the required target.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is true that a bakery should not adjust working hours if it fails to meet its daily production target.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that time control ensures that tasks are completed on schedule.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is true that a courier company should not investigate delays if deliveries take more than 24 hours.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that cost control ensures that expenses remain within the budget.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that a hotel should not find ways to reduce waste if meal costs exceed the budget.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that measuring performance involves checking output, quality, time taken, or cost spent.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that comparing performance with standards is not necessary for controlling.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that correcting deviations involves taking action to fix mistakes.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that a bank should not track how many loans an employee processes daily.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that if an employee processes fewer loans than expected, no action is needed.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "It is true that controlling at the supervisory level ensures that employees meet targets in quality, quantity, time, and cost.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that monitoring performance, comparing results with standards, and taking corrective action are not necessary for smooth operations.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "It is true that controlling methods do not impact customer satisfaction.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that quality control is not essential for ensuring customer satisfaction.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "It is true that quantity control helps in meeting production targets efficiently.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that time control does not affect the timely completion of tasks.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "It is true that cost control ensures that expenses are managed effectively.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that measuring performance involves only checking output.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "It is true that comparing performance with standards helps in identifying areas for improvement.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that correcting deviations does not involve taking action to fix mistakes.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "It is true that a bank should not introduce faster software to improve loan processing speed.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that controlling methods are not flexible and cannot be adjusted based on changing conditions.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "It is true that controlling at the supervisory level involves monitoring performance regularly.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that comparing performance with standards is not necessary for identifying deviations.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "It is true that correcting deviations involves taking corrective action to meet standards.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that quality control does not involve checking if products meet required standards.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "It is true that quantity control ensures that production meets the required target by adjusting resources.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that time control does not ensure that tasks are completed on schedule.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "It is true that cost control ensures that expenses remain within budget by reducing waste.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that measuring performance involves checking only quality.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "It is true that comparing performance with standards helps in identifying areas for improvement and taking corrective action.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that correcting deviations does not involve training employees to improve performance.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "It is true that controlling methods are essential for maintaining high performance and customer satisfaction.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that controlling at the supervisory level does not involve ensuring smooth operations.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "It is true that monitoring performance, comparing results with standards, and taking corrective action are crucial for achieving business goals.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that quality control is not necessary for ensuring product reliability.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "It is true that quantity control helps in meeting production targets efficiently by adjusting resources.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that time control does not affect the timely completion of tasks and meeting deadlines.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "It is true that cost control ensures that expenses are managed effectively to stay within budget.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is true that measuring performance involves checking output, quality, time taken, or cost spent regularly.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that comparing performance with standards is not necessary for identifying areas for improvement.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that correcting deviations involves taking corrective action to meet standards and improve performance.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that controlling methods are not essential for maintaining high performance and customer satisfaction.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that controlling at the supervisory level involves ensuring smooth operations and customer satisfaction.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that monitoring performance, comparing results with standards, and taking corrective action are crucial for achieving business goals and maintaining customer satisfaction.",
+      "answer": true
+    }
+]
+  

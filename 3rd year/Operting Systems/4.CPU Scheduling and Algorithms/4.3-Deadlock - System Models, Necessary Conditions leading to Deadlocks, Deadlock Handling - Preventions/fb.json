@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Deadlock in a computer system occurs when two or more ________ are waiting for resources, but none can proceed because they are waiting on each other.",
+      "options": [
+        "files",
+        "processes",
+        "resources",
+        "tasks"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "In a system, a ________ can only be used by one process at a time. If one process is using it, others must wait.",
+      "options": [
+        "memory",
+        "resource",
+        "task",
+        "process"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "The condition where a process holds some resources and waits for others is known as ________.",
+      "options": [
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "No Preemption",
+        "Circular Wait"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "In the ________ condition, a process holds a resource and waits for another resource that is being held by another process.",
+      "options": [
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "No Preemption",
+        "Circular Wait"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "A ________ occurs when a chain of processes exists where each process is waiting for a resource held by the next process in the chain.",
+      "options": [
+        "Deadlock",
+        "Circular Wait",
+        "Hold and Wait",
+        "Preemption"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "In a ________ situation, resources cannot be forcibly taken away from a process and must be released voluntarily.",
+      "options": [
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "No Preemption",
+        "Circular Wait"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "In order to prevent deadlocks, one must ensure that at least one of the ________ necessary conditions does not occur.",
+      "options": [
+        "five",
+        "three",
+        "two",
+        "four"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 8,
+      "question": "To prevent ________ deadlock, we could allow multiple processes to use the same resource at the same time, if possible.",
+      "options": [
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "No Preemption",
+        "Circular Wait"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Deadlock can be prevented by ensuring that a process gets all the required resources ________ before starting.",
+      "options": [
+        "separately",
+        "later",
+        "in stages",
+        "at once"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 10,
+      "question": "To prevent ________, we can take away the held resource from a process and give it to another process that can proceed.",
+      "options": [
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "No Preemption",
+        "Circular Wait"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "In the case of preventing ________, we assign an order to resources and ensure that processes always request them in a fixed sequence.",
+      "options": [
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "No Preemption",
+        "Circular Wait"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 12,
+      "question": "The deadlock situation in a system is analogous to a ________ where no vehicle can move forward.",
+      "options": [
+        "train",
+        "queue",
+        "traffic jam",
+        "crossroad"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "In a system with a potential deadlock, customers at a bank counter are an example of the ________ condition.",
+      "options": [
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "No Preemption",
+        "Circular Wait"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "A teacher taking away a pen from one student and giving it to another is an example of preventing ________ deadlock.",
+      "options": [
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "No Preemption",
+        "Circular Wait"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "If a system ensures that processes request resources in the order A → B → C, it is preventing ________ deadlock.",
+      "options": [
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "No Preemption",
+        "Circular Wait"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 16,
+      "question": "The ________ condition for deadlock is violated when a process is allowed to book both a flight and a hotel at the same time.",
+      "options": [
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "No Preemption",
+        "Circular Wait"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "To avoid deadlock, processes should request resources ________ they begin execution.",
+      "options": [
+        "after",
+        "gradually",
+        "before",
+        "in intervals"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "Deadlock prevention involves breaking one of the ________ necessary conditions.",
+      "options": [
+        "two",
+        "three",
+        "four",
+        "five"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "A deadlock situation where processes continuously wait for each other in a circular chain is called ________.",
+      "options": [
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "No Preemption",
+        "Circular Wait"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 20,
+      "question": "In order to avoid deadlocks, resources should be allocated in a fixed sequence to ensure there is no ________ condition.",
+      "options": [
+        "Mutual Exclusion",
+        "Hold and Wait",
+        "No Preemption",
+        "Circular Wait"
+      ],
+      "answer": 4
+    }
+]
+  

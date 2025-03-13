@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that a file is a collection of data stored on a computer.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that a file can only contain text data.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that a file can store text, images, videos, and programs.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that all files are readable by humans.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that a file name is an attribute of a file.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that file attributes do not store any metadata.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that file attributes include size, type, and creation date.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that a file type is not an important attribute.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that the location of a file refers to its path in the system.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that file permissions determine who can access a file.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that file operations include creating, reading, writing, and deleting files.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is false that copying a file removes it from the original location.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that renaming a file changes only its name, not its content.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is false that deleting a file means it cannot be recovered in any way.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that a text file contains human-readable content.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is false that a binary file is always readable in Notepad.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that a .jpg file is an example of a binary file.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is false that an .mp4 file is a text file.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that an executable file (.exe) is used to run a program.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is false that a .docx file is a binary file.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that a file system organizes and manages files on a computer.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is false that file systems are unnecessary for managing data storage.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that a file system uses directories to organize files.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is false that a file system does not include file paths.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that the root directory is the highest-level directory in a file system.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is false that the C:\\ drive is an example of a file path in Windows.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that file systems determine how data is stored and accessed.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is false that storage media such as hard drives and SSDs do not use file systems.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that the File Allocation Table (FAT) keeps track of file locations.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is false that a file cannot be moved from one directory to another.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that moving a file changes its location but keeps its content intact.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is false that a file must always remain in the same directory after being created.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that file permissions control who can read, write, or execute a file.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is false that all users have equal access to all files on a system.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that an operating system manages file operations.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is false that a computer can function without a file system.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that file systems help in preventing data loss and corruption.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is false that a deleted file cannot be recovered from the recycle bin.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that a .csv file is used to store structured data in a table format.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is false that a .mp3 file is used for storing images.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that a .html file is used for creating web pages.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is false that the size of a file is not a file attribute.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that the owner of a file can set permissions for other users.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is false that a .exe file contains only text data.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is true that the modification date of a file changes when it is edited.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is false that a file’s creation date changes every time it is accessed.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "It is true that a file path indicates the exact location of a file in the system.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is false that file operations do not include renaming a file.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "It is true that a .wav file is an example of an audio file.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is false that a file system is not necessary for organizing files.",
+      "answer": true
+    }
+]
+  

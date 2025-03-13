@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that biodiversity includes plants, animals, microorganisms, and ecosystems.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that biodiversity only refers to the variety of animal species on Earth.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that habitat destruction is the most significant threat to biodiversity.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that pollution has no effect on biodiversity.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that climate change affects ecosystems and species' survival.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that global warming has no impact on coral reefs.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that overexploitation of resources like excessive hunting and fishing can lead to species decline.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that deforestation only affects animals and has no impact on global warming.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that invasive species can disrupt ecosystems by outcompeting native species.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that industrial and agricultural expansion has no effect on biodiversity.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that biodiversity hotspots contain a high number of endemic species.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is false that a region must have only 500 endemic plant species to qualify as a biodiversity hotspot.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that at least 70% of a region's original natural vegetation must be lost for it to be considered a biodiversity hotspot.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is false that there are only 10 biodiversity hotspots in the world.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that the Amazon Rainforest is the world's largest tropical rainforest.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is false that the Congo Basin is located in South America.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that the Sundaland biodiversity hotspot includes Indonesia and Malaysia.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is false that Madagascar is not a biodiversity hotspot.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that India has four major biodiversity hotspots.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is false that the Himalayas are not a biodiversity hotspot in India.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that the Indo-Burma region includes northeastern India.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is false that the Western Ghats are located in northern India.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that the Sundaland biodiversity hotspot includes the Nicobar Islands.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is false that biodiversity does not help in climate regulation.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that deforestation can be reduced by planting more trees.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is false that plastic pollution has no effect on marine life.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is true that overfishing reduces fish populations and disrupts marine food chains.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is false that conservation laws are unnecessary for protecting endangered species.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that sustainable farming can help protect biodiversity.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is false that biodiversity loss does not impact human life.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that coral bleaching occurs due to warmer ocean temperatures.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is false that industrial pollution only affects humans and not biodiversity.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that raising awareness is an important step in protecting biodiversity.",
+      "answer": true
+    }
+]
+  

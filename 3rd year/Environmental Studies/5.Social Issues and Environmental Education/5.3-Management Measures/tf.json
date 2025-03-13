@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "Rainwater harvesting helps in reducing flooding and conserving water.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Groundwater recharge depletes underground water levels.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Renewable energy sources include coal and petroleum.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "Watershed management helps in preventing both floods and droughts.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Green belt development increases air pollution in urban areas.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "Interlinking of rivers helps in water distribution from surplus to deficit areas.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Solar energy is a form of non-renewable energy.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "Check dams are used to slow down water flow and promote groundwater recharge.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Watershed management does not contribute to soil conservation.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "The Ken-Betwa River Link project is an example of interlinking rivers in India.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "Wind energy is produced using turbines powered by moving air.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "Recharge wells are used to extract groundwater for irrigation.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "Afforestation is a method used in watershed management.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "Interlinking of rivers is only beneficial for transportation and has no agricultural benefits.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "Tamil Nadu's Muppandal Wind Farm is one of the largest wind energy projects in India.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "Building green belts around industries helps in reducing air pollution.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "Hydropower plants convert wind energy into electricity.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "The Bhadla Solar Park in Rajasthan is one of the world's largest solar power plants.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Contour farming helps in reducing soil erosion and water runoff.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "Green belt development has no impact on temperature regulation in cities.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "Watershed management improves irrigation facilities in dry regions.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "Rainwater harvesting is not useful for regions facing water shortages.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "The Sutlej-Yamuna Link project is an example of river interlinking.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "Biogas is produced using organic waste materials like food and animal dung.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "Watershed management increases the risk of droughts.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "Johads in Rajasthan help in storing rainwater for irrigation and drinking purposes.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "Check dams reduce groundwater recharge by blocking river water.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "The Sukhomajri Project in Haryana is an example of successful watershed management.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "Groundwater recharge methods include percolation tanks and recharge pits.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "Hydroelectric power is generated using coal-based power plants.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "Public participation is essential for the success of watershed management projects.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "Planting trees in urban areas helps in reducing the urban heat island effect.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "Interlinking of rivers increases the availability of drinking water in dry regions.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "Rainwater harvesting is a wasteful practice in urban areas.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "Wind turbines convert solar energy into electricity.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "Contour farming involves plowing along the slope of the land to reduce water runoff.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "Interlinking rivers can help in reducing floods in certain regions.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "Groundwater recharge is not useful for agricultural purposes.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "Solar energy reduces dependence on fossil fuels like coal and petroleum.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "The use of biogas helps in waste management and reduces pollution.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "Rainwater harvesting cannot be implemented in residential areas.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "The Delhi Ridge Forest is an example of a green belt that helps in air pollution control.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "Groundwater recharge can help in reducing land subsidence caused by over-extraction of water.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "Hydropower plants contribute to air pollution.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "Green belts do not contribute to biodiversity conservation.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "Percolation tanks are used for recharging groundwater.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "Wind energy is a sustainable and eco-friendly source of power.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "Rainwater harvesting can help in preventing urban waterlogging.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "Biogas production does not involve the use of organic waste materials.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "River interlinking projects aim to provide an even distribution of water across different regions.",
+      "answer": true
+    }
+]
+  

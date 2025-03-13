@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Article 48-A of the Indian Constitution directs the state to protect and improve the ________.",
+      "options": [
+        "economy",
+        "education system",
+        "environment",
+        "transportation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Article 51-A (g) of the Indian Constitution imposes a duty on citizens to protect the ________.",
+      "options": [
+        "government policies",
+        "natural environment",
+        "historical monuments",
+        "judiciary system"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "The 42nd Amendment Act, ________, added Articles 48-A and 51-A (g) to the Indian Constitution.",
+      "options": [
+        "1950",
+        "1962",
+        "1976",
+        "1992"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "The Environment (Protection) Act was enacted in response to the ________ tragedy.",
+      "options": [
+        "Chernobyl",
+        "Bhopal Gas",
+        "Tsunami",
+        "Floods in Uttarakhand"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "The Water (Prevention and Control of Pollution) Act was passed in the year ________.",
+      "options": [
+        "1986",
+        "1974",
+        "1981",
+        "1991"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The Air (Prevention and Control of Pollution) Act was enacted in ________.",
+      "options": [
+        "1974",
+        "1981",
+        "1995",
+        "2000"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "The Wildlife Protection Act was passed in the year ________.",
+      "options": [
+        "1952",
+        "1965",
+        "1972",
+        "1980"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "The Central Pollution Control Board (CPCB) was established under the ________ Act.",
+      "options": [
+        "Water Act, 1974",
+        "Air Act, 1981",
+        "Environment Act, 1986",
+        "Wildlife Protection Act, 1972"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "The Maharashtra Pollution Control Board (MPCB) is responsible for enforcing pollution control norms at the ________ level.",
+      "options": [
+        "national",
+        "international",
+        "state",
+        "district"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "One of the primary roles of CPCB is to monitor and control ________ pollution levels.",
+      "options": [
+        "only water",
+        "only air",
+        "both air and water",
+        "only soil"
+      ],
+      "answer": 3
+    }
+]
+  

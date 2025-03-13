@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "Municipal Solid Waste (MSW) is mainly generated from ________.",
+      "options": [
+        "factories",
+        "hospitals",
+        "homes, offices, and public places",
+        "research labs"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "A major source of municipal solid waste from households is ________.",
+      "options": [
+        "surgical instruments",
+        "food scraps and kitchen waste",
+        "construction debris",
+        "discarded mobile phones"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Waste from restaurants and shops is categorized as ________.",
+      "options": [
+        "industrial waste",
+        "commercial waste",
+        "hazardous waste",
+        "electronic waste"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Construction and demolition waste mainly includes ________.",
+      "options": [
+        "old clothes",
+        "cement, bricks, and wood",
+        "used syringes",
+        "glass bottles"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "A single household generates about ________ of waste per day.",
+      "options": [
+        "0.1-0.5 kg",
+        "0.5-2 kg",
+        "2-5 kg",
+        "5-10 kg"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "One major effect of municipal solid waste is ________.",
+      "options": [
+        "increase in oxygen levels",
+        "reduction in pollution",
+        "greenhouse gas emissions",
+        "improved sanitation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "A common method for managing organic waste is ________.",
+      "options": [
+        "landfilling",
+        "composting",
+        "burning",
+        "dumping in rivers"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Bio-medical waste is mostly produced in ________.",
+      "options": [
+        "construction sites",
+        "hospitals and clinics",
+        "factories and mills",
+        "shopping malls"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Used syringes, needles, and bandages are examples of ________ waste.",
+      "options": [
+        "industrial",
+        "bio-medical",
+        "electronic",
+        "municipal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Bio-medical waste can spread diseases such as ________.",
+      "options": [
+        "HIV and Hepatitis",
+        "diabetes",
+        "high blood pressure",
+        "arthritis"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "One way to safely dispose of bio-medical waste is ________.",
+      "options": [
+        "burning in open fields",
+        "incineration",
+        "throwing in rivers",
+        "dumping in landfills"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "E-waste consists of discarded ________.",
+      "options": [
+        "food waste",
+        "plastic bottles",
+        "electronic devices",
+        "medical bandages"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "One of the hazardous substances found in e-waste is ________.",
+      "options": [
+        "mercury",
+        "oxygen",
+        "carbon dioxide",
+        "iron"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "A major problem caused by e-waste is ________.",
+      "options": [
+        "soil and water pollution",
+        "faster plant growth",
+        "increased oxygen levels",
+        "improved air quality"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "The best way to handle e-waste is through ________.",
+      "options": [
+        "burning",
+        "recycling",
+        "throwing in landfills",
+        "dumping in rivers"
+      ],
+      "answer": 2
+    }
+]
+  

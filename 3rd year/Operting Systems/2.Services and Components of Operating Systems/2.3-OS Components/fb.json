@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "A process is a ________ program.",
+      "options": ["saved", "running", "deleted", "corrupted"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The OS is responsible for ________ and deleting processes.",
+      "options": ["creating", "hiding", "renaming", "moving"],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Process management ensures that processes execute efficiently and do not ________ with each other.",
+      "options": ["interrupt", "communicate", "interfere", "merge"],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "The OS allocates ________ time to processes for execution.",
+      "options": ["CPU", "RAM", "Disk", "Cache"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Multitasking allows multiple ________ to run simultaneously.",
+      "options": ["files", "processes", "commands", "users"],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Deadlocks occur when processes get stuck ________ for each other.",
+      "options": ["executing", "waiting", "loading", "deleting"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Main memory is also known as ________.",
+      "options": ["Cache", "Hard Disk", "RAM", "ROM"],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "The OS uses ________ memory when RAM is full.",
+      "options": ["Virtual", "Primary", "Cloud", "Flash"],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "File management is responsible for storing, retrieving, and ________ files.",
+      "options": ["deleting", "executing", "processing", "downloading"],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "A file is a collection of ________ stored on a computer.",
+      "options": ["programs", "data", "applications", "commands"],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "The OS manages files and stores them in ________.",
+      "options": ["folders", "programs", "documents", "databases"],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "I/O system management handles communication between the OS and ________ devices.",
+      "options": ["internal", "output", "hardware", "external"],
+      "answer": 4
+    },
+    {
+      "id": 13,
+      "question": "Device drivers help the OS communicate with ________.",
+      "options": ["software", "applications", "hardware", "users"],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Secondary storage includes hard drives, SSDs, and ________.",
+      "options": ["USBs", "RAM", "CPUs", "BIOS"],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "The OS is responsible for organizing data in ________ storage.",
+      "options": ["Primary", "Secondary", "Temporary", "Volatile"],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "When a file is saved, the OS determines its ________ on the disk.",
+      "options": ["format", "location", "permission", "speed"],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Without an OS, managing hardware and software would be extremely ________.",
+      "options": ["easy", "simple", "difficult", "automatic"],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "Process management ensures that programs do not ________ system resources.",
+      "options": ["overuse", "waste", "interfere", "modify"],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "The OS prevents ________ access to files through file permissions.",
+      "options": ["restricted", "authorized", "unauthorized", "limited"],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "The OS assigns each running process a unique ________.",
+      "options": ["memory", "address", "ID", "thread"],
+      "answer": 3
+    }
+]
+  

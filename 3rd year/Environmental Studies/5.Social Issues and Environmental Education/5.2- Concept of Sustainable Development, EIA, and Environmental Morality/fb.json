@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Sustainable development ensures that we meet our present needs without compromising the ability of ________ generations to meet theirs.",
+      "options": [
+        "past",
+        "future",
+        "current",
+        "ancient"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "One of the key principles of sustainable development is ________, which focuses on preventing pollution and conserving resources.",
+      "options": [
+        "economic growth",
+        "social well-being",
+        "environmental protection",
+        "technological advancement"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "________ energy sources like solar and wind are promoted under sustainable development.",
+      "options": [
+        "Non-renewable",
+        "Fossil fuel",
+        "Nuclear",
+        "Renewable"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "Environmental Impact Assessment (EIA) is conducted before starting a ________ to evaluate its effects on nature.",
+      "options": [
+        "festival",
+        "school exam",
+        "development project",
+        "sports event"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "EIA helps in identifying potential ________ risks of a proposed project.",
+      "options": [
+        "economic",
+        "environmental",
+        "historical",
+        "cultural"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The final step in the EIA process is ________ and compliance to ensure environmental regulations are followed.",
+      "options": [
+        "monitoring",
+        "screening",
+        "impact analysis",
+        "public participation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "An example of sustainable development is ________, where trees are planted to replace those that are cut down.",
+      "options": [
+        "deforestation",
+        "afforestation",
+        "urbanization",
+        "mining"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Environmental morality refers to the ethical responsibility of ________, businesses, and governments to protect nature.",
+      "options": [
+        "students",
+        "individuals",
+        "animals",
+        "scientists"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "An example of environmental morality is using ________ bags instead of plastic bags.",
+      "options": [
+        "paper",
+        "cloth",
+        "leather",
+        "metal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "The principle of ________ equity ensures that future generations also have access to natural resources.",
+      "options": [
+        "economic",
+        "industrial",
+        "intergenerational",
+        "technological"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "The EIA process includes ________, where local people and experts share their opinions on the project.",
+      "options": [
+        "scoping",
+        "public participation",
+        "monitoring",
+        "impact analysis"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Sustainable agriculture involves using ________ fertilizers instead of harmful chemical ones.",
+      "options": [
+        "synthetic",
+        "plastic-based",
+        "organic",
+        "toxic"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "A key aspect of environmental morality is reducing ________, such as plastic waste and excessive paper use.",
+      "options": [
+        "transportation",
+        "pollution",
+        "waste",
+        "recycling"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Water conservation methods like ________ help in sustainable development.",
+      "options": [
+        "burning waste",
+        "rainwater harvesting",
+        "cutting trees",
+        "wasting water"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "One of the major reasons for conducting EIA is to suggest ________ measures to reduce environmental harm.",
+      "options": [
+        "mitigation",
+        "expansion",
+        "construction",
+        "financial"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "The EIA process starts with ________, which checks if a project requires a detailed environmental study.",
+      "options": [
+        "scoping",
+        "impact analysis",
+        "screening",
+        "monitoring"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Eco-friendly transportation methods include ________ vehicles, which do not produce harmful emissions.",
+      "options": [
+        "petrol",
+        "electric",
+        "diesel",
+        "steam"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Using bicycles instead of cars is an example of ________ morality.",
+      "options": [
+        "social",
+        "economic",
+        "environmental",
+        "cultural"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "One of the steps in the EIA process is ________, where environmental risks of a project are studied in detail.",
+      "options": [
+        "scoping",
+        "impact analysis",
+        "decision-making",
+        "compliance"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Planting trees in neighborhoods to improve air quality is an example of ________ morality.",
+      "options": [
+        "economic",
+        "environmental",
+        "political",
+        "technological"
+      ],
+      "answer": 2
+    }
+]
+  

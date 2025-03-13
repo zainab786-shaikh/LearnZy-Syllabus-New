@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "What does IT stand for in the context of environmental protection and human health?",
+      "options": [
+        "Information Technology",
+        "Industrial Technology",
+        "Internet Transactions",
+        "Intelligent Tracking"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which system helps in monitoring air pollution levels?",
+      "options": [
+        "Geographic Information System",
+        "Air Quality Index",
+        "Electronic Health Records",
+        "Smart Grid"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which technology is used to map and analyze environmental data?",
+      "options": [
+        "Artificial Intelligence",
+        "Smart Bins",
+        "Geographic Information System (GIS)",
+        "E-Waste Management"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "How do smart bins help in waste management?",
+      "options": [
+        "They burn waste automatically",
+        "They sort waste into categories",
+        "They send alerts when full",
+        "They convert waste into energy instantly"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Which renewable energy source uses IT to track sunlight and adjust panels?",
+      "options": [
+        "Wind Energy",
+        "Biogas",
+        "Solar Energy",
+        "Geothermal Energy"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "How does IT help in disaster management?",
+      "options": [
+        "Predicts natural disasters",
+        "Builds stronger houses",
+        "Stops earthquakes",
+        "Increases rainfall"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which health technology stores patient medical records digitally?",
+      "options": [
+        "Telemedicine",
+        "Electronic Health Records (EHR)",
+        "Smartwatches",
+        "AI-based Diagnosis"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which device helps monitor health by tracking heart rate and steps?",
+      "options": [
+        "Smart Bin",
+        "Smartwatch",
+        "GIS System",
+        "Check Dam"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which AI-based tool helps detect diseases from medical images?",
+      "options": [
+        "GIS",
+        "Weather Forecasting System",
+        "Smart Grid",
+        "AI Diagnosis"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 10,
+      "question": "What does a smart grid do?",
+      "options": [
+        "Predicts earthquakes",
+        "Manages renewable energy efficiently",
+        "Stores medical records",
+        "Monitors social media"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Which app-based service allows people to consult doctors remotely?",
+      "options": [
+        "Telemedicine",
+        "Smartwatch",
+        "E-Waste Management",
+        "Recycling App"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is an example of an AI-based health assistant?",
+      "options": [
+        "Telemedicine",
+        "Chatbots",
+        "Weather Alert System",
+        "GIS"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is a key benefit of GIS in environmental protection?",
+      "options": [
+        "Monitors deforestation",
+        "Stores medical data",
+        "Generates solar energy",
+        "Measures temperature"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "How does IT help spread health awareness?",
+      "options": [
+        "Through social media campaigns",
+        "By cleaning hospitals",
+        "By monitoring sleep patterns",
+        "By diagnosing diseases"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "What does the Air Quality Index (AQI) measure?",
+      "options": [
+        "Water pollution levels",
+        "Air pollution levels",
+        "Soil pollution levels",
+        "Noise pollution levels"
+      ],
+      "answer": 2
+    }
+]
+  

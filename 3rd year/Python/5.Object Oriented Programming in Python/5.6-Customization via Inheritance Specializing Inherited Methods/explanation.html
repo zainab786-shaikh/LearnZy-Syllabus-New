@@ -1,0 +1,118 @@
+<div>
+    <h1>5.6 Customization via Inheritance: Specializing Inherited Methods</h1>
+    
+    <h2>Introduction</h2>
+    <p>
+      In object-oriented programming, inheritance allows a class (child class) to reuse the properties and behaviors of another class (parent class).
+      However, sometimes we need to modify or "customize" some of the inherited behaviors to make them more specific to the child class.
+      This is called specializing inherited methods.
+    </p>
+    
+    <h3>Understanding Inheritance</h3>
+    <p>Before customizing methods, let’s first understand basic inheritance.</p>
+    
+    <h4>Example of Simple Inheritance</h4>
+    <pre>
+      <code>
+  class Animal:  # Parent Class
+      def speak(self):
+          return "Animal makes a sound"
+  
+  class Dog(Animal):  # Child Class
+      pass  # No changes, so it will use the parent’s method
+  
+  dog = Dog()
+  print(dog.speak())  # Output: Animal makes a sound
+      </code>
+    </pre>
+    
+    <h3>Customizing Inherited Methods (Specialization)</h3>
+    <p>Now, let’s modify the <code>speak()</code> method in the Dog class so that it behaves differently.</p>
+    
+    <h4>Example of Specializing an Inherited Method</h4>
+    <pre>
+      <code>
+  class Animal:
+      def speak(self):
+          return "Animal makes a sound"
+  
+  class Dog(Animal):
+      def speak(self):
+          return "Dog barks"
+  
+  class Cat(Animal):
+      def speak(self):
+          return "Cat meows"
+  
+  dog = Dog()
+  cat = Cat()
+  
+  print(dog.speak())  # Output: Dog barks
+  print(cat.speak())  # Output: Cat meows
+      </code>
+    </pre>
+    
+    <h3>Using <code>super()</code> to Partially Customize a Method</h3>
+    <p>Sometimes, we might want to keep part of the parent’s method but also add something new.</p>
+    
+    <h4>Example of Using <code>super()</code></h4>
+    <pre>
+      <code>
+  class Person:
+      def introduce(self):
+          return "Hello, I am a person."
+  
+  class Student(Person):
+      def introduce(self):
+          base_intro = super().introduce()
+          return base_intro + " I am also a student."
+  
+  p = Person()
+  s = Student()
+  
+  print(p.introduce())  # Output: Hello, I am a person.
+  print(s.introduce())  # Output: Hello, I am a person. I am also a student.
+      </code>
+    </pre>
+    
+    <h3>Real-Life Example: Specializing a Banking System</h3>
+    <pre>
+      <code>
+  class BankAccount:
+      def __init__(self, balance):
+          self.balance = balance
+  
+      def interest_rate(self):
+          return "General interest rate is 2%."
+  
+  class SavingsAccount(BankAccount):
+      def interest_rate(self):
+          return "Savings account interest rate is 4%."
+  
+  class CheckingAccount(BankAccount):
+      def interest_rate(self):
+          return "Checking account interest rate is 1%."
+  
+  general = BankAccount(1000)
+  savings = SavingsAccount(2000)
+  checking = CheckingAccount(3000)
+  
+  print(general.interest_rate())  # Output: General interest rate is 2%.
+  print(savings.interest_rate())  # Output: Savings account interest rate is 4%.
+  print(checking.interest_rate())  # Output: Checking account interest rate is 1%.
+      </code>
+    </pre>
+    
+    <h3>Why Use Method Specialization?</h3>
+    <ul>
+      <li><strong>Flexibility</strong> – Child classes can modify only what they need.</li>
+      <li><strong>Reusability</strong> – Common features stay in the parent class, avoiding duplicate code.</li>
+      <li><strong>Scalability</strong> – Easily add new child classes with specialized behaviors.</li>
+    </ul>
+    
+    <h2>Conclusion</h2>
+    <p>
+      Customization via inheritance helps in making our code more flexible and reusable.
+      By overriding and specializing inherited methods, we can create different behaviors for different child classes while still maintaining common functionalities from the parent class.
+    </p>
+</div>

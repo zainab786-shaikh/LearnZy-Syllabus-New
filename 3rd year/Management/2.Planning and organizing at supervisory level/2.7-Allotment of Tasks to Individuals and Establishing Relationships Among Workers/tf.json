@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that once resources are organized, the next step is to assign tasks randomly among employees.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "It is true that task allotment involves breaking down work into different tasks.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that tasks should be assigned to workers without considering their skills.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "It is true that establishing a chain of command is important for task allotment.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that promoting teamwork is not necessary for efficient task allotment.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "It is true that monitoring and adjusting task assignments is not important.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that in a construction company, engineers should lay bricks.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "It is true that in a construction company, workers should mix cement and lay bricks.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that in a school, teachers should handle student records.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "It is true that in a school, administrative staff should handle student records and fees.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that establishing relationships among workers prevents confusion about roles and responsibilities.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that establishing relationships among workers does not encourage teamwork and cooperation.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that establishing clear reporting structures helps in faster decision-making.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that establishing relationships among workers does not reduce workplace conflicts.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that organizing physical resources is not important for smooth workflow.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "It is true that matching employee skills with job needs improves productivity.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that allotting tasks and establishing relationships is not necessary for a structured work environment.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "It is true that when these elements are handled efficiently, organizations do not run smoothly.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that efficient task allotment and relationship establishment lead to happy employees.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that business goals are not achieved successfully when these elements are handled efficiently.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that task allotment involves assigning tasks based on employee interests only.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "It is true that establishing a chain of command helps in defining roles and responsibilities.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that promoting teamwork is not important for efficient task completion.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "It is true that monitoring task assignments is crucial for adjusting them if necessary.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that in a construction company, electricians should design buildings.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "It is true that in a school, the principal oversees the entire system to ensure smooth functioning.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is true that establishing relationships among workers does not help in preventing confusion about roles.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "It is true that clear reporting structures reduce workplace conflicts.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that organizing physical resources is not essential for ensuring smooth workflow.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "It is true that matching employee skills with job needs does not improve productivity.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that allotting tasks and establishing relationships is crucial for a cooperative work environment.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that when these elements are handled efficiently, employees do not remain happy.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that business goals are achieved successfully when these elements are handled efficiently.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that task allotment involves assigning tasks based on skills and qualifications.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that establishing a chain of command is not important for decision-making.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "It is true that promoting teamwork is essential for efficient task completion.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that monitoring task assignments is not necessary for adjusting them.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "It is true that in a construction company, supervisors ensure that tasks are completed on time.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that in a school, teachers should be assigned subjects randomly.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "It is true that establishing relationships among workers helps in faster decision-making by defining clear roles.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that establishing clear reporting structures does not reduce workplace conflicts.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "It is true that organizing physical resources is essential for ensuring smooth workflow.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that matching employee skills with job needs does not improve job satisfaction.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "It is true that allotting tasks and establishing relationships is not necessary for a structured work environment.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that when these elements are handled efficiently, organizations do not achieve their goals.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "It is true that efficient task allotment and relationship establishment lead to unhappy employees.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that task allotment involves assigning tasks based on employee skills and qualifications.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that establishing a chain of command is not important for defining roles and responsibilities.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that promoting teamwork is not important for efficient task completion and cooperation.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "It is true that monitoring task assignments is crucial for ensuring tasks are completed efficiently.",
+      "answer": true
+    }
+]
+  

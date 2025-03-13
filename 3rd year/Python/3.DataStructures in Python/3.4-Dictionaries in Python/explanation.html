@@ -1,0 +1,114 @@
+<div>
+    <h2>3.4 Dictionaries in Python</h2>
+    <p>A dictionary in Python is a collection of key-value pairs. It is used to store data in an organized way, where each key has a corresponding value.</p>
+    <h3>What is a Dictionary?</h3>
+    <p>A dictionary is written using curly brackets {}, and the key-value pairs are separated by colons :</p>
+    <pre>
+      <code>
+  # Creating a dictionary
+  student = {
+      "name": "John",
+      "age": 20,
+      "grade": "A"
+  }
+  print(student)
+  # Output: {'name': 'John', 'age': 20, 'grade': 'A'}
+      </code>
+    </pre>
+    <h3>(a) Accessing, Deleting, and Updating Dictionary Values</h3>
+    <h4>1. Accessing Values in a Dictionary</h4>
+    <pre>
+      <code>
+  print(student["name"])  # Output: John
+  print(student["age"])   # Output: 20
+  print(student.get("grade"))  # Output: A
+  print(student.get("city", "Not Found"))  # Output: Not Found
+      </code>
+    </pre>
+    <h4>2. Updating a Dictionary</h4>
+    <pre>
+      <code>
+  student["age"] = 21
+  student["city"] = "New York"
+  print(student)
+  # Output: {'name': 'John', 'age': 21, 'grade': 'A', 'city': 'New York'}
+      </code>
+    </pre>
+    <h4>3. Deleting Values from a Dictionary</h4>
+    <pre>
+      <code>
+  del student["city"]
+  print(student)
+  # Output: {'name': 'John', 'age': 21, 'grade': 'A'}
+      </code>
+    </pre>
+    <h3>(b) Basic Dictionary Operations</h3>
+    <h4>1. Finding the Length of a Dictionary</h4>
+    <pre>
+      <code>
+  print(len(student))  # Output: 3
+      </code>
+    </pre>
+    <h4>2. Checking if a Key Exists</h4>
+    <pre>
+      <code>
+  if "age" in student:
+      print("Key exists!")  # Output: Key exists!
+      </code>
+    </pre>
+    <h4>3. Looping Through a Dictionary</h4>
+    <pre>
+      <code>
+  for key, value in student.items():
+      print(f"{key}: {value}")
+  # Output:
+  # name: John
+  # age: 21
+  # grade: A
+      </code>
+    </pre>
+    <h3>(c) Built-in Dictionary Functions</h3>
+    <h4>1. keys() - Get All Keys</h4>
+    <pre>
+      <code>
+  print(student.keys())  # Output: dict_keys(['name', 'age', 'grade'])
+      </code>
+    </pre>
+    <h4>2. values() - Get All Values</h4>
+    <pre>
+      <code>
+  print(student.values())  # Output: dict_values(['John', 21, 'A'])
+      </code>
+    </pre>
+    <h4>3. items() - Get All Key-Value Pairs</h4>
+    <pre>
+      <code>
+  print(student.items())  # Output: dict_items([('name', 'John'), ('age', 21), ('grade', 'A')])
+      </code>
+    </pre>
+    <h4>4. update() - Merge Dictionaries</h4>
+    <pre>
+      <code>
+  new_info = {"city": "New York", "phone": "1234567890"}
+  student.update(new_info)
+  print(student)
+      </code>
+    </pre>
+    <h4>5. copy() - Copy a Dictionary</h4>
+    <pre>
+      <code>
+  copy_dict = student.copy()
+  print(copy_dict)
+      </code>
+    </pre>
+    <h4>6. popitem() - Remove the Last Item</h4>
+    <pre>
+      <code>
+  student.popitem()
+  print(student)
+      </code>
+    </pre>
+    <h3>Conclusion</h3>
+    <p>Dictionaries are an essential part of Python and provide a fast, flexible way to store and retrieve data. You can use them for various tasks such as storing user details, keeping track of products in a store, and more.</p>
+</div>
+  

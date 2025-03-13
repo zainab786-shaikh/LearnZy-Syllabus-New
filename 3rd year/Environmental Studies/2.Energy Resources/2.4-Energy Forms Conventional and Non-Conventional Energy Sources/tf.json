@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that conventional energy sources are mostly non-renewable.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that solar energy is a type of conventional energy source.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Coal is a renewable energy source.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "Hydropower is generated using the force of moving water.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Petroleum is refined to produce fuels such as diesel and petrol.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Wind energy is generated using wind turbines.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Biomass energy is derived from non-organic materials.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "Nuclear energy is produced through the process of nuclear fission.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Tidal energy is produced using the movement of ocean tides.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "Geothermal energy is generated from the heat inside the Earth.",
+      "answer": true
+    }
+]
+  

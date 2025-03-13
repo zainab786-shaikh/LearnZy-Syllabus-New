@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that controlling in management ensures that all activities are carried out as per the plan.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is true that controlling at the supervisory level does not involve monitoring employees.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that controlling focuses on maintaining quality and ensuring work is completed on time and within budget.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is true that controlling does not involve taking corrective actions for mistakes or deviations.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that every company has only one department for smooth functioning.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "It is true that multiple departments must work together for an organization to function smoothly.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that a quality control team does not need to inform the production team about defects.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "It is true that companies set standards to maintain quality and efficiency.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that a fast-food chain like McDonald's does not have strict standards for food preparation.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "It is true that setting performance standards is not a step in the control process.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that measuring performance involves tracking actual results against set standards.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that comparing performance with standards is not necessary in the control process.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that correcting unfavorable deviations is not a part of the control process.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "It is true that a supervisor may provide training if a worker does not meet performance standards.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that controlling is not a dynamic process that requires continuous monitoring and adjustment.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "It is true that controlling involves setting standards, measuring performance, comparing results, and taking corrective action.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that controlling does not ensure effective and efficient utilization of organizational resources.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "It is true that controlling helps in identifying areas of improvement and celebrating successes.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that controlling is not related to planning in management.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "It is true that controlling involves verifying whether everything occurs in conformity with plans and principles.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that controlling is not performed at all levels of management.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "It is true that controlling is a backward-looking function only.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that controlling is a pervasive function performed by managers at all levels.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that controlling does not involve recording experiences for future needs.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that controlling is not a systematic exercise to check actual performance against standards.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "It is true that controlling helps in maintaining stability and preventing wide fluctuations in output.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is true that controlling does not involve guiding the team towards goals.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "It is true that controlling involves monitoring performance towards goals.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that controlling is not essential for ensuring that organizational goals are met.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "It is true that controlling involves identifying deviations from standards and taking corrective actions.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that controlling does not create an orderly and disciplined atmosphere in the workplace.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "It is true that controlling streamlines the process of coordinating actions across departments.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that controlling is not a goal-oriented function of management.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "It is true that controlling involves comparing actual performance with predetermined benchmarks.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that controlling does not require regular evaluation and revision of performance criteria.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "It is true that controlling is a dynamic process that requires adaptable controls to changing conditions.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that controlling is not related to ensuring that events do not deviate from their predetermined course of action.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "It is true that controlling involves setting standards related to quality, quantity, cost, or time.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that controlling does not involve measuring actual performance against set standards.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "It is true that controlling helps in ensuring that all operations are carried out per the plan.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that controlling does not involve taking remedial action if necessary.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "It is true that controlling is essential for improving performance and maintaining high standards.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that controlling is not a function that ensures effective and efficient utilization of resources.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "It is true that controlling involves verifying whether everything occurs in conformity with plans and principles.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is true that controlling does not involve recording experiences for future improvements.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "It is true that controlling is a systematic exercise to check actual performance against standards.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "It is true that controlling does not help in maintaining stability and preventing wide fluctuations in output.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "It is true that controlling involves guiding the team towards goals and monitoring performance.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "It is true that controlling is not essential for ensuring that organizational goals are achieved.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "It is true that controlling involves identifying deviations from standards and taking corrective actions to ensure goal achievement.",
+      "answer": true
+    }
+]
+  

@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is Memory Management in a computer system?",
+      "options": [
+        "How the computer stores and retrieves data efficiently",
+        "How the computer manages network traffic",
+        "How the computer stores files",
+        "How the computer executes programs"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "What is Partitioning in memory management?",
+      "options": [
+        "Dividing memory into separate sections for different programs",
+        "Allocating memory to a single program",
+        "Storing all data in one large block",
+        "Releasing memory back to the system"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is true about Fixed Partitioning?",
+      "options": [
+        "Memory is divided into fixed-sized blocks before running any program",
+        "Memory partitions are created dynamically based on the program size",
+        "It avoids fragmentation completely",
+        "It allows multiple processes to share the same memory space"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "What is a disadvantage of Fixed Partitioning?",
+      "options": [
+        "Internal fragmentation",
+        "External fragmentation",
+        "Dynamic allocation",
+        "Faster allocation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "In Fixed Partitioning, if a process is smaller than the partition, what happens?",
+      "options": [
+        "It wastes space inside the partition",
+        "It cannot be allocated memory",
+        "The memory is reused by other processes",
+        "The partition is split into smaller partitions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "What does Variable Partitioning allow?",
+      "options": [
+        "Memory partitions are created dynamically based on program size",
+        "Fixed-size blocks are used for each program",
+        "Memory allocation is based on user preferences",
+        "Partition sizes are static"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "What is External Fragmentation in Variable Partitioning?",
+      "options": [
+        "Small free spaces between allocated memory blocks",
+        "Wasted space inside memory partitions",
+        "Memory that cannot be allocated to any process",
+        "Memory that is inaccessible"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which method eliminates internal fragmentation but may cause external fragmentation?",
+      "options": [
+        "Variable Partitioning",
+        "Fixed Partitioning",
+        "Bitmap Method",
+        "Linked List Method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What is the Bitmap Method used for in memory management?",
+      "options": [
+        "Representing memory blocks as a sequence of bits",
+        "Organizing memory into a linked list",
+        "Tracking memory using a visual representation",
+        "Dividing memory into fixed-size blocks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "In the Bitmap Method, what does '1' represent?",
+      "options": [
+        "Occupied block",
+        "Free block",
+        "Reserved block",
+        "Unavailable block"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "What is the main disadvantage of the Bitmap Method?",
+      "options": [
+        "Searching for free memory can be slow",
+        "It requires extra memory for pointers",
+        "It is difficult to implement",
+        "It is not efficient for small systems"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "What does the Linked List Method organize memory into?",
+      "options": [
+        "A linked list of memory blocks",
+        "A fixed number of partitions",
+        "A bitmap of free and occupied blocks",
+        "A stack of memory blocks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "In the Linked List Method, what is the Free List used for?",
+      "options": [
+        "Storing free memory blocks",
+        "Storing occupied memory blocks",
+        "Tracking memory access history",
+        "Allocating memory based on size"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which method of memory management requires extra memory for storing pointers?",
+      "options": [
+        "Linked List Method",
+        "Bitmap Method",
+        "Fixed Partitioning",
+        "Variable Partitioning"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "What does the Fixed Partitioning method do?",
+      "options": [
+        "Divides memory into predefined fixed blocks",
+        "Allocates memory dynamically as required",
+        "Avoids any kind of fragmentation",
+        "Divides memory based on program priority"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "What is the primary advantage of Variable Partitioning over Fixed Partitioning?",
+      "options": [
+        "It allows dynamic allocation based on program size",
+        "It eliminates all fragmentation",
+        "It is simpler to implement",
+        "It requires less memory"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is a disadvantage of Variable Partitioning?",
+      "options": [
+        "External fragmentation",
+        "Wasted memory",
+        "Fixed partition sizes",
+        "Low flexibility"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "What happens when a program is larger than the partition in Fixed Partitioning?",
+      "options": [
+        "The program cannot be loaded",
+        "The partition size increases automatically",
+        "The system allocates more memory to the program",
+        "The program is divided into multiple partitions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "In the Bitmap Method, what does '0' represent?",
+      "options": [
+        "Free block",
+        "Occupied block",
+        "Reserved block",
+        "Unavailable block"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What is the major limitation of Fixed Partitioning?",
+      "options": [
+        "Wasted memory due to internal fragmentation",
+        "External fragmentation",
+        "Dynamic partition creation",
+        "Need for additional memory management techniques"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "What is the memory management technique that uses a series of bits to represent memory allocation?",
+      "options": [
+        "Bitmap Method",
+        "Linked List Method",
+        "Partitioning",
+        "Segmentation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Which memory management technique helps in faster allocation and deallocation of memory?",
+      "options": [
+        "Linked List Method",
+        "Bitmap Method",
+        "Fixed Partitioning",
+        "Variable Partitioning"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "What is a key advantage of the Bitmap Method?",
+      "options": [
+        "Easy to track free and used memory",
+        "Requires less memory space",
+        "Prevents fragmentation",
+        "Offers dynamic memory allocation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "What does the term 'internal fragmentation' refer to?",
+      "options": [
+        "Wasted space inside memory partitions",
+        "Unused memory between partitions",
+        "Overallocated memory",
+        "Memory that cannot be accessed"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Which memory management technique uses pointers to manage memory?",
+      "options": [
+        "Linked List Method",
+        "Bitmap Method",
+        "Fixed Partitioning",
+        "Variable Partitioning"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Which of the following is true about Bitmap Method?",
+      "options": [
+        "It uses a sequence of bits to represent memory blocks",
+        "It dynamically allocates memory as needed",
+        "It is free from fragmentation",
+        "It requires extra memory for storing pointers"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is a disadvantage of Linked List Method?",
+      "options": [
+        "Requires extra memory for storing pointers",
+        "It has high complexity",
+        "It causes external fragmentation",
+        "It wastes memory"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Which of the following partitioning methods eliminates internal fragmentation?",
+      "options": [
+        "Variable Partitioning",
+        "Fixed Partitioning",
+        "Bitmap Method",
+        "Linked List Method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Which method of memory management is best for tracking free blocks in memory?",
+      "options": [
+        "Bitmap Method",
+        "Linked List Method",
+        "Fixed Partitioning",
+        "Variable Partitioning"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "What is the main problem caused by Fixed Partitioning?",
+      "options": [
+        "Wasted memory due to internal fragmentation",
+        "External fragmentation",
+        "Dynamic allocation",
+        "Faster allocation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "In the Linked List Method, what is a key advantage of using a free list?",
+      "options": [
+        "Faster memory allocation and deallocation",
+        "It eliminates fragmentation",
+        "It uses less memory",
+        "It works with fixed partition sizes"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "What happens in Fixed Partitioning when a process does not fill the entire partition?",
+      "options": [
+        "Memory is wasted inside the partition",
+        "The partition size increases",
+        "The process is split into multiple parts",
+        "The system reassigns the partition to another process"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "Which of the following can result in External Fragmentation?",
+      "options": [
+        "Variable Partitioning",
+        "Fixed Partitioning",
+        "Bitmap Method",
+        "Linked List Method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "What does the Bitmap Method use to represent memory?",
+      "options": [
+        "A sequence of bits",
+        "A linked list of memory blocks",
+        "A visual diagram",
+        "A set of predefined partitions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "What happens if there is external fragmentation?",
+      "options": [
+        "Small free spaces exist between memory partitions",
+        "Memory is wasted inside the partitions",
+        "Memory cannot be allocated to any process",
+        "Memory is inaccessible to the system"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "In Variable Partitioning, which type of fragmentation can occur over time?",
+      "options": [
+        "External fragmentation",
+        "Internal fragmentation",
+        "Memory leakage",
+        "Memory loss"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "What is the major advantage of the Linked List Method over Bitmap?",
+      "options": [
+        "Faster memory allocation and deallocation",
+        "Less memory usage",
+        "Prevents fragmentation",
+        "Simpler to implement"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is true about Fixed Partitioning?",
+      "options": [
+        "Memory is divided into fixed blocks",
+        "It dynamically adjusts memory size",
+        "It allows variable memory allocations",
+        "It eliminates fragmentation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "Which memory management method helps with fast allocation and deallocation by using pointers?",
+      "options": [
+        "Linked List Method",
+        "Bitmap Method",
+        "Fixed Partitioning",
+        "Variable Partitioning"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "What is the primary disadvantage of the Bitmap Method?",
+      "options": [
+        "Slow searching for free memory blocks",
+        "High memory consumption",
+        "High complexity",
+        "Memory loss"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Which method is more flexible and dynamic in memory allocation?",
+      "options": [
+        "Variable Partitioning",
+        "Fixed Partitioning",
+        "Bitmap Method",
+        "Linked List Method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "What does the term 'external fragmentation' mean?",
+      "options": [
+        "Free space between allocated partitions",
+        "Wasted space inside partitions",
+        "Memory that cannot be allocated",
+        "Unreachable memory blocks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "Which memory management method is based on fixed-sized blocks?",
+      "options": [
+        "Fixed Partitioning",
+        "Variable Partitioning",
+        "Bitmap Method",
+        "Linked List Method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "What is the primary advantage of Variable Partitioning?",
+      "options": [
+        "It dynamically allocates memory as needed",
+        "It eliminates all types of fragmentation",
+        "It uses less memory",
+        "It allows for fixed block sizes"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Which method of memory management uses blocks represented by a sequence of bits?",
+      "options": [
+        "Bitmap Method",
+        "Linked List Method",
+        "Variable Partitioning",
+        "Fixed Partitioning"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "What happens when a program's memory request exceeds the partition size in Fixed Partitioning?",
+      "options": [
+        "The program cannot be loaded",
+        "Memory is resized",
+        "The program is divided into smaller parts",
+        "The partition size increases"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "Which technique involves storing memory blocks as a linked list?",
+      "options": [
+        "Linked List Method",
+        "Bitmap Method",
+        "Fixed Partitioning",
+        "Variable Partitioning"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "What is a disadvantage of Linked List Method?",
+      "options": [
+        "Requires extra memory for storing pointers",
+        "It is slower than the Bitmap method",
+        "It increases external fragmentation",
+        "It uses more system resources"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "What is the primary disadvantage of Variable Partitioning?",
+      "options": [
+        "External fragmentation",
+        "Fixed partition sizes",
+        "Memory is not dynamically allocated",
+        "Memory cannot be freed"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Which partitioning method is best for large systems with dynamic memory needs?",
+      "options": [
+        "Variable Partitioning",
+        "Fixed Partitioning",
+        "Bitmap Method",
+        "Linked List Method"
+      ],
+      "answer": 1
+    }
+]
+  

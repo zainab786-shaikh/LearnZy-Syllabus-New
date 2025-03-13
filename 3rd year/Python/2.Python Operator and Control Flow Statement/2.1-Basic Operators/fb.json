@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "The ________ operator is used for exponentiation in Python.",
+      "options": ["^", "**", "//", "%%"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The modulus operator (%) returns the ________ of a division operation.",
+      "options": ["quotient", "remainder", "product", "exponent"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which operator is used for floor division in Python?",
+      "options": ["/", "//", "%", "^"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "The ________ operator is used to check if two values are equal.",
+      "options": ["=", "==", "!=", "<>"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a logical operator in Python?",
+      "options": ["+", "-", "and", "*"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "The bitwise AND operator is represented by ________.",
+      "options": ["|", "&", "^", "~"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "The ________ operator in Python checks if a value exists in a sequence.",
+      "options": ["in", "is", "not", "or"],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "The identity operator ________ checks if two variables refer to the same object.",
+      "options": ["in", "is", "==", "or"],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which operator has the highest precedence in Python?",
+      "options": ["+", "**", "or", "and"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "The ________ operator is used to reverse a condition in Python.",
+      "options": ["and", "or", "not", "is"],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Which of the following assignment operators is used to perform exponentiation?",
+      "options": ["+=", "**=", "//=", "%="],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "The expression (5 + 2 * 3) evaluates to ________.",
+      "options": ["21", "11", "15", "9"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "The Python operator precedence rule states that ________ operators are evaluated first.",
+      "options": ["arithmetic", "logical", "comparison", "bitwise"],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "The 'not in' operator returns True if a value ________ in a sequence.",
+      "options": ["exists", "does not exist", "is equal", "is greater"],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "The operator used to check if two values are NOT equal is ________.",
+      "options": ["==", "!=", "is", "and"],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Which operator shifts bits to the left in Python?",
+      "options": [">>", "<<", "&", "^"],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "The expression '5 | 3' using bitwise OR evaluates to ________.",
+      "options": ["1", "7", "5", "3"],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is an example of an identity operator?",
+      "options": ["is", "in", "not in", "or"],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Which assignment operator is used for floor division?",
+      "options": ["/=", "//=", "**=", "%="],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "The result of '9 // 2' is ________.",
+      "options": ["4", "4.5", "5", "5.0"],
+      "answer": 1
+    }
+]
+  

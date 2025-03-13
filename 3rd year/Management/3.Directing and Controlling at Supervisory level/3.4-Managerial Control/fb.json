@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Controlling in management is the process of ensuring that all activities are carried out as per the ________.",
+      "options": [
+        "budget",
+        "plan",
+        "schedule",
+        "policy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "At the supervisory level, controlling focuses on monitoring employees, maintaining ________, and ensuring work is completed on time.",
+      "options": [
+        "quantity",
+        "quality",
+        "cost",
+        "efficiency"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "The controlling process helps managers take ________ actions if there are any mistakes or deviations.",
+      "options": [
+        "preventive",
+        "corrective",
+        "proactive",
+        "reactive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "In a company with multiple departments, controlling ensures that all departments work together ________.",
+      "options": [
+        "independently",
+        "separately",
+        "cooperatively",
+        "competitively"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "A mobile phone manufacturing company has a ________ team that checks if the phone meets standards.",
+      "options": [
+        "design",
+        "production",
+        "quality control",
+        "sales"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "If the quality control team finds defects, they must inform the ________ team to fix them.",
+      "options": [
+        "design",
+        "production",
+        "sales",
+        "customer service"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Companies set ________ to maintain quality and efficiency in delivering products or services.",
+      "options": [
+        "policies",
+        "standards",
+        "procedures",
+        "guidelines"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "A fast-food chain like McDonald's has strict standards for making a burger, including a time limit of ________ minutes.",
+      "options": [
+        "3",
+        "5",
+        "10",
+        "15"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "If employees fail to meet standards, the supervisor must take ________ action.",
+      "options": [
+        "preventive",
+        "corrective",
+        "proactive",
+        "reactive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "The control process involves setting ________ that employees must follow.",
+      "options": [
+        "policies",
+        "standards",
+        "procedures",
+        "guidelines"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "A car manufacturing company may set a standard that a worker must assemble ________ car engines per day.",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "15"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "The next step in the control process is to ________ actual performance against set standards.",
+      "options": [
+        "measure",
+        "compare",
+        "correct",
+        "ignore"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "A supervisor in a call center checks how many calls each agent attends in a day to ________ performance.",
+      "options": [
+        "measure",
+        "compare",
+        "correct",
+        "ignore"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "After measuring performance, managers ________ the results with the set standards.",
+      "options": [
+        "compare",
+        "measure",
+        "correct",
+        "ignore"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "If actual performance is below the standard, managers take ________ action.",
+      "options": [
+        "preventive",
+        "corrective",
+        "proactive",
+        "reactive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "If a worker assembles only 7 car engines instead of 10, the supervisor may provide ________ or add more workers.",
+      "options": [
+        "training",
+        "equipment",
+        "staff",
+        "resources"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Controlling ensures that organizational resources are used ________ and efficiently.",
+      "options": [
+        "ineffectively",
+        "effectively",
+        "inefficiently",
+        "efficiently"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "The control process measures the deviation of actual performance from the ________ performance.",
+      "options": [
+        "standard",
+        "expected",
+        "planned",
+        "desired"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Controlling helps in identifying the causes of deviations and taking ________ actions.",
+      "options": [
+        "preventive",
+        "corrective",
+        "proactive",
+        "reactive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Effective controlling creates an orderly and ________ atmosphere in the workplace.",
+      "options": [
+        "disciplined",
+        "relaxed",
+        "chaotic",
+        "unstructured"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "Controlling ensures that all departments are monitored according to ________ standards.",
+      "options": [
+        "predetermined",
+        "predefined",
+        "pre-established",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 22,
+      "question": "Controlling is a function that helps managers identify areas of ________ and celebrate successes.",
+      "options": [
+        "improvement",
+        "failure",
+        "success",
+        "growth"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "The primary goal of controlling is to ensure that organizational goals are achieved by guiding the team towards ________.",
+      "options": [
+        "objectives",
+        "goals",
+        "targets",
+        "standards"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "Controlling involves setting processes to guide the team towards ________ and monitoring performance.",
+      "options": [
+        "goals",
+        "objectives",
+        "targets",
+        "standards"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "The control process is highly intertwined with the ________ phase of management.",
+      "options": [
+        "planning",
+        "organizing",
+        "staffing",
+        "directing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Controlling is a systematic exercise that involves checking actual performance against ________ standards or plans.",
+      "options": [
+        "pre-determined",
+        "pre-defined",
+        "pre-established",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 27,
+      "question": "Controlling is a pervasive function because it is performed by managers at all ________ of the organization.",
+      "options": [
+        "levels",
+        "departments",
+        "teams",
+        "divisions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Controlling is a dynamic process that requires taking ________ methods and making changes as needed.",
+      "options": [
+        "preventive",
+        "corrective",
+        "proactive",
+        "revival"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 29,
+      "question": "Controlling is related to ________ because both functions are inseparable in management.",
+      "options": [
+        "planning",
+        "organizing",
+        "staffing",
+        "directing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "The steps in the controlling function include establishing ________, measuring performance, comparing actual with standard performance, and taking remedial measures.",
+      "options": [
+        "standards",
+        "policies",
+        "procedures",
+        "guidelines"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "In a mobile phone manufacturing company, the design team creates the phone model, while the production team ________ the phone.",
+      "options": [
+        "designs",
+        "assembles",
+        "markets",
+        "sells"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 32,
+      "question": "The quality control team checks if the phone meets ________ standards.",
+      "options": [
+        "quality",
+        "production",
+        "sales",
+        "customer service"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "If defects are found, the quality control team informs the ________ team to fix them.",
+      "options": [
+        "design",
+        "production",
+        "sales",
+        "customer service"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "Companies set standards to maintain ________ and efficiency in delivering products or services.",
+      "options": [
+        "quality",
+        "quantity",
+        "cost",
+        "time"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "A fast-food chain like McDonald's has strict standards for making a burger within a time limit of ________ minutes.",
+      "options": [
+        "3",
+        "5",
+        "10",
+        "15"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "If employees fail to meet standards, the supervisor must take ________ action to correct the issue.",
+      "options": [
+        "preventive",
+        "corrective",
+        "proactive",
+        "reactive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "The control process involves setting ________ that employees must follow to ensure quality and efficiency.",
+      "options": [
+        "policies",
+        "standards",
+        "procedures",
+        "guidelines"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "A car manufacturing company may set a standard that a worker must assemble ________ car engines per day to meet production targets.",
+      "options": [
+        "5",
+        "7",
+        "10",
+        "15"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 39,
+      "question": "The next step in the control process is to ________ actual performance against set standards to identify deviations.",
+      "options": [
+        "measure",
+        "compare",
+        "correct",
+        "ignore"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "A supervisor in a call center checks how many calls each agent attends in a day to ________ performance and identify areas for improvement.",
+      "options": [
+        "measure",
+        "compare",
+        "correct",
+        "ignore"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "After measuring performance, managers ________ the results with the set standards to determine if corrective action is needed.",
+      "options": [
+        "compare",
+        "measure",
+        "correct",
+        "ignore"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "If actual performance is below the standard, managers take ________ action to address the deviation.",
+      "options": [
+        "preventive",
+        "corrective",
+        "proactive",
+        "reactive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "If a worker assembles only 7 car engines instead of 10, the supervisor may provide ________ or add more resources.",
+      "options": [
+        "training",
+        "equipment",
+        "staff",
+        "resources"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "Controlling ensures that organizational resources are used ________ to achieve planned goals.",
+      "options": [
+        "ineffectively",
+        "effectively",
+        "inefficiently",
+        "efficiently"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "The control process measures the deviation of actual performance from the ________ performance to identify areas for improvement.",
+      "options": [
+        "standard",
+        "expected",
+        "planned",
+        "desired"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Controlling helps in identifying the causes of deviations and taking ________ actions to correct them.",
+      "options": [
+        "preventive",
+        "corrective",
+        "proactive",
+        "reactive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "Effective controlling creates an orderly and ________ atmosphere in the workplace by ensuring adherence to standards.",
+      "options": [
+        "disciplined",
+        "relaxed",
+        "chaotic",
+        "unstructured"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "Controlling ensures that all departments are monitored according to ________ standards to maintain consistency.",
+      "options": [
+        "predetermined",
+        "predefined",
+        "pre-established",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 49,
+      "question": "Controlling is a function that helps managers identify areas of ________ and celebrate successes to improve overall performance.",
+      "options": [
+        "improvement",
+        "failure",
+        "success",
+        "growth"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "The primary goal of controlling is to ensure that organizational ________ are achieved by guiding the team towards objectives.",
+      "options": [
+        "objectives",
+        "goals",
+        "targets",
+        "standards"
+      ],
+      "answer": 2
+    }
+]
+  

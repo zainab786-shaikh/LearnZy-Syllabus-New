@@ -1,0 +1,201 @@
+[
+    {
+      "id": 1,
+      "question": "What is a Python script?",
+      "options": [
+        "A file containing Python code",
+        "A type of programming language",
+        "An interactive shell command",
+        "A web-based Python tool"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which extension is used to save a Python script?",
+      "options": [
+        ".txt",
+        ".exe",
+        ".py",
+        ".java"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT a way to run a Python script?",
+      "options": [
+        "Using Python IDLE",
+        "Running from a text file",
+        "Using an online compiler",
+        "Executing from the command line"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "What is the output of print(\"Welcome to Python!\")?",
+      "options": [
+        "Welcome to Python!",
+        "print(Welcome to Python!)",
+        "Welcome to Python",
+        "Error"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which function is used to display output in Python?",
+      "options": [
+        "echo()",
+        "printf()",
+        "print()",
+        "display()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is NOT a valid numeric data type in Python?",
+      "options": [
+        "Integer",
+        "Float",
+        "Double",
+        "Complex"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "What is the data type of 3.14 in Python?",
+      "options": [
+        "int",
+        "float",
+        "complex",
+        "double"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which data type is used to store a sequence of characters?",
+      "options": [
+        "int",
+        "float",
+        "str",
+        "tuple"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "What will be the output of print(type(10))?",
+      "options": [
+        "<class 'int'>",
+        "<class 'float'>",
+        "<class 'str'>",
+        "<class 'tuple'>"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is NOT a valid way to create a string in Python?",
+      "options": [
+        "'Hello'",
+        "\"Hello\"",
+        "'''Hello'''",
+        "Hello"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 11,
+      "question": "How do you access the first character of a string stored in variable 'name'?",
+      "options": [
+        "name[0]",
+        "name(0)",
+        "name{0}",
+        "name<0>"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Which of the following data types is immutable?",
+      "options": [
+        "List",
+        "Tuple",
+        "Dictionary",
+        "Set"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "How do you create a list in Python?",
+      "options": [
+        "[1, 2, 3]",
+        "(1, 2, 3)",
+        "{1, 2, 3}",
+        "1, 2, 3"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which method is used to add an element to a list?",
+      "options": [
+        "insert()",
+        "append()",
+        "add()",
+        "update()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "What is the correct way to create a dictionary?",
+      "options": [
+        "{ 'name': 'Alice', 'age': 25 }",
+        "[ 'name': 'Alice', 'age': 25 ]",
+        "( 'name': 'Alice', 'age': 25 )",
+        "{ 'name'; 'Alice', 'age'; 25 }"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Which method is used to remove a key-value pair from a dictionary?",
+      "options": [
+        "remove()",
+        "pop()",
+        "delete()",
+        "discard()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "What is the primary characteristic of a set in Python?",
+      "options": [
+        "It allows duplicate values",
+        "It is unordered and contains unique values",
+        "It maintains insertion order",
+        "It allows indexing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Which symbol is used to perform the union operation on sets?",
+      "options": [
+        "&",
+        "|",
+        "-",
+        "^"
+      ],
+      "answer": 2
+    }
+]
+  

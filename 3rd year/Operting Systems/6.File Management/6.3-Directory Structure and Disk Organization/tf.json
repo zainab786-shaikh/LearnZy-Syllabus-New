@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "A single-level directory allows multiple users to have their own separate directories.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "In a two-level directory structure, each user has their own directory and cannot access other users' directories by default.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "A tree-structured directory allows the creation of subdirectories inside directories.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "One disadvantage of a tree-structured directory is that file searching may take longer.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "In a single-level directory, there is no possibility of filename conflicts.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "In a two-level directory, all users share a common directory where they store their files.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "The root directory in a tree-structured directory is the topmost directory that contains all other directories.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "In a disk, tracks are divided into sectors that store data.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "A hard disk consists of a single platter used for data storage.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "The read/write head in a disk is responsible for reading and writing data on the platters.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "Logical structure of a disk refers to how data is physically arranged on the platters.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "NTFS and EXT4 are examples of logical structures used for file systems.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "A boot block stores important startup information required for the operating system to boot.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "RAID stands for Random Access Independent Disks.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "RAID 0 provides data redundancy, ensuring data safety in case of disk failure.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "RAID 1 mirrors data across two disks, providing a backup in case of failure.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "RAID 5 uses distributed parity to store error correction data across multiple disks.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "RAID 6 offers double parity, allowing the system to recover even if two disks fail.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "RAID 2 is commonly used because of its high efficiency and reliability.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "RAID 4 uses block-level striping with a dedicated parity disk.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "RAID 3 and RAID 4 are identical in terms of data storage.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "In RAID 5, there is a dedicated parity disk.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "RAID structures improve speed, reliability, and storage capacity.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "RAID 0 is primarily used for backup purposes.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "A single-level directory is more efficient for large-scale file organization than a tree-structured directory.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "RAID 1 is the best choice when data redundancy is required.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "The superblock contains metadata about the disk and file system.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "A file control block (FCB) stores information about a file, such as size and permissions.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "In a single-level directory, files from different users are stored in separate directories.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "RAID 6 is faster than RAID 0 because of its double parity system.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "Data stored in RAID 1 is lost if one of the disks fails.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "A tree-structured directory can have multiple root directories.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "RAID structures can be used in both home and enterprise environments.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "In RAID 5, losing two disks results in complete data loss.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "The physical structure of a disk affects how quickly data can be accessed.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "RAID 0 is a good choice for gaming PCs where speed is the priority.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "In a two-level directory, a user’s files can be accessed by other users without restrictions.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "File organization is an important aspect of storage management in operating systems.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "RAID 3 is commonly used in modern computer systems.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "A two-level directory is less secure than a single-level directory.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "RAID 5 provides both speed and fault tolerance.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "Data stored in RAID 1 is lost permanently if one disk fails.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "NTFS is an example of a physical disk structure.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "Sectors are smaller subdivisions of tracks on a disk platter.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "RAID improves storage performance but does not offer redundancy.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "RAID 6 is more fault-tolerant than RAID 5.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "The logical structure of a disk is determined by the file system in use.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "In a single-level directory, file access is faster than in a tree-structured directory.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "RAID 1 requires a minimum of three disks for implementation.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "RAID technology is only used in enterprise-level storage solutions.",
+      "answer": false
+    }
+]
+  

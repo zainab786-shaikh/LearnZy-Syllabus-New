@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is a Python script?",
+      "options": [
+        "A document file containing Python notes",
+        "A file containing Python code saved with a .py extension",
+        "A shortcut to open Python",
+        "A system application to manage Python versions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What will the following Python code output?\nprint(\"Welcome to Python Programming!\")",
+      "options": [
+        "An error message",
+        "Nothing will be displayed",
+        "Welcome to Python Programming!",
+        "Python installation instructions"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT a way to run a Python script?",
+      "options": [
+        "Using Python Interactive Shell (IDLE)",
+        "Running the script from a file",
+        "Using an online compiler",
+        "Opening the script in a web browser"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "How do you run a Python script from the command prompt?",
+      "options": [
+        "Type 'python filename.py'",
+        "Double-click the file",
+        "Open it in Notepad",
+        "Email the script to Python support"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which of the following steps is required to run a Python script using IDLE?",
+      "options": [
+        "Click 'File' > 'New File', write code, save, and press F5",
+        "Write code directly in Notepad",
+        "Open Microsoft Word and save the file as .py",
+        "Restart the computer after writing code"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "What is the advantage of using an online compiler for Python?",
+      "options": [
+        "It requires Python installation on the computer",
+        "It allows running Python code without installing Python",
+        "It only supports C programming",
+        "It automatically writes code for the user"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which website provides an online Python compiler?",
+      "options": [
+        "https://www.programiz.com/python-programming/online-compiler",
+        "https://www.microsoft.com",
+        "https://www.java.com",
+        "https://www.wikipedia.org"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What will be the output of the following Python script?\nprint(\"*\" * 10)\nprint(\"WELCOME\")\nprint(\"*\" * 10)",
+      "options": [
+        "WELCOME",
+        "**********\nWELCOME\n**********",
+        "Error: Invalid syntax",
+        "Only the stars will be printed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which command is used to navigate to the Desktop in the command prompt before running a script?",
+      "options": [
+        "cd Desktop",
+        "dir Desktop",
+        "open Desktop",
+        "run Desktop"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which of the following code snippets correctly asks for user input and displays a personalized welcome message?",
+      "options": [
+        "print(\"Enter your name: \")\nname\nprint(\"Welcome, \" + name + \"!\")",
+        "name = input(\"Enter your name: \")\nprint(\"Welcome, \" + name + \"!\")",
+        "input(\"Enter your name: \")\nprint(\"Welcome!\")",
+        "name = input()\nprint(\"Welcome!\")"
+      ],
+      "answer": 2
+    }
+]
+  

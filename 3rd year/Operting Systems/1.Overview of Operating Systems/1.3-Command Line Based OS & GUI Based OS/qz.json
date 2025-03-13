@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "What is an Operating System (OS)?",
+      "options": [
+        "A hardware component",
+        "A type of software that manages hardware and software resources",
+        "A programming language",
+        "A database management system"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT an example of an Operating System?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Microsoft Office",
+        "Linux"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What is the core component of an Operating System?",
+      "options": [
+        "Kernel",
+        "Desktop",
+        "Task Manager",
+        "File Explorer"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which component of an OS is responsible for managing memory allocation?",
+      "options": [
+        "Process Manager",
+        "Memory Manager",
+        "Device Manager",
+        "File System Manager"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which OS operation ensures that multiple programs run without interfering with each other?",
+      "options": [
+        "Security Management",
+        "Resource Management",
+        "File System Management",
+        "User Interface Management"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which of the following OS types is best for real-time applications like medical devices?",
+      "options": [
+        "Batch OS",
+        "Multi-Programmed OS",
+        "Time-Shared OS",
+        "Real-Time OS"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "Which OS is primarily used for smartphones and tablets?",
+      "options": [
+        "DOS",
+        "macOS",
+        "Android",
+        "UNIX"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "What is the primary function of a Batch Operating System?",
+      "options": [
+        "To allow multiple users to work simultaneously",
+        "To process a group of jobs automatically without user interaction",
+        "To provide real-time responses for critical tasks",
+        "To allow distributed computing over a network"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which type of OS is designed to support multiple processors for improved performance?",
+      "options": [
+        "Distributed OS",
+        "Multiprocessor OS",
+        "Batch OS",
+        "Time-Shared OS"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which command in DOS is used to list all files in a directory?",
+      "options": [
+        "ls",
+        "dir",
+        "pwd",
+        "cd"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Which OS is known for its strong security and stability, commonly used in web servers?",
+      "options": [
+        "Windows",
+        "macOS",
+        "Linux",
+        "DOS"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Which GUI-based OS was developed by Microsoft?",
+      "options": [
+        "Windows",
+        "Linux",
+        "UNIX",
+        "Android"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which CLI-based OS was one of the earliest used in personal computers?",
+      "options": [
+        "Windows",
+        "DOS",
+        "macOS",
+        "iOS"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which Linux command is used to display the current directory?",
+      "options": [
+        "dir",
+        "pwd",
+        "cd",
+        "ls"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Which OS is commonly used in mobile devices manufactured by Apple?",
+      "options": [
+        "Android",
+        "Windows",
+        "iOS",
+        "Linux"
+      ],
+      "answer": 3
+    }
+]
+  

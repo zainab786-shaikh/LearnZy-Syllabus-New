@@ -1,0 +1,183 @@
+<div>
+    <h2>4.2 User-Defined Functions in Python</h2>
+    <p>A function in Python is a block of reusable code that performs a specific task. Instead of writing the same code multiple times, you can create a function and call it whenever needed.</p>
+    <p>Python provides many built-in functions like <code>print()</code>, <code>len()</code>, and <code>max()</code>, but you can also define your own functions. These are called user-defined functions.</p>
+  
+    <h3>1. Function Definition</h3>
+    <p>A function must be defined before using it.</p>
+    <pre>
+      <code>
+        def function_name(parameters):
+            # Function body (code inside function)
+            return value  # (Optional)
+      </code>
+    </pre>
+    <ul>
+      <li><code>def</code> → Keyword to define a function</li>
+      <li><code>function_name</code> → Name of the function</li>
+      <li><code>parameters</code> → Values passed to the function (optional)</li>
+      <li><code>return</code> → Sends a value back to the caller (optional)</li>
+    </ul>
+  
+    <h3>Example of Function Definition:</h3>
+    <pre>
+      <code>
+        def greet():
+            print("Hello! Welcome to Python.")
+        greet()  # Calling the function
+      </code>
+    </pre>
+  
+    <h3>2. Function Calling</h3>
+    <p>Once a function is defined, it needs to be called to execute.</p>
+    <pre>
+      <code>
+        def add_numbers():
+            a = 5
+            b = 10
+            print("Sum:", a + b)
+        add_numbers()
+      </code>
+    </pre>
+  
+    <h3>3. Function Arguments and Parameter Passing</h3>
+    <p><strong>What are Parameters and Arguments?</strong></p>
+    <ul>
+      <li><strong>Parameter:</strong> A variable listed in the function definition</li>
+      <li><strong>Argument:</strong> A value passed when calling a function</li>
+    </ul>
+  
+    <h3>Example of Function with Parameters:</h3>
+    <pre>
+      <code>
+        def greet(name):
+            print("Hello,", name)
+        greet("Alice")
+        greet("Bob")
+      </code>
+    </pre>
+  
+    <h3>Example of Default Arguments:</h3>
+    <pre>
+      <code>
+        def greet(name="Guest"):
+            print("Hello,", name)
+        greet()
+        greet("Alice")
+      </code>
+    </pre>
+  
+    <h3>Example of Keyword Arguments:</h3>
+    <pre>
+      <code>
+        def student_info(name, age):
+            print("Name:", name)
+            print("Age:", age)
+        student_info(age=20, name="John")
+      </code>
+    </pre>
+  
+    <h3>Example of Variable-Length Arguments:</h3>
+    <pre>
+      <code>
+        def add_numbers(*numbers):
+            total = sum(numbers)
+            print("Sum:", total)
+        add_numbers(5, 10, 15)
+        add_numbers(1, 2, 3, 4, 5)
+      </code>
+    </pre>
+  
+    <h3>4. Return Statement</h3>
+    <p>A function can return a value using the <code>return</code> statement.</p>
+    <pre>
+      <code>
+        def square(num):
+            return num * num
+        result = square(4)
+        print("Square of 4:", result)
+      </code>
+    </pre>
+  
+    <h3>5. Scope of Variables</h3>
+    <h4>Local Variables (Defined Inside a Function)</h4>
+    <pre>
+      <code>
+        def show_message():
+            message = "Hello, Local Variable!"
+            print(message)
+        show_message()
+      </code>
+    </pre>
+  
+    <h4>Global Variables (Defined Outside a Function)</h4>
+    <pre>
+      <code>
+        message = "Hello, Global Variable!"
+        def show_message():
+            print(message)
+        show_message()
+        print(message)
+      </code>
+    </pre>
+  
+    <h4>Modifying Global Variables Inside a Function</h4>
+    <pre>
+      <code>
+        count = 10
+        def update_count():
+            global count
+            count += 5
+        update_count()
+        print("Updated count:", count)
+      </code>
+    </pre>
+  
+    <h3>Summary</h3>
+    <table border="1">
+      <tr>
+        <th>Feature</th>
+        <th>Description</th>
+        <th>Example</th>
+      </tr>
+      <tr>
+        <td>Function Definition</td>
+        <td>Defines a function using def</td>
+        <td><code>def greet(): print("Hello")</code></td>
+      </tr>
+      <tr>
+        <td>Function Calling</td>
+        <td>Calls a function to execute its code</td>
+        <td><code>greet()</code></td>
+      </tr>
+      <tr>
+        <td>Arguments & Parameters</td>
+        <td>Passes values to a function</td>
+        <td><code>greet("Alice")</code></td>
+      </tr>
+      <tr>
+        <td>Return Statement</td>
+        <td>Returns a value from a function</td>
+        <td><code>return a + b</code></td>
+      </tr>
+      <tr>
+        <td>Local Variable</td>
+        <td>Exists only inside a function</td>
+        <td><code>message = "Hello" (inside function)</code></td>
+      </tr>
+      <tr>
+        <td>Global Variable</td>
+        <td>Exists everywhere in the program</td>
+        <td><code>message = "Global" (outside function)</code></td>
+      </tr>
+    </table>
+  
+    <h3>Conclusion</h3>
+    <ul>
+      <li>Functions make programs organized, reusable, and efficient.</li>
+      <li>Local variables are used inside functions.</li>
+      <li>Global variables can be used throughout the program.</li>
+      <li>Arguments allow functions to accept input values.</li>
+      <li>The <code>return</code> statement allows functions to send results back.</li>
+    </ul>
+</div>

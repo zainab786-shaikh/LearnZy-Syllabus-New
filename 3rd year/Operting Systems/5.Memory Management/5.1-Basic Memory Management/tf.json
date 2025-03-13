@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that fixed partitioning divides memory into fixed-sized blocks before running any program.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that in fixed partitioning, programs can be loaded into partitions of any size, based on their needs.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that variable partitioning eliminates internal fragmentation but may cause external fragmentation.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that in variable partitioning, memory partitions are of fixed size, regardless of program size.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that the bitmap method uses a sequence of bits to track free and occupied memory blocks.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that the bitmap method is the fastest way to allocate free memory due to its simplicity.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that the linked list method uses pointers to link free memory blocks together in a free list.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that the linked list method requires no additional memory for storing pointers.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that fixed partitioning leads to internal fragmentation when a program is smaller than the allocated partition.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that variable partitioning causes no fragmentation, as it can result in external fragmentation over time.",
+      "answer": true
+    }
+]
+  

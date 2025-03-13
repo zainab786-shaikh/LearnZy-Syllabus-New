@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Planning involves thinking in advance about what needs to be done, how it will be done, and in what ________.",
+      "options": [
+        "order",
+        "sequence",
+        "schedule",
+        "timeline"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 2,
+      "question": "The first step in planning is to identify the ________.",
+      "options": [
+        "goal",
+        "objective",
+        "target",
+        "mission"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "After defining the goal, the next step is to gather ________.",
+      "options": [
+        "requirements",
+        "resources",
+        "tools",
+        "people"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Once you know what you need, divide the task into smaller, manageable ________.",
+      "options": [
+        "steps",
+        "tasks",
+        "activities",
+        "actions"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "It is important to assign responsibilities to avoid ________.",
+      "options": [
+        "confusion",
+        "delays",
+        "mistakes",
+        "inefficiency"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Setting a timeline helps in keeping track of ________.",
+      "options": [
+        "progress",
+        "deadlines",
+        "milestones",
+        "objectives"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "After planning, it is important to follow the steps properly during the ________ phase.",
+      "options": [
+        "execution",
+        "implementation",
+        "development",
+        "launch"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Sometimes things don’t go as planned. It’s important to check progress regularly and make ________.",
+      "options": [
+        "adjustments",
+        "changes",
+        "corrections",
+        "modifications"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "After completing the task, review the whole process to learn from ________.",
+      "options": [
+        "mistakes",
+        "errors",
+        "failures",
+        "shortcomings"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Planning helps in organizing work ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "productively"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Dividing tasks into smaller steps makes execution ________.",
+      "options": [
+        "easier",
+        "faster",
+        "smoother",
+        "more efficient"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 12,
+      "question": "Assigning responsibilities avoids ________.",
+      "options": [
+        "confusion",
+        "delays",
+        "mistakes",
+        "inefficiency"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 13,
+      "question": "Setting deadlines ensures ________ completion.",
+      "options": [
+        "timely",
+        "efficient",
+        "effective",
+        "successful"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Following the plan and monitoring progress leads to ________.",
+      "options": [
+        "success",
+        "efficiency",
+        "productivity",
+        "effectiveness"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 15,
+      "question": "Planning is essential in all areas of life—be it personal tasks, business projects, or software ________.",
+      "options": [
+        "development",
+        "implementation",
+        "launch",
+        "management"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "Planning involves thinking in advance about what needs to be done, how it will be done, and in what ________.",
+      "options": [
+        "order",
+        "sequence",
+        "schedule",
+        "timeline"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "The first step in planning is to identify the ________.",
+      "options": [
+        "goal",
+        "objective",
+        "target",
+        "mission"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 18,
+      "question": "After defining the goal, the next step is to gather ________.",
+      "options": [
+        "requirements",
+        "resources",
+        "tools",
+        "people"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "Once you know what you need, divide the task into smaller, manageable ________.",
+      "options": [
+        "steps",
+        "tasks",
+        "activities",
+        "actions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "It is important to assign responsibilities to avoid ________.",
+      "options": [
+        "confusion",
+        "delays",
+        "mistakes",
+        "inefficiency"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "Setting a timeline helps in keeping track of ________.",
+      "options": [
+        "progress",
+        "deadlines",
+        "milestones",
+        "objectives"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 22,
+      "question": "After planning, it is important to follow the steps properly during the ________ phase.",
+      "options": [
+        "execution",
+        "implementation",
+        "development",
+        "launch"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 23,
+      "question": "Sometimes things don’t go as planned. It’s important to check progress regularly and make ________.",
+      "options": [
+        "adjustments",
+        "changes",
+        "corrections",
+        "modifications"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "After completing the task, review the whole process to learn from ________.",
+      "options": [
+        "mistakes",
+        "errors",
+        "failures",
+        "shortcomings"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 25,
+      "question": "Planning helps in organizing work ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "productively"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "Dividing tasks into smaller steps makes execution ________.",
+      "options": [
+        "easier",
+        "faster",
+        "smoother",
+        "more efficient"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 27,
+      "question": "Assigning responsibilities avoids ________.",
+      "options": [
+        "confusion",
+        "delays",
+        "mistakes",
+        "inefficiency"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Setting deadlines ensures ________ completion.",
+      "options": [
+        "timely",
+        "efficient",
+        "effective",
+        "successful"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 29,
+      "question": "Following the plan and monitoring progress leads to ________.",
+      "options": [
+        "success",
+        "efficiency",
+        "productivity",
+        "effectiveness"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question": "Planning is essential in all areas of life—be it personal tasks, business projects, or software ________.",
+      "options": [
+        "development",
+        "implementation",
+        "launch",
+        "management"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "Planning involves thinking in advance about what needs to be done, how it will be done, and in what ________.",
+      "options": [
+        "order",
+        "sequence",
+        "schedule",
+        "timeline"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 32,
+      "question": "The first step in planning is to identify the ________.",
+      "options": [
+        "goal",
+        "objective",
+        "target",
+        "mission"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "After defining the goal, the next step is to gather ________.",
+      "options": [
+        "requirements",
+        "resources",
+        "tools",
+        "people"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 34,
+      "question": "Once you know what you need, divide the task into smaller, manageable ________.",
+      "options": [
+        "steps",
+        "tasks",
+        "activities",
+        "actions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "It is important to assign responsibilities to avoid ________.",
+      "options": [
+        "confusion",
+        "delays",
+        "mistakes",
+        "inefficiency"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "Setting a timeline helps in keeping track of ________.",
+      "options": [
+        "progress",
+        "deadlines",
+        "milestones",
+        "objectives"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "After planning, it is important to follow the steps properly during the ________ phase.",
+      "options": [
+        "execution",
+        "implementation",
+        "development",
+        "launch"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 38,
+      "question": "Sometimes things don’t go as planned. It’s important to check progress regularly and make ________.",
+      "options": [
+        "adjustments",
+        "changes",
+        "corrections",
+        "modifications"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 39,
+      "question": "After completing the task, review the whole process to learn from ________.",
+      "options": [
+        "mistakes",
+        "errors",
+        "failures",
+        "shortcomings"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 40,
+      "question": "Planning helps in organizing work ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "productively"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 41,
+      "question": "Dividing tasks into smaller steps makes execution ________.",
+      "options": [
+        "easier",
+        "faster",
+        "smoother",
+        "more efficient"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "Assigning responsibilities avoids ________.",
+      "options": [
+        "confusion",
+        "delays",
+        "mistakes",
+        "inefficiency"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "Setting deadlines ensures ________ completion.",
+      "options": [
+        "timely",
+        "efficient",
+        "effective",
+        "successful"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "Following the plan and monitoring progress leads to ________.",
+      "options": [
+        "success",
+        "efficiency",
+        "productivity",
+        "effectiveness"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "Planning is essential in all areas of life—be it personal tasks, business projects, or software ________.",
+      "options": [
+        "development",
+        "implementation",
+        "launch",
+        "management"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Planning involves thinking in advance about what needs to be done, how it will be done, and in what ________.",
+      "options": [
+        "order",
+        "sequence",
+        "schedule",
+        "timeline"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 47,
+      "question": "The first step in planning is to identify the ________.",
+      "options": [
+        "goal",
+        "objective",
+        "target",
+        "mission"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 48,
+      "question": "After defining the goal, the next step is to gather ________.",
+      "options": [
+        "requirements",
+        "resources",
+        "tools",
+        "people"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Once you know what you need, divide the task into smaller, manageable ________.",
+      "options": [
+        "steps",
+        "tasks",
+        "activities",
+        "actions"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 50,
+      "question": "It is important to assign responsibilities to avoid ________.",
+      "options": [
+        "confusion",
+        "delays",
+        "mistakes",
+        "inefficiency"
+      ],
+      "answer": 4
+    }
+]
+  

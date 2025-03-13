@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "Natural resources are materials obtained from nature that help humans survive and develop.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Renewable resources cannot be naturally replaced over time.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Non-renewable resources take millions of years to form and can be exhausted if overused.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Forests do not contribute to oxygen production.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "The Amazon Rainforest is the largest tropical rainforest in the world.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Deforestation is a process that increases the number of trees in a forest.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Water covers about 71% of the Earth's surface.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "All the water on Earth is drinkable and can be consumed directly.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "Rivers, lakes, and groundwater are major sources of freshwater.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "Hydropower is generated using coal as the primary source of energy.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "Solar energy is an example of a renewable energy resource.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "Wind energy is produced by burning fossil fuels.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "Petroleum is a renewable source of energy.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "Land is an essential natural resource used for agriculture, housing, and industries.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Soil erosion is beneficial for agriculture and helps plants grow faster.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "Gold and silver are classified as mineral resources.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "Bauxite is used to manufacture aluminum.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "Coal and petroleum are the primary sources of renewable energy.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "Iron is commonly used in construction and manufacturing.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "Excessive mining can lead to deforestation and land degradation.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "Deforestation helps prevent soil erosion and maintains land fertility.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "Recycling can help conserve natural resources and reduce waste.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "The Sundarbans forest is well-known for its mangrove trees and Royal Bengal Tigers.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "The Black Forest in Germany is named because of its dark soil and desert-like conditions.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "Water pollution is mainly caused by dumping chemicals and waste into water bodies.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "Urbanization has no impact on land resources.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "Excessive use of fertilizers in farming can lead to soil degradation.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "Renewable resources such as solar and wind energy can never run out.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "Geothermal energy is generated from the heat inside the Earth's surface.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "Land pollution occurs when excessive waste and chemicals accumulate on land.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "Groundwater is the water that is found deep under the Earth's surface.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "Mining activities have no impact on the environment.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "Fossil fuels are an unlimited source of energy and will never run out.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "Agricultural land is mainly used for farming and growing crops.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "Planting more trees can help reduce the effects of deforestation.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "Plastic waste is biodegradable and does not harm the environment.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "Climate change is caused by excessive use of fossil fuels and pollution.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "Oceans and seas contain the majority of Earth's freshwater supply.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "Using energy-efficient appliances can help conserve energy resources.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "Reusing and recycling materials can help reduce environmental pollution.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "Iron ore is commonly found in Jharkhand and Odisha in India.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "Forest fires can occur naturally or due to human activities.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "Overuse of groundwater can lead to water scarcity and depletion.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "Hydropower plants generate electricity using sunlight.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "Reforestation involves planting trees in areas where forests have been destroyed.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "The Three Gorges Dam in China is a major producer of wind energy.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "Urbanization often leads to loss of agricultural land and deforestation.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "Soil pollution is caused by excessive use of chemicals, fertilizers, and pesticides.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "Climate change has no effect on natural resources.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "The conservation of natural resources is important for sustainable development.",
+      "answer": true
+    }
+  ]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "________ is the OS tool used to create, modify, and delete user accounts.",
+      "options": [
+        "User Management",
+        "Security Policy",
+        "Task Scheduler",
+        "Performance Monitor"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "The tool responsible for protecting the system from unauthorized access is called ________.",
+      "options": [
+        "Device Management",
+        "Security Policy",
+        "Performance Monitor",
+        "Task Scheduler"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "To check CPU and memory usage in real time, we use ________.",
+      "options": [
+        "User Management",
+        "Security Policy",
+        "Performance Monitor",
+        "Task Scheduler"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "The OS tool that automates tasks like backups and updates is called ________.",
+      "options": [
+        "User Management",
+        "Task Scheduler",
+        "Device Management",
+        "Security Policy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "The OS component that ensures devices like printers and USBs work correctly is called ________.",
+      "options": [
+        "Performance Monitor",
+        "Device Management",
+        "Security Policy",
+        "Task Scheduler"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "A teacher having an admin account while students have restricted accounts is an example of ________.",
+      "options": [
+        "Task Scheduler",
+        "User Management",
+        "Device Management",
+        "Performance Monitor"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "A security policy enforcing strong passwords ensures ________.",
+      "options": [
+        "Easier login access",
+        "Protection against unauthorized users",
+        "Faster performance",
+        "Automatic updates"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "The command used in Linux to create a new user is ________.",
+      "options": [
+        "adduser",
+        "deluser",
+        "userconfig",
+        "newuser"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "To find out which application is using the most RAM, you would use ________.",
+      "options": [
+        "Device Management",
+        "Task Scheduler",
+        "Performance Monitor",
+        "Security Policy"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "In Windows, the tool used to schedule tasks like backups is called ________.",
+      "options": [
+        "Task Scheduler",
+        "Performance Monitor",
+        "User Management",
+        "Security Policy"
+      ],
+      "answer": 1
+    }
+]
+  

@@ -1,0 +1,100 @@
+<div>
+    <h2>3.3 Sets in Python</h2>
+    <p>A set in Python is an unordered collection of unique items. This means that no element can appear more than once, and the items do not have a specific order. Sets are commonly used when you need to store unique values and perform mathematical set operations like union, intersection, and difference.</p>
+    <h3>a) Accessing Values in a Set, Deleting Values, and Updating Sets</h3>
+    <h4>Creating a Set</h4>
+    <pre>
+      <code>
+        # Creating a set
+        my_set = {1, 2, 3, 4, 5}
+        print(my_set)  # Output: {1, 2, 3, 4, 5}
+  
+        # Using set() function
+        another_set = set([10, 20, 30])
+        print(another_set)  # Output: {10, 20, 30}
+      </code>
+    </pre>
+    <h4>Accessing Values in a Set</h4>
+    <pre>
+      <code>
+        my_set = {"apple", "banana", "cherry"}
+        for item in my_set:
+            print(item)
+      </code>
+    </pre>
+    <h4>Adding Items to a Set</h4>
+    <pre>
+      <code>
+        fruits = {"apple", "banana"}
+        fruits.add("cherry")
+        fruits.update(["orange", "grape"])
+      </code>
+    </pre>
+    <h4>Deleting Values from a Set</h4>
+    <pre>
+      <code>
+        my_set = {10, 20, 30, 40, 50}
+        my_set.remove(20)
+        my_set.discard(100)
+        popped_item = my_set.pop()
+        my_set.clear()
+        del my_set
+      </code>
+    </pre>
+    <h3>b) Basic Set Operations</h3>
+    <h4>Union</h4>
+    <pre>
+      <code>
+        set_a = {1, 2, 3}
+        set_b = {3, 4, 5}
+        print(set_a | set_b)  # Output: {1, 2, 3, 4, 5}
+      </code>
+    </pre>
+    <h4>Intersection</h4>
+    <pre>
+      <code>
+        print(set_a & set_b)  # Output: {3}
+      </code>
+    </pre>
+    <h4>Difference</h4>
+    <pre>
+      <code>
+        print(set_a - set_b)  # Output: {1, 2}
+      </code>
+    </pre>
+    <h4>Symmetric Difference</h4>
+    <pre>
+      <code>
+        print(set_a ^ set_b)  # Output: {1, 2, 4, 5}
+      </code>
+    </pre>
+    <h3>c) Built-in Set Functions</h3>
+    <h4>len(), max(), min(), sum()</h4>
+    <pre>
+      <code>
+        numbers = {10, 25, 35, 5, 15}
+        print(len(numbers))
+        print(max(numbers))
+        print(min(numbers))
+        print(sum(numbers))
+      </code>
+    </pre>
+    <h4>sorted(), any(), all()</h4>
+    <pre>
+      <code>
+        my_set = {3, 1, 4, 5, 2}
+        print(sorted(my_set))  # Output: [1, 2, 3, 4, 5]
+      </code>
+    </pre>
+    <h4>copy()</h4>
+    <pre>
+      <code>
+        original_set = {1, 2, 3}
+        copied_set = original_set.copy()
+        print(copied_set)  # Output: {1, 2, 3}
+      </code>
+    </pre>
+    <h3>✨ Conclusion</h3>
+    <p>Sets in Python are perfect for storing unique items, performing mathematical operations, and writing efficient code. They are easy to use, flexible, and come with many built-in functions that simplify common tasks.</p>
+</div>
+  

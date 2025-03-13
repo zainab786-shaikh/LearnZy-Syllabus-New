@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "A system call is a way for a program to request a ________ from the operating system.",
+      "options": ["service", "command", "process", "file"],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "System calls act as a ________ between the user and the operating system.",
+      "options": ["barrier", "bridge", "block", "wall"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "The ________ system call is used to create a new process.",
+      "options": ["exec()", "fork()", "exit()", "wait()"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "The exec() system call is used to ________ a new program.",
+      "options": ["stop", "run", "delete", "pause"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "The exit() system call is used to ________ a process.",
+      "options": ["start", "pause", "stop", "restart"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "The ________ system call makes a process wait for another to finish.",
+      "options": ["exec()", "fork()", "exit()", "wait()"],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "File management system calls help in ________ files.",
+      "options": ["creating", "reading", "writing", "all of the above"],
+      "answer": 4
+    },
+    {
+      "id": 8,
+      "question": "The open() system call is used to ________ a file.",
+      "options": ["create", "close", "open", "delete"],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "The read() system call is used to ________ data from a file.",
+      "options": ["write", "read", "delete", "rename"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "The write() system call is used to ________ data to a file.",
+      "options": ["read", "write", "delete", "copy"],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Device management system calls help in controlling ________ devices.",
+      "options": ["software", "hardware", "applications", "websites"],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "The ioctl() system call is used to ________ a device.",
+      "options": ["control", "delete", "pause", "open"],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "The getpid() system call is used to get the ________ of a process.",
+      "options": ["size", "ID", "priority", "status"],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "The alarm() system call is used to set a ________.",
+      "options": ["process", "file", "timer", "device"],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "Communication system calls help programs exchange ________.",
+      "options": ["files", "commands", "data", "users"],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "The send() system call is used to ________ messages.",
+      "options": ["receive", "send", "delete", "store"],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "The recv() system call is used to ________ messages.",
+      "options": ["send", "receive", "delete", "modify"],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "The connect() system call is used to establish a ________.",
+      "options": ["file", "network connection", "process", "device"],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "System calls allow programs to interact with the ________.",
+      "options": ["user", "operating system", "database", "browser"],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Without system calls, it would be difficult for programs to perform ________ operations.",
+      "options": ["low-level", "high-level", "basic", "logical"],
+      "answer": 1
+    }
+]
+  

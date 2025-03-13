@@ -1,0 +1,125 @@
+<div>
+    <h1>6.2 Access Methods & File Allocation Methods</h1>
+    
+    <h2>Access Methods</h2>
+    <p>Access methods define how data is read from or written to a storage device like a hard disk, SSD, or even a USB drive. The main types of access methods are:</p>
+    
+    <h3>1. Sequential Access</h3>
+    <p>In sequential access, data is read or written in a specific order, one after another, just like a tape recorder.</p>
+    <p><strong>Example:</strong> Imagine you have a music playlist on an old cassette tape. If you want to listen to song number 5, you cannot directly jump to it. You have to play (or fast-forward) through songs 1, 2, 3, and 4 first.</p>
+    <p><strong>Real-World Example:</strong></p>
+    <ul>
+      <li>Magnetic tapes used for backups work with sequential access.</li>
+      <li>Movie streaming: When you watch a movie online, the video plays from start to end in sequence.</li>
+    </ul>
+    
+    <h3>2. Direct Access (Random Access)</h3>
+    <p>Direct access allows you to jump directly to the required data without reading everything before it.</p>
+    <p><strong>Example:</strong> Imagine a book where each chapter has a bookmark. If you need to read Chapter 5, you directly flip to that page instead of reading from Chapter 1.</p>
+    <p><strong>Real-World Example:</strong></p>
+    <ul>
+      <li>Hard drives (HDDs) and SSDs use direct access to retrieve files quickly.</li>
+      <li>USB flash drives allow you to open any file directly without going through others.</li>
+    </ul>
+    
+    <h3>3. Swapping</h3>
+    <p>Swapping is a memory management technique where processes (running programs) are moved between RAM (main memory) and disk (storage) to free up space.</p>
+    <p><strong>Example:</strong> Think of a classroom where students take turns sitting at a desk. If there aren’t enough desks, some students wait outside (in storage). When a student inside is done, another one takes their place.</p>
+    <p><strong>Real-World Example:</strong> In computers, if you open too many applications and RAM gets full, the operating system temporarily moves some inactive applications to disk storage (this is called the swap file or virtual memory).</p>
+    
+    <h2>File Allocation Methods</h2>
+    <p>File allocation methods define how files are stored on a disk. The three main types are:</p>
+    
+    <h3>1. Contiguous Allocation</h3>
+    <p>In contiguous allocation, a file is stored in one continuous block of memory.</p>
+    <p><strong>Example:</strong> Imagine books in a library arranged in consecutive shelves. If you need a book, all its pages are together, making it easy to read.</p>
+    <p><strong>Advantages:</strong></p>
+    <ul>
+      <li>Fast access speed (because data is stored in one place).</li>
+      <li>Easy to implement.</li>
+    </ul>
+    <p><strong>Disadvantages:</strong></p>
+    <ul>
+      <li>Wasted space: If a file is smaller than the allocated space, the extra space is wasted.</li>
+      <li>Fragmentation: If a large file cannot fit into a single block, it becomes hard to store.</li>
+    </ul>
+    <p><strong>Real-World Example:</strong></p>
+    <ul>
+      <li>Old floppy disks used contiguous allocation.</li>
+      <li>Some database systems store data in contiguous blocks for faster retrieval.</li>
+    </ul>
+    
+    <h3>2. Linked Allocation</h3>
+    <p>In linked allocation, a file is stored in different scattered blocks, and each block contains a pointer to the next block.</p>
+    <p><strong>Example:</strong> Think of a treasure hunt where each clue (block) leads you to the next location (next block).</p>
+    <p><strong>Advantages:</strong></p>
+    <ul>
+      <li>No fragmentation issues since blocks don’t have to be continuous.</li>
+      <li>Files can expand dynamically.</li>
+    </ul>
+    <p><strong>Disadvantages:</strong></p>
+    <ul>
+      <li>Slower access speed because the system must follow links to find data.</li>
+      <li>If a pointer is lost or damaged, the entire file can become unreadable.</li>
+    </ul>
+    <p><strong>Real-World Example:</strong></p>
+    <ul>
+      <li>USB drives use linked allocation to store fragmented files.</li>
+      <li>Operating systems like Linux and Windows sometimes use linked allocation for storing log files.</li>
+    </ul>
+    
+    <h3>3. Indexed Allocation</h3>
+    <p>In indexed allocation, a separate index table stores all the addresses of a file’s blocks.</p>
+    <p><strong>Example:</strong> Think of a recipe book’s index page where each dish’s name points to its page number. You don’t need to flip through all pages; just check the index and go to the right page.</p>
+    <p><strong>Advantages:</strong></p>
+    <ul>
+      <li>Direct access to any part of the file.</li>
+      <li>No fragmentation problem.</li>
+    </ul>
+    <p><strong>Disadvantages:</strong></p>
+    <ul>
+      <li>Requires extra space for storing the index table.</li>
+      <li>If the index table is lost, all data may become inaccessible.</li>
+    </ul>
+    <p><strong>Real-World Example:</strong></p>
+    <ul>
+      <li>Hard disks and SSDs use indexed allocation for storing operating system files.</li>
+      <li>File systems like NTFS (Windows) and ext4 (Linux) use indexed allocation for faster data retrieval.</li>
+    </ul>
+    
+    <h2>Comparison of File Allocation Methods</h2>
+    <table border="1">
+      <tr>
+        <th>Method</th>
+        <th>Storage Type</th>
+        <th>Speed</th>
+        <th>Space Efficiency</th>
+        <th>Example</th>
+      </tr>
+      <tr>
+        <td>Contiguous</td>
+        <td>Continuous blocks</td>
+        <td>Fast</td>
+        <td>Wastes space</td>
+        <td>Floppy disks, databases</td>
+      </tr>
+      <tr>
+        <td>Linked</td>
+        <td>Scattered blocks</td>
+        <td>Slow</td>
+        <td>Efficient</td>
+        <td>USB drives, log files</td>
+      </tr>
+      <tr>
+        <td>Indexed</td>
+        <td>Index table-based</td>
+        <td>Medium</td>
+        <td>Needs extra space for index</td>
+        <td>NTFS, ext4 file system</td>
+      </tr>
+    </table>
+    
+    <h2>Conclusion</h2>
+    <p>Understanding Access Methods and File Allocation Methods is crucial for managing data efficiently in storage systems.</p>
+</div>
+  

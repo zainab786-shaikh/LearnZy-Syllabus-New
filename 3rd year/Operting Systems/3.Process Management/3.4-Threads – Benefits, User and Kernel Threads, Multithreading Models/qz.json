@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is a thread in computing?",
+      "options": [
+        "A type of virus",
+        "A small unit of a process",
+        "A hardware component",
+        "A type of database"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a benefit of threads?",
+      "options": [
+        "Faster execution",
+        "More memory usage",
+        "Better CPU utilization",
+        "Quick response time"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "How do threads improve performance?",
+      "options": [
+        "By executing tasks in parallel",
+        "By blocking all processes",
+        "By using more system memory",
+        "By slowing down CPU operations"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which of the following best describes user threads?",
+      "options": [
+        "Managed by the operating system",
+        "Managed by the application",
+        "Require more resources than kernel threads",
+        "Are always slower than kernel threads"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Kernel threads are managed by?",
+      "options": [
+        "User applications",
+        "Hardware",
+        "Operating system",
+        "BIOS"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a drawback of user threads?",
+      "options": [
+        "They are slower than kernel threads",
+        "If one thread blocks, all threads stop",
+        "They cannot be used for parallel execution",
+        "They use more memory than kernel threads"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which threading model maps multiple user threads to one kernel thread?",
+      "options": [
+        "One-to-One",
+        "Many-to-One",
+        "Many-to-Many",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "In which threading model does each user thread have its own kernel thread?",
+      "options": [
+        "Many-to-One",
+        "One-to-One",
+        "Many-to-Many",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which threading model is the most efficient in utilizing system resources?",
+      "options": [
+        "Many-to-One",
+        "One-to-One",
+        "Many-to-Many",
+        "None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Which threading model suffers from the problem of one blocked thread stopping all others?",
+      "options": [
+        "Many-to-One",
+        "One-to-One",
+        "Many-to-Many",
+        "None of the above"
+      ],
+      "answer": 1
+    }
+]
+  

@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Personal counselling involves guiding employees on both work-related issues and ________ matters.",
+      "options": [
+        "financial",
+        "personal",
+        "professional",
+        "educational"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The primary goal of personal counselling is to help employees stay ________ and motivated.",
+      "options": [
+        "stressed",
+        "focused",
+        "overworked",
+        "unmotivated"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "A supervisor who offers personal counselling can help employees manage ________.",
+      "options": [
+        "workload",
+        "stress",
+        "finances",
+        "time"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Predicting mistakes in advance allows supervisors to take ________ measures.",
+      "options": [
+        "reactive",
+        "preventive",
+        "corrective",
+        "proactive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "In a bakery, rushing workers might ________ ingredients incorrectly.",
+      "options": [
+        "measure",
+        "mix",
+        "bake",
+        "store"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "A supervisor can prevent mistakes by reminding workers to ________ measurements.",
+      "options": [
+        "ignore",
+        "guess",
+        "double-check",
+        "skip"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Personal counselling helps employees deal with ________ problems that affect their performance.",
+      "options": [
+        "work-related",
+        "financial",
+        "personal",
+        "health-related"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Supervisors use personal counselling to address issues that impact an employee's ________.",
+      "options": [
+        "productivity",
+        "motivation",
+        "focus",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 9,
+      "question": "Predicting mistakes helps supervisors maintain a ________ work environment.",
+      "options": [
+        "chaotic",
+        "safe",
+        "efficient",
+        "stressful"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Flexible work options are often offered as part of personal counselling to help employees manage ________.",
+      "options": [
+        "workload",
+        "stress",
+        "personal issues",
+        "time"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "A supervisor who predicts mistakes can ________ potential problems before they occur.",
+      "options": [
+        "ignore",
+        "create",
+        "identify",
+        "solve"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Personal counselling is beneficial for employees who are frequently absent due to ________ problems.",
+      "options": [
+        "health",
+        "financial",
+        "personal",
+        "work-related"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "Supervisors use personal counselling to improve employee ________ and motivation.",
+      "options": [
+        "focus",
+        "productivity",
+        "stress levels",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 14,
+      "question": "Predicting mistakes in advance helps supervisors ________ errors before they happen.",
+      "options": [
+        "create",
+        "ignore",
+        "prevent",
+        "fix"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "Personal counselling involves understanding an employee's ________ issues.",
+      "options": [
+        "work-related",
+        "financial",
+        "personal",
+        "educational"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "A supervisor can offer ________ work arrangements as part of personal counselling.",
+      "options": [
+        "inflexible",
+        "flexible",
+        "standard",
+        "rigid"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Predicting mistakes helps supervisors maintain a ________ workflow.",
+      "options": [
+        "disorganized",
+        "smooth",
+        "inefficient",
+        "chaotic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Personal counselling helps employees manage ________ that affect their work performance.",
+      "options": [
+        "work-related stress",
+        "personal issues",
+        "financial problems",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 19,
+      "question": "A good supervisor can foresee ________ mistakes and take preventive measures.",
+      "options": [
+        "unexpected",
+        "common",
+        "possible",
+        "impossible"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "Personal counselling is important for maintaining a ________ work environment.",
+      "options": [
+        "stressful",
+        "supportive",
+        "competitive",
+        "hostile"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Predicting mistakes allows supervisors to implement ________ strategies.",
+      "options": [
+        "reactive",
+        "preventive",
+        "corrective",
+        "proactive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 22,
+      "question": "Personal counselling helps employees stay ________ and focused.",
+      "options": [
+        "stressed",
+        "motivated",
+        "overworked",
+        "unmotivated"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "A supervisor who predicts mistakes can ________ potential errors before they occur.",
+      "options": [
+        "ignore",
+        "create",
+        "identify",
+        "solve"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 24,
+      "question": "Personal counselling involves addressing ________ issues that impact employee performance.",
+      "options": [
+        "work-related",
+        "financial",
+        "personal",
+        "educational"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "question": "Predicting mistakes helps supervisors maintain a ________ workplace.",
+      "options": [
+        "safe",
+        "efficient",
+        "stressful",
+        "chaotic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "A supervisor can use personal counselling to help employees manage ________ problems.",
+      "options": [
+        "work-related",
+        "financial",
+        "personal",
+        "health-related"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 27,
+      "question": "Predicting mistakes allows supervisors to take ________ action before errors occur.",
+      "options": [
+        "reactive",
+        "preventive",
+        "corrective",
+        "proactive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "Personal counselling is beneficial for employees dealing with ________ issues.",
+      "options": [
+        "work-related",
+        "financial",
+        "personal",
+        "educational"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 29,
+      "question": "A supervisor who predicts mistakes can help prevent ________ errors.",
+      "options": [
+        "minor",
+        "major",
+        "common",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 30,
+      "question": "Personal counselling helps employees stay ________ and stress-free.",
+      "options": [
+        "focused",
+        "motivated",
+        "overworked",
+        "unmotivated"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "Predicting mistakes in advance helps supervisors ________ potential problems.",
+      "options": [
+        "ignore",
+        "create",
+        "identify",
+        "solve"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 32,
+      "question": "A supervisor can offer personal counselling to help employees manage ________ that affect their work.",
+      "options": [
+        "work-related stress",
+        "personal issues",
+        "financial problems",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 33,
+      "question": "Predicting mistakes helps supervisors maintain a ________ workflow by preventing errors.",
+      "options": [
+        "disorganized",
+        "smooth",
+        "inefficient",
+        "chaotic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "Personal counselling involves guiding employees on both work-related and ________ issues.",
+      "options": [
+        "financial",
+        "personal",
+        "professional",
+        "educational"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "A supervisor who predicts mistakes can help prevent ________ in the workplace.",
+      "options": [
+        "errors",
+        "accidents",
+        "conflicts",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 36,
+      "question": "Personal counselling helps employees stay ________ and motivated by addressing personal issues.",
+      "options": [
+        "stressed",
+        "focused",
+        "overworked",
+        "unmotivated"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "Predicting mistakes allows supervisors to implement ________ measures to prevent errors.",
+      "options": [
+        "reactive",
+        "preventive",
+        "corrective",
+        "proactive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "A supervisor can use personal counselling to help employees manage ________ problems that impact their performance.",
+      "options": [
+        "work-related",
+        "financial",
+        "personal",
+        "health-related"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 39,
+      "question": "Predicting mistakes helps supervisors maintain a ________ and efficient work environment.",
+      "options": [
+        "safe",
+        "stressful",
+        "chaotic",
+        "disorganized"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "Personal counselling involves understanding and addressing ________ issues that affect employee performance.",
+      "options": [
+        "work-related",
+        "financial",
+        "personal",
+        "educational"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 41,
+      "question": "A supervisor who predicts mistakes can help prevent ________ by taking preventive measures.",
+      "options": [
+        "errors",
+        "accidents",
+        "conflicts",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 42,
+      "question": "Personal counselling helps employees stay ________ and stress-free by addressing personal issues.",
+      "options": [
+        "focused",
+        "motivated",
+        "overworked",
+        "unmotivated"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "Predicting mistakes allows supervisors to take ________ action to prevent potential problems.",
+      "options": [
+        "reactive",
+        "preventive",
+        "corrective",
+        "proactive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "A supervisor can offer personal counselling to help employees manage ________ issues that affect their work.",
+      "options": [
+        "work-related",
+        "financial",
+        "personal",
+        "health-related"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 45,
+      "question": "Predicting mistakes helps supervisors maintain a ________ and safe work environment.",
+      "options": [
+        "disorganized",
+        "smooth",
+        "inefficient",
+        "chaotic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "Personal counselling involves guiding employees on both work-related and ________ matters.",
+      "options": [
+        "financial",
+        "personal",
+        "professional",
+        "educational"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "A supervisor who predicts mistakes can help prevent ________ in the workplace by taking preventive action.",
+      "options": [
+        "errors",
+        "accidents",
+        "conflicts",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 48,
+      "question": "Personal counselling helps employees stay ________ and motivated by addressing personal issues that affect their performance.",
+      "options": [
+        "stressed",
+        "focused",
+        "overworked",
+        "unmotivated"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "Predicting mistakes allows supervisors to implement ________ strategies to prevent potential errors.",
+      "options": [
+        "reactive",
+        "preventive",
+        "corrective",
+        "proactive"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "A supervisor can use personal counselling to help employees manage ________ problems that impact their work performance.",
+      "options": [
+        "work-related",
+        "financial",
+        "personal",
+        "health-related"
+      ],
+      "answer": 3
+    }
+]
+  

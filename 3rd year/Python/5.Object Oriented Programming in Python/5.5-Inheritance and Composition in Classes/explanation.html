@@ -1,0 +1,128 @@
+<div>
+    <h1>5.5 Inheritance and Composition in Classes</h1>
+    <p>In object-oriented programming (OOP), Inheritance and Composition are two important ways to create relationships between classes. These concepts help in code reusability, modularity, and organization of programs.</p>
+    <h2>1. Inheritance (Is-a Relationship)</h2>
+    <h3>What is Inheritance?</h3>
+    <p>Inheritance is a mechanism that allows a new class to inherit properties and methods from an existing class. This helps in avoiding repetition and makes the code more organized and reusable.</p>
+    <ul>
+      <li><strong>Parent Class (Super Class)</strong> – The class whose properties and methods are inherited.</li>
+      <li><strong>Child Class (Sub Class)</strong> – The class that inherits from the parent class.</li>
+    </ul>
+    <h3>Example of Inheritance:</h3>
+    <p>Imagine you are designing a system for different types of vehicles. Instead of writing the same attributes (like speed, color, brand) for every type of vehicle, we can create a base class and let other vehicle types inherit from it.</p>
+    <pre>
+      <code>
+  # Parent class
+  class Vehicle:
+      def __init__(self, brand, color, speed):
+          self.brand = brand
+          self.color = color
+          self.speed = speed
+  
+      def show_info(self):
+          print(f"Brand: {self.brand}, Color: {self.color}, Speed: {self.speed} km/h")
+  
+  # Child class (inherits from Vehicle)
+  class Car(Vehicle):
+      def __init__(self, brand, color, speed, fuel_type):
+          super().__init__(brand, color, speed)
+          self.fuel_type = fuel_type
+  
+      def show_car_info(self):
+          self.show_info()
+          print(f"Fuel Type: {self.fuel_type}")
+      </code>
+    </pre>
+    <h2>2. Composition (Has-a Relationship)</h2>
+    <h3>What is Composition?</h3>
+    <p>Composition is when a class contains an object of another class as a part of its attributes. Instead of inheriting, it uses another class inside it.</p>
+    <h3>Example of Composition:</h3>
+    <pre>
+      <code>
+  # Separate class for Engine
+  class Engine:
+      def __init__(self, horsepower, type):
+          self.horsepower = horsepower
+          self.type = type
+  
+      def show_engine_info(self):
+          print(f"Engine: {self.horsepower} HP, Type: {self.type}")
+  
+  # Car class has an Engine (Composition)
+  class Car:
+      def __init__(self, brand, color, speed, engine):
+          self.brand = brand
+          self.color = color
+          self.speed = speed
+          self.engine = engine
+  
+      def show_car_info(self):
+          print(f"Brand: {self.brand}, Color: {self.color}, Speed: {self.speed} km/h")
+          self.engine.show_engine_info()
+      </code>
+    </pre>
+    <h2>3. Key Differences Between Inheritance and Composition</h2>
+    <table border="1">
+      <tr>
+        <th>Feature</th>
+        <th>Inheritance (IS-A)</th>
+        <th>Composition (HAS-A)</th>
+      </tr>
+      <tr>
+        <td>Definition</td>
+        <td>One class derives from another</td>
+        <td>One class contains an object of another</td>
+      </tr>
+      <tr>
+        <td>Example</td>
+        <td>Car is a Vehicle</td>
+        <td>Car has an Engine</td>
+      </tr>
+      <tr>
+        <td>Relationship</td>
+        <td>Strong relationship (Parent-Child)</td>
+        <td>Loose relationship (Objects work together)</td>
+      </tr>
+    </table>
+    <h2>4. When to Use Inheritance vs Composition?</h2>
+    <table border="1">
+      <tr>
+        <th>Situation</th>
+        <th>Use Inheritance</th>
+        <th>Use Composition</th>
+      </tr>
+      <tr>
+        <td>Objects are logically related (e.g., "A Car is a Vehicle")</td>
+        <td>✅ Yes</td>
+        <td>❌ No</td>
+      </tr>
+      <tr>
+        <td>One class contains another class (e.g., "A Car has an Engine")</td>
+        <td>❌ No</td>
+        <td>✅ Yes</td>
+      </tr>
+    </table>
+    <h2>5. Real-Life Examples of Inheritance & Composition</h2>
+    <table border="1">
+      <tr>
+        <th>Scenario</th>
+        <th>Inheritance</th>
+        <th>Composition</th>
+      </tr>
+      <tr>
+        <td>School System</td>
+        <td>Teacher inherits from Person</td>
+        <td>Teacher has a Subject</td>
+      </tr>
+      <tr>
+        <td>Game Development</td>
+        <td>Enemy inherits from Character</td>
+        <td>Game has a Scoreboard</td>
+      </tr>
+    </table>
+    <h2>Conclusion</h2>
+    <p>Use <strong>Inheritance</strong> when one class "is a" type of another.</p>
+    <p>Use <strong>Composition</strong> when one class "has a" relationship with another.</p>
+    <p>Both Inheritance and Composition are useful depending on the situation. The key is to choose the right approach based on the relationship between the objects.</p>
+</div>
+  

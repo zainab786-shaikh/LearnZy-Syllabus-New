@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is pollution?",
+      "options": [
+        "A process that cleans the environment",
+        "Introduction of harmful substances into the environment",
+        "A method of growing plants",
+        "A natural phenomenon that improves air quality"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What are harmful substances that cause pollution called?",
+      "options": [
+        "Nutrients",
+        "Pollutants",
+        "Minerals",
+        "Vitamins"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an example of pollution?",
+      "options": [
+        "Planting trees",
+        "Throwing waste into a river",
+        "Using solar energy",
+        "Using bicycles instead of cars"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which is a major effect of pollution?",
+      "options": [
+        "Improved air quality",
+        "Safe drinking water",
+        "Damage to plants, animals, and humans",
+        "Increase in biodiversity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What are the two main types of pollution?",
+      "options": [
+        "Water and land pollution",
+        "Natural and artificial pollution",
+        "Air and noise pollution",
+        "Chemical and biological pollution"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a cause of natural pollution?",
+      "options": [
+        "Industrial waste",
+        "Deforestation",
+        "Volcanic eruptions",
+        "Plastic waste"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Which event is an example of air pollution caused by natural sources?",
+      "options": [
+        "Factory emissions",
+        "Volcanic eruptions",
+        "Plastic waste in oceans",
+        "Car exhaust fumes"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is an example of natural pollution?",
+      "options": [
+        "Sewage dumped into rivers",
+        "Smoke from a factory",
+        "Pollen from plants causing allergies",
+        "Littering in public places"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "How do forest fires contribute to pollution?",
+      "options": [
+        "By purifying the air",
+        "By producing smoke, carbon dioxide, and ash",
+        "By increasing biodiversity",
+        "By improving soil fertility"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What causes water pollution naturally?",
+      "options": [
+        "Landslides and soil erosion",
+        "Oil spills from ships",
+        "Dumping industrial waste into rivers",
+        "Throwing plastic into oceans"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Which human activity is a major cause of artificial pollution?",
+      "options": [
+        "Tree planting",
+        "Using public transport",
+        "Burning fossil fuels",
+        "Recycling waste"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is an example of artificial pollution?",
+      "options": [
+        "Wildfires in forests",
+        "Oil spills from factories",
+        "Volcanic eruptions",
+        "Pollen allergies"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "What is a major cause of air pollution in cities?",
+      "options": [
+        "Dust storms",
+        "Car and factory emissions",
+        "Volcanic eruptions",
+        "Pollen from trees"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which human activity causes land pollution?",
+      "options": [
+        "Throwing plastic waste in landfills",
+        "Planting more trees",
+        "Using renewable energy",
+        "Recycling electronic waste"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Which of these is a major cause of noise pollution?",
+      "options": [
+        "Cutting down trees",
+        "Using wind energy",
+        "Traffic and loudspeakers",
+        "Planting crops"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "Which type of pollution is caused by excessive artificial lighting?",
+      "options": [
+        "Water pollution",
+        "Light pollution",
+        "Land pollution",
+        "Noise pollution"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "What is one effect of light pollution?",
+      "options": [
+        "Improved sleep cycles",
+        "Better visibility of stars",
+        "Disturbance in the sleep cycles of humans and animals",
+        "Reduction in carbon emissions"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is an eco-friendly practice?",
+      "options": [
+        "Using disposable plastic bags",
+        "Reducing the use of fossil fuels",
+        "Cutting down trees",
+        "Dumping waste into rivers"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Which pollution type occurs both naturally and artificially?",
+      "options": [
+        "Water pollution",
+        "Light pollution",
+        "Air pollution",
+        "Noise pollution"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "Which method helps reduce air pollution?",
+      "options": [
+        "Using more fossil fuels",
+        "Driving individual cars frequently",
+        "Using public transport and planting trees",
+        "Burning plastic waste"
+      ],
+      "answer": 3
+    }
+]
+  

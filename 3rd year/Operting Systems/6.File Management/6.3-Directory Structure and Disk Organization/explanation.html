@@ -1,0 +1,123 @@
+<div>
+    <h1>6.3 Directory Structure and Disk Organization</h1>
+    <p>Every computer system needs a way to store and manage files efficiently. The directory structure organizes these files, while the disk organization determines how they are physically and logically stored.</p>
+  
+    <h2>I. DIRECTORY STRUCTURE</h2>
+    <h3>1. Single-Level Directory</h3>
+    <p>This is the simplest type of directory structure.</p>
+    <ul>
+      <li>All files are stored in a single directory.</li>
+      <li>No subdirectories (folders inside folders).</li>
+    </ul>
+    <p><strong>Example:</strong> Imagine a box where you keep all your documents together without any dividers.</p>
+    <p><strong>Advantages:</strong></p>
+    <ul>
+      <li>Easy to manage.</li>
+      <li>Simple file access.</li>
+    </ul>
+    <p><strong>Disadvantages:</strong></p>
+    <ul>
+      <li>Name conflicts.</li>
+      <li>Difficult to organize files.</li>
+    </ul>
+  
+    <h3>2. Two-Level Directory</h3>
+    <p>There is a separate directory for each user.</p>
+    <p><strong>Example:</strong> Each student has their own locker.</p>
+    <p><strong>Advantages:</strong></p>
+    <ul>
+      <li>Users have private directories.</li>
+      <li>No filename conflicts.</li>
+    </ul>
+    <p><strong>Disadvantages:</strong></p>
+    <ul>
+      <li>Users cannot share files easily.</li>
+    </ul>
+  
+    <h3>3. Tree-Structured Directory</h3>
+    <p>A hierarchical structure where directories can have subdirectories.</p>
+    <p><strong>Example:</strong> A computer’s C: drive structure.</p>
+    <p><strong>Advantages:</strong></p>
+    <ul>
+      <li>Better organization.</li>
+      <li>Multiple levels of folders.</li>
+    </ul>
+    <p><strong>Disadvantages:</strong></p>
+    <ul>
+      <li>More complex than a single-level directory.</li>
+      <li>Searching for files may take more time.</li>
+    </ul>
+  
+    <h2>II. DISK ORGANIZATION AND STRUCTURE</h2>
+    <h3>1. Physical Structure of Disk</h3>
+    <p>A hard disk consists of circular plates called platters.</p>
+    <p><strong>Example:</strong> A vinyl record (old music disc).</p>
+    <p><strong>Components of a Disk:</strong></p>
+    <ul>
+      <li>Platters</li>
+      <li>Tracks</li>
+      <li>Sectors</li>
+      <li>Read/Write Head</li>
+    </ul>
+  
+    <h3>2. Logical Structure of Disk</h3>
+    <p>Determines how data is stored and retrieved.</p>
+    <p><strong>Example:</strong> A library index.</p>
+    <p><strong>Key Logical Structures:</strong></p>
+    <ul>
+      <li>Boot Block</li>
+      <li>Superblock</li>
+      <li>File Control Block (FCB)</li>
+      <li>Data Blocks</li>
+    </ul>
+  
+    <h3>3. RAID Structure of Disk</h3>
+    <p>RAID (Redundant Array of Independent Disks) combines multiple hard disks to improve performance and reliability.</p>
+    <p><strong>Why use RAID?</strong></p>
+    <ul>
+      <li>Speed</li>
+      <li>Redundancy</li>
+      <li>Large Storage</li>
+    </ul>
+  
+    <h2>III. RAID LEVELS (0 to 6)</h2>
+    <h3>RAID 0 – Striping</h3>
+    <p>Data is split across multiple disks.</p>
+    <p><strong>Example:</strong> Dividing a book into separate chapters.</p>
+    <p><strong>Pros:</strong> Very fast.</p>
+    <p><strong>Cons:</strong> No data protection.</p>
+  
+    <h3>RAID 1 – Mirroring</h3>
+    <p>Data is copied identically on two disks.</p>
+    <p><strong>Example:</strong> Keeping two identical copies of a document.</p>
+    <p><strong>Pros:</strong> Full data protection.</p>
+    <p><strong>Cons:</strong> Storage space is wasted.</p>
+  
+    <h3>RAID 5 – Block-Level Striping with Distributed Parity</h3>
+    <p>Data and parity information are distributed across all disks.</p>
+    <p><strong>Example:</strong> Making photocopies of different sections of a document.</p>
+    <p><strong>Pros:</strong> Good speed + data protection.</p>
+    <p><strong>Cons:</strong> More complex.</p>
+  
+    <h3>RAID 6 – Double Parity</h3>
+    <p>Like RAID 5 but with extra parity for more security.</p>
+    <p><strong>Example:</strong> Extra backup copy.</p>
+    <p><strong>Pros:</strong> Highly reliable.</p>
+    <p><strong>Cons:</strong> Slower write speed.</p>
+  
+    <h2>Conclusion</h2>
+    <ul>
+      <li>Directory structures help in organizing files.</li>
+      <li>Disk organization determines how data is arranged.</li>
+      <li>RAID levels provide different methods for storage speed and data protection.</li>
+    </ul>
+    <p><strong>Analogy for RAID:</strong></p>
+    <ul>
+      <li>RAID 0 = No backup, just speed 🚀</li>
+      <li>RAID 1 = Backup, but no speed gain 🔄</li>
+      <li>RAID 5 = Balance between speed and security ⚖</li>
+      <li>RAID 6 = Extra secure 🔐</li>
+    </ul>
+    <p>By understanding these concepts, you can manage files and disks efficiently! 😊</p>
+</div>
+  

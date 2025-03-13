@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is data hiding in Python?",
+      "options": [
+        "A technique to make data accessible from anywhere",
+        "A technique to hide data from direct access outside a class",
+        "A method to increase data complexity",
+        "A way to define public variables"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "How do you achieve data hiding in Python?",
+      "options": [
+        "By using a single underscore before the variable name",
+        "By using a double underscore before the variable name",
+        "By making all variables public",
+        "By using no underscore"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the purpose of using private variables in Python?",
+      "options": [
+        "To make data accessible from anywhere",
+        "To prevent direct modification of sensitive data",
+        "To increase data complexity",
+        "To define public methods"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Can you access private variables directly outside a class?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "How do you access private variables if needed?",
+      "options": [
+        "Using the variable name directly",
+        "Using name mangling (_ClassName__variable)",
+        "Using public methods",
+        "Using private methods"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is the benefit of using data hiding in Python?",
+      "options": [
+        "It reduces security",
+        "It increases security by restricting unauthorized access",
+        "It makes debugging harder",
+        "It increases data complexity"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Can you use data hiding to protect sensitive information like passwords?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What is the effect of using getter and setter methods in data hiding?",
+      "options": [
+        "They allow direct access to private variables",
+        "They provide controlled access to private variables",
+        "They reduce security",
+        "They increase data complexity"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Can you use data hiding to improve code maintainability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What is the purpose of using private methods in Python?",
+      "options": [
+        "To make methods accessible from anywhere",
+        "To hide methods from direct access outside a class",
+        "To increase method complexity",
+        "To define public methods"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Can you use data hiding to prevent accidental changes to data?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "What is the effect of using name mangling to access private variables?",
+      "options": [
+        "It defeats the purpose of data hiding",
+        "It enhances data hiding",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Can you use data hiding to improve debugging?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "What is the benefit of encapsulation in relation to data hiding?",
+      "options": [
+        "It reduces code organization",
+        "It improves code organization by hiding implementation details",
+        "It increases data complexity",
+        "It reduces security"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Can you use data hiding to handle different data types?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "What happens if you try to access a private variable without using name mangling?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It accesses the variable directly",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Can you use data hiding to improve code security?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "What is the purpose of using public methods in data hiding?",
+      "options": [
+        "To hide data from access",
+        "To provide controlled access to private data",
+        "To increase data complexity",
+        "To define private methods"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Can you use data hiding to simplify complex tasks?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What is the effect of using data hiding in real-world applications?",
+      "options": [
+        "It reduces security and reliability",
+        "It increases security and reliability by protecting sensitive data",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Can you use data hiding to improve code flexibility?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "What happens if you try to access a private method directly?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It accesses the method directly",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "Can you use data hiding to reduce debugging time?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "What is the purpose of using data hiding in object-oriented programming?",
+      "options": [
+        "To make code more procedural",
+        "To protect sensitive data from unauthorized access",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Can you use data hiding to improve code maintainability by organizing related data and behavior?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "What happens if you try to modify a private variable without using a setter method?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It modifies the variable directly",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Can you use data hiding to handle exceptions?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "What is the effect of using data hiding in modular programming?",
+      "options": [
+        "It makes code more complex",
+        "It breaks down code into smaller reusable modules with protected data",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "Can you use data hiding to improve code readability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "What is the purpose of using private access specifiers in data hiding?",
+      "options": [
+        "To make data accessible from anywhere",
+        "To restrict access to sensitive data",
+        "To increase data complexity",
+        "To define public methods"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "Can you use data hiding to improve code efficiency?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "What happens if you try to access a private variable using its mangled name?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It accesses the variable",
+        "It imports a module"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 33,
+      "question": "Can you use data hiding to improve code security by protecting sensitive information?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "What is the effect of using data hiding in team projects?",
+      "options": [
+        "It makes code more complex",
+        "It helps in organizing and securing sensitive data",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "Can you use data hiding to handle different scenarios based on input?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "What happens if you try to modify a private variable without a setter method?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It modifies the variable directly",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "Can you use data hiding to improve code maintainability by reducing interdependencies?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "What is the purpose of using data hiding in real-world applications like banking systems?",
+      "options": [
+        "To make code more complex",
+        "To protect sensitive customer data",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "Can you use data hiding to improve code flexibility by organizing data access?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "What happens if you try to access a private method without using a public method?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It accesses the method directly",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Can you use data hiding to reduce debugging time by isolating sensitive data?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "What is the effect of using data hiding in object-oriented programming?",
+      "options": [
+        "It makes code more procedural",
+        "It protects sensitive data from unauthorized access",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "Can you use data hiding to improve code maintainability by organizing related data and behavior?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "What happens if you try to access a private variable without using its mangled name?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It accesses the variable directly",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Can you use data hiding to improve code security by restricting unauthorized access?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "What is the purpose of using data hiding in modular programming?",
+      "options": [
+        "To make code more complex",
+        "To break down code into smaller reusable modules with protected data",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "Can you use data hiding to handle exceptions by isolating sensitive data?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "What is the effect of using data hiding in real-world applications like secure login systems?",
+      "options": [
+        "It reduces security and reliability",
+        "It increases security and reliability by protecting sensitive data",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "Can you use data hiding to improve code flexibility by organizing data access through public methods?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Can you use data hiding to simplify complex tasks by protecting sensitive data?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    }
+]
+  

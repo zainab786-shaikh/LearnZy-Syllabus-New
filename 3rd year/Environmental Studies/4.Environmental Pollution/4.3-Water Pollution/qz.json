@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "What is water pollution?",
+    "options": [
+      "The addition of harmful substances to water bodies",
+      "The natural purification of water",
+      "The excessive use of water",
+      "The storage of clean water in reservoirs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a source of surface water?",
+    "options": [
+      "Wells",
+      "Aquifers",
+      "Rivers",
+      "Springs"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is NOT a source of groundwater?",
+    "options": [
+      "Lakes",
+      "Wells",
+      "Aquifers",
+      "Springs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "What is an example of a reservoir?",
+    "options": [
+      "Ganga River",
+      "Dal Lake",
+      "Bhakra Nangal Dam",
+      "Arabian Sea"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is a human-made source of water pollution?",
+    "options": [
+      "Volcanic eruptions",
+      "Soil erosion",
+      "Agricultural runoff",
+      "Algae growth"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 6,
+    "question": "Which pollutant is commonly found in agricultural runoff?",
+    "options": [
+      "Mercury",
+      "Plastic waste",
+      "Fertilizers and pesticides",
+      "Radioactive waste"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7,
+    "question": "What is eutrophication?",
+    "options": [
+      "The excessive growth of algae due to nutrient pollution",
+      "The process of water purification",
+      "The destruction of marine life due to oil spills",
+      "The mixing of salt and freshwater"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "Which disease is commonly caused by drinking polluted water?",
+    "options": [
+      "Diabetes",
+      "Typhoid",
+      "Asthma",
+      "Cancer"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 9,
+    "question": "What is the ideal pH level of drinking water according to BIS standards?",
+    "options": [
+      "4.5 - 5.5",
+      "6.5 - 8.5",
+      "9.0 - 10.5",
+      "Above 12"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is NOT a step in a water treatment plant?",
+    "options": [
+      "Screening",
+      "Filtration",
+      "Coagulation & Flocculation",
+      "Deforestation"
+    ],
+    "answer": 4
+  }
+]

@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is method specialization in Python?",
+      "options": [
+        "Creating a new method in a child class",
+        "Modifying an inherited method in a child class to fit its needs",
+        "Importing modules",
+        "Defining functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "How do you achieve method specialization in Python?",
+      "options": [
+        "By using inheritance and overriding methods",
+        "By using composition",
+        "By importing modules",
+        "By defining functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "What is the purpose of using the super() function in method specialization?",
+      "options": [
+        "To call a method from the child class",
+        "To call a method from the parent class",
+        "To import modules",
+        "To define functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Can you use method specialization to improve code reusability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "What is the benefit of using method specialization in object-oriented programming?",
+      "options": [
+        "It reduces flexibility and reusability",
+        "It increases flexibility and reusability by allowing child classes to modify inherited methods",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "How do you use method specialization to customize a banking system?",
+      "options": [
+        "By creating a general account class and overriding methods in child classes",
+        "By using composition",
+        "By importing modules",
+        "By defining functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Can you use method specialization to improve code scalability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What happens if a child class does not override an inherited method?",
+      "options": [
+        "It throws an error",
+        "It uses the parent class method",
+        "It creates a new method automatically",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Can you use method specialization to handle different scenarios based on input?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What is the effect of using method specialization in real-world applications?",
+      "options": [
+        "It reduces flexibility and reusability",
+        "It increases flexibility and reusability by allowing customization of inherited methods",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Can you use method specialization to improve code maintainability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "What is the purpose of using method specialization in team projects?",
+      "options": [
+        "To make code more complex",
+        "To divide workload by creating customized child classes",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Can you use method specialization to simplify complex tasks?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "What is the benefit of using method specialization in object-oriented programming?",
+      "options": [
+        "It reduces flexibility and reusability",
+        "It increases flexibility and reusability by allowing child classes to modify inherited methods",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Can you use method specialization to improve code readability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "What happens if you try to access a method that is not overridden in a child class?",
+      "options": [
+        "It throws an error",
+        "It uses the parent class method",
+        "It creates a new method automatically",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Can you use method specialization to handle exceptions?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "What is the purpose of using method specialization in modular programming?",
+      "options": [
+        "To make code more complex",
+        "To break down code into smaller reusable modules with customized behaviors",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Can you use method specialization to improve code efficiency?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What is the effect of using method specialization in object-oriented programming?",
+      "options": [
+        "It makes code more procedural",
+        "It creates a hierarchy of classes with customized behaviors",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Can you use method specialization to improve code flexibility?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "What happens if you try to override a method without using the super() function?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It calls the parent class method automatically",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Can you use method specialization to reduce debugging time?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "What is the purpose of using method specialization in real-world applications like banking systems?",
+      "options": [
+        "To make code more complex",
+        "To customize account types with different interest rates",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Can you use method specialization to improve code maintainability by organizing related data and behavior?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "What happens if a child class does not override an inherited method?",
+      "options": [
+        "It throws an error",
+        "It uses the parent class method",
+        "It creates a new method automatically",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "Can you use method specialization to improve code security?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "What is the benefit of using method specialization in team projects?",
+      "options": [
+        "It reduces flexibility and reusability",
+        "It increases flexibility and reusability by creating customized child classes",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "Can you use method specialization to handle different scenarios based on input?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "What is the effect of using method specialization in real-world applications like smartphone development?",
+      "options": [
+        "It reduces flexibility and reusability",
+        "It increases flexibility and reusability by allowing customization of inherited methods",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "Can you use method specialization to improve code flexibility by allowing different implementations?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "What happens if you try to access a method that is not defined in the inheritance hierarchy?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It creates the method automatically",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "Can you use method specialization to simplify complex tasks by customizing behaviors?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "What is the purpose of using method specialization in modular programming?",
+      "options": [
+        "To make code more complex",
+        "To break down code into smaller reusable modules with customized behaviors",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "Can you use method specialization to improve code maintainability by reducing interdependencies?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "What happens if a child class overrides a method but does not use super()?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It calls the parent class method automatically",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "Can you use method specialization to handle exceptions by isolating sensitive data?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "What is the benefit of using method specialization in real-world applications like game development?",
+      "options": [
+        "It reduces flexibility and reusability",
+        "It increases flexibility and reusability by allowing customization of inherited methods",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "Can you use method specialization to improve code efficiency by reducing repetition?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "What is the effect of using method specialization in object-oriented programming?",
+      "options": [
+        "It makes code more procedural",
+        "It creates a hierarchy of classes with customized behaviors",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 41,
+      "question": "Can you use method specialization to improve code flexibility by providing different implementations?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "What happens if you try to access a method that is not overridden in a child class?",
+      "options": [
+        "It throws an error",
+        "It uses the parent class method",
+        "It creates a new method automatically",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "Can you use method specialization to improve code maintainability by organizing related data and behavior?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "What is the purpose of using method specialization in object-oriented programming?",
+      "options": [
+        "To make code more procedural",
+        "To create a hierarchy of classes with customized behaviors",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "Can you use method specialization to improve code security by restricting unauthorized access?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "What is the benefit of using method specialization in real-world applications like e-commerce?",
+      "options": [
+        "It reduces flexibility and reusability",
+        "It increases flexibility and reusability by allowing customization of inherited methods",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "Can you use method specialization to improve code flexibility by allowing different implementations?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "What happens if you try to override a method without using the super() function?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It calls the parent class method automatically",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "Can you use method specialization to simplify complex tasks by customizing behaviors?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Can you use method specialization to improve code maintainability by organizing related data and behavior?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    }
+]
+  

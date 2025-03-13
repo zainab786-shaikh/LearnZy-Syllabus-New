@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "_______ resources are those that can be naturally replenished over time.",
+      "options": [
+        "Non-renewable",
+        "Renewable",
+        "Cyclic",
+        "Fossil"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Non-renewable resources take _______ of years to form and cannot be replaced quickly.",
+      "options": [
+        "Hundreds",
+        "Thousands",
+        "Millions",
+        "Dozens"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Cyclic resources can be _______ and used again.",
+      "options": [
+        "Destroyed",
+        "Reused",
+        "Burned",
+        "Discarded"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Solar energy is a type of _______ resource.",
+      "options": [
+        "Renewable",
+        "Non-renewable",
+        "Cyclic",
+        "Fossil"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Coal and petroleum are examples of _______ resources.",
+      "options": [
+        "Renewable",
+        "Cyclic",
+        "Non-renewable",
+        "Unlimited"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "The continuous movement of water through evaporation, condensation, and precipitation makes it a _______ resource.",
+      "options": [
+        "Non-renewable",
+        "Cyclic",
+        "Exhaustible",
+        "Fossil"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Wind turbines generate electricity using _______ energy.",
+      "options": [
+        "Solar",
+        "Wind",
+        "Geothermal",
+        "Nuclear"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Gold and silver are examples of _______ resources.",
+      "options": [
+        "Renewable",
+        "Non-renewable",
+        "Cyclic",
+        "Recyclable"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Water is considered a cyclic resource because it undergoes a natural process known as the _______.",
+      "options": [
+        "Rock cycle",
+        "Carbon cycle",
+        "Water cycle",
+        "Photosynthesis"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Iron and aluminum can be classified as both _______ and recyclable resources.",
+      "options": [
+        "Renewable",
+        "Cyclic",
+        "Non-renewable",
+        "Infinite"
+      ],
+      "answer": 3
+    }
+]
+  

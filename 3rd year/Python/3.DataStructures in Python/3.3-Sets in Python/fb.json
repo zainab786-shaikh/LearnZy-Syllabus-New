@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "A set in Python is an unordered collection of ________ items.",
+      "options": [
+        "unique",
+        "duplicate",
+        "ordered",
+        "mutable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Sets in Python are created using ________ braces or the set() function.",
+      "options": [
+        "curly",
+        "square",
+        "round",
+        "angle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Sets cannot contain ________ items.",
+      "options": [
+        "unique",
+        "duplicate",
+        "ordered",
+        "mutable"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "To access values in a set, you can use a ________ loop or check if a value exists using the in keyword.",
+      "options": [
+        "for",
+        "while",
+        "if",
+        "else"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "To add a single item to a set, you use the ________ method.",
+      "options": [
+        "add()",
+        "update()",
+        "insert()",
+        "append()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "To add multiple items to a set, you use the ________ method.",
+      "options": [
+        "add()",
+        "update()",
+        "insert()",
+        "append()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "The ________ method removes a specific item from a set and throws an error if the item doesn't exist.",
+      "options": [
+        "remove()",
+        "discard()",
+        "pop()",
+        "clear()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "The ________ method removes a specific item from a set without throwing an error if the item doesn't exist.",
+      "options": [
+        "remove()",
+        "discard()",
+        "pop()",
+        "clear()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "To remove a random item from a set, you use the ________ method.",
+      "options": [
+        "remove()",
+        "discard()",
+        "pop()",
+        "clear()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "To clear all items from a set, you use the ________ method.",
+      "options": [
+        "remove()",
+        "discard()",
+        "pop()",
+        "clear()"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 11,
+      "question": "To delete an entire set, you use the ________ keyword.",
+      "options": [
+        "del",
+        "remove",
+        "pop",
+        "clear"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "The union of two sets combines all ________ items from both sets.",
+      "options": [
+        "unique",
+        "duplicate",
+        "ordered",
+        "mutable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "The union of two sets can be performed using the ________ operator or the union() method.",
+      "options": [
+        "|",
+        "&",
+        "-",
+        "^"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "The intersection of two sets finds the ________ items between both sets.",
+      "options": [
+        "unique",
+        "common",
+        "ordered",
+        "mutable"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "The intersection of two sets can be performed using the ________ operator or the intersection() method.",
+      "options": [
+        "|",
+        "&",
+        "-",
+        "^"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "The difference of two sets finds items present in the first set but not in the ________ set.",
+      "options": [
+        "first",
+        "second",
+        "third",
+        "fourth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "The difference of two sets can be performed using the ________ operator or the difference() method.",
+      "options": [
+        "|",
+        "&",
+        "-",
+        "^"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "The symmetric difference of two sets finds items not ________ to both sets.",
+      "options": [
+        "common",
+        "unique",
+        "ordered",
+        "mutable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "The symmetric difference of two sets can be performed using the ________ operator or the symmetric_difference() method.",
+      "options": [
+        "|",
+        "&",
+        "-",
+        "^"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 20,
+      "question": "The ________ function returns the number of items in a set.",
+      "options": [
+        "len()",
+        "size()",
+        "length()",
+        "count()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "The ________ function returns the largest item in a set.",
+      "options": [
+        "max()",
+        "min()",
+        "sum()",
+        "count()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "The ________ function returns the smallest item in a set.",
+      "options": [
+        "max()",
+        "min()",
+        "sum()",
+        "count()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "The ________ function adds up all the values in a set.",
+      "options": [
+        "sum()",
+        "max()",
+        "min()",
+        "count()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "The ________ function returns a sorted list of set items.",
+      "options": [
+        "sorted()",
+        "sort()",
+        "order()",
+        "arrange()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "The ________ function returns True if at least one item in the set is truthy.",
+      "options": [
+        "any()",
+        "all()",
+        "some()",
+        "none()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "The ________ function returns True if all items in the set are truthy.",
+      "options": [
+        "any()",
+        "all()",
+        "some()",
+        "none()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "The ________ method returns a shallow copy of the set.",
+      "options": [
+        "copy()",
+        "clone()",
+        "duplicate()",
+        "replicate()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Sets in Python are useful for storing ________ items and performing mathematical operations.",
+      "options": [
+        "unique",
+        "duplicate",
+        "ordered",
+        "mutable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "To create a set, you can use ________ braces or the set() function.",
+      "options": [
+        "curly",
+        "square",
+        "round",
+        "angle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "Sets cannot contain ________ items because they automatically remove duplicates.",
+      "options": [
+        "unique",
+        "duplicate",
+        "ordered",
+        "mutable"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "To access values in a set, you can use a ________ loop or check if a value exists using the in keyword.",
+      "options": [
+        "for",
+        "while",
+        "if",
+        "else"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "To add a single item to a set, you use the ________ method.",
+      "options": [
+        "add()",
+        "update()",
+        "insert()",
+        "append()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "To add multiple items to a set, you use the ________ method.",
+      "options": [
+        "add()",
+        "update()",
+        "insert()",
+        "append()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "The ________ method removes a specific item from a set and throws an error if the item doesn't exist.",
+      "options": [
+        "remove()",
+        "discard()",
+        "pop()",
+        "clear()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "The ________ method removes a specific item from a set without throwing an error if the item doesn't exist.",
+      "options": [
+        "remove()",
+        "discard()",
+        "pop()",
+        "clear()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "To remove a random item from a set, you use the ________ method.",
+      "options": [
+        "remove()",
+        "discard()",
+        "pop()",
+        "clear()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 37,
+      "question": "To clear all items from a set, you use the ________ method.",
+      "options": [
+        "remove()",
+        "discard()",
+        "pop()",
+        "clear()"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 38,
+      "question": "To delete an entire set, you use the ________ keyword.",
+      "options": [
+        "del",
+        "remove",
+        "pop",
+        "clear"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "The union of two sets combines all ________ items from both sets.",
+      "options": [
+        "unique",
+        "duplicate",
+        "ordered",
+        "mutable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "The union of two sets can be performed using the ________ operator or the union() method.",
+      "options": [
+        "|",
+        "&",
+        "-",
+        "^"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "The intersection of two sets finds the ________ items between both sets.",
+      "options": [
+        "unique",
+        "common",
+        "ordered",
+        "mutable"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "The intersection of two sets can be performed using the ________ operator or the intersection() method.",
+      "options": [
+        "|",
+        "&",
+        "-",
+        "^"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "The difference of two sets finds items present in the first set but not in the ________ set.",
+      "options": [
+        "first",
+        "second",
+        "third",
+        "fourth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "The difference of two sets can be performed using the ________ operator or the difference() method.",
+      "options": [
+        "|",
+        "&",
+        "-",
+        "^"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 45,
+      "question": "The symmetric difference of two sets finds items not ________ to both sets.",
+      "options": [
+        "common",
+        "unique",
+        "ordered",
+        "mutable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "The symmetric difference of two sets can be performed using the ________ operator or the symmetric_difference() method.",
+      "options": [
+        "|",
+        "&",
+        "-",
+        "^"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 47,
+      "question": "The ________ function returns the number of items in a set.",
+      "options": [
+        "len()",
+        "size()",
+        "length()",
+        "count()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "The ________ function returns the largest item in a set.",
+      "options": [
+        "max()",
+        "min()",
+        "sum()",
+        "count()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "The ________ function returns the smallest item in a set.",
+      "options": [
+        "max()",
+        "min()",
+        "sum()",
+        "count()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "The ________ function adds up all the values in a set.",
+      "options": [
+        "sum()",
+        "max()",
+        "min()",
+        "count()"
+      ],
+      "answer": 1
+    }
+]
+  

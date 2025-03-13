@@ -1,0 +1,179 @@
+[
+    {
+      "id": 1,
+      "question": "What does the FIFO page replacement algorithm stand for?",
+      "options": [
+        "First-In-First-Out",
+        "Fast Input-Fast Output",
+        "Fixed Index-Fixed Output",
+        "First Inside-Fixed Outside"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "What is the main purpose of a page replacement algorithm?",
+      "options": [
+        "To replace the fastest page in RAM",
+        "To remove pages randomly",
+        "To manage memory efficiently when RAM is full",
+        "To store pages permanently in RAM"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "How does the FIFO page replacement algorithm work?",
+      "options": [
+        "It removes the newest page in memory",
+        "It removes the oldest page in memory",
+        "It removes the least frequently used page",
+        "It replaces a randomly selected page"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "What data structure is FIFO based on?",
+      "options": [
+        "Stack",
+        "Queue",
+        "Heap",
+        "Tree"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is an advantage of FIFO?",
+      "options": [
+        "It is complex to implement",
+        "It is simple and easy to understand",
+        "It always provides optimal performance",
+        "It never causes page faults"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a disadvantage of FIFO?",
+      "options": [
+        "It is difficult to implement",
+        "It may remove an important page too early",
+        "It requires complex calculations",
+        "It never removes useful pages"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What happens when a page is needed but not found in RAM?",
+      "options": [
+        "A page fault occurs",
+        "The page is ignored",
+        "The OS shuts down",
+        "The program crashes"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "In FIFO, what determines which page gets removed?",
+      "options": [
+        "The most recently used page",
+        "The page with the highest priority",
+        "The page that was loaded first",
+        "The page with the largest size"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "What is the total number of page faults in the given example with the reference string 1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "How many frames were used in the FIFO example provided?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "What is a real-life analogy for FIFO?",
+      "options": [
+        "A stack of books",
+        "A queue at a movie theater",
+        "A circular queue",
+        "A priority queue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "In FIFO, if a page is needed again after being removed, what happens?",
+      "options": [
+        "It is automatically reloaded without a page fault",
+        "A page fault occurs, and the page is reloaded",
+        "It is permanently removed from the system",
+        "It replaces the newest page in memory"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Why might FIFO lead to unnecessary page faults?",
+      "options": [
+        "It removes the most frequently used page",
+        "It removes the oldest page even if it is needed soon",
+        "It does not track page usage",
+        "It always replaces the newest page"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "What is the primary reason FIFO is not always optimal?",
+      "options": [
+        "It requires too much memory",
+        "It removes pages randomly",
+        "It does not consider future page use",
+        "It is too slow"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "What kind of replacement strategy does FIFO follow?",
+      "options": [
+        "Preemptive",
+        "Non-Preemptive",
+        "Random",
+        "Priority-Based"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Which scenario would cause a page fault in FIFO?",
+      "options": [
+        "A page is accessed that is already in memory",
+        "A page is removed and accessed again later",
+        "The system has unlimited memory",
+        "The OS preloads all required pages"
+      ],
+      "answer": 2
+    }
+]
+  

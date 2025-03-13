@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that an Act is not a law officially passed by the government.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "It is true that Acts provide rules to ensure fairness, safety, and smooth functioning in society.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that Acts are not necessary for maintaining order in society.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "It is true that Acts help in keeping peace and preventing crimes.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that the Indian Penal Code (IPC) does not define crimes like theft and murder.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "It is true that the Consumer Protection Act protects customers from fraud and unfair practices.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that Acts do not ensure fairness in business and trade.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "It is true that the Companies Act regulates how companies should operate legally.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that Acts do not promote safety and security in workplaces and daily life.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "It is true that the Factories Act ensures workers' safety in industries.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that Acts do not support technological and digital growth by preventing cybercrimes.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "It is true that the Information Technology (IT) Act regulates cyber laws and protects against online fraud.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that a Bill is not a proposed law that is yet to be passed by the government.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "It is true that an Ordinance is a temporary law made by the President or Governor.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that an Amendment does not involve changes to an existing law.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "It is true that the Motor Vehicles Act was amended to impose higher fines for traffic violations.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that Acts are not divided into sections and clauses.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "It is true that Section 377 of IPC dealt with LGBTQ+ rights and was later modified.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that Jurisdiction does not refer to the area where a law is applicable.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "It is true that the Indian Contract Act applies only within India.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that an Offense is not an act against the law.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "It is true that the penalty is the punishment for an offense under the law.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that drunk driving is not an offense under the Motor Vehicles Act.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "It is true that the Information Technology (IT) Act protects against cybercrimes like hacking and identity theft.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that digital signatures and e-documents are not legally valid under the IT Act.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "It is true that sending offensive emails or messages is a punishable offense under the IT Act.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is true that the Consumer Protection Act does not protect consumers from unfair trade practices.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "It is true that consumers have the right to receive good-quality products under the Consumer Protection Act.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that false advertisements and misleading claims are not punishable under the Consumer Protection Act.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "It is true that online shopping frauds are covered under the Consumer Protection Act.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that the Right to Information (RTI) Act does not give citizens the right to access government information.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "It is true that government officials must provide information within 30 days under the RTI Act.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that the Indian Contract Act does not regulate agreements and contracts between individuals and businesses.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "It is true that a valid contract must have an offer, acceptance, and consideration under the Indian Contract Act.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that fraud, misrepresentation, or coercion in a contract does not make it invalid under the Indian Contract Act.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "It is true that the Motor Vehicles Act regulates traffic rules and vehicle safety.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that wearing helmets and seat belts is not compulsory under the Motor Vehicles Act.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "It is true that drunk driving is a punishable offense under the Motor Vehicles Act.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that Acts do not define legal terms and provide clear provisions for compliance.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "It is true that understanding Acts helps individuals and businesses function within legal boundaries.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that Acts are not necessary for protecting rights and interests in society.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "It is true that Acts ensure fairness in business and trade by setting legal standards.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that Acts do not promote safety and security in daily life.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "It is true that the Factories Act promotes workers' safety by regulating industrial practices.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is true that Acts do not support technological growth by regulating cyber laws.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "It is true that the Information Technology (IT) Act supports digital growth by protecting against cybercrimes.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "It is true that a Bill is a law that has already been passed by the government.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "It is true that an Ordinance is a permanent law made by the President or Governor.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that an Amendment involves changes to an existing law to update or improve it.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that Acts are essential for maintaining order, protecting rights, and regulating different aspects of life.",
+      "answer": true
+    }
+]
+  

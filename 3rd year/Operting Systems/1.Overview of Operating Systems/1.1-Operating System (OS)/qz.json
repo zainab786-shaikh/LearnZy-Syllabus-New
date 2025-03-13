@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "What is an Operating System (OS)?",
+      "options": [
+        "A type of hardware",
+        "A software that acts as an interface between user and hardware",
+        "A programming language",
+        "A type of network protocol"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT an example of an Operating System?",
+      "options": [
+        "Windows",
+        "Linux",
+        "Google Chrome",
+        "macOS"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What is the core component of an Operating System?",
+      "options": [
+        "File System",
+        "Kernel",
+        "User Interface",
+        "Device Manager"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which component of an OS is responsible for process management?",
+      "options": [
+        "Memory Management",
+        "Process Management",
+        "Device Management",
+        "Security Management"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What is the function of Memory Management in an OS?",
+      "options": [
+        "Managing running applications",
+        "Allocating and deallocating RAM",
+        "Controlling file system operations",
+        "Handling input/output devices"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which OS component manages hardware devices like printers and keyboards?",
+      "options": [
+        "Device Management",
+        "Process Management",
+        "Memory Management",
+        "User Interface"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is an example of a mobile operating system?",
+      "options": [
+        "Windows",
+        "Linux",
+        "Android",
+        "macOS"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Which operation of an OS involves multitasking?",
+      "options": [
+        "Security Management",
+        "Program Management",
+        "User Interface",
+        "File System Management"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which OS operation is responsible for protecting data from hackers?",
+      "options": [
+        "Security and Protection",
+        "Resource Management",
+        "Process Management",
+        "User Interface"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "How does the OS manage running applications?",
+      "options": [
+        "By allocating CPU time efficiently",
+        "By removing applications automatically",
+        "By upgrading them",
+        "By duplicating them"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "What is the main function of the User Interface in an OS?",
+      "options": [
+        "Managing memory",
+        "Providing interaction between user and system",
+        "Controlling CPU scheduling",
+        "Managing security settings"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "What is the difference between GUI and CLI?",
+      "options": [
+        "GUI uses a command-line interface, CLI uses a graphical interface",
+        "GUI is text-based, CLI is icon-based",
+        "GUI uses icons and buttons, CLI uses text commands",
+        "There is no difference"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "Which type of OS allows multiple users to access a system at the same time?",
+      "options": [
+        "Single-user OS",
+        "Real-time OS",
+        "Time-Shared OS",
+        "Batch OS"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Which OS is designed to handle real-time tasks with strict timing constraints?",
+      "options": [
+        "Batch OS",
+        "Real-Time OS",
+        "Time-Shared OS",
+        "Multi-User OS"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Which OS component organizes and stores files on a computer?",
+      "options": [
+        "Memory Management",
+        "Process Management",
+        "File System Management",
+        "User Interface"
+      ],
+      "answer": 3
+    }
+]
+  

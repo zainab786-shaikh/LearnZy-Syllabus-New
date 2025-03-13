@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary function of an Operating System (OS)?",
+      "options": [
+        "To act as an interface between hardware and software",
+        "To directly execute user programs",
+        "To manufacture computer hardware",
+        "To design application software"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which type of Operating System processes jobs in groups without user interaction?",
+      "options": [
+        "Multi-Programmed OS",
+        "Batch OS",
+        "Time-Shared OS",
+        "Real-Time OS"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is a real-life example of a Batch Operating System?",
+      "options": [
+        "Online banking transactions",
+        "Payroll processing in companies",
+        "Live video streaming",
+        "Playing an online multiplayer game"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which OS type allows multiple programs to run by efficiently utilizing CPU time?",
+      "options": [
+        "Batch OS",
+        "Multi-Programmed OS",
+        "Time-Shared OS",
+        "Mobile OS"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What is an example of a Multi-Programmed OS in daily life?",
+      "options": [
+        "A microwave oven operating system",
+        "A computer running a web browser, music player, and document editor simultaneously",
+        "A single ATM processing one transaction at a time",
+        "A computer booting up"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is the key feature of a Time-Shared Operating System?",
+      "options": [
+        "Processing jobs in batches",
+        "Allowing multiple users to interact with the system simultaneously",
+        "Using multiple processors to execute tasks",
+        "Controlling real-time industrial operations"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which computing scenario best represents a Time-Shared OS?",
+      "options": [
+        "A group of students using a shared university server for coding assignments",
+        "A traffic light system responding to real-time sensor data",
+        "A supercomputer performing complex calculations for weather forecasting",
+        "An iPhone running mobile applications"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What is a Multiprocessor Operating System designed for?",
+      "options": [
+        "Managing multiple users on a single computer",
+        "Using multiple CPUs to increase computing performance",
+        "Allowing multiple tasks to execute on a single CPU",
+        "Ensuring critical tasks meet deadlines"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which device commonly uses a Multiprocessor OS?",
+      "options": [
+        "An old typewriter",
+        "A modern gaming console like PlayStation",
+        "A wristwatch",
+        "A basic calculator"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is the main advantage of a Distributed OS?",
+      "options": [
+        "It works without user input",
+        "It connects multiple computers to function as one system",
+        "It is only used in mobile devices",
+        "It eliminates the need for RAM"
+      ],
+      "answer": 2
+    }
+]
+  

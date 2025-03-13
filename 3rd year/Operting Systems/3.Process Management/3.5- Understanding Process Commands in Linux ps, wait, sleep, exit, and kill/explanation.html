@@ -1,0 +1,88 @@
+<div>
+    <h2>3.5 Understanding Process Commands in Linux: ps, wait, sleep, exit, and kill</h2>
+    <p>Processes are programs that are currently running on a computer. In Linux, we use different commands to manage these processes, such as viewing them, stopping them, or making them wait.</p>
+    <p>In this guide, we will explore five important process-related commands:</p>
+    <ul>
+      <li><strong>ps</strong> – Shows the list of running processes.</li>
+      <li><strong>wait</strong> – Waits for a process to complete.</li>
+      <li><strong>sleep</strong> – Pauses execution for a specified time.</li>
+      <li><strong>exit</strong> – Ends a process.</li>
+      <li><strong>kill</strong> – Terminates a process forcefully.</li>
+    </ul>
+  
+    <h3>1. ps Command – View Running Processes</h3>
+    <p>The <code>ps</code> (process status) command is used to see which processes are currently running on the system.</p>
+    <p>Example 1: Display all processes for the current user</p>
+    <pre><code>ps</code></pre>
+    <p>Output:</p>
+    <pre><code>PID TTY          TIME CMD
+  1234 pts/0    00:00:00 bash
+  5678 pts/0    00:00:00 ps</code></pre>
+  
+    <h3>2. wait Command – Wait for a Process to Complete</h3>
+    <p>The <code>wait</code> command makes the script pause until a process finishes executing.</p>
+    <p>Example:</p>
+    <pre><code>#!/bin/bash
+  echo "Starting process..."
+  sleep 5 &   # Run sleep command in the background
+  pid=$!      # Capture process ID
+  echo "Waiting for process $pid to complete..."
+  wait $pid   # Wait for process to finish
+  echo "Process $pid completed!"</code></pre>
+  
+    <h3>3. sleep Command – Pause Execution for a Specified Time</h3>
+    <p>The <code>sleep</code> command delays execution for a given time.</p>
+    <p>Example:</p>
+    <pre><code>echo "Waiting for 3 seconds..."
+  sleep 3
+  echo "Done!"</code></pre>
+  
+    <h3>4. exit Command – End a Process</h3>
+    <p>The <code>exit</code> command is used to terminate a script or process.</p>
+    <p>Example:</p>
+    <pre><code>#!/bin/bash
+  echo "This script will exit now."
+  exit 0</code></pre>
+  
+    <h3>5. kill Command – Terminate a Process</h3>
+    <p>The <code>kill</code> command stops a running process using its Process ID (PID).</p>
+    <p>Example:</p>
+    <pre><code>ps aux | grep firefox</code></pre>
+    <p>Output:</p>
+    <pre><code>user      3456  5.0  2.1 21580 12340 ?       S    12:15   0:30 firefox</code></pre>
+    <p>Now, we can kill the process using:</p>
+    <pre><code>kill 3456</code></pre>
+    <p>To force kill a process:</p>
+    <pre><code>kill -9 3456</code></pre>
+    <p>To kill all instances of a program:</p>
+    <pre><code>pkill firefox</code></pre>
+  
+    <h3>Summary of Commands</h3>
+    <table border="1">
+      <tr>
+        <th>Command</th>
+        <th>Function</th>
+      </tr>
+      <tr>
+        <td>ps</td>
+        <td>Displays running processes</td>
+      </tr>
+      <tr>
+        <td>wait</td>
+        <td>Waits for a process to finish</td>
+      </tr>
+      <tr>
+        <td>sleep</td>
+        <td>Pauses execution for a specified time</td>
+      </tr>
+      <tr>
+        <td>exit</td>
+        <td>Ends a process or script</td>
+      </tr>
+      <tr>
+        <td>kill</td>
+        <td>Stops a process using its PID</td>
+      </tr>
+    </table>
+</div>
+  

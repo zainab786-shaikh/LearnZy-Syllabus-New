@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Water pollution occurs when harmful substances like _______ enter water bodies.",
+      "options": [
+        "oxygen",
+        "chemicals",
+        "minerals",
+        "nutrients"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Surface water includes sources like _______.",
+      "options": [
+        "rivers and lakes",
+        "wells and aquifers",
+        "underground springs",
+        "geysers and reservoirs"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Groundwater is also known as _______.",
+      "options": [
+        "surface water",
+        "sub-surface water",
+        "ocean water",
+        "polluted water"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "A major source of water pollution caused by farming is _______.",
+      "options": [
+        "deforestation",
+        "pesticide runoff",
+        "air pollution",
+        "landslides"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Oil spills in oceans mainly result from _______.",
+      "options": [
+        "natural algae growth",
+        "factory waste disposal",
+        "leakage from oil tankers",
+        "volcanic eruptions"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "A common effect of water pollution on aquatic life is _______.",
+      "options": [
+        "increase in oxygen levels",
+        "excessive plant growth",
+        "fish and plant death",
+        "better biodiversity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Waterborne diseases such as _______ are caused by polluted water.",
+      "options": [
+        "asthma and bronchitis",
+        "typhoid and cholera",
+        "cancer and diabetes",
+        "malaria and dengue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "BIS water quality standards recommend a pH level between _______.",
+      "options": [
+        "2.0 - 4.0",
+        "5.0 - 6.5",
+        "6.5 - 8.5",
+        "8.5 - 10.5"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "The final step in water treatment before distribution is _______.",
+      "options": [
+        "filtration",
+        "disinfection",
+        "coagulation",
+        "sedimentation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "An effective method to conserve water in agriculture is _______.",
+      "options": [
+        "flood irrigation",
+        "sprinkler irrigation",
+        "drip irrigation",
+        "rainwater harvesting"
+      ],
+      "answer": 3
+    }
+]
+  

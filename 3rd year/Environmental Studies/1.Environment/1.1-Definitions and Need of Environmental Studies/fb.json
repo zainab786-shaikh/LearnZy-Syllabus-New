@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Environmental Studies is the branch of science that deals with the study of the ________.",
+      "options": [
+        "economy",
+        "environment",
+        "human body",
+        "space"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Environmental Studies helps us understand ________, which includes air, water, land, plants, and animals.",
+      "options": [
+        "technology",
+        "finance",
+        "nature",
+        "politics"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "One of the major reasons for studying Environmental Studies is to solve ________ problems.",
+      "options": [
+        "financial",
+        "environmental",
+        "social",
+        "technological"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "The rapid increase in the world's ________ has led to higher resource consumption.",
+      "options": [
+        "temperature",
+        "population",
+        "income levels",
+        "employment rates"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "One of the main causes of air pollution is excessive use of ________.",
+      "options": [
+        "bicycles",
+        "public transport",
+        "vehicles and industries",
+        "solar panels"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Deforestation leads to the loss of ________ and biodiversity.",
+      "options": [
+        "industries",
+        "forests",
+        "buildings",
+        "factories"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "One of the consequences of global warming is the melting of ________.",
+      "options": [
+        "deserts",
+        "glaciers and ice caps",
+        "mountains",
+        "forests"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Sustainable development aims to balance economic growth with ________ protection.",
+      "options": [
+        "political",
+        "environmental",
+        "cultural",
+        "technological"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "The process of converting waste materials into reusable objects is called ________.",
+      "options": [
+        "pollution",
+        "recycling",
+        "landfilling",
+        "burning"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "________ is an example of conserving natural resources by collecting and storing rainwater.",
+      "options": [
+        "Deforestation",
+        "Rainwater harvesting",
+        "Water pollution",
+        "Overfishing"
+      ],
+      "answer": 2
+    }
+]
+  

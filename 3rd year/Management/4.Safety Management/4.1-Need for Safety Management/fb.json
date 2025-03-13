@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Safety management is the process of identifying, analyzing, and controlling ________ to prevent accidents and injuries.",
+      "options": [
+        "risks",
+        "benefits",
+        "costs",
+        "profits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Safety management includes planning, rules, and actions to ensure the safety of ________.",
+      "options": [
+        "people only",
+        "property only",
+        "environment only",
+        "people, property, and the environment"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "Safety management is necessary to prevent ________ and protect lives in different industries.",
+      "options": [
+        "accidents",
+        "injuries",
+        "harm",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "Without proper safety measures, businesses may face serious consequences, including ________ and financial losses.",
+      "options": [
+        "injuries",
+        "deaths",
+        "legal actions",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 5,
+      "question": "Safety management helps in the prevention of ________ and injuries in workplaces.",
+      "options": [
+        "accidents",
+        "injuries",
+        "harm",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 6,
+      "question": "In a construction site, workers wear ________ and safety harnesses to prevent falls and head injuries.",
+      "options": [
+        "helmets",
+        "gloves",
+        "boots",
+        "masks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "In hospitals, doctors and nurses follow ________ and safety protocols to prevent the spread of infections.",
+      "options": [
+        "hygiene",
+        "sterilization",
+        "disinfection",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 8,
+      "question": "Governments have strict ________ laws that companies must follow to ensure workplace safety.",
+      "options": [
+        "safety",
+        "health",
+        "environmental",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 9,
+      "question": "Factories must install ________ extinguishers and emergency exits to comply with fire safety regulations.",
+      "options": [
+        "fire",
+        "water",
+        "chemical",
+        "smoke"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Accidents lead to ________ expenses, legal penalties, and damaged property.",
+      "options": [
+        "medical",
+        "maintenance",
+        "repair",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 11,
+      "question": "A safe workplace helps employees feel secure and work more ________.",
+      "options": [
+        "efficiently",
+        "inefficiently",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Industries dealing with chemicals must follow safety rules to avoid ________ and health risks.",
+      "options": [
+        "pollution",
+        "contamination",
+        "infection",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 13,
+      "question": "Oil companies must have ________ management plans to prevent environmental disasters.",
+      "options": [
+        "spill",
+        "leak",
+        "waste",
+        "disaster"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Offices conduct ________ drills and have emergency exits to prevent health issues.",
+      "options": [
+        "fire",
+        "earthquake",
+        "flood",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 15,
+      "question": "Factories use ________ guards, helmets, gloves, and eye protection for worker safety.",
+      "options": [
+        "machine",
+        "equipment",
+        "tool",
+        "vehicle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Traffic rules, seat belts, airbags, and speed limits are examples of ________ safety measures.",
+      "options": [
+        "road",
+        "transportation",
+        "vehicle",
+        "traffic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Airlines follow strict safety checks before flights to avoid ________.",
+      "options": [
+        "delays",
+        "cancellations",
+        "crashes",
+        "diversions"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "Homes should have ________ detectors and fire extinguishers to prevent fires.",
+      "options": [
+        "smoke",
+        "carbon monoxide",
+        "heat",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 19,
+      "question": "Hospitals ensure proper disposal of ________ waste to prevent infections.",
+      "options": [
+        "medical",
+        "chemical",
+        "hazardous",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 20,
+      "question": "Doctors use ________ tools to protect patients from bacteria.",
+      "options": [
+        "sterilized",
+        "disinfected",
+        "cleaned",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 21,
+      "question": "Using strong passwords and security software helps prevent ________ and data theft.",
+      "options": [
+        "hacking",
+        "phishing",
+        "spamming",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 22,
+      "question": "Safety management is essential in every field to protect lives, maintain order, and prevent ________.",
+      "options": [
+        "losses",
+        "accidents",
+        "injuries",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 23,
+      "question": "Proper safety management leads to better ________ and compliance with laws.",
+      "options": [
+        "efficiency",
+        "productivity",
+        "compliance",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 24,
+      "question": "Safety management systems help organizations identify and mitigate ________ in the workplace.",
+      "options": [
+        "risks",
+        "benefits",
+        "costs",
+        "profits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "A well-implemented safety management system reduces ________ costs and improves employee well-being.",
+      "options": [
+        "medical",
+        "maintenance",
+        "repair",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 26,
+      "question": "Safety management is crucial for protecting employees from ________ and illnesses while on the job.",
+      "options": [
+        "accidents",
+        "injuries",
+        "harm",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 27,
+      "question": "A safe work environment fosters a culture of ________ and loyalty among workers.",
+      "options": [
+        "trust",
+        "fear",
+        "stress",
+        "anxiety"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Ensuring legal compliance with safety regulations helps organizations avoid ________ and penalties.",
+      "options": [
+        "fines",
+        "lawsuits",
+        "penalties",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 29,
+      "question": "A safety management system provides a structured approach to identifying ________ and implementing control measures.",
+      "options": [
+        "hazards",
+        "risks",
+        "benefits",
+        "costs"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "Safety management systems help in maintaining a safe working environment by reducing ________ risks.",
+      "options": [
+        "occupational",
+        "environmental",
+        "health",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 31,
+      "question": "In a construction site, safety management involves using ________ and safety harnesses to prevent accidents.",
+      "options": [
+        "helmets",
+        "gloves",
+        "boots",
+        "masks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Hospitals follow strict hygiene and safety protocols to prevent the spread of ________.",
+      "options": [
+        "infections",
+        "diseases",
+        "viruses",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 33,
+      "question": "Governments enforce strict ________ laws to ensure workplace safety and prevent accidents.",
+      "options": [
+        "safety",
+        "health",
+        "environmental",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 34,
+      "question": "Factories must install fire extinguishers and emergency exits to comply with ________ safety regulations.",
+      "options": [
+        "fire",
+        "electrical",
+        "chemical",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 35,
+      "question": "Accidents can result in significant ________ expenses and legal penalties.",
+      "options": [
+        "medical",
+        "maintenance",
+        "repair",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 36,
+      "question": "A safe workplace enhances employee ________ and productivity by reducing stress and fear of injury.",
+      "options": [
+        "morale",
+        "motivation",
+        "engagement",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 37,
+      "question": "Industries dealing with hazardous materials must follow safety rules to prevent ________ and health risks.",
+      "options": [
+        "pollution",
+        "contamination",
+        "infection",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 38,
+      "question": "Oil companies must have spill management plans to prevent ________ disasters.",
+      "options": [
+        "environmental",
+        "health",
+        "safety",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 39,
+      "question": "Offices conduct fire drills and have emergency exits to ensure ________ safety.",
+      "options": [
+        "physical",
+        "psychological",
+        "emotional",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 40,
+      "question": "Factories use machine guards and personal protective equipment like helmets and gloves to ensure ________ safety.",
+      "options": [
+        "physical",
+        "psychological",
+        "emotional",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 41,
+      "question": "Traffic rules and speed limits are examples of ________ safety measures to prevent accidents.",
+      "options": [
+        "road",
+        "transportation",
+        "vehicle",
+        "traffic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "Airlines follow strict safety checks before flights to avoid ________ and ensure passenger safety.",
+      "options": [
+        "delays",
+        "cancellations",
+        "crashes",
+        "diversions"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 43,
+      "question": "Homes should have smoke detectors and fire extinguishers to prevent ________.",
+      "options": [
+        "fires",
+        "theft",
+        "accidents",
+        "injuries"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "Hospitals ensure proper disposal of medical waste to prevent the spread of ________.",
+      "options": [
+        "infections",
+        "diseases",
+        "viruses",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 45,
+      "question": "Doctors use sterilized tools to protect patients from ________.",
+      "options": [
+        "bacteria",
+        "viruses",
+        "infections",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 46,
+      "question": "Using strong passwords and security software helps prevent ________ and data breaches.",
+      "options": [
+        "hacking",
+        "phishing",
+        "spamming",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 47,
+      "question": "Safety management is essential in every field to protect lives, maintain order, and prevent ________.",
+      "options": [
+        "losses",
+        "accidents",
+        "injuries",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 48,
+      "question": "Proper safety management leads to better ________ and compliance with safety laws.",
+      "options": [
+        "efficiency",
+        "productivity",
+        "compliance",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 49,
+      "question": "Safety management systems help organizations identify and mitigate ________ in the workplace to ensure a safe environment.",
+      "options": [
+        "risks",
+        "benefits",
+        "costs",
+        "profits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "A well-implemented safety management system reduces financial losses and improves employee ________.",
+      "options": [
+        "well-being",
+        "safety",
+        "health",
+        "all of the above"
+      ],
+      "answer": 4
+    }
+]
+  

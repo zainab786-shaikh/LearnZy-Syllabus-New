@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that the 4R concept stands for Reduce, Reuse, Recycle, and Recover.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that 'Reduce' means increasing the amount of waste we produce.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Reusing old items instead of throwing them away helps in waste reduction.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Using a refillable water bottle instead of a single-use plastic bottle is an example of recycling.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "Printing documents on both sides of paper helps in reducing waste.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Recovering energy from waste materials is not a part of the 4R concept.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Recycling means processing waste materials to create new products.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Composting food waste is an example of the 'Recover' principle.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Plastic bottles cannot be recycled into new plastic products.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Donating old clothes instead of discarding them follows the 'Reuse' principle.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "Using rechargeable batteries instead of disposable ones is an example of 'Recover'.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "Recycling helps in conserving natural resources.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Waste-to-energy plants convert waste into useful electricity.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "Recycling requires more energy than creating new products from raw materials.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "Metal cans cannot be recycled after use.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "'Reduce' means producing more waste to manage effectively.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "Extracting valuable materials from old electronics is an example of 'Recover'.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "Using a cloth bag instead of a plastic bag is an example of the 'Reduce' principle.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Burning waste is always a good method for waste management.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "Using old newspapers to wrap gifts instead of buying wrapping paper is an example of 'Reuse'.",
+      "answer": true
+    }
+]
+  

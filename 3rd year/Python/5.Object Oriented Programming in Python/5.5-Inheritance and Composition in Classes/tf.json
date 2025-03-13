@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that inheritance in Python allows a new class to inherit properties and methods from an existing class.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is true that inheritance in Python does not allow a new class to inherit properties and methods from an existing class.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that the parent class in inheritance is also known as the base class or superclass.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is true that the parent class in inheritance is not known as the base class or superclass.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that the child class in inheritance is also known as the derived class or subclass.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is true that the child class in inheritance is not known as the derived class or subclass.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that inheritance helps reduce code duplication by reusing existing code.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is true that inheritance does not help reduce code duplication.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that inheritance establishes a hierarchy between classes.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that inheritance does not establish a hierarchy between classes.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that composition in Python involves one class containing an object of another class.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that composition in Python does not involve one class containing an object of another class.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that composition provides more flexibility than inheritance.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that composition provides less flexibility than inheritance.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that inheritance represents an 'is-a' relationship between classes.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is true that inheritance represents a 'has-a' relationship between classes.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that composition represents a 'has-a' relationship between classes.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is true that composition represents an 'is-a' relationship between classes.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that Python supports multiple types of inheritance, including single, multiple, multilevel, hierarchical, and hybrid inheritance.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that Python does not support multiple types of inheritance.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that single inheritance involves a child class inheriting from only one parent class.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is true that single inheritance involves a child class inheriting from multiple parent classes.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that multiple inheritance allows a child class to inherit from more than one parent class.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that multiple inheritance does not allow a child class to inherit from more than one parent class.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that multilevel inheritance involves a child class inheriting from a parent class that itself inherits from another class.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that multilevel inheritance does not involve a child class inheriting from a parent class that itself inherits from another class.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that hierarchical inheritance involves multiple child classes inheriting from a single parent class.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is true that hierarchical inheritance does not involve multiple child classes inheriting from a single parent class.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that hybrid inheritance combines multiple inheritance types.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that hybrid inheritance does not combine multiple inheritance types.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that the super() function in Python is used to call methods from a parent class.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that the super() function in Python is not used to call methods from a parent class.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that composition encourages modularity by allowing objects to work together.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that composition does not encourage modularity.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that inheritance and composition are both used for code reusability.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is true that inheritance and composition are not used for code reusability.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that inheritance is suitable when one class naturally extends another.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is true that inheritance is not suitable when one class naturally extends another.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that composition is suitable when one class contains another class as an attribute.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is true that composition is not suitable when one class contains another class as an attribute.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that inheritance and composition can be used together to create complex relationships between classes.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is true that inheritance and composition cannot be used together.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that inheritance is less flexible than composition because it ties a class to its parent.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is true that inheritance is more flexible than composition.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that composition allows objects to be reused in different contexts without being tied to a specific class hierarchy.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that composition does not allow objects to be reused in different contexts.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that inheritance and composition are essential concepts in object-oriented programming for organizing and reusing code.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that inheritance and composition are not essential concepts in object-oriented programming.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that Python’s method resolution order (MRO) is important for handling multiple inheritance scenarios.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that Python’s method resolution order (MRO) is not important for handling multiple inheritance scenarios.",
+      "answer": false
+    }
+]
+  

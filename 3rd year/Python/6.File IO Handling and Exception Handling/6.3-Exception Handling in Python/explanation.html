@@ -1,0 +1,105 @@
+<div>
+    <h2>6.3 Exception Handling in Python</h2>
+    <h3>Introduction to Exception Handling</h3>
+    <p>While writing programs, errors are inevitable. Some errors occur due to mistakes in the code (syntax errors), while others occur when the program runs (runtime errors). These runtime errors are called exceptions.</p>
+    <p>For example, dividing a number by zero or trying to open a file that does not exist will cause exceptions. Instead of letting the program crash, we can handle such errors using exception handling in Python.</p>
+    
+    <h3>What Happens When an Exception Occurs?</h3>
+    <p>If an exception occurs and is not handled, the program stops immediately and displays an error message.</p>
+    <pre>
+      <code>
+        a = 5
+        b = 0
+        print(a / b)  # ZeroDivisionError
+      </code>
+    </pre>
+    
+    <h3>Exception Handling Using try-except Statement</h3>
+    <p>Python provides the try-except block to catch and handle exceptions gracefully.</p>
+    <pre>
+      <code>
+        try:
+            risky_code()
+        except:
+            handle_error()
+      </code>
+    </pre>
+    
+    <h3>Example 1: Handling Division by Zero</h3>
+    <pre>
+      <code>
+        try:
+            a = 5
+            b = 0
+            print(a / b)  # This will cause an error
+        except:
+            print("Oops! Division by zero is not allowed.")
+      </code>
+    </pre>
+    
+    <h3>Catching Specific Exceptions</h3>
+    <p>We can handle different types of exceptions separately.</p>
+    <pre>
+      <code>
+        try:
+            num = int(input("Enter a number: "))
+            print(10 / num)
+        except ZeroDivisionError:
+            print("You cannot divide by zero!")
+        except ValueError:
+            print("Invalid input! Please enter a number.")
+      </code>
+    </pre>
+    
+    <h3>Using the raise Statement</h3>
+    <p>Sometimes, we need to intentionally raise an exception using the raise keyword.</p>
+    <pre>
+      <code>
+        age = int(input("Enter your age: "))
+        if age < 18:
+            raise ValueError("Sorry, you must be 18 or older.")
+        else:
+            print("You are allowed to continue.")
+      </code>
+    </pre>
+    
+    <h3>User-Defined Exceptions</h3>
+    <pre>
+      <code>
+        class AgeTooSmallError(Exception):
+            pass
+        
+        try:
+            age = int(input("Enter your age: "))
+            if age < 18:
+                raise AgeTooSmallError
+            print("Access granted!")
+        except AgeTooSmallError:
+            print("You are too young!")
+      </code>
+    </pre>
+    
+    <h3>Using finally to Run Cleanup Code</h3>
+    <pre>
+      <code>
+        try:
+            f = open("example.txt", "r")
+            print(f.read())
+        except FileNotFoundError:
+            print("File not found!")
+        finally:
+            print("Cleaning up resources...")
+      </code>
+    </pre>
+    
+    <h3>Conclusion</h3>
+    <ul>
+      <li>Exceptions are runtime errors that can crash a program if not handled.</li>
+      <li>We use try-except to catch and handle exceptions.</li>
+      <li>We can handle multiple exceptions separately.</li>
+      <li>The raise statement allows us to generate custom exceptions.</li>
+      <li>We can create user-defined exceptions for specific cases.</li>
+      <li>The finally block ensures cleanup operations always run.</li>
+    </ul>
+</div>
+  

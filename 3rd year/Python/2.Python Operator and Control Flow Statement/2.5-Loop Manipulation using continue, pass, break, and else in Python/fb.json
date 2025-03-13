@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "The ________ statement is used to stop a loop completely when a certain condition is met.",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "To skip the current iteration and move to the next one, you use the ________ statement.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "The ________ statement does nothing and is used as a placeholder.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "The ________ clause in a loop executes only if the loop completes without interruption by a break statement.",
+      "options": [
+        "if",
+        "else",
+        "for",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "In a loop, if you want to execute some code after all iterations have been completed normally, you use the ________ clause.",
+      "options": [
+        "if",
+        "else",
+        "for",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The ________ statement is useful for stopping a loop early when a condition is met.",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "If a loop is interrupted by a ________ statement, the else clause will not execute.",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "To skip printing a specific number in a loop, you can use the ________ statement.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "When writing incomplete code, the ________ statement can be used to avoid syntax errors.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "The ________ statement allows you to move on to the next iteration without executing the rest of the current iteration.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "In a password checking scenario, the ________ statement can be used to stop the loop once the correct password is entered.",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "If a loop completes normally without being interrupted, the ________ clause will execute.",
+      "options": [
+        "if",
+        "else",
+        "for",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "The ________ statement is used when you need a placeholder in your code but do not want to execute any action.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "To implement a loop that checks for a condition and stops when found, you would use the ________ statement.",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "The ________ clause is not executed if the loop is stopped by a break statement.",
+      "options": [
+        "if",
+        "else",
+        "for",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "When you want to skip a specific iteration in a loop but continue with the rest, you use the ________ statement.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "In a loop, if you need to do nothing at a certain point but keep the code syntactically correct, you use the ________ statement.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "The ________ statement is essential for controlling the flow of a loop by stopping it when a condition is met.",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "If a loop completes normally, the ________ clause will be executed.",
+      "options": [
+        "if",
+        "else",
+        "for",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "To skip the rest of the current iteration and proceed to the next one, you use the ________ statement.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "The ________ statement does not affect the flow of a loop; it simply does nothing.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "When writing code that is incomplete but needs to be syntactically correct, the ________ statement is useful.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 23,
+      "question": "The ________ statement stops a loop immediately when a certain condition is met.",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "If a loop is interrupted by a break statement, the ________ clause will not run.",
+      "options": [
+        "if",
+        "else",
+        "for",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "To skip a specific number in a loop without stopping the loop, you use the ________ statement.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "The ________ statement is used to execute code after a loop completes normally.",
+      "options": [
+        "if",
+        "else",
+        "for",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "When you need to stop a loop early based on a condition, the ________ statement is appropriate.",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "The ________ statement allows you to skip the current iteration and continue with the next one.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "In a loop, if you want to do nothing at a certain point but keep the syntax correct, you use the ________ statement.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question": "The ________ clause executes only if the loop completes without being interrupted by a break statement.",
+      "options": [
+        "if",
+        "else",
+        "for",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "To stop a loop immediately when a condition is met, you use the ________ statement.",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 32,
+      "question": "The ________ statement is used to skip the current iteration and move on to the next one in a loop.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "If a loop completes normally without interruption, the ________ clause will be executed.",
+      "options": [
+        "if",
+        "else",
+        "for",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "The ________ statement does nothing and is used as a placeholder in code.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 35,
+      "question": "To implement a loop that checks for a condition and stops when found, you would use the ________ statement.",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "The ________ clause is not executed if the loop is stopped by a break statement.",
+      "options": [
+        "if",
+        "else",
+        "for",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "When you want to skip a specific iteration in a loop but continue with the rest, you use the ________ statement.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "In a loop, if you need to do nothing at a certain point but keep the code syntactically correct, you use the ________ statement.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 39,
+      "question": "The ________ statement is essential for controlling the flow of a loop by stopping it when a condition is met.",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "If a loop completes normally, the ________ clause will be executed.",
+      "options": [
+        "if",
+        "else",
+        "for",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 41,
+      "question": "To skip the rest of the current iteration and proceed to the next one, you use the ________ statement.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "The ________ statement does not affect the flow of a loop; it simply does nothing.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 43,
+      "question": "When writing code that is incomplete but needs to be syntactically correct, the ________ statement is useful.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 44,
+      "question": "The ________ statement stops a loop immediately when a certain condition is met.",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "If a loop is interrupted by a break statement, the ________ clause will not run.",
+      "options": [
+        "if",
+        "else",
+        "for",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "To skip a specific number in a loop without stopping the loop, you use the ________ statement.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "The ________ statement is used to execute code after a loop completes normally.",
+      "options": [
+        "if",
+        "else",
+        "for",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "When you need to stop a loop early based on a condition, the ________ statement is appropriate.",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "The ________ statement allows you to skip the current iteration and continue with the next one.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "In a loop, if you want to do nothing at a certain point but keep the syntax correct, you use the ________ statement.",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "else"
+      ],
+      "answer": 3
+    }
+]
+  

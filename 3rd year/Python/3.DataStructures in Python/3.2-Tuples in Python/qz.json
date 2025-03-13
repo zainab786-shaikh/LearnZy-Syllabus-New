@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is the key difference between lists and tuples in Python?",
+      "options": [
+        "Lists are immutable, tuples are mutable",
+        "Lists are mutable, tuples are immutable",
+        "Lists are ordered, tuples are unordered",
+        "Lists are unordered, tuples are ordered"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "How do you define a tuple in Python?",
+      "options": [
+        "Using square brackets []",
+        "Using parentheses ()",
+        "Using curly brackets {}",
+        "Using angle brackets <>"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Can you change the values of a tuple after it is created?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "How do you access elements in a tuple?",
+      "options": [
+        "Using indexing starting from 1",
+        "Using indexing starting from 0",
+        "Using the append() method",
+        "Using the insert() method"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What is the purpose of negative indexing in tuples?",
+      "options": [
+        "To access elements from the start of the tuple",
+        "To access elements from the end of the tuple",
+        "To skip elements",
+        "To restart the tuple"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "How do you delete a tuple?",
+      "options": [
+        "Using del statement",
+        "Using remove() method",
+        "Using pop() method",
+        "Using clear() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Can you delete individual elements from a tuple?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "How do you update a tuple?",
+      "options": [
+        "Directly by assigning new values",
+        "By converting it to a list, modifying, and converting back",
+        "Using the append() method",
+        "Using the insert() method"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What is the effect of using the + operator with tuples?",
+      "options": [
+        "It repeats the tuple",
+        "It concatenates tuples",
+        "It removes elements",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "How do you repeat a tuple multiple times?",
+      "options": [
+        "Using the + operator",
+        "Using the * operator",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "How do you check if an element exists in a tuple?",
+      "options": [
+        "Using the in operator",
+        "Using the not in operator",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "What does the len() function return for a tuple?",
+      "options": [
+        "The first element",
+        "The last element",
+        "The number of elements",
+        "The type of elements"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "How do you slice a tuple to get a subset of elements?",
+      "options": [
+        "Using tuple_name[start:end]",
+        "Using tuple_name[start]",
+        "Using tuple_name[end]",
+        "Using tuple_name[start:]"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "What is the effect of using tuple_name[start:]?",
+      "options": [
+        "It returns elements from the start to the end of the tuple",
+        "It returns elements from the start to the second last element",
+        "It returns all elements from the specified start index to the end",
+        "It returns an empty tuple"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "How do you find the maximum value in a tuple?",
+      "options": [
+        "Using max()",
+        "Using min()",
+        "Using sum()",
+        "Using len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "What does the min() function return for a tuple?",
+      "options": [
+        "The maximum value",
+        "The minimum value",
+        "The sum of elements",
+        "The length of the tuple"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "How do you calculate the sum of elements in a tuple?",
+      "options": [
+        "Using sum()",
+        "Using max()",
+        "Using min()",
+        "Using len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "What does the tuple() function do?",
+      "options": [
+        "Converts a list to a tuple",
+        "Converts a tuple to a list",
+        "Removes elements from a tuple",
+        "Adds elements to a tuple"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "How do you count the occurrences of an element in a tuple?",
+      "options": [
+        "Using count()",
+        "Using index()",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What does the index() method return for a tuple?",
+      "options": [
+        "The count of a value",
+        "The first occurrence of a value",
+        "The last occurrence of a value",
+        "The type of a value"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Can you use the append() method with tuples?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 22,
+      "question": "What is the effect of using the * operator with tuples?",
+      "options": [
+        "It concatenates tuples",
+        "It repeats the tuple",
+        "It removes elements",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Can tuples store duplicate values?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if they are numbers",
+        "Only if they are strings"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "How do you check if a tuple is empty?",
+      "options": [
+        "Using len() == 0",
+        "Using len() > 0",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "What does the in operator do with tuples?",
+      "options": [
+        "Checks if a value is present",
+        "Checks if a value is absent",
+        "Adds a value to the tuple",
+        "Removes a value from the tuple"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Can you use negative indexing to access elements from the start of a tuple?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "What is the purpose of the len() function?",
+      "options": [
+        "To check if a tuple is empty",
+        "To get the number of elements in a tuple",
+        "To add an element to a tuple",
+        "To remove an element from a tuple"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "How do you find the length of an empty tuple?",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Can you use slicing to get all elements from the start to a specific index?",
+      "options": [
+        "Yes, using tuple_name[:index]",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "What is the effect of using tuple_name[:]?",
+      "options": [
+        "It returns a copy of the tuple",
+        "It returns the original tuple",
+        "It removes all elements",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "How do you add multiple elements to a tuple at once?",
+      "options": [
+        "Using append()",
+        "Using extend()",
+        "Using insert()",
+        "Using concatenation"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 32,
+      "question": "Can you use the insert() method with tuples?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "What is the effect of using the count() method on a tuple?",
+      "options": [
+        "It returns the index of an element",
+        "It counts the occurrences of an element",
+        "It removes an element",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "Can you use the index() method to find the last occurrence of a value?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "What is the purpose of the sum() function?",
+      "options": [
+        "To find the maximum value",
+        "To find the minimum value",
+        "To calculate the sum of elements",
+        "To count occurrences of an element"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "How do you check if a value is not present in a tuple?",
+      "options": [
+        "Using the in operator",
+        "Using the not in operator",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "Can tuples be modified after creation?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "What is the effect of using the max() function on a tuple?",
+      "options": [
+        "It returns the minimum value",
+        "It returns the maximum value",
+        "It returns the sum of elements",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "How do you find the minimum value in a tuple?",
+      "options": [
+        "Using max()",
+        "Using min()",
+        "Using sum()",
+        "Using len()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "What is the effect of using the min() function on a tuple?",
+      "options": [
+        "It returns the maximum value",
+        "It returns the minimum value",
+        "It returns the sum of elements",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 41,
+      "question": "Can you use the len() function to check if a tuple is empty?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "What does the index() method return for a tuple?",
+      "options": [
+        "The count of a value",
+        "The first occurrence of a value",
+        "The last occurrence of a value",
+        "The type of a value"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "Can you use the append() method to add elements to a tuple?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "What is the effect of using the * operator with tuples?",
+      "options": [
+        "It concatenates tuples",
+        "It repeats the tuple",
+        "It removes elements",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "How do you get the last element of a tuple using negative indexing?",
+      "options": [
+        "tuple_name[-1]",
+        "tuple_name[0]",
+        "tuple_name[1]",
+        "tuple_name[-2]"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Can you delete individual elements from a tuple?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "What is the purpose of the tuple() function?",
+      "options": [
+        "Converts a list to a tuple",
+        "Converts a tuple to a list",
+        "Removes elements from a tuple",
+        "Adds elements to a tuple"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "How do you count the occurrences of an element in a tuple?",
+      "options": [
+        "Using count()",
+        "Using index()",
+        "Using append()",
+        "Using insert()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "What is the effect of using the count() method on a tuple?",
+      "options": [
+        "It returns the index of an element",
+        "It counts the occurrences of an element",
+        "It removes an element",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "Can you use the index() method to find the index of an element in a tuple?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    }
+]
+  

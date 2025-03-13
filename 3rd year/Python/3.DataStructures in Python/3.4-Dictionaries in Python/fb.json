@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "A dictionary in Python is a collection of ________ pairs.",
+      "options": [
+        "key-value",
+        "key-key",
+        "value-value",
+        "index-value"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Dictionaries are written using ________ brackets.",
+      "options": [
+        "curly",
+        "square",
+        "round",
+        "angle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "In a dictionary, keys are used to ________ values.",
+      "options": [
+        "access",
+        "update",
+        "delete",
+        "create"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "To access a value in a dictionary, you use the format ________.",
+      "options": [
+        "dict_name[key]",
+        "dict_name.value",
+        "dict_name[key].value",
+        "dict_name.value[key]"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "The ________ method is used to safely retrieve a value from a dictionary, providing a default if the key does not exist.",
+      "options": [
+        "get()",
+        "set()",
+        "update()",
+        "keys()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "To update the value of an existing key in a dictionary, you assign a new value to the ________.",
+      "options": [
+        "key",
+        "value",
+        "index",
+        "position"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "To add a new key-value pair to a dictionary, you use the format ________.",
+      "options": [
+        "dict_name[new_key] = new_value",
+        "dict_name[new_key]",
+        "dict_name[new_value]",
+        "dict_name[new_key, new_value]"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "To delete a key-value pair from a dictionary, you can use the ________ statement.",
+      "options": [
+        "del",
+        "remove",
+        "pop",
+        "clear"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The ________ method removes a key-value pair and returns the value of the removed key.",
+      "options": [
+        "pop()",
+        "remove()",
+        "del",
+        "clear()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "To clear all items from a dictionary, you use the ________ method.",
+      "options": [
+        "clear()",
+        "remove()",
+        "pop()",
+        "del"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "To find the number of key-value pairs in a dictionary, you use the ________ function.",
+      "options": [
+        "len()",
+        "size()",
+        "length()",
+        "count()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "To check if a key exists in a dictionary, you use the ________ keyword.",
+      "options": [
+        "in",
+        "is",
+        "not in",
+        "not is"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "To iterate through the keys of a dictionary, you use a ________ loop.",
+      "options": [
+        "for",
+        "while",
+        "if",
+        "else"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "To iterate through the values of a dictionary, you use the ________ method.",
+      "options": [
+        "values()",
+        "keys()",
+        "items()",
+        "get()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "To iterate through both keys and values of a dictionary, you use the ________ method.",
+      "options": [
+        "items()",
+        "keys()",
+        "values()",
+        "get()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "The ________ method returns a list of all keys in a dictionary.",
+      "options": [
+        "keys()",
+        "values()",
+        "items()",
+        "get()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The ________ method returns a list of all values in a dictionary.",
+      "options": [
+        "values()",
+        "keys()",
+        "items()",
+        "get()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "The ________ method returns a list of tuples containing all key-value pairs in a dictionary.",
+      "options": [
+        "items()",
+        "keys()",
+        "values()",
+        "get()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "To merge another dictionary into an existing one, you use the ________ method.",
+      "options": [
+        "update()",
+        "merge()",
+        "join()",
+        "combine()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "To create a copy of a dictionary, you use the ________ method.",
+      "options": [
+        "copy()",
+        "clone()",
+        "duplicate()",
+        "replicate()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "Dictionaries are useful for storing data where each item has a unique ________.",
+      "options": [
+        "key",
+        "value",
+        "index",
+        "position"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Dictionaries are written using ________ brackets.",
+      "options": [
+        "curly",
+        "square",
+        "round",
+        "angle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "In a dictionary, keys are used to ________ values.",
+      "options": [
+        "access",
+        "update",
+        "delete",
+        "create"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "To access a value in a dictionary, you use the format ________.",
+      "options": [
+        "dict_name[key]",
+        "dict_name.value",
+        "dict_name[key].value",
+        "dict_name.value[key]"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "The ________ method is used to safely retrieve a value from a dictionary, providing a default if the key does not exist.",
+      "options": [
+        "get()",
+        "set()",
+        "update()",
+        "keys()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "To update the value of an existing key in a dictionary, you assign a new value to the ________.",
+      "options": [
+        "key",
+        "value",
+        "index",
+        "position"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "To add a new key-value pair to a dictionary, you use the format ________.",
+      "options": [
+        "dict_name[new_key] = new_value",
+        "dict_name[new_key]",
+        "dict_name[new_value]",
+        "dict_name[new_key, new_value]"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "To delete a key-value pair from a dictionary, you can use the ________ statement.",
+      "options": [
+        "del",
+        "remove",
+        "pop",
+        "clear"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "The ________ method removes a key-value pair and returns the value of the removed key.",
+      "options": [
+        "pop()",
+        "remove()",
+        "del",
+        "clear()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "To clear all items from a dictionary, you use the ________ method.",
+      "options": [
+        "clear()",
+        "remove()",
+        "pop()",
+        "del"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "To find the number of key-value pairs in a dictionary, you use the ________ function.",
+      "options": [
+        "len()",
+        "size()",
+        "length()",
+        "count()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "To check if a key exists in a dictionary, you use the ________ keyword.",
+      "options": [
+        "in",
+        "is",
+        "not in",
+        "not is"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "To iterate through the keys of a dictionary, you use a ________ loop.",
+      "options": [
+        "for",
+        "while",
+        "if",
+        "else"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "To iterate through the values of a dictionary, you use the ________ method.",
+      "options": [
+        "values()",
+        "keys()",
+        "items()",
+        "get()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "To iterate through both keys and values of a dictionary, you use the ________ method.",
+      "options": [
+        "items()",
+        "keys()",
+        "values()",
+        "get()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "The ________ method returns a list of all keys in a dictionary.",
+      "options": [
+        "keys()",
+        "values()",
+        "items()",
+        "get()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "The ________ method returns a list of all values in a dictionary.",
+      "options": [
+        "values()",
+        "keys()",
+        "items()",
+        "get()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "The ________ method returns a list of tuples containing all key-value pairs in a dictionary.",
+      "options": [
+        "items()",
+        "keys()",
+        "values()",
+        "get()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "To merge another dictionary into an existing one, you use the ________ method.",
+      "options": [
+        "update()",
+        "merge()",
+        "join()",
+        "combine()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "To create a copy of a dictionary, you use the ________ method.",
+      "options": [
+        "copy()",
+        "clone()",
+        "duplicate()",
+        "replicate()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Dictionaries are useful for storing data where each item has a unique ________.",
+      "options": [
+        "key",
+        "value",
+        "index",
+        "position"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "Dictionaries are written using ________ brackets.",
+      "options": [
+        "curly",
+        "square",
+        "round",
+        "angle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "In a dictionary, keys are used to ________ values.",
+      "options": [
+        "access",
+        "update",
+        "delete",
+        "create"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "To access a value in a dictionary, you use the format ________.",
+      "options": [
+        "dict_name[key]",
+        "dict_name.value",
+        "dict_name[key].value",
+        "dict_name.value[key]"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "The ________ method is used to safely retrieve a value from a dictionary, providing a default if the key does not exist.",
+      "options": [
+        "get()",
+        "set()",
+        "update()",
+        "keys()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "To update the value of an existing key in a dictionary, you assign a new value to the ________.",
+      "options": [
+        "key",
+        "value",
+        "index",
+        "position"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "To add a new key-value pair to a dictionary, you use the format ________.",
+      "options": [
+        "dict_name[new_key] = new_value",
+        "dict_name[new_key]",
+        "dict_name[new_value]",
+        "dict_name[new_key, new_value]"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "To delete a key-value pair from a dictionary, you can use the ________ statement.",
+      "options": [
+        "del",
+        "remove",
+        "pop",
+        "clear"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "The ________ method removes a key-value pair and returns the value of the removed key.",
+      "options": [
+        "pop()",
+        "remove()",
+        "del",
+        "clear()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "To clear all items from a dictionary, you use the ________ method.",
+      "options": [
+        "clear()",
+        "remove()",
+        "pop()",
+        "del"
+      ],
+      "answer": 1
+    }
+]
+  

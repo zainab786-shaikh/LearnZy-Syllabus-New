@@ -1,0 +1,121 @@
+<div>
+    <h2>5.3 Data Hiding</h2>
+    <h3>Introduction to Data Hiding</h3>
+    <p>Data Hiding is an important concept in Object-Oriented Programming (OOP) that helps protect sensitive data from being accessed or modified directly. It ensures that only authorized parts of a program can access specific information, preventing accidental changes and improving security.</p>
+    <p>In simple terms, data hiding means restricting access to certain parts of an object, just like how a bank keeps customer information private and only allows authorized personnel to access it.</p>
+    
+    <h3>Why is Data Hiding Important?</h3>
+    <ul>
+      <li>✅ Prevents accidental modification of data</li>
+      <li>✅ Increases security by restricting unauthorized access</li>
+      <li>✅ Helps maintain data integrity</li>
+      <li>✅ Makes debugging and maintaining the program easier</li>
+    </ul>
+    
+    <h3>How Data Hiding Works in Python?</h3>
+    <p>Python uses private variables and methods to hide data. Private variables can only be accessed inside the class and not from outside.</p>
+    <p>In Python, we use a double underscore (<code>__</code>) before a variable name to make it private.</p>
+    
+    <h4>Example 1: Without Data Hiding</h4>
+    <pre>
+      <code>
+  class BankAccount:
+      def __init__(self, balance):
+          self.balance = balance  # Public variable
+  
+  # Creating an object of BankAccount
+  account = BankAccount(1000)
+  
+  # Accessing balance directly
+  print(account.balance)  # Output: 1000
+  
+  # Modifying balance directly (which is not safe)
+  account.balance = -500  
+  print(account.balance)  # Output: -500 (This should not be allowed!)
+      </code>
+    </pre>
+    
+    <p>🔴 Problem: The balance variable is accessible outside the class, allowing anyone to modify it, even setting a negative balance, which should not be allowed in a real-world bank system.</p>
+    
+    <h4>Using Data Hiding to Protect Data</h4>
+    <p>We can use private variables to prevent direct modification of sensitive data.</p>
+    
+    <h4>Example 2: Implementing Data Hiding</h4>
+    <pre>
+      <code>
+  class BankAccount:
+      def __init__(self, balance):
+          self.__balance = balance  # Private variable (with __ before name)
+  
+      def get_balance(self):
+          return self.__balance  # Getter method to access balance
+  
+      def deposit(self, amount):
+          if amount > 0:
+              self.__balance += amount
+              print(f"Deposited {amount}. New balance: {self.__balance}")
+          else:
+              print("Deposit amount must be positive!")
+  
+      def withdraw(self, amount):
+          if 0 < amount <= self.__balance:
+              self.__balance -= amount
+              print(f"Withdrew {amount}. Remaining balance: {self.__balance}")
+          else:
+              print("Invalid withdrawal amount!")
+      </code>
+    </pre>
+    
+    <h4>How is Data Hiding Used Here?</h4>
+    <ul>
+      <li><code>__balance</code> is a private variable and cannot be accessed directly.</li>
+      <li><code>get_balance()</code> allows controlled access to balance.</li>
+      <li><code>deposit()</code> and <code>withdraw()</code> control how balance is modified, ensuring valid transactions only.</li>
+    </ul>
+    
+    <h3>Advantages of Data Hiding</h3>
+    <ul>
+      <li>✅ Better security – Prevents unauthorized access to data</li>
+      <li>✅ Prevents accidental changes – Data can only be changed in a controlled way</li>
+      <li>✅ Encapsulation – Helps in organizing code better</li>
+      <li>✅ Improves debugging – Errors are easier to track</li>
+    </ul>
+    
+    <h3>Real-Life Example of Data Hiding</h3>
+    <p>Let’s take a real-world example: ATM Machine</p>
+    <p><strong>Private Data:</strong> Your bank balance, PIN, account number</p>
+    <p><strong>Public Methods:</strong> Withdraw, deposit, check balance</p>
+    <p>You cannot access balance directly but can use authorized methods.</p>
+    
+    <h4>Python Example: ATM Simulation</h4>
+    <pre>
+      <code>
+  class ATM:
+      def __init__(self, pin, balance):
+          self.__pin = pin  # Private PIN
+          self.__balance = balance  # Private balance
+  
+      def check_balance(self, entered_pin):
+          if entered_pin == self.__pin:
+              print(f"Your balance is: {self.__balance}")
+          else:
+              print("Incorrect PIN!")
+  
+      def change_pin(self, old_pin, new_pin):
+          if old_pin == self.__pin:
+              self.__pin = new_pin
+              print("PIN changed successfully!")
+          else:
+              print("Incorrect old PIN!")
+      </code>
+    </pre>
+    
+    <h3>Conclusion</h3>
+    <ul>
+      <li>🔹 Data hiding is an essential concept in Python that helps protect sensitive data.</li>
+      <li>🔹 It is achieved using private variables and methods (prefixing with <code>__</code>).</li>
+      <li>🔹 We use getter and setter methods to access and modify data safely.</li>
+      <li>🔹 Real-world applications include bank systems, ATMs, and secure login systems.</li>
+    </ul>
+  </div>
+  

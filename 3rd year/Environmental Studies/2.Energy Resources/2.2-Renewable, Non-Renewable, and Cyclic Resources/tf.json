@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "Renewable resources can be naturally replenished over time.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Non-renewable resources can be replaced quickly after they are used.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Solar energy is a non-renewable resource.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "Wind energy is considered a renewable resource.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Coal is a non-renewable resource because it takes millions of years to form.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Water is an example of a cyclic resource because it can be reused through the water cycle.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Gold and silver are renewable resources.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "Forests can be classified as renewable resources if they are replanted after cutting trees.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Petroleum is a cyclic resource.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Oxygen and carbon dioxide are cyclic resources because they are continuously exchanged between plants and animals.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "Fossil fuels, such as coal and oil, are formed in a short period of time.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "Hydropower is generated using renewable water resources.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Plastic is a renewable resource because it can be recycled.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "Non-renewable resources can be exhausted if overused.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Geothermal energy is a type of renewable resource.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "Cyclic resources can be reused after going through natural or artificial processes.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "Metal ores such as iron and aluminum can be classified as cyclic resources when they are recycled.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "Agricultural crops are non-renewable resources.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "Uranium is used in nuclear power plants and is a renewable resource.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "Deforestation affects the availability of renewable resources like forests and wildlife.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "Recycling helps conserve non-renewable resources by reducing waste.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "Once metals are extracted from the Earth, they can never be reused.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "Water can be classified as both a renewable and cyclic resource.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "Natural gas is a renewable resource because it is found in nature.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "Cyclic resources help in reducing waste and conserving natural resources.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "Wind turbines use fossil fuels to generate electricity.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "Hydropower plants use the movement of water to generate electricity.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "Petroleum and coal are formed from dead plants and animals over millions of years.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "Paper made from trees is a non-renewable resource.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "Overuse of fossil fuels contributes to environmental pollution.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "Non-renewable resources can be renewed by planting more trees.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "Coal mining can cause deforestation and habitat destruction.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "Solar panels convert sunlight into electrical energy.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "Wind power is generated using non-renewable resources.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "Natural resources are important for human survival and industrial growth.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "Cyclic resources can never be reused or recycled.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "Iron and aluminum can be recycled multiple times without losing their properties.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "Water pollution affects the usability of water as a cyclic resource.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "Sustainable use of natural resources means using them in a way that preserves them for future generations.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "Overconsumption of non-renewable resources will not have any negative impact on the environment.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "The burning of fossil fuels releases greenhouse gases into the atmosphere.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "Recycling paper helps in reducing deforestation.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "Plastic is a cyclic resource because it can be completely broken down naturally.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "Forest conservation helps maintain renewable resources like trees and wildlife.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "Fossil fuels such as coal and oil are renewable because they are naturally formed underground.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "Recycling aluminum cans saves energy and reduces the need for mining.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "The use of renewable energy sources helps reduce dependency on fossil fuels.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "Sustainable farming ensures that agricultural land remains fertile for future generations.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "Deforestation does not affect the water cycle.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "Using public transportation can help conserve non-renewable resources like petroleum.",
+      "answer": true
+    }
+]
+  

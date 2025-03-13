@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "In Python, a class is a template that defines the ________ and behaviors of an object.",
+      "options": [
+        "properties and methods",
+        "functions and variables",
+        "attributes and functions",
+        "methods and properties"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "To define a class in Python, you use the ________ keyword.",
+      "options": [
+        "class",
+        "object",
+        "function",
+        "method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "An object in Python is an instance of a ________.",
+      "options": [
+        "class",
+        "function",
+        "method",
+        "variable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "To create an object, you use the format ________.",
+      "options": [
+        "object_name = ClassName()",
+        "object_name = ClassName",
+        "object_name = new ClassName()",
+        "object_name = create ClassName()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "The ________ method is a special function that initializes attributes when an object is created.",
+      "options": [
+        "__init__()",
+        "__main__()",
+        "__call__()",
+        "__new__()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "In the __init__() method, ________ represents the object itself.",
+      "options": [
+        "self",
+        "this",
+        "object",
+        "instance"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "A method is a ________ defined inside a class.",
+      "options": [
+        "function",
+        "variable",
+        "attribute",
+        "property"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "You can create multiple objects from the same ________.",
+      "options": [
+        "class",
+        "function",
+        "method",
+        "variable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "A class is like a ________ for creating objects.",
+      "options": [
+        "blueprint",
+        "template",
+        "design",
+        "pattern"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "An object is a real instance of a class, holding ________ data.",
+      "options": [
+        "real",
+        "actual",
+        "specific",
+        "unique"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "To modify an object’s attribute, you can directly assign a new value to it.",
+      "options": [
+        "True",
+        "False",
+        "Yes",
+        "No"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "To delete an object or attribute, you use the ________ statement.",
+      "options": [
+        "del",
+        "delete",
+        "remove",
+        "drop"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "In Python, a class is a template that defines the ________ and behaviors of an object.",
+      "options": [
+        "properties and methods",
+        "functions and variables",
+        "attributes and functions",
+        "methods and properties"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "To define a class in Python, you use the ________ keyword.",
+      "options": [
+        "class",
+        "object",
+        "function",
+        "method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "An object in Python is an instance of a ________.",
+      "options": [
+        "class",
+        "function",
+        "method",
+        "variable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "To create an object, you use the format ________.",
+      "options": [
+        "object_name = ClassName()",
+        "object_name = ClassName",
+        "object_name = new ClassName()",
+        "object_name = create ClassName()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The ________ method is a special function that initializes attributes when an object is created.",
+      "options": [
+        "__init__()",
+        "__main__()",
+        "__call__()",
+        "__new__()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "In the __init__() method, ________ represents the object itself.",
+      "options": [
+        "self",
+        "this",
+        "object",
+        "instance"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "A method is a ________ defined inside a class.",
+      "options": [
+        "function",
+        "variable",
+        "attribute",
+        "property"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "You can create multiple objects from the same ________.",
+      "options": [
+        "class",
+        "function",
+        "method",
+        "variable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "A class is like a ________ for creating objects.",
+      "options": [
+        "blueprint",
+        "template",
+        "design",
+        "pattern"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "An object is a real instance of a class, holding ________ data.",
+      "options": [
+        "real",
+        "actual",
+        "specific",
+        "unique"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "To modify an object’s attribute, you can directly assign a new value to it.",
+      "options": [
+        "True",
+        "False",
+        "Yes",
+        "No"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "To delete an object or attribute, you use the ________ statement.",
+      "options": [
+        "del",
+        "delete",
+        "remove",
+        "drop"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "In Python, a class is a template that defines the ________ and behaviors of an object.",
+      "options": [
+        "properties and methods",
+        "functions and variables",
+        "attributes and functions",
+        "methods and properties"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "To define a class in Python, you use the ________ keyword.",
+      "options": [
+        "class",
+        "object",
+        "function",
+        "method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "An object in Python is an instance of a ________.",
+      "options": [
+        "class",
+        "function",
+        "method",
+        "variable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "To create an object, you use the format ________.",
+      "options": [
+        "object_name = ClassName()",
+        "object_name = ClassName",
+        "object_name = new ClassName()",
+        "object_name = create ClassName()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "The ________ method is a special function that initializes attributes when an object is created.",
+      "options": [
+        "__init__()",
+        "__main__()",
+        "__call__()",
+        "__new__()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "In the __init__() method, ________ represents the object itself.",
+      "options": [
+        "self",
+        "this",
+        "object",
+        "instance"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "A method is a ________ defined inside a class.",
+      "options": [
+        "function",
+        "variable",
+        "attribute",
+        "property"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "You can create multiple objects from the same ________.",
+      "options": [
+        "class",
+        "function",
+        "method",
+        "variable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "A class is like a ________ for creating objects.",
+      "options": [
+        "blueprint",
+        "template",
+        "design",
+        "pattern"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "An object is a real instance of a class, holding ________ data.",
+      "options": [
+        "real",
+        "actual",
+        "specific",
+        "unique"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "To modify an object’s attribute, you can directly assign a new value to it.",
+      "options": [
+        "True",
+        "False",
+        "Yes",
+        "No"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "To delete an object or attribute, you use the ________ statement.",
+      "options": [
+        "del",
+        "delete",
+        "remove",
+        "drop"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "In Python, a class is a template that defines the ________ and behaviors of an object.",
+      "options": [
+        "properties and methods",
+        "functions and variables",
+        "attributes and functions",
+        "methods and properties"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "To define a class in Python, you use the ________ keyword.",
+      "options": [
+        "class",
+        "object",
+        "function",
+        "method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "An object in Python is an instance of a ________.",
+      "options": [
+        "class",
+        "function",
+        "method",
+        "variable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "To create an object, you use the format ________.",
+      "options": [
+        "object_name = ClassName()",
+        "object_name = ClassName",
+        "object_name = new ClassName()",
+        "object_name = create ClassName()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "The ________ method is a special function that initializes attributes when an object is created.",
+      "options": [
+        "__init__()",
+        "__main__()",
+        "__call__()",
+        "__new__()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "In the __init__() method, ________ represents the object itself.",
+      "options": [
+        "self",
+        "this",
+        "object",
+        "instance"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "A method is a ________ defined inside a class.",
+      "options": [
+        "function",
+        "variable",
+        "attribute",
+        "property"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "You can create multiple objects from the same ________.",
+      "options": [
+        "class",
+        "function",
+        "method",
+        "variable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "A class is like a ________ for creating objects.",
+      "options": [
+        "blueprint",
+        "template",
+        "design",
+        "pattern"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "An object is a real instance of a class, holding ________ data.",
+      "options": [
+        "real",
+        "actual",
+        "specific",
+        "unique"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "To modify an object’s attribute, you can directly assign a new value to it.",
+      "options": [
+        "True",
+        "False",
+        "Yes",
+        "No"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "To delete an object or attribute, you use the ________ statement.",
+      "options": [
+        "del",
+        "delete",
+        "remove",
+        "drop"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "In Python, a class is a template that defines the ________ and behaviors of an object.",
+      "options": [
+        "properties and methods",
+        "functions and variables",
+        "attributes and functions",
+        "methods and properties"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "To define a class in Python, you use the ________ keyword.",
+      "options": [
+        "class",
+        "object",
+        "function",
+        "method"
+      ],
+      "answer": 1
+    }
+]
+  

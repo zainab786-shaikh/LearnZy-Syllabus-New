@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "An ecosystem consists of both ________ and ________ components.",
+      "options": [
+        "biotic, abiotic",
+        "plants, animals",
+        "air, water",
+        "producers, consumers"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "A ________ is a system where living organisms interact with non-living components in an environment.",
+      "options": [
+        "community",
+        "biosphere",
+        "habitat",
+        "ecosystem"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "The two major aspects of an ecosystem are ________ and ________ components.",
+      "options": [
+        "natural, artificial",
+        "freshwater, marine",
+        "biotic, abiotic",
+        "plants, animals"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Air, water, sunlight, and soil are examples of ________ components in an ecosystem.",
+      "options": [
+        "biotic",
+        "artificial",
+        "abiotic",
+        "natural"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Plants, animals, and microorganisms form the ________ components of an ecosystem.",
+      "options": [
+        "biotic",
+        "abiotic",
+        "artificial",
+        "chemical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "A pond is an example of a ________ ecosystem.",
+      "options": [
+        "terrestrial",
+        "marine",
+        "freshwater",
+        "desert"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "A desert ecosystem includes ________, camels, and high temperatures.",
+      "options": [
+        "fish",
+        "cactus",
+        "frogs",
+        "corals"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "An example of an artificial ecosystem is ________.",
+      "options": [
+        "forest",
+        "ocean",
+        "aquarium",
+        "grassland"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "A marine ecosystem includes ________, sharks, and corals.",
+      "options": [
+        "whales",
+        "tigers",
+        "frogs",
+        "snakes"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "The ________ is the main source of energy in an ecosystem.",
+      "options": [
+        "plants",
+        "sun",
+        "soil",
+        "water"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "A food chain always starts with a ________.",
+      "options": [
+        "carnivore",
+        "producer",
+        "decomposer",
+        "herbivore"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Grass → Grasshopper → Frog → Snake → Eagle is an example of a ________.",
+      "options": [
+        "food chain",
+        "nutrient cycle",
+        "water cycle",
+        "energy flow"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Nutrient cycling involves the continuous movement of elements like ________ and ________.",
+      "options": [
+        "oxygen, carbon",
+        "gold, silver",
+        "helium, hydrogen",
+        "copper, iron"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Decomposers like bacteria and fungi help in ________.",
+      "options": [
+        "energy flow",
+        "waste decomposition",
+        "photosynthesis",
+        "gas exchange"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Forests help regulate climate by absorbing ________.",
+      "options": [
+        "oxygen",
+        "nitrogen",
+        "carbon dioxide",
+        "helium"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "The Amazon rainforest is often called the ________ of the Earth.",
+      "options": [
+        "backbone",
+        "lungs",
+        "heart",
+        "brain"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Interdependence in an ecosystem means that all living and non-living things are ________.",
+      "options": [
+        "separate",
+        "connected",
+        "useless",
+        "static"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "If bees disappear, plants won’t get ________, leading to food production problems.",
+      "options": [
+        "watered",
+        "pollinated",
+        "pruned",
+        "harvested"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Humans must protect ecosystems by avoiding ________.",
+      "options": [
+        "deforestation",
+        "oxygen production",
+        "nutrient cycling",
+        "photosynthesis"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "The water cycle helps maintain the Earth's ________ balance.",
+      "options": [
+        "oxygen",
+        "carbon",
+        "water",
+        "nitrogen"
+      ],
+      "answer": 3
+    }
+]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "The 4R concept stands for Reduce, Reuse, Recycle, and ________.",
+      "options": [
+        "Rebuild",
+        "Renew",
+        "Recover",
+        "Reform"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "The main goal of 'Reduce' is to ________ waste generation.",
+      "options": [
+        "increase",
+        "minimize",
+        "ignore",
+        "multiply"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Using a refillable water bottle instead of buying bottled water is an example of ________.",
+      "options": [
+        "Recycle",
+        "Reuse",
+        "Reduce",
+        "Recover"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Recycling helps in conserving ________ resources.",
+      "options": [
+        "artificial",
+        "endless",
+        "natural",
+        "wasteful"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Donating old clothes instead of throwing them away follows the ________ principle.",
+      "options": [
+        "Reduce",
+        "Reuse",
+        "Recycle",
+        "Recover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Turning kitchen waste into compost is an example of ________.",
+      "options": [
+        "Reduce",
+        "Reuse",
+        "Recycle",
+        "Recover"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "Using both sides of a sheet of paper before recycling it follows the principle of ________.",
+      "options": [
+        "Reduce",
+        "Reuse",
+        "Recycle",
+        "Recover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Metal cans can be ________ to make new metal products.",
+      "options": [
+        "reused",
+        "reduced",
+        "recycled",
+        "recovered"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Energy can be produced from waste in a process known as ________.",
+      "options": [
+        "Reuse",
+        "Recycle",
+        "Recover",
+        "Reduce"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "One way to 'Reduce' plastic pollution is by carrying a ________ bag instead of a plastic bag.",
+      "options": [
+        "cloth",
+        "paper",
+        "recycled",
+        "new"
+      ],
+      "answer": 1
+    }
+]
+  

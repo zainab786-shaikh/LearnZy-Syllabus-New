@@ -1,0 +1,96 @@
+<div>
+    <h2>3.2 Tuples in Python</h2>
+    <p>A tuple is a data structure in Python that allows you to store multiple values in a single variable. Tuples are similar to lists but have one key difference: tuples are immutable, meaning that their values cannot be changed after creation.</p>
+    
+    <h3>Example of a Tuple:</h3>
+    <pre><code>fruits = ("apple", "banana", "cherry")
+  print(fruits)  
+  # Output: ('apple', 'banana', 'cherry')</code></pre>
+    
+    <p>Here, fruits is a tuple containing three elements.</p>
+  
+    <h3>(a) Accessing, Deleting, and Updating Tuples</h3>
+    <h4>1. Accessing Values in Tuples</h4>
+    <p>You can access elements in a tuple using indexing, just like lists. Indexing starts from 0 (zero-based indexing).</p>
+    <pre><code>colors = ("red", "green", "blue", "yellow")
+  print(colors[0])  # Output: red
+  print(colors[2])  # Output: blue
+  print(colors[-1]) # Output: yellow</code></pre>
+  
+    <h4>Accessing a Range of Elements (Slicing):</h4>
+    <pre><code>numbers = (10, 20, 30, 40, 50)
+  print(numbers[1:4])  # Output: (20, 30, 40)</code></pre>
+  
+    <h4>2. Deleting Values in Tuples</h4>
+    <p>Since tuples are immutable, you cannot delete individual elements. However, you can delete the entire tuple.</p>
+    <pre><code>fruits = ("apple", "banana", "cherry")
+  del fruits</code></pre>
+  
+    <h4>3. Updating Tuples</h4>
+    <p>Since tuples cannot be changed, you must create a new tuple by concatenating existing tuples.</p>
+    <pre><code>tuple1 = (1, 2, 3)
+  tuple2 = (4, 5, 6)
+  new_tuple = tuple1 + tuple2
+  print(new_tuple)  # Output: (1, 2, 3, 4, 5, 6)</code></pre>
+  
+    <h3>(b) Basic Tuple Operations</h3>
+    <h4>1. Concatenation (Joining Tuples)</h4>
+    <pre><code>tuple1 = (1, 2, 3)
+  tuple2 = (4, 5, 6)
+  result = tuple1 + tuple2
+  print(result)  # Output: (1, 2, 3, 4, 5, 6)</code></pre>
+  
+    <h4>2. Repetition (Multiplying Tuples)</h4>
+    <pre><code>numbers = (7, 8)
+  result = numbers * 3
+  print(result)  # Output: (7, 8, 7, 8, 7, 8)</code></pre>
+  
+    <h4>3. Checking Membership</h4>
+    <pre><code>fruits = ("apple", "banana", "cherry")
+  print("banana" in fruits)  # Output: True</code></pre>
+  
+    <h4>4. Finding the Length of a Tuple</h4>
+    <pre><code>colors = ("red", "green", "blue")
+  print(len(colors))  # Output: 3</code></pre>
+  
+    <h3>(c) Built-in Tuple Functions</h3>
+    <h4>1. len() – Returns the Length of a Tuple</h4>
+    <pre><code>numbers = (10, 20, 30, 40)
+  print(len(numbers))  # Output: 4</code></pre>
+  
+    <h4>2. max() – Returns the Maximum Value</h4>
+    <pre><code>values = (5, 10, 15, 20)
+  print(max(values))  # Output: 20</code></pre>
+  
+    <h4>3. min() – Returns the Minimum Value</h4>
+    <pre><code>values = (5, 10, 15, 20)
+  print(min(values))  # Output: 5</code></pre>
+  
+    <h4>4. sum() – Returns the Sum of Elements</h4>
+    <pre><code>numbers = (1, 2, 3, 4)
+  print(sum(numbers))  # Output: 10</code></pre>
+  
+    <h4>5. tuple() – Converts a List into a Tuple</h4>
+    <pre><code>my_list = [1, 2, 3]
+  my_tuple = tuple(my_list)
+  print(my_tuple)  # Output: (1, 2, 3)</code></pre>
+  
+    <h4>6. count() – Counts the Occurrences of an Element</h4>
+    <pre><code>numbers = (1, 2, 2, 3, 4, 2)
+  print(numbers.count(2))  # Output: 3</code></pre>
+  
+    <h4>7. index() – Returns the Index of an Element</h4>
+    <pre><code>fruits = ("apple", "banana", "cherry", "banana")
+  print(fruits.index("banana"))  # Output: 1</code></pre>
+  
+    <h3>Conclusion</h3>
+    <ul>
+      <li>✔ Tuples are immutable, meaning values cannot be changed after creation.</li>
+      <li>✔ You can access elements using indexing and slicing.</li>
+      <li>✔ Tuples cannot be updated or deleted, but you can create a new tuple.</li>
+      <li>✔ Python provides various tuple operations like concatenation, repetition, and membership checking.</li>
+      <li>✔ There are several built-in functions like len(), max(), min(), sum(), count(), and index() to perform operations on tuples.</li>
+    </ul>
+    <p>Tuples are widely used when you need unchangeable collections of data, such as coordinates, database records, or constant values.</p>
+</div>
+  

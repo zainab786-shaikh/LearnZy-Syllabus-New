@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that every worker has different skills, abilities, and interests.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is true that a supervisor should assign tasks without considering employees' skills.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that job suitability involves assigning tasks based on skills and qualifications.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is true that employee satisfaction is not a key aspect of matching human needs with job needs.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that work-life balance is not important for employee satisfaction.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "It is true that providing fair working hours and proper rest contributes to work-life balance.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that training and development are not necessary for improving employee skills.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "It is true that offering learning opportunities improves employee skills.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that in a software company, a tech-savvy employee should be assigned non-technical tasks.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "It is true that a person with good communication skills is suitable for customer support duties.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that in a hospital, a highly experienced nurse should be assigned basic duties.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "It is true that a junior nurse should be given critical patient care without proper training.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that assigning tasks that match employees' capabilities increases productivity.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that forcing employees to do work they are not skilled at or interested in has no impact on job satisfaction.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that a supervisor should prioritize employee satisfaction to ensure motivation.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is true that work-life balance does not affect employee motivation.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that training and development opportunities are essential for employee growth.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is true that a supervisor should not consider personal needs when assigning tasks.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that matching human needs with job needs improves overall job satisfaction.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that assigning tasks based on skills and qualifications is not important for productivity.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that a supervisor should ensure that employees feel comfortable in their roles.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is true that providing fair working hours does not contribute to employee satisfaction.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that a tech-savvy employee should be assigned programming tasks in a software company.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that a person with good communication skills should not be given customer support duties.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that a highly experienced nurse should be assigned critical patient care in a hospital.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that a junior nurse should be given complex duties without proper training.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that forcing employees to do work they are not skilled at or interested in increases productivity.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "It is true that employee satisfaction is directly related to job suitability.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that work-life balance does not impact employee motivation or satisfaction.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "It is true that training and development opportunities are not necessary for employee satisfaction.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that a supervisor should consider employees' personal needs when assigning tasks.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that matching human needs with job needs has no impact on productivity.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that assigning tasks based on skills and qualifications improves job satisfaction.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that providing fair working hours and proper rest does not contribute to work-life balance.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that offering learning opportunities is essential for employee growth and development.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is true that a supervisor should not prioritize employee satisfaction when assigning tasks.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that work-life balance is crucial for maintaining employee motivation.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is true that training and development opportunities are not important for employee retention.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that a supervisor should ensure that employees are assigned tasks that match their capabilities.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is true that forcing employees to do work they are not skilled at or interested in has no negative impact on productivity.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that employee satisfaction is not directly related to job suitability.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "It is true that work-life balance does not affect employee satisfaction or motivation.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that training and development opportunities are necessary for improving employee skills.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is true that a supervisor should not consider employees' interests when assigning tasks.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that matching human needs with job needs improves overall employee satisfaction.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that assigning tasks based on skills and qualifications is not important for employee motivation.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that a supervisor should ensure that employees feel motivated in their roles.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that providing fair working hours does not contribute to employee satisfaction or motivation.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that a tech-savvy employee should be assigned non-programming tasks in a software company.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "It is true that a person with good communication skills should be given customer support duties in a software company.",
+      "answer": true
+    }
+]
+  

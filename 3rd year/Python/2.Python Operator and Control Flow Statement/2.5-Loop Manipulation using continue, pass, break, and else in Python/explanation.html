@@ -1,0 +1,100 @@
+<div>
+    <h2>2.5 Loop Manipulation using continue, pass, break, and else in Python</h2>
+    <p>Loops in Python help us repeat tasks without writing the same code multiple times. But sometimes, we may want to skip some steps, stop the loop early, or do something when the loop finishes completely. This is where <strong>continue</strong>, <strong>pass</strong>, <strong>break</strong>, and <strong>else</strong> come into play.</p>
+    
+    <h3>1. break Statement (Stops the Loop Immediately)</h3>
+    <p>The <strong>break</strong> statement is used to stop a loop completely when a certain condition is met.</p>
+    <pre>
+      <code>
+  for num in range(1, 10):  # Loop from 1 to 9
+      if num == 5:
+          print("Number 5 found! Stopping loop.")
+          break  # Stop the loop when num is 5
+      print("Current number:", num)
+      </code>
+    </pre>
+    
+    <h3>2. continue Statement (Skip to the Next Iteration)</h3>
+    <p>The <strong>continue</strong> statement skips the current iteration and moves to the next one.</p>
+    <pre>
+      <code>
+  for num in range(1, 10):  
+      if num == 5:
+          print("Skipping number 5")
+          continue  # Skip the rest of the code and move to the next number
+      print("Current number:", num)
+      </code>
+    </pre>
+    
+    <h3>3. pass Statement (Do Nothing, Just a Placeholder)</h3>
+    <p>The <strong>pass</strong> statement is used when a statement is required syntactically, but we don’t want to do anything.</p>
+    <pre>
+      <code>
+  for num in range(1, 6):  
+      if num == 3:
+          pass  # Do nothing when num is 3
+      print("Current number:", num)
+      </code>
+    </pre>
+    
+    <h3>4. else Clause in Loops</h3>
+    <p>The <strong>else</strong> statement in loops runs only when the loop completes normally (i.e., it is not stopped by break).</p>
+    <pre>
+      <code>
+  for num in range(1, 6):
+      print("Current number:", num)
+  else:
+      print("Loop finished without a break.")
+      </code>
+    </pre>
+    
+    <h3>Summary Table</h3>
+    <table border="1">
+      <tr>
+        <th>Statement</th>
+        <th>What It Does</th>
+      </tr>
+      <tr>
+        <td>break</td>
+        <td>Stops the loop completely</td>
+      </tr>
+      <tr>
+        <td>continue</td>
+        <td>Skips the current iteration and moves to the next one</td>
+      </tr>
+      <tr>
+        <td>pass</td>
+        <td>Does nothing (just a placeholder)</td>
+      </tr>
+      <tr>
+        <td>else (in loop)</td>
+        <td>Runs only if the loop completes without break</td>
+      </tr>
+    </table>
+    
+    <h3>Real-Life Example: Password Checking</h3>
+    <p>We allow 3 attempts for password entry. If correct, we stop using <strong>break</strong>. If all attempts fail, we use <strong>else</strong>.</p>
+    <pre>
+      <code>
+  correct_password = "python123"
+  
+  for attempt in range(3):  # Allow 3 attempts
+      password = input("Enter password: ")
+      if password == correct_password:
+          print("Access granted!")
+          break  # Stop the loop if password is correct
+      print("Incorrect password. Try again.")
+  else:
+      print("Too many incorrect attempts. Access denied!")
+      </code>
+    </pre>
+    
+    <h3>Conclusion</h3>
+    <ul>
+      <li><strong>break</strong> stops the loop.</li>
+      <li><strong>continue</strong> skips the current iteration and moves to the next.</li>
+      <li><strong>pass</strong> does nothing (used as a placeholder).</li>
+      <li><strong>else</strong> runs only if the loop completes without break.</li>
+    </ul>
+</div>
+  

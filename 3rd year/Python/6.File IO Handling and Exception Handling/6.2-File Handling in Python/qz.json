@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary function used to open files in Python?",
+      "options": [
+        "The print() function",
+        "The input() function",
+        "The open() function",
+        "The close() function"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "What are the parameters of the open() function in Python?",
+      "options": [
+        "Filename and mode",
+        "Filename only",
+        "Mode only",
+        "No parameters"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "What is the default mode for opening a file in Python?",
+      "options": [
+        "Write mode ('w')",
+        "Read mode ('r')",
+        "Append mode ('a')",
+        "Exclusive creation mode ('x')"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "What happens if you try to open a file in read mode ('r') that does not exist?",
+      "options": [
+        "It creates the file",
+        "It throws an error",
+        "It does nothing",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What is the purpose of the 'w' mode in file handling?",
+      "options": [
+        "To read a file",
+        "To write to a file, overwriting existing content",
+        "To append to a file",
+        "To create a file exclusively"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is the effect of using the 'a' mode in file handling?",
+      "options": [
+        "It overwrites existing content",
+        "It appends new content to the end of the file",
+        "It creates a file exclusively",
+        "It reads a file"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What happens if you try to open a file in exclusive creation mode ('x') that already exists?",
+      "options": [
+        "It creates the file",
+        "It throws an error",
+        "It does nothing",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Can you use the 'b' mode to open files in binary format?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of using the 't' mode in file handling?",
+      "options": [
+        "To open files in binary mode",
+        "To open files in text mode",
+        "To create a file exclusively",
+        "To read a file"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "How do you read the entire content of a file in Python?",
+      "options": [
+        "Using the read() method",
+        "Using the readline() method",
+        "Using the readlines() method",
+        "Using the write() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "What is the purpose of the readline() method in file handling?",
+      "options": [
+        "To read the entire file",
+        "To read one line at a time",
+        "To write to a file",
+        "To close a file"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Can you use the readlines() method to read all lines of a file into a list?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "What is the purpose of the write() method in file handling?",
+      "options": [
+        "To read from a file",
+        "To write to a file",
+        "To append to a file",
+        "To close a file"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Can you use the writelines() method to write multiple lines to a file?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "What is the importance of closing a file after use?",
+      "options": [
+        "It is optional",
+        "It frees system resources and prevents data loss",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "How do you close a file in Python?",
+      "options": [
+        "Using the close() method",
+        "Using the open() method",
+        "Using the read() method",
+        "Using the write() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Can you use the with statement to automatically close a file?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "What is the purpose of using a try-finally block when closing a file?",
+      "options": [
+        "To handle exceptions and ensure the file is closed",
+        "To open a file",
+        "To read from a file",
+        "To write to a file"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "How do you rename a file in Python?",
+      "options": [
+        "Using the os.rename() function",
+        "Using the open() function",
+        "Using the read() method",
+        "Using the write() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What happens if you try to rename a file that does not exist?",
+      "options": [
+        "It creates the file",
+        "It throws an error",
+        "It does nothing",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Can you use the os.remove() function to delete a file?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "What happens if you try to delete a file that does not exist?",
+      "options": [
+        "It creates the file",
+        "It throws an error",
+        "It does nothing",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "How do you create a new directory in Python?",
+      "options": [
+        "Using the os.mkdir() function",
+        "Using the open() function",
+        "Using the read() method",
+        "Using the write() method"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "What is the purpose of the os.rmdir() function?",
+      "options": [
+        "To create a directory",
+        "To remove a directory",
+        "To open a file",
+        "To close a file"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Can you use the os.listdir() function to list files in a directory?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "What is the benefit of using file handling in Python?",
+      "options": [
+        "It reduces data storage capabilities",
+        "It increases data storage capabilities and efficiency",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "Can you use file handling to improve code maintainability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "What is the effect of using the 'x' mode in file handling?",
+      "options": [
+        "It overwrites existing content",
+        "It appends new content",
+        "It creates a file exclusively, failing if it exists",
+        "It reads a file"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 29,
+      "question": "Can you use file handling to handle different data types?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "What happens if you try to remove a directory that is not empty?",
+      "options": [
+        "It removes the directory",
+        "It throws an error",
+        "It does nothing",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "Can you use file handling to improve code security?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "What is the purpose of using the with statement in file handling?",
+      "options": [
+        "To open a file",
+        "To automatically close a file after use",
+        "To read from a file",
+        "To write to a file"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "Can you use file handling to reduce debugging time?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "What is the effect of using the 'w' mode in file handling?",
+      "options": [
+        "It appends new content",
+        "It overwrites existing content",
+        "It creates a file exclusively",
+        "It reads a file"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "Can you use file handling to improve code flexibility?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "What happens if you try to open a file in read mode ('r') that does not exist?",
+      "options": [
+        "It creates the file",
+        "It throws an error",
+        "It does nothing",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "Can you use file handling to handle exceptions?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "What is the purpose of using the os module in file handling?",
+      "options": [
+        "To open files",
+        "To perform operations like renaming and deleting files and directories",
+        "To read from a file",
+        "To write to a file"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "Can you use file handling to improve code maintainability by organizing related data and behavior?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "What is the benefit of using the 'a' mode in file handling?",
+      "options": [
+        "It overwrites existing content",
+        "It appends new content without deleting existing content",
+        "It creates a file exclusively",
+        "It reads a file"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 41,
+      "question": "Can you use file handling to improve code security by restricting unauthorized access?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "What is the effect of using the 'x' mode in file handling?",
+      "options": [
+        "It overwrites existing content",
+        "It appends new content",
+        "It creates a file exclusively, failing if it exists",
+        "It reads a file"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 43,
+      "question": "Can you use file handling to simplify complex tasks?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "What is the purpose of using the close() method in file handling?",
+      "options": [
+        "To open a file",
+        "To close a file and free system resources",
+        "To read from a file",
+        "To write to a file"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "Can you use file handling to improve code flexibility by providing different file operations?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "What happens if you try to delete a directory that contains files?",
+      "options": [
+        "It removes the directory",
+        "It throws an error",
+        "It does nothing",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "Can you use file handling to improve code readability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "What is the benefit of using file handling in real-world applications?",
+      "options": [
+        "It reduces data storage capabilities",
+        "It increases data storage capabilities and efficiency",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "Can you use file handling to handle different scenarios based on input?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Can you use file handling to improve code maintainability by organizing related data and behavior?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    }
+]
+  

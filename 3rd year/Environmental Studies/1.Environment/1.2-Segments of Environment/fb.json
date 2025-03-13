@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "The ________ is the layer of air that surrounds the Earth.",
+      "options": [
+        "Hydrosphere",
+        "Biosphere",
+        "Atmosphere",
+        "Lithosphere"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "The segment of the environment that includes all water bodies is called the ________.",
+      "options": [
+        "Lithosphere",
+        "Atmosphere",
+        "Biosphere",
+        "Hydrosphere"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "The ________ provides oxygen for humans and animals to breathe.",
+      "options": [
+        "Hydrosphere",
+        "Biosphere",
+        "Lithosphere",
+        "Atmosphere"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "The land we live on is part of the ________.",
+      "options": [
+        "Biosphere",
+        "Lithosphere",
+        "Hydrosphere",
+        "Atmosphere"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Humans, animals, and plants are part of the ________.",
+      "options": [
+        "Biosphere",
+        "Hydrosphere",
+        "Lithosphere",
+        "Atmosphere"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "The Amazon rainforest is an example of the ________.",
+      "options": [
+        "Atmosphere",
+        "Biosphere",
+        "Hydrosphere",
+        "Lithosphere"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Oceans, rivers, and lakes belong to the ________.",
+      "options": [
+        "Lithosphere",
+        "Hydrosphere",
+        "Atmosphere",
+        "Biosphere"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Mountains, valleys, and soil are part of the ________.",
+      "options": [
+        "Lithosphere",
+        "Biosphere",
+        "Atmosphere",
+        "Hydrosphere"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The process of rain formation occurs in the ________.",
+      "options": [
+        "Lithosphere",
+        "Biosphere",
+        "Hydrosphere",
+        "Atmosphere"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 10,
+      "question": "Underground water is part of the ________.",
+      "options": [
+        "Biosphere",
+        "Hydrosphere",
+        "Lithosphere",
+        "Atmosphere"
+      ],
+      "answer": 2
+    }
+]
+  

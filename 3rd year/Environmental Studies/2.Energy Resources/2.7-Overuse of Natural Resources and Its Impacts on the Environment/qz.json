@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "What are renewable natural resources?",
+      "options": [
+        "Resources that cannot be replaced",
+        "Resources that take millions of years to form",
+        "Resources that can be naturally replenished",
+        "Resources that do not exist in nature"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an example of a non-renewable resource?",
+      "options": [
+        "Sunlight",
+        "Wind",
+        "Coal",
+        "Water"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What is meant by the overuse of natural resources?",
+      "options": [
+        "Using resources faster than they can be replenished",
+        "Using resources at a sustainable rate",
+        "Not using natural resources at all",
+        "Using only renewable resources"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which human activity contributes the most to deforestation?",
+      "options": [
+        "Fishing",
+        "Mining",
+        "Logging and agriculture",
+        "Urban gardening"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is a major cause of overuse of natural resources?",
+      "options": [
+        "Population growth",
+        "Reduction in industrialization",
+        "Use of renewable energy",
+        "Water conservation"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a major consequence of deforestation?",
+      "options": [
+        "Improved soil fertility",
+        "Loss of biodiversity",
+        "Increase in freshwater resources",
+        "Stabilization of climate"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What is one of the main environmental impacts of burning fossil fuels?",
+      "options": [
+        "Reduction in air pollution",
+        "Increase in biodiversity",
+        "Global warming",
+        "Soil conservation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "How does overfishing impact marine ecosystems?",
+      "options": [
+        "Increases fish population",
+        "Leads to the extinction of fish species",
+        "Reduces water pollution",
+        "Creates more habitat for fish"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a renewable source of energy?",
+      "options": [
+        "Petroleum",
+        "Solar energy",
+        "Coal",
+        "Natural gas"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is a sustainable solution to prevent desertification?",
+      "options": [
+        "Overgrazing",
+        "Afforestation",
+        "Excessive water usage",
+        "Deforestation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "What is a consequence of groundwater depletion?",
+      "options": [
+        "Increase in freshwater supply",
+        "Drying up of rivers and lakes",
+        "Improvement in biodiversity",
+        "Increased fish population"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "What does sustainable farming help with?",
+      "options": [
+        "Overuse of fertilizers",
+        "Soil conservation",
+        "Soil erosion",
+        "Reduction in crop yield"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which of these contributes to climate change?",
+      "options": [
+        "Use of wind energy",
+        "Burning fossil fuels",
+        "Afforestation",
+        "Sustainable farming"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "What is a negative effect of industrialization?",
+      "options": [
+        "Increased biodiversity",
+        "Reduced soil erosion",
+        "Overexploitation of resources",
+        "Sustainable energy production"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "What is an example of a sustainable practice?",
+      "options": [
+        "Using solar panels",
+        "Overgrazing",
+        "Overfishing",
+        "Burning fossil fuels"
+      ],
+      "answer": 1
+    }
+]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What does Environmental Studies primarily focus on?",
+      "options": [
+        "The study of air and water only",
+        "The study of the environment, its problems, and solutions",
+        "The study of animals and plants only",
+        "The study of space and planets"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Why is Environmental Studies important?",
+      "options": [
+        "To understand financial systems",
+        "To explore the universe",
+        "To understand and protect the environment",
+        "To improve technology only"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT a reason for studying Environmental Studies?",
+      "options": [
+        "To understand nature",
+        "To increase pollution",
+        "To solve environmental problems",
+        "To ensure a better future"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which of these is a major cause of environmental problems?",
+      "options": [
+        "Growing population and resource consumption",
+        "Improved education systems",
+        "Advancements in medical science",
+        "Better transportation facilities"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "How does pollution affect the environment?",
+      "options": [
+        "It makes the environment healthier",
+        "It reduces environmental problems",
+        "It causes air, water, and land contamination",
+        "It has no effect on nature"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "What is an example of air pollution?",
+      "options": [
+        "Oil spill in the ocean",
+        "Plastic waste in rivers",
+        "Smoke from factories and vehicles",
+        "Deforestation in rainforests"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Which environmental issue is caused by deforestation?",
+      "options": [
+        "Increase in biodiversity",
+        "Loss of oxygen supply and habitat destruction",
+        "More availability of clean air",
+        "Increase in water resources"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What is an example of sustainable development?",
+      "options": [
+        "Burning coal for electricity",
+        "Using solar energy instead of coal",
+        "Overfishing in oceans",
+        "Cutting trees for paper production"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Which of the following helps in reducing water pollution?",
+      "options": [
+        "Dumping waste into rivers",
+        "Reducing the use of plastic and recycling",
+        "Using more pesticides in farming",
+        "Burning garbage near water bodies"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Why is waste management important?",
+      "options": [
+        "To increase pollution",
+        "To spread diseases",
+        "To keep the environment clean and prevent health issues",
+        "To create more waste"
+      ],
+      "answer": 3
+    }
+]
+  

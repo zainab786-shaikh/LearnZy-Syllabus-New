@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that Article 48-A of the Indian Constitution directs the State to protect and improve the environment.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that Article 51-A (g) is a Directive Principle of State Policy.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "The Environment (Protection) Act, 1986 was enacted before the Bhopal Gas Tragedy.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "The Air (Prevention and Control of Pollution) Act, 1981 regulates industrial and vehicular emissions.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "The Water (Prevention and Control of Pollution) Act, 1974 allows industries to discharge pollutants into rivers without permission.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "Article 51-A (g) makes it a fundamental duty for citizens to protect and improve the natural environment.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The Wildlife Protection Act, 1972 allows hunting of endangered species.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "The Central Pollution Control Board (CPCB) monitors air and water pollution levels in India.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "The Maharashtra Pollution Control Board (MPCB) operates at the national level.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Greenpeace India is an NGO that works on climate change and air pollution.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "The Forest Conservation Act, 1980 was enacted to encourage deforestation.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "The CPCB sets pollution control standards for industries across India.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "PETA India works mainly for environmental pollution control.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "Narmada Bachao Andolan was an initiative to prevent river pollution in the Ganga.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "The Chipko Movement was a grassroots movement to protect forests.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "CPCB was established under the Wildlife Protection Act, 1972.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "Industries need permission from pollution control boards before releasing waste into water bodies.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "Swachh Bharat Abhiyan was initiated by an NGO without any government involvement.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "The Air Act, 1981 focuses only on water pollution control.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "Article 48-A applies to every Indian citizen as a fundamental duty.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "The Clean Ganga Mission is an example of an initiative aligned with Article 48-A.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "The National Afforestation Programme was launched to increase air quality in urban areas.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "MPCB can grant or deny permission to industries based on environmental impact.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "WWF India mainly focuses on wildlife conservation.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "CPCB and SPCBs have no authority to take action against industries violating pollution norms.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "The Environment Protection Act, 1986 is India's primary law for environmental protection.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "CPCB has no role in setting vehicle emission norms.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "Citizens have no role in protecting the environment according to the Indian Constitution.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "The Wildlife Protection Act, 1972 was enacted to protect endangered species.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "Article 51-A (g) makes it a duty for citizens to show compassion towards animals.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "The Forest Conservation Act, 1980 allows unrestricted clearing of forests for urban development.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "NGOs play a role in spreading environmental awareness and conservation efforts.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "CPCB and MPCB have no role in running awareness campaigns on environmental issues.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "Article 48-A can be enforced directly in a court of law.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "Pollution Control Boards monitor and regulate pollution from industries.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "The Maharashtra Pollution Control Board has no authority over industrial pollution in the state.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "The Save Aarey Movement opposed tree cutting in Aarey forest, Mumbai.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "Industries violating pollution norms cannot be penalized by MPCB.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "The Air Act, 1981 and Water Act, 1974 established the Central Pollution Control Board.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "Citizens can contribute to environmental protection by following the 3Rs: Reduce, Reuse, Recycle.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "Burning of waste is promoted under environmental protection laws.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "Deforestation has no impact on climate change.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "Illegal mining and deforestation contribute to environmental degradation.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "India has no laws to regulate industrial pollution.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "CPCB is responsible for ensuring industries comply with pollution control norms.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "Dumping untreated industrial waste into rivers is allowed under the Water Act, 1974.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "Tree plantation drives are an effective way to improve air quality.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "Environmental laws in India are only applicable to industries and not individuals.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "Public participation plays no role in environmental protection efforts.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "The Environment Protection Act gives the central government the power to take measures for environmental protection.",
+      "answer": true
+    }
+]
+  

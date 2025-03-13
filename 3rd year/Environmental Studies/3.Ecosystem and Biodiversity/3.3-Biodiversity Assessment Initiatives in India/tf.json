@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "Biodiversity refers to the variety of life on Earth, including plants, animals, and microorganisms.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "The Biological Diversity Act (2002) does not require companies to seek permission before using biological resources.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "The Indian Biodiversity Information System (IBIS) is a digital platform that collects and shares biodiversity data.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "The National Biodiversity Action Plan (NBAP) focuses only on protecting endangered animals.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "The Himalayas are one of India's four biodiversity hotspots.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Biodiversity assessment is important for conservation planning and sustainable development.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The Indo-Burma region is not considered a biodiversity hotspot in India.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "The Western Ghats contain species like the Lion-tailed macaque and Malabar civet.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "The Zoological Survey of India (ZSI) is responsible for studying plant species in India.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "The Botanical Survey of India (BSI) documents and classifies plant species.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "The Wildlife Protection Act (1972) played a key role in saving the Royal Bengal Tiger.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "The Indian State of Forest Report (ISFR) is published every year.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "The People’s Biodiversity Registers (PBRs) involve local communities in documenting biodiversity.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "Biodiversity assessment does not contribute to climate change mitigation.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "Overexploitation of natural resources does not affect biodiversity.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "The National Mission for Green India (GIM) aims to increase forest and tree cover.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "The All India Coordinated Project on Taxonomy (AICOPTAX) focuses on classifying and recording species.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "Biodiversity loss is mainly caused by natural disasters, not human activities.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "Mangrove forests are important for marine biodiversity.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "Habitat destruction has no impact on biodiversity conservation.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "Climate change does not affect biodiversity hotspots.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "Invasive species can outcompete native species and reduce biodiversity.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "India is home to the Great Indian Bustard, one of the world’s most endangered birds.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "Coral reefs are dying due to rising sea temperatures, a phenomenon called coral bleaching.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "Plastic waste in the ocean has no effect on marine biodiversity.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "The Dugong is a species found in India’s Sundaland region.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "ZSI and BSI help in discovering new species in India.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "The water hyacinth is a native species that helps improve water quality.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "The Amazon Rainforest is a biodiversity hotspot located in India.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "Overfishing can lead to a decline in fish populations such as tuna and cod.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "The Indian State of Forest Report provides data on deforestation rates.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "National parks and wildlife sanctuaries are established under the Wildlife Protection Act.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "Biodiversity has no impact on agriculture or medicine.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "The Great Indian Bustard is found in dense forests.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "Restoring degraded ecosystems is a goal of the National Mission for Green India.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "The Biological Diversity Act (2002) was passed to regulate and protect biodiversity.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "Climate change can cause droughts, floods, and extreme temperatures, impacting biodiversity.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "The National Biodiversity Authority (NBA) does not regulate the use of biological resources.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "Tourism does not benefit from biodiversity conservation.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "The Sundaland biodiversity hotspot includes the Andaman and Nicobar Islands.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "Oil spills do not affect marine biodiversity.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "Local communities play no role in biodiversity conservation.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "Biodiversity helps in nutrient recycling and climate regulation.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "Biodiversity hotspots are regions with low species diversity.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "Poaching of elephants for ivory has made them endangered.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "Sustainable farming and fishing can help protect biodiversity.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "The Biological Diversity Act promotes the unrestricted use of biological resources.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "Deforestation leads to habitat destruction and loss of biodiversity.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "The People’s Biodiversity Registers help record local plant and animal species.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "Biodiversity assessment is essential for sustainable development and conservation efforts.",
+      "answer": true
+    }
+]
+  

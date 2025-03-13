@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "question": "Environmental Studies is the study of human activities only.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "Pollution is a major concern addressed in Environmental Studies.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Deforestation leads to an increase in biodiversity.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "Sustainable development aims to balance economic growth with environmental protection.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Climate change has no impact on sea levels.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "Recycling helps in reducing waste and conserving natural resources.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Using solar energy is an example of sustainable development.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Cutting down forests has no effect on oxygen levels.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "Air pollution is caused only by factories.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Water pollution affects marine life negatively.",
+      "answer": true
+    }
+]
+  

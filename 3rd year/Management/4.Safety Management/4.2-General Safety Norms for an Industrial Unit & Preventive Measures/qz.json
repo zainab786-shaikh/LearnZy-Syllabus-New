@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary purpose of general safety norms in industrial units?",
+      "options": [
+        "To reduce productivity",
+        "To increase costs",
+        "To protect workers, machines, and the environment",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Why is the use of Personal Protective Equipment (PPE) important in industrial settings?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It protects workers from injuries in hazardous areas",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What is an example of PPE used in a welding factory?",
+      "options": [
+        "Only helmets",
+        "Only gloves",
+        "Safety glasses and gloves to protect from sparks and high temperatures",
+        "No PPE is required"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Why is proper machine handling and maintenance crucial in industrial units?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on safety",
+        "It prevents accidents by ensuring machines are used safely and maintained regularly",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What happens if a conveyor belt in a factory is not maintained properly?",
+      "options": [
+        "Efficiency increases",
+        "Safety improves",
+        "Accidents may occur due to sudden stops or erratic movement",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Why are fire safety measures important in industrial settings?",
+      "options": [
+        "They reduce safety",
+        "They have no impact on safety",
+        "They prevent and control fires by installing fire extinguishers and marking exits",
+        "They only affect productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "What is an example of fire safety in a textile factory?",
+      "options": [
+        "Not installing fire extinguishers",
+        "Installing fire extinguishers to quickly control fires",
+        "Reducing fire safety protocols",
+        "Eliminating fire drills"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Why is proper ventilation important in chemical plants?",
+      "options": [
+        "It reduces air quality",
+        "It has no impact on air quality",
+        "It maintains air quality by removing harmful fumes",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "What happens if workers handling toxic gases do not wear respiratory masks?",
+      "options": [
+        "Health risks decrease",
+        "Safety improves",
+        "Health risks increase due to inhalation of harmful gases",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Why is safe electrical installation important in industrial units?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents fires and electrocution by maintaining proper wiring and avoiding overloaded circuits",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "What is an example of safe electrical installation in a metal factory?",
+      "options": [
+        "Ignoring electrical maintenance",
+        "Maintaining electrical equipment to prevent short circuits",
+        "Reducing electrical safety protocols",
+        "Eliminating electrical inspections"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Why is emergency preparedness important in industrial settings?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures readiness for emergencies like accidents or fires",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "What is an example of emergency preparedness in a factory?",
+      "options": [
+        "Not having first aid kits",
+        "Having first aid kits and conducting regular emergency drills",
+        "Reducing emergency training",
+        "Eliminating emergency contact numbers"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Why is proper storage and handling of hazardous materials important?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents accidents by storing chemicals safely and using protective gear",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "What happens if hazardous materials are not stored properly?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to improper storage",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "How does conducting regular safety audits impact industrial safety?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It helps identify and fix potential hazards before accidents occur",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Why is providing safety training to workers important?",
+      "options": [
+        "It reduces safety awareness",
+        "It has no impact on safety awareness",
+        "It educates workers on handling machines and emergency situations",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "What is an example of safety training in a factory?",
+      "options": [
+        "Not training workers on fire extinguishers",
+        "Training workers to use fire extinguishers",
+        "Reducing safety training",
+        "Eliminating emergency drills"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Why is installing safety signage important in industrial settings?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It warns workers of potential hazards",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "What is an example of safety signage in a factory?",
+      "options": [
+        "Not placing warning signs",
+        "Placing a “Caution: Wet Floor” sign in slippery areas",
+        "Reducing safety signs",
+        "Eliminating warning labels"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Why is enforcing safety rules strictly important?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures compliance with safety protocols and reduces accidents",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "What happens if safety rules are not enforced strictly in a factory?",
+      "options": [
+        "Accidents decrease",
+        "Safety improves",
+        "Accidents increase due to lack of compliance",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 23,
+      "question": "How does using automation impact safety in industrial settings?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It reduces human involvement in risky tasks and improves safety",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 24,
+      "question": "What is an example of using automation for safety in car manufacturing?",
+      "options": [
+        "Not using robots for welding",
+        "Using robots for hazardous tasks like welding",
+        "Reducing automation",
+        "Eliminating safety protocols"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Why is a safe working environment important for employee morale?",
+      "options": [
+        "It decreases morale",
+        "It has no impact on morale",
+        "It improves morale by providing a secure workplace",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 26,
+      "question": "How does industrial safety impact organizational reputation?",
+      "options": [
+        "It decreases reputation",
+        "It has no impact on reputation",
+        "It improves reputation by demonstrating a commitment to safety",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 27,
+      "question": "What is the role of OSHA standards in ensuring workplace safety?",
+      "options": [
+        "To reduce safety",
+        "To have no impact on safety",
+        "To provide guidelines for protecting workers from hazards",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 28,
+      "question": "Why is hazard communication important in industrial settings?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures workers are aware of potential hazards and safe handling procedures",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 29,
+      "question": "What happens if hazardous materials are not properly labeled?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to lack of hazard awareness",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question": "How does regular equipment maintenance impact industrial safety?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents accidents by ensuring equipment is in good working condition",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 31,
+      "question": "What is the benefit of having a comprehensive safety program in a manufacturing plant?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It improves safety and productivity by reducing accidents",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 32,
+      "question": "Why is emergency preparedness important in preventing environmental disasters?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures readiness to respond to emergencies like chemical spills",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 33,
+      "question": "What happens if safety audits are not conducted regularly?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to undetected hazards",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 34,
+      "question": "How does providing safety training impact employee engagement?",
+      "options": [
+        "It decreases engagement",
+        "It has no impact on engagement",
+        "It increases engagement by providing a safe work environment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 35,
+      "question": "What is the role of safety signage in preventing accidents?",
+      "options": [
+        "To reduce safety",
+        "To have no impact on safety",
+        "To warn workers of potential hazards",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "Why is enforcing safety rules important for reducing workplace injuries?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures compliance with safety protocols and reduces injuries",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 37,
+      "question": "What happens if automation is not used in hazardous tasks?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to human involvement in risky tasks",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 38,
+      "question": "How does industrial safety impact organizational sustainability?",
+      "options": [
+        "It decreases sustainability",
+        "It has no impact on sustainability",
+        "It improves sustainability by preventing environmental hazards",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 39,
+      "question": "What is the benefit of having a safe working environment in terms of productivity?",
+      "options": [
+        "It reduces productivity",
+        "It has no impact on productivity",
+        "It improves productivity by reducing downtime due to injuries",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 40,
+      "question": "Why is proper storage of hazardous materials important?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents accidents by storing chemicals safely",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 41,
+      "question": "What happens if fire safety measures are not implemented in a factory?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to lack of fire prevention measures",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 42,
+      "question": "How does industrial safety impact employee retention?",
+      "options": [
+        "It decreases retention",
+        "It has no impact on retention",
+        "It increases retention by providing a safe work environment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 43,
+      "question": "What is the role of OSHA standards in ensuring compliance with safety regulations?",
+      "options": [
+        "To reduce compliance",
+        "To have no impact on compliance",
+        "To provide guidelines for protecting workers from hazards",
+        "To only affect productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 44,
+      "question": "Why is hazard communication important for workers handling hazardous materials?",
+      "options": [
+        "It reduces safety awareness",
+        "It has no impact on safety awareness",
+        "It ensures workers are aware of potential hazards and safe handling procedures",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 45,
+      "question": "What happens if safety data sheets (SDS) are not available for hazardous materials?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to lack of hazard information",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 46,
+      "question": "How does regular equipment maintenance impact employee safety?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents accidents by ensuring equipment is in good working condition",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 47,
+      "question": "What is the benefit of having a comprehensive safety program in a chemical plant?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It improves safety and emergency preparedness",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 48,
+      "question": "Why is emergency preparedness important in industrial settings?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures readiness to respond to emergencies like chemical spills",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 49,
+      "question": "What happens if safety audits are not conducted regularly in a factory?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to undetected hazards",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 50,
+      "question": "What is the overall impact of effective industrial safety norms and preventive measures on organizational performance?",
+      "options": [
+        "It decreases performance",
+        "It has no impact on performance",
+        "It improves performance by preventing accidents and ensuring a safe work environment",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    }
+]
+  

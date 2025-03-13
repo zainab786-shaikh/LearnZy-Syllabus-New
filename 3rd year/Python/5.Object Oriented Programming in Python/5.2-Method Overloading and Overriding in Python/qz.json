@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is method overloading?",
+      "options": [
+        "Creating multiple methods with different names",
+        "Creating multiple methods with the same name but different parameters",
+        "Creating a single method with default parameters",
+        "Creating a single method with variable arguments"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Does Python support method overloading directly?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "How can you achieve method overloading in Python?",
+      "options": [
+        "Using default arguments or *args",
+        "Using method overriding",
+        "Using multiple methods with different names",
+        "Using a single method with no arguments"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "What is the purpose of using default arguments in method overloading?",
+      "options": [
+        "To create multiple methods with the same name",
+        "To make some parameters optional",
+        "To import modules",
+        "To define functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What does *args allow in method overloading?",
+      "options": [
+        "A fixed number of arguments",
+        "A variable number of arguments",
+        "No arguments",
+        "Only default arguments"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is method overriding?",
+      "options": [
+        "Creating multiple methods with the same name in the same class",
+        "A child class redefining a method from its parent class",
+        "A parent class redefining a method from its child class",
+        "Creating a single method with no arguments"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Does Python support method overriding?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of using the super() function in method overriding?",
+      "options": [
+        "To call a method from the child class",
+        "To call a method from the parent class",
+        "To import modules",
+        "To define functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Can you use method overloading and overriding together?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What is the difference between method overloading and method overriding?",
+      "options": [
+        "Overloading is in the same class, overriding is in different classes",
+        "Overloading is in different classes, overriding is in the same class",
+        "Overloading and overriding are the same thing",
+        "Overloading is used for inheritance, overriding is not"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Can you use method overriding to change the behavior of a parent class method?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "What happens if you try to override a method that does not exist in the parent class?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It creates the method automatically",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Can you use method overloading to handle different data types?",
+      "options": [
+        "Yes, using default arguments or *args",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "What is the effect of using method overriding in inheritance?",
+      "options": [
+        "It makes the parent class method inaccessible",
+        "It allows the child class to redefine a parent class method",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Can you use method overloading to improve code readability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "What is the purpose of using method overriding in real-world applications?",
+      "options": [
+        "To make code more complex",
+        "To provide customized behavior in subclasses",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Can you use method overloading to reduce code repetition?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "What happens if you try to call a method that is overridden?",
+      "options": [
+        "It calls the parent class method",
+        "It calls the child class method",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Can you use method overriding to improve code maintainability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What is the effect of using the super() function in method overriding?",
+      "options": [
+        "It calls the child class method",
+        "It calls the parent class method",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Can you use method overloading to handle different scenarios based on input?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "What is the purpose of using method overriding in object-oriented programming?",
+      "options": [
+        "To make code more procedural",
+        "To provide customized behavior in subclasses",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Can you use method overloading to improve code efficiency?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "What happens if you try to override a method without using the super() function?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It calls the parent class method automatically",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Can you use method overriding to handle exceptions?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "What is the effect of using method overloading in Python?",
+      "options": [
+        "It makes code more complex",
+        "It provides flexibility in method calls",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "Can you use method overriding to improve code flexibility?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "What happens if you try to access a method that is overridden without creating an object?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It creates the object automatically",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Can you use method overloading to simplify complex tasks?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "What is the purpose of using method overriding in team projects?",
+      "options": [
+        "To make code more complex",
+        "To divide workload by creating different classes",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "Can you use method overloading to improve code readability by structuring code into logical units?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "What happens if you try to override a method that does not exist in the parent class without using the super() function?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It creates the method automatically",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "Can you use method overriding to reduce debugging time?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "What is the effect of using method overriding in modular programming?",
+      "options": [
+        "It makes code more complex",
+        "It breaks down code into smaller reusable modules",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "Can you use method overloading to improve code maintainability by organizing related data and behavior?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "What happens if you try to create an object without a class?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It creates the class automatically",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "Can you use method overriding to improve code security?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "What is the purpose of using method overriding in object-oriented programming?",
+      "options": [
+        "To make code more procedural",
+        "To provide customized behavior in subclasses",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "Can you use method overloading to handle different tasks like networking and file I/O?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "What happens if you try to access a method that is overridden without creating an object?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It creates the object automatically",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Can you use method overloading to improve code efficiency by reducing repetition?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "What is the effect of using method overriding in object-oriented programming?",
+      "options": [
+        "It makes code more modular and reusable",
+        "It makes code more procedural",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "Can you use method overloading to simplify complex tasks by organizing code into reusable components?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "What is the purpose of using method overriding in real-world applications?",
+      "options": [
+        "To make code more complex",
+        "To provide customized behavior in subclasses",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "Can you use method overloading to improve code readability by structuring code into logical units?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "What happens if you try to override a method without using the super() function?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It calls the parent class method automatically",
+        "It imports a module"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "Can you use method overriding to handle exceptions?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "What is the effect of using method overloading in Python?",
+      "options": [
+        "It makes code more complex",
+        "It provides flexibility in method calls",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "Can you use method overriding to improve code flexibility?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Can you use method overloading to simplify complex tasks by organizing code into reusable components?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    }
+]
+  

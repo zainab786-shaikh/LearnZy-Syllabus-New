@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is an ecosystem?",
+      "options": [
+        "A system where living organisms interact with non-living components",
+        "A place where only animals live",
+        "A human-made environment",
+        "A location with only plants and trees"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a biotic component of an ecosystem?",
+      "options": [
+        "Sunlight",
+        "Water",
+        "Soil",
+        "Trees"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an abiotic component?",
+      "options": [
+        "Animals",
+        "Microorganisms",
+        "Air",
+        "Plants"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What is an example of a terrestrial ecosystem?",
+      "options": [
+        "Ocean",
+        "Lake",
+        "Desert",
+        "River"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Which of these is a natural ecosystem?",
+      "options": [
+        "Aquarium",
+        "Zoo",
+        "Forest",
+        "Crop field"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "What is an example of an artificial ecosystem?",
+      "options": [
+        "Rainforest",
+        "Desert",
+        "Lake",
+        "Aquarium"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a freshwater ecosystem?",
+      "options": [
+        "Ocean",
+        "River",
+        "Coral reef",
+        "Seashore"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which ecosystem has organisms like whales, sharks, and corals?",
+      "options": [
+        "Forest",
+        "Freshwater",
+        "Marine",
+        "Desert"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is an example of energy flow in an ecosystem?",
+      "options": [
+        "Sun → Plants → Deer → Tiger",
+        "Tiger → Deer → Sun → Plants",
+        "Plants → Sun → Soil → Water",
+        "Sun → Soil → Rocks → Air"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "What do decomposers do in an ecosystem?",
+      "options": [
+        "Produce food",
+        "Break down dead organisms",
+        "Hunt for food",
+        "Store energy"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a producer in an ecosystem?",
+      "options": [
+        "Lion",
+        "Fungi",
+        "Grass",
+        "Tiger"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Which of these is a function of an ecosystem?",
+      "options": [
+        "Balancing gases",
+        "Stopping rain",
+        "Eliminating decomposers",
+        "Preventing food chains"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is an example of a food chain?",
+      "options": [
+        "Plants → Deer → Tiger",
+        "Water → Fish → Soil",
+        "Plants → Soil → Air",
+        "Rocks → Trees → Animals"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which process helps recycle nutrients in an ecosystem?",
+      "options": [
+        "Water cycle",
+        "Nutrient cycling",
+        "Rock formation",
+        "Sunlight absorption"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is an example of interdependence in an ecosystem?",
+      "options": [
+        "Birds needing trees for nesting",
+        "Fish creating their own water",
+        "Sunlight producing food",
+        "Rocks growing into trees"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "What helps maintain the balance of gases in an ecosystem?",
+      "options": [
+        "Trees absorbing carbon dioxide",
+        "Animals breathing nitrogen",
+        "Oceans eliminating oxygen",
+        "Rocks producing gases"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Which ecosystem is called the 'lungs of the Earth'?",
+      "options": [
+        "Desert",
+        "Amazon Rainforest",
+        "Tundra",
+        "Coral reefs"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Which process helps in climate regulation?",
+      "options": [
+        "Burning fossil fuels",
+        "Deforestation",
+        "Absorbing carbon dioxide",
+        "Polluting rivers"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "Which type of ecosystem is a grassland?",
+      "options": [
+        "Artificial",
+        "Aquatic",
+        "Terrestrial",
+        "Marine"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "What is the role of decomposers in the ecosystem?",
+      "options": [
+        "Producing food",
+        "Breaking down dead matter",
+        "Hunting prey",
+        "Storing energy"
+      ],
+      "answer": 2
+    }
+]
+  

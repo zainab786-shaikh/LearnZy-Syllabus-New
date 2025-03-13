@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Biodiversity refers to the variety of ________ on Earth.",
+      "options": [
+        "ecosystems",
+        "species",
+        "natural resources",
+        "living organisms"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 2,
+      "question": "The primary goal of biodiversity conservation is to protect species and ________.",
+      "options": [
+        "ecosystems",
+        "rivers",
+        "land",
+        "industries"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "The Bengal tiger is protected under the ________ Tiger Reserve.",
+      "options": [
+        "Sundarbans",
+        "Kaziranga",
+        "Jim Corbett",
+        "Gir"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "The Great Indian Bustard is a rare bird found in ________.",
+      "options": [
+        "Karnataka",
+        "Maharashtra",
+        "Rajasthan",
+        "Tamil Nadu"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "Deforestation leads to habitat loss and contributes to ________ change.",
+      "options": [
+        "economic",
+        "cultural",
+        "climate",
+        "political"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "________ National Park in India protects the one-horned rhinoceros.",
+      "options": [
+        "Jim Corbett",
+        "Kaziranga",
+        "Sundarbans",
+        "Gir"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Sustainable use of resources ensures they do not get ________.",
+      "options": [
+        "wasted",
+        "exhausted",
+        "damaged",
+        "destroyed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "The ________ Act, 1972, protects wild animals and plants from hunting and trade in India.",
+      "options": [
+        "Biological Diversity",
+        "Environment Protection",
+        "Wildlife Protection",
+        "Forest Conservation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "The Forest Conservation Act, ________, prevents deforestation.",
+      "options": [
+        "1972",
+        "1980",
+        "1992",
+        "2002"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "The Environment Protection Act, ________, helps in protecting air, water, and land biodiversity.",
+      "options": [
+        "1972",
+        "1980",
+        "1986",
+        "2002"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "The Convention on Biological Diversity (CBD) was signed in ________.",
+      "options": [
+        "1972",
+        "1980",
+        "1992",
+        "2002"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "The Ramsar Convention aims to protect important ________ areas.",
+      "options": [
+        "desert",
+        "wetland",
+        "forest",
+        "mountain"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "CITES bans the trade of ________ animals and plants.",
+      "options": [
+        "medicinal",
+        "endangered",
+        "agricultural",
+        "aquatic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "The Amazon Rainforest is often called the '________ of the Earth'.",
+      "options": [
+        "Heart",
+        "Lungs",
+        "Brain",
+        "Kidney"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Agroforestry helps conserve biodiversity by growing ________ along with crops.",
+      "options": [
+        "grasses",
+        "weeds",
+        "trees",
+        "fungi"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "The Himalayas, Indo-Burma, Western Ghats, and Sundaland are India's four major ________.",
+      "options": [
+        "national parks",
+        "biodiversity hotspots",
+        "forests",
+        "rivers"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "The illegal hunting of animals is known as ________.",
+      "options": [
+        "poaching",
+        "conservation",
+        "pollution",
+        "urbanization"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "________ forests are home to the endangered snow leopard.",
+      "options": [
+        "Amazon",
+        "Himalayan",
+        "Sundarbans",
+        "Western Ghats"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Using natural resources responsibly to meet present and future needs is called ________ development.",
+      "options": [
+        "industrial",
+        "sustainable",
+        "technological",
+        "mechanized"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "The introduction of non-native species that harm local ecosystems is called an ________ species.",
+      "options": [
+        "endemic",
+        "invasive",
+        "native",
+        "migratory"
+      ],
+      "answer": 2
+    }
+]
+  

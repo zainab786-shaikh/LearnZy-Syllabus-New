@@ -1,0 +1,180 @@
+<div>
+    <h2>5.1 Creating Classes and Objects in Python</h2>
+    <h3>Introduction</h3>
+    <p>Python is an object-oriented programming (OOP) language. This means it allows us to create objects that represent real-world things like cars, people, or bank accounts.</p>
+    <p>To create these objects, we need classes. A class is like a blueprint or template, and an object is an actual instance made using that blueprint.</p>
+    
+    <h3>Example in Real Life:</h3>
+    <ul>
+      <li><strong>Class:</strong> A "Car Blueprint" (describes a car’s color, model, speed, etc.)</li>
+      <li><strong>Object:</strong> A real car built from that blueprint (e.g., a red Toyota, a blue Honda, etc.)</li>
+    </ul>
+    
+    <h3>What is a Class?</h3>
+    <p>A class is a template that defines the properties (variables) and behaviors (functions) of an object.</p>
+    
+    <h4>Syntax for Creating a Class</h4>
+    <pre>
+    <code>
+    class ClassName:
+        # Class body (variables and methods)
+    </code>
+    </pre>
+    
+    <h3>Example of a Class</h3>
+    <pre>
+    <code>
+    class Car:
+        brand = "Toyota"
+        color = "Red"
+    </code>
+    </pre>
+    
+    <h3>What is an Object?</h3>
+    <p>An object is an instance of a class. If the class is a blueprint, an object is the actual product created using that blueprint.</p>
+    
+    <h4>Syntax for Creating an Object</h4>
+    <pre>
+    <code>
+    object_name = ClassName()
+    </code>
+    </pre>
+    
+    <h3>Example of Creating an Object</h3>
+    <pre>
+    <code>
+    my_car = Car()
+    print(my_car.brand)  # Output: Toyota
+    print(my_car.color)  # Output: Red
+    </code>
+    </pre>
+    
+    <h3>Using the __init__() Method (Constructor)</h3>
+    <p>In Python, the __init__() method is a special function that automatically runs when we create an object. It is used to initialize attributes.</p>
+    
+    <h4>Example of __init__() Method</h4>
+    <pre>
+    <code>
+    class Car:
+        def __init__(self, brand, color):
+            self.brand = brand
+            self.color = color
+  
+    # Creating objects with different values
+    car1 = Car("Toyota", "Red")
+    car2 = Car("Honda", "Blue")
+  
+    print(car1.brand, car1.color)  # Output: Toyota Red
+    print(car2.brand, car2.color)  # Output: Honda Blue
+    </code>
+    </pre>
+    
+    <h3>Adding Methods (Functions in a Class)</h3>
+    <p>A method is a function defined inside a class that performs an action.</p>
+    
+    <h4>Example: Creating a Method</h4>
+    <pre>
+    <code>
+    class Car:
+        def __init__(self, brand, color):
+            self.brand = brand
+            self.color = color
+  
+        def show_details(self):  # Method
+            print(f"This is a {self.color} {self.brand}.")
+  
+    # Creating objects
+    car1 = Car("Toyota", "Red")
+    car2 = Car("Honda", "Blue")
+  
+    # Calling the method
+    car1.show_details()  # Output: This is a Red Toyota.
+    car2.show_details()  # Output: This is a Blue Honda.
+    </code>
+    </pre>
+    
+    <h3>Creating Multiple Objects</h3>
+    <h4>Example: Multiple Objects</h4>
+    <pre>
+    <code>
+    class Student:
+        def __init__(self, name, age):
+            self.name = name
+            self.age = age
+  
+        def introduce(self):
+            print(f"Hello, my name is {self.name} and I am {self.age} years old.")
+  
+    # Creating multiple student objects
+    student1 = Student("Alice", 20)
+    student2 = Student("Bob", 22)
+  
+    student1.introduce()  # Output: Hello, my name is Alice and I am 20 years old.
+    student2.introduce()  # Output: Hello, my name is Bob and I am 22 years old.
+    </code>
+    </pre>
+    
+    <h3>Class vs. Object (Key Differences)</h3>
+    <table border="1">
+      <tr>
+        <th>Feature</th>
+        <th>Class</th>
+        <th>Object</th>
+      </tr>
+      <tr>
+        <td>Definition</td>
+        <td>A blueprint/template</td>
+        <td>A real instance of a class</td>
+      </tr>
+      <tr>
+        <td>Example</td>
+        <td>Car class</td>
+        <td>car1 = Car("Toyota", "Red")</td>
+      </tr>
+      <tr>
+        <td>Purpose</td>
+        <td>Defines attributes and methods</td>
+        <td>Holds real data</td>
+      </tr>
+    </table>
+    
+    <h3>Modifying Object Attributes</h3>
+    <pre>
+    <code>
+    car = Car("Ford", "Black")
+    print(car.color)  # Output: Black
+  
+    car.color = "White"  # Changing the color
+    print(car.color)  # Output: White
+    </code>
+    </pre>
+    
+    <h3>Deleting Objects and Attributes</h3>
+    <h4>Example: Deleting an Attribute</h4>
+    <pre>
+    <code>
+    del car.color  # Deletes the color attribute
+    </code>
+    </pre>
+    <h4>Example: Deleting an Object</h4>
+    <pre>
+    <code>
+    del car  # Deletes the entire car object
+    </code>
+    </pre>
+    
+    <h3>Real-World Example: Bank Account</h3>
+    <pre>
+    <code>
+    class BankAccount:
+        def __init__(self, owner, balance):
+            self.owner = owner
+            self.balance = balance
+  
+        def deposit(self, amount):
+            self.balance += amount
+            print(f"{amount} deposited. New balance: {self.balance}")
+    </code>
+    </pre>
+</div>
+  

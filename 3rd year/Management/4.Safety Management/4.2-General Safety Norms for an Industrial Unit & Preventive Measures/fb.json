@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Industrial units follow certain safety norms to protect workers, machines, and the ________.",
+      "options": [
+        "environment",
+        "community",
+        "economy",
+        "infrastructure"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Safety norms in industrial units are designed to ________ workers from injuries.",
+      "options": [
+        "protect",
+        "expose",
+        "ignore",
+        "delay"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Industrial safety norms also aim to prevent damage to ________.",
+      "options": [
+        "equipment",
+        "machines",
+        "tools",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "Safety norms ensure a safe and healthy ________ environment.",
+      "options": [
+        "working",
+        "living",
+        "learning",
+        "playing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Industrial safety norms help reduce the risk of accidents like ________ and explosions.",
+      "options": [
+        "fire",
+        "chemical spills",
+        "electrical shocks",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 6,
+      "question": "Workers in hazardous areas must wear appropriate ________ to protect themselves.",
+      "options": [
+        "clothing",
+        "shoes",
+        "helmets",
+        "Personal Protective Equipment (PPE)"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "In a welding factory, workers wear safety glasses and gloves to protect themselves from ________ and high temperatures.",
+      "options": [
+        "sparks",
+        "flames",
+        "heat",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 8,
+      "question": "Industrial machines can be dangerous if they are not used ________.",
+      "options": [
+        "properly",
+        "improperly",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Machines should have ________ stop buttons to prevent accidents.",
+      "options": [
+        "emergency",
+        "automatic",
+        "manual",
+        "remote"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Regular maintenance of moving parts helps prevent ________ and breakdowns.",
+      "options": [
+        "malfunctions",
+        "accidents",
+        "injuries",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 11,
+      "question": "Factories should have ________ safety protocols to prevent and control fires.",
+      "options": [
+        "fire",
+        "electrical",
+        "chemical",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Fire extinguishers and sprinklers should be installed in industrial areas to ________ fires.",
+      "options": [
+        "prevent",
+        "control",
+        "ignite",
+        "delay"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Fire exits should be clearly marked and always ________.",
+      "options": [
+        "accessible",
+        "inaccessible",
+        "visible",
+        "hidden"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Flammable materials should be stored ________ to prevent fires.",
+      "options": [
+        "properly",
+        "improperly",
+        "safely",
+        "dangerously"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Proper ventilation helps maintain ________ quality in industrial areas.",
+      "options": [
+        "air",
+        "water",
+        "soil",
+        "noise"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Exhaust fans and air filters should be installed in ________ plants to remove harmful fumes.",
+      "options": [
+        "chemical",
+        "textile",
+        "paint",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 17,
+      "question": "Workers handling toxic gases should wear ________ masks.",
+      "options": [
+        "respiratory",
+        "surgical",
+        "dust",
+        "gas"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Faulty electrical wiring can cause ________ and electrocution.",
+      "options": [
+        "fires",
+        "short circuits",
+        "overloads",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 19,
+      "question": "Electrical panels should be labeled and accessible only to ________ personnel.",
+      "options": [
+        "authorized",
+        "unauthorized",
+        "trained",
+        "experienced"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Workers should not handle electrical equipment with ________ hands.",
+      "options": [
+        "wet",
+        "dry",
+        "dirty",
+        "clean"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "Every industrial unit should be prepared for emergencies like ________ and chemical spills.",
+      "options": [
+        "accidents",
+        "fires",
+        "explosions",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 22,
+      "question": "First aid kits should be available in every ________ of an industrial unit.",
+      "options": [
+        "department",
+        "section",
+        "floor",
+        "building"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "Workers should be trained in first aid and ________ to handle emergencies.",
+      "options": [
+        "CPR",
+        "first aid",
+        "emergency response",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 24,
+      "question": "Emergency drills should be conducted ________ to ensure preparedness.",
+      "options": [
+        "regularly",
+        "occasionally",
+        "rarely",
+        "never"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Chemicals should be stored in ________ containers to prevent accidents.",
+      "options": [
+        "labeled",
+        "unlabeled",
+        "sealed",
+        "open"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Safety Data Sheets (SDS) should be available for every ________ used in the workplace.",
+      "options": [
+        "chemical",
+        "material",
+        "equipment",
+        "tool"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Preventive measures include conducting regular ________ audits to identify potential hazards.",
+      "options": [
+        "safety",
+        "security",
+        "environmental",
+        "health"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Workers should be educated on how to handle ________ and emergency situations.",
+      "options": [
+        "machines",
+        "chemicals",
+        "equipment",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 29,
+      "question": "Warning signs should be placed in dangerous areas to alert workers of ________ hazards.",
+      "options": [
+        "potential",
+        "actual",
+        "hidden",
+        "visible"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "Strict rules should be enforced regarding ________ and machine usage to prevent accidents.",
+      "options": [
+        "PPE",
+        "safety gear",
+        "protective equipment",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 31,
+      "question": "Automation can reduce human involvement in ________ tasks to improve safety.",
+      "options": [
+        "risky",
+        "safe",
+        "easy",
+        "difficult"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "A safe workplace leads to higher ________ and better employee morale.",
+      "options": [
+        "productivity",
+        "efficiency",
+        "motivation",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 33,
+      "question": "Industrial safety norms and preventive measures are essential to protect workers and the ________.",
+      "options": [
+        "environment",
+        "community",
+        "economy",
+        "infrastructure"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "Safety norms in industrial units are designed to ________ workers from occupational hazards.",
+      "options": [
+        "protect",
+        "expose",
+        "ignore",
+        "delay"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "Industrial safety norms also aim to prevent damage to ________ and equipment.",
+      "options": [
+        "machines",
+        "tools",
+        "vehicles",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 36,
+      "question": "Safety norms ensure a safe and healthy ________ environment for workers.",
+      "options": [
+        "working",
+        "living",
+        "learning",
+        "playing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "Industrial safety norms help reduce the risk of accidents like ________ and chemical spills.",
+      "options": [
+        "fire",
+        "explosions",
+        "electrical shocks",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 38,
+      "question": "Workers in hazardous areas must wear appropriate ________ to protect themselves from injuries.",
+      "options": [
+        "clothing",
+        "shoes",
+        "helmets",
+        "Personal Protective Equipment (PPE)"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 39,
+      "question": "In a welding factory, workers wear safety glasses and gloves to protect themselves from ________ and high temperatures.",
+      "options": [
+        "sparks",
+        "flames",
+        "heat",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 40,
+      "question": "Industrial machines can be dangerous if they are not used ________ and maintained regularly.",
+      "options": [
+        "properly",
+        "improperly",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Machines should have ________ stop buttons to prevent accidents and ensure quick shutdowns.",
+      "options": [
+        "emergency",
+        "automatic",
+        "manual",
+        "remote"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "Regular maintenance of moving parts helps prevent ________ and equipment failures.",
+      "options": [
+        "malfunctions",
+        "accidents",
+        "injuries",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 43,
+      "question": "Factories should have ________ safety protocols to prevent and control fires effectively.",
+      "options": [
+        "fire",
+        "electrical",
+        "chemical",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "Fire extinguishers and sprinklers should be installed in industrial areas to ________ fires quickly.",
+      "options": [
+        "prevent",
+        "control",
+        "ignite",
+        "delay"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "Fire exits should be clearly marked and always ________ to ensure safe evacuation.",
+      "options": [
+        "accessible",
+        "inaccessible",
+        "visible",
+        "hidden"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Flammable materials should be stored ________ to prevent fires and explosions.",
+      "options": [
+        "properly",
+        "improperly",
+        "safely",
+        "dangerously"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "Proper ventilation helps maintain ________ quality by removing harmful fumes.",
+      "options": [
+        "air",
+        "water",
+        "soil",
+        "noise"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "Exhaust fans and air filters should be installed in chemical plants to remove ________ fumes.",
+      "options": [
+        "harmful",
+        "hazardous",
+        "toxic",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 49,
+      "question": "Workers handling toxic gases should wear ________ masks to protect themselves.",
+      "options": [
+        "respiratory",
+        "surgical",
+        "dust",
+        "gas"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Faulty electrical wiring can cause ________ and electrocution, leading to serious injuries.",
+      "options": [
+        "fires",
+        "short circuits",
+        "overloads",
+        "all of the above"
+      ],
+      "answer": 4
+    }
+]
+  

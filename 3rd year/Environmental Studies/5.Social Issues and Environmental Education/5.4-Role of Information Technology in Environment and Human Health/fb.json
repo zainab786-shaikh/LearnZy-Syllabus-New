@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "Information Technology (IT) refers to the use of ________ to store, process, and share information.",
+      "options": [
+        "books",
+        "computers",
+        "radio",
+        "paper records"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The Air Quality Index (AQI) system helps monitor ________ levels in the air.",
+      "options": [
+        "temperature",
+        "humidity",
+        "pollution",
+        "wind speed"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "IT helps in tracking pollution levels in air, water, and ________.",
+      "options": [
+        "soil",
+        "space",
+        "oceans",
+        "plastic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "GIS stands for ________ Information System.",
+      "options": [
+        "General",
+        "Geographic",
+        "Global",
+        "Government"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Smart bins with sensors help in efficient ________ management.",
+      "options": [
+        "water",
+        "waste",
+        "energy",
+        "forest"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Telemedicine allows doctors to provide healthcare services ________.",
+      "options": [
+        "remotely",
+        "only in hospitals",
+        "only in cities",
+        "without internet"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Electronic Health Records (EHR) store patient medical histories in ________ format.",
+      "options": [
+        "physical",
+        "digital",
+        "paper",
+        "verbal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Wearable devices like smartwatches help people track their ________.",
+      "options": [
+        "mood",
+        "health",
+        "age",
+        "diet"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "AI-based tools can detect diseases such as ________ from X-ray images.",
+      "options": [
+        "flu",
+        "cold",
+        "cancer",
+        "headache"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Weather forecasting systems use ________ and computers to predict natural disasters.",
+      "options": [
+        "newspapers",
+        "satellites",
+        "radios",
+        "human predictions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Mobile health apps help patients book ________ online.",
+      "options": [
+        "vacations",
+        "appointments",
+        "houses",
+        "movies"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "IT-based software in solar power plants helps track ________ to maximize energy generation.",
+      "options": [
+        "clouds",
+        "sunlight",
+        "wind speed",
+        "temperature"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Social media campaigns have spread awareness about diseases like ________.",
+      "options": [
+        "COVID-19",
+        "diabetes",
+        "high blood pressure",
+        "influenza"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "E-waste recycling is promoted through ________ that help people locate recycling centers.",
+      "options": [
+        "apps",
+        "books",
+        "posters",
+        "billboards"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Smart grids use IT to distribute ________ efficiently and reduce waste.",
+      "options": [
+        "food",
+        "electricity",
+        "water",
+        "fuel"
+      ],
+      "answer": 2
+    }
+]
+  

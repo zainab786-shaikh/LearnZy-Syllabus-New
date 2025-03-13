@@ -1,0 +1,87 @@
+<div>
+    <h2>4.1 Scheduling Types</h2>
+    <p>In a computer, multiple programs (also called processes) run at the same time. The CPU (Central Processing Unit) is responsible for executing these programs. However, a CPU can only execute one task at a time, so it needs a system to decide which process should run next. This decision-making process is called Scheduling.</p>
+    
+    <h3>1. Scheduling Objectives</h3>
+    <p>Scheduling is done to improve the efficiency of the system. The main objectives of scheduling are:</p>
+    <ul>
+      <li><strong>Maximize CPU Usage</strong> – The CPU should be kept busy as much as possible.</li>
+      <li><strong>Minimize Waiting Time</strong> – No process should wait too long to get the CPU.</li>
+      <li><strong>Fairness</strong> – Every process should get a fair chance to run.</li>
+      <li><strong>Response Time</strong> – The system should respond quickly to user actions.</li>
+      <li><strong>Throughput</strong> – The number of processes completed per unit time should be high.</li>
+      <li><strong>Turnaround Time</strong> – The total time taken by a process to complete should be minimal.</li>
+    </ul>
+    <p><strong>Example:</strong> Imagine a restaurant where customers place orders. The kitchen must decide which order to prepare first. If the kitchen prepares food for one customer for too long, others will have to wait. Proper scheduling ensures that food is prepared efficiently, and customers are served fairly.</p>
+    
+    <h3>2. CPU and I/O Burst Cycles</h3>
+    <p>A process has two types of tasks:</p>
+    <ul>
+      <li><strong>CPU Burst</strong> – When a process is actively using the CPU for calculations.</li>
+      <li><strong>I/O Burst</strong> – When a process is waiting for input/output (like reading from a file or network).</li>
+    </ul>
+    <p><strong>Example:</strong> Consider a student working on a math problem. They first think and calculate (CPU burst). Then they write down the answer (I/O burst). The student repeats this cycle until they finish the problem.</p>
+    
+    <h3>3. Preemptive vs. Non-Preemptive Scheduling</h3>
+    <h4>(a) Preemptive Scheduling</h4>
+    <ul>
+      <li>The CPU can switch from one process to another before a process finishes.</li>
+      <li>A process can be interrupted if a higher-priority task arrives.</li>
+      <li>Ensures better resource allocation but has more overhead.</li>
+    </ul>
+    <p><strong>Example:</strong> Suppose you are talking to a friend on a call, and suddenly, you receive an urgent call. You put your friend on hold and attend the urgent call. This is Preemptive Scheduling, where a more important task interrupts the current task.</p>
+    <p><strong>Common Preemptive Scheduling Algorithms:</strong></p>
+    <ul>
+      <li>Round Robin (RR) – Each process gets a fixed time slot (e.g., 2 seconds). If it doesn't finish, it goes back in the queue.</li>
+      <li>Shortest Remaining Time First (SRTF) – The process with the shortest remaining time gets the CPU next.</li>
+      <li>Priority Scheduling (Preemptive) – The CPU switches to the highest priority task.</li>
+    </ul>
+    
+    <h4>(b) Non-Preemptive Scheduling</h4>
+    <ul>
+      <li>The CPU does not switch from one process to another until the running process completes its execution.</li>
+      <li>Simple but can cause long waiting times.</li>
+    </ul>
+    <p><strong>Example:</strong> Imagine you are at a bank, and there is only one cashier. Once a customer starts their transaction, the cashier does not leave them until they finish, even if someone else has urgent work. This is Non-Preemptive Scheduling because no one is interrupted.</p>
+    <p><strong>Common Non-Preemptive Scheduling Algorithms:</strong></p>
+    <ul>
+      <li>First Come, First Served (FCFS) – The process that arrives first is executed first.</li>
+      <li>Shortest Job Next (SJN) – The process with the shortest execution time is scheduled next.</li>
+      <li>Priority Scheduling (Non-Preemptive) – The highest priority task gets executed first, but once started, it cannot be interrupted.</li>
+    </ul>
+    
+    <h3>4. Scheduling Criteria</h3>
+    <p>Different scheduling algorithms are judged based on these criteria:</p>
+    <table border="1">
+      <tr>
+        <th>Criterion</th>
+        <th>Description</th>
+      </tr>
+      <tr>
+        <td>CPU Utilization</td>
+        <td>The percentage of time the CPU is busy. Higher is better.</td>
+      </tr>
+      <tr>
+        <td>Throughput</td>
+        <td>Number of completed processes per unit time.</td>
+      </tr>
+      <tr>
+        <td>Turnaround Time</td>
+        <td>Total time taken for a process to complete (from arrival to completion).</td>
+      </tr>
+      <tr>
+        <td>Waiting Time</td>
+        <td>The time a process spends waiting in the queue.</td>
+      </tr>
+      <tr>
+        <td>Response Time</td>
+        <td>The time from when a request is made until it starts execution.</td>
+      </tr>
+    </table>
+    
+    <p><strong>Example:</strong> In a grocery store, customers arrive, pick items, and pay at the counter. The scheduling algorithm (cashier’s way of handling customers) should ensure customers are served fairly and quickly.</p>
+    
+    <h3>Conclusion</h3>
+    <p>Scheduling is essential for ensuring that a computer system works efficiently. The choice of scheduling algorithm depends on the system's needs. Preemptive scheduling allows flexibility and fairness, while Non-Preemptive scheduling ensures simplicity but can lead to delays.</p>
+</div>
+  

@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "question": "An Operating System (OS) acts as an interface between the user and the _______.",
+      "options": ["applications", "hardware", "software", "internet"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The core component of an OS that interacts directly with hardware is called the _______.",
+      "options": ["Shell", "Kernel", "BIOS", "Driver"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "The OS ensures multiple applications run smoothly using _______.",
+      "options": ["monotasking", "single-threading", "multitasking", "one-time execution"],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "The component of the OS responsible for managing CPU execution time is _______.",
+      "options": ["Process Management", "Memory Management", "File System Management", "User Interface"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "To protect a computer from unauthorized access, the OS provides features like _______.",
+      "options": ["encryption", "open access", "auto-login", "unprotected networks"],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "An example of a mobile operating system is _______.",
+      "options": ["Windows", "Linux", "Android", "macOS"],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "The OS function responsible for allocating and deallocating RAM is called _______.",
+      "options": ["Process Management", "Memory Management", "File System Management", "Security Management"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "A _______ operating system processes jobs in groups without direct user interaction.",
+      "options": ["Real-time", "Batch", "Time-shared", "Distributed"],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "A distributed operating system allows multiple computers to function as a _______.",
+      "options": ["single system", "separate units", "independent networks", "isolated devices"],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "The component of the OS that helps users interact with the system is the _______.",
+      "options": ["Kernel", "File System", "User Interface", "Process Manager"],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Windows and macOS provide a graphical interface, also known as _______.",
+      "options": ["CLI", "TUI", "GUI", "Shell"],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "A _______ OS ensures that critical tasks are executed within a fixed time frame.",
+      "options": ["Batch", "Multi-user", "Real-time", "Time-sharing"],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "Security measures in an OS include firewalls, encryption, and _______.",
+      "options": ["open-access", "authentication", "malware", "bugs"],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "The _______ is responsible for organizing and storing files on a storage device.",
+      "options": ["Process Manager", "File System", "User Interface", "Shell"],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "The primary function of a multiprocessor OS is to manage multiple _______.",
+      "options": ["users", "processors", "keyboards", "storages"],
+      "answer": 2
+    }
+]
+  

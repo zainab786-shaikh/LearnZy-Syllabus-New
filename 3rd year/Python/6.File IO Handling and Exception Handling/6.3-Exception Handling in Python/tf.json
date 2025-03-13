@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that exception handling in Python prevents a program from crashing due to runtime errors.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is true that exception handling in Python does not prevent a program from crashing due to runtime errors.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that the try-except block is used to catch and handle exceptions in Python.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is true that the try-except block is not used to catch and handle exceptions in Python.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that the try block contains code that may raise an exception.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is true that the try block does not contain code that may raise an exception.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that the except block handles the exception raised in the try block.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is true that the except block does not handle the exception raised in the try block.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that multiple except blocks can be used to handle different types of exceptions.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that multiple except blocks cannot be used to handle different types of exceptions.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that the raise statement is used to intentionally raise an exception in Python.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that the raise statement is not used to intentionally raise an exception in Python.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that user-defined exceptions can be created by inheriting from the Exception class.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that user-defined exceptions cannot be created by inheriting from the Exception class.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that the finally block runs regardless of whether an exception occurs or not.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is true that the finally block does not run if an exception occurs.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that the else block is used to execute code when no exception is raised.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is true that the else block is not used to execute code when no exception is raised.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that exception handling helps in maintaining program flow and preventing crashes.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that exception handling does not help in maintaining program flow and preventing crashes.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that Python provides a list of standard exceptions like ZeroDivisionError and ValueError.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is true that Python does not provide a list of standard exceptions like ZeroDivisionError and ValueError.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that the try-except block can be nested to handle exceptions within exceptions.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that the try-except block cannot be nested to handle exceptions within exceptions.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that exception handling is essential for robust and reliable programming.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that exception handling is not essential for robust and reliable programming.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that the finally block is useful for releasing resources like closing files.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is true that the finally block is not useful for releasing resources like closing files.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that exception handling in Python supports logging exceptions for debugging purposes.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that exception handling in Python does not support logging exceptions for debugging purposes.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that the raise statement can be used to enforce specific conditions in a program.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that the raise statement cannot be used to enforce specific conditions in a program.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that user-defined exceptions can be used to provide more specific error messages.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that user-defined exceptions cannot be used to provide more specific error messages.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that exception handling in Python is flexible and allows for multiple except blocks.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is true that exception handling in Python is not flexible and does not allow for multiple except blocks.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that Python’s exception handling is useful for managing runtime errors in real-world applications.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is true that Python’s exception handling is not useful for managing runtime errors in real-world applications.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that the try-except block can handle both built-in and user-defined exceptions.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is true that the try-except block cannot handle both built-in and user-defined exceptions.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that exception handling in Python helps in improving code readability and maintainability.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is true that exception handling in Python does not help in improving code readability and maintainability.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that Python’s exception handling supports re-raising exceptions after handling them.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is true that Python’s exception handling does not support re-raising exceptions after handling them.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that the finally block can be used to ensure that resources are released even if an exception occurs.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that the finally block cannot be used to ensure that resources are released even if an exception occurs.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that exception handling in Python is a key concept for robust programming practices.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that exception handling in Python is not a key concept for robust programming practices.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that Python’s exception handling mechanisms are designed to handle both expected and unexpected errors.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that Python’s exception handling mechanisms are not designed to handle both expected and unexpected errors.",
+      "answer": false
+    }
+]
+  

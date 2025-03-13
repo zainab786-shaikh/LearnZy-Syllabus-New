@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary function of an Operating System?",
+      "options": [
+        "To run applications only",
+        "To manage hardware and software resources",
+        "To act as a storage device",
+        "To connect computers in a network"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which OS service is responsible for managing running programs?",
+      "options": [
+        "Memory Management",
+        "Process Management",
+        "Device Management",
+        "File Management"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which of the following best describes memory management?",
+      "options": [
+        "Managing running programs",
+        "Managing computer storage devices",
+        "Managing RAM and allocation of memory to processes",
+        "Managing user authentication"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What does the file management service of an OS do?",
+      "options": [
+        "Controls network connections",
+        "Manages files by creating, saving, renaming, and deleting them",
+        "Allocates memory to different programs",
+        "Provides security features like passwords"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which OS service allows communication between software and hardware devices?",
+      "options": [
+        "File Management",
+        "Process Management",
+        "Device Management",
+        "User Interface"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an example of security and protection service in an OS?",
+      "options": [
+        "User authentication using passwords",
+        "Opening a web browser",
+        "Connecting to a Wi-Fi network",
+        "Displaying an error message"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "What is the function of the networking service in an OS?",
+      "options": [
+        "To provide security against malware",
+        "To manage connections between computers and networks",
+        "To manage memory allocation",
+        "To manage running processes"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which OS service continuously monitors the system for errors?",
+      "options": [
+        "Memory Management",
+        "Process Management",
+        "Error Detection and Handling",
+        "File Management"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "What is an example of an error detection service provided by an OS?",
+      "options": [
+        "Saving a document in a folder",
+        "Displaying 'Not Responding' for a frozen application",
+        "Managing CPU processes",
+        "Allocating memory to a running application"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is an example of process management?",
+      "options": [
+        "Typing a command in the terminal",
+        "Running multiple applications simultaneously without crashes",
+        "Copying a file from one folder to another",
+        "Changing volume settings on the computer"
+      ],
+      "answer": 2
+    }
+]
+  

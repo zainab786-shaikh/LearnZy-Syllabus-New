@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Data abstraction in Python involves hiding internal implementation details and exposing only the necessary ________ to the user.",
+      "options": [
+        "interface",
+        "methods",
+        "functions",
+        "variables"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "In Python, data abstraction is typically achieved using ________ and objects.",
+      "options": [
+        "classes",
+        "functions",
+        "modules",
+        "packages"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Data abstraction helps simplify complex systems by focusing on ________ rather than how it works internally.",
+      "options": [
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "A real-life example of data abstraction is a ________ where you only interact with the steering wheel and pedals without knowing the engine details.",
+      "options": [
+        "car",
+        "bike",
+        "train",
+        "airplane"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "In Python, abstract classes are used to implement data abstraction by defining methods without ________.",
+      "options": [
+        "implementation",
+        "interface",
+        "variables",
+        "functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "To create an abstract class in Python, you import the ________ module.",
+      "options": [
+        "ABC",
+        "ABD",
+        "ABCs",
+        "ABCD"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "An abstract method in Python is decorated with the ________ decorator.",
+      "options": [
+        "@abstractmethod",
+        "@abstractmethod()",
+        "@abstract",
+        "@abstractclass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Data abstraction increases ________ by hiding internal implementation details.",
+      "options": [
+        "security",
+        "complexity",
+        "efficiency",
+        "reusability"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Data abstraction improves code ________ by allowing different implementations of the same method.",
+      "options": [
+        "reusability",
+        "maintainability",
+        "flexibility",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 10,
+      "question": "A subclass must implement the abstract methods of its ________ class.",
+      "options": [
+        "parent",
+        "child",
+        "sibling",
+        "grandparent"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Data abstraction in Python involves hiding internal implementation details and exposing only the necessary ________ to the user.",
+      "options": [
+        "interface",
+        "methods",
+        "functions",
+        "variables"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "In Python, data abstraction is typically achieved using ________ and objects.",
+      "options": [
+        "classes",
+        "functions",
+        "modules",
+        "packages"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Data abstraction helps simplify complex systems by focusing on ________ rather than how it works internally.",
+      "options": [
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "A real-life example of data abstraction is a ________ where you only interact with the steering wheel and pedals without knowing the engine details.",
+      "options": [
+        "car",
+        "bike",
+        "train",
+        "airplane"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "In Python, abstract classes are used to implement data abstraction by defining methods without ________.",
+      "options": [
+        "implementation",
+        "interface",
+        "variables",
+        "functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "To create an abstract class in Python, you import the ________ module.",
+      "options": [
+        "ABC",
+        "ABD",
+        "ABCs",
+        "ABCD"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "An abstract method in Python is decorated with the ________ decorator.",
+      "options": [
+        "@abstractmethod",
+        "@abstractmethod()",
+        "@abstract",
+        "@abstractclass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Data abstraction increases ________ by hiding internal implementation details.",
+      "options": [
+        "security",
+        "complexity",
+        "efficiency",
+        "reusability"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Data abstraction improves code ________ by allowing different implementations of the same method.",
+      "options": [
+        "reusability",
+        "maintainability",
+        "flexibility",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 20,
+      "question": "A subclass must implement the abstract methods of its ________ class.",
+      "options": [
+        "parent",
+        "child",
+        "sibling",
+        "grandparent"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "Data abstraction helps simplify complex systems by focusing on ________ rather than how it works internally.",
+      "options": [
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "In Python, abstract classes are used to implement data abstraction by defining methods without ________.",
+      "options": [
+        "implementation",
+        "interface",
+        "variables",
+        "functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "To create an abstract class in Python, you import the ________ module.",
+      "options": [
+        "ABC",
+        "ABD",
+        "ABCs",
+        "ABCD"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "An abstract method in Python is decorated with the ________ decorator.",
+      "options": [
+        "@abstractmethod",
+        "@abstractmethod()",
+        "@abstract",
+        "@abstractclass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Data abstraction increases ________ by hiding internal implementation details.",
+      "options": [
+        "security",
+        "complexity",
+        "efficiency",
+        "reusability"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Data abstraction improves code ________ by allowing different implementations of the same method.",
+      "options": [
+        "reusability",
+        "maintainability",
+        "flexibility",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 27,
+      "question": "A subclass must implement the abstract methods of its ________ class.",
+      "options": [
+        "parent",
+        "child",
+        "sibling",
+        "grandparent"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Data abstraction helps simplify complex systems by focusing on ________ rather than how it works internally.",
+      "options": [
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "In Python, abstract classes are used to implement data abstraction by defining methods without ________.",
+      "options": [
+        "implementation",
+        "interface",
+        "variables",
+        "functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "To create an abstract class in Python, you import the ________ module.",
+      "options": [
+        "ABC",
+        "ABD",
+        "ABCs",
+        "ABCD"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "An abstract method in Python is decorated with the ________ decorator.",
+      "options": [
+        "@abstractmethod",
+        "@abstractmethod()",
+        "@abstract",
+        "@abstractclass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Data abstraction increases ________ by hiding internal implementation details.",
+      "options": [
+        "security",
+        "complexity",
+        "efficiency",
+        "reusability"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "Data abstraction improves code ________ by allowing different implementations of the same method.",
+      "options": [
+        "reusability",
+        "maintainability",
+        "flexibility",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 34,
+      "question": "A subclass must implement the abstract methods of its ________ class.",
+      "options": [
+        "parent",
+        "child",
+        "sibling",
+        "grandparent"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "Data abstraction helps simplify complex systems by focusing on ________ rather than how it works internally.",
+      "options": [
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "In Python, abstract classes are used to implement data abstraction by defining methods without ________.",
+      "options": [
+        "implementation",
+        "interface",
+        "variables",
+        "functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "To create an abstract class in Python, you import the ________ module.",
+      "options": [
+        "ABC",
+        "ABD",
+        "ABCs",
+        "ABCD"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "An abstract method in Python is decorated with the ________ decorator.",
+      "options": [
+        "@abstractmethod",
+        "@abstractmethod()",
+        "@abstract",
+        "@abstractclass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "Data abstraction increases ________ by hiding internal implementation details.",
+      "options": [
+        "security",
+        "complexity",
+        "efficiency",
+        "reusability"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "Data abstraction improves code ________ by allowing different implementations of the same method.",
+      "options": [
+        "reusability",
+        "maintainability",
+        "flexibility",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 41,
+      "question": "A subclass must implement the abstract methods of its ________ class.",
+      "options": [
+        "parent",
+        "child",
+        "sibling",
+        "grandparent"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "Data abstraction helps simplify complex systems by focusing on ________ rather than how it works internally.",
+      "options": [
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "In Python, abstract classes are used to implement data abstraction by defining methods without ________.",
+      "options": [
+        "implementation",
+        "interface",
+        "variables",
+        "functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "To create an abstract class in Python, you import the ________ module.",
+      "options": [
+        "ABC",
+        "ABD",
+        "ABCs",
+        "ABCD"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "An abstract method in Python is decorated with the ________ decorator.",
+      "options": [
+        "@abstractmethod",
+        "@abstractmethod()",
+        "@abstract",
+        "@abstractclass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Data abstraction increases ________ by hiding internal implementation details.",
+      "options": [
+        "security",
+        "complexity",
+        "efficiency",
+        "reusability"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "Data abstraction improves code ________ by allowing different implementations of the same method.",
+      "options": [
+        "reusability",
+        "maintainability",
+        "flexibility",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 48,
+      "question": "A subclass must implement the abstract methods of its ________ class.",
+      "options": [
+        "parent",
+        "child",
+        "sibling",
+        "grandparent"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Data abstraction helps simplify complex systems by focusing on ________ rather than how it works internally.",
+      "options": [
+        "what",
+        "how",
+        "when",
+        "where"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "In Python, abstract classes are used to implement data abstraction by defining methods without ________.",
+      "options": [
+        "implementation",
+        "interface",
+        "variables",
+        "functions"
+      ],
+      "answer": 1
+    }
+]
+  

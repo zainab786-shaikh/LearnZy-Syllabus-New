@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary purpose of an Act?",
+      "options": [
+        "To create chaos in society",
+        "To regulate various aspects of society and business",
+        "To only protect consumer rights",
+        "To only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Why are Acts necessary in society?",
+      "options": [
+        "They reduce order and fairness",
+        "They maintain order, protect rights, and ensure fairness",
+        "They only regulate business",
+        "They only promote safety"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is an example of an Act that maintains order in society?",
+      "options": [
+        "The Consumer Protection Act",
+        "The Indian Penal Code (IPC)",
+        "The Information Technology (IT) Act",
+        "The Right to Information (RTI) Act"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "What is the role of the Consumer Protection Act?",
+      "options": [
+        "To regulate traffic rules",
+        "To protect consumers from unfair trade practices",
+        "To promote technological growth",
+        "To only regulate contracts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What is a Bill in the context of law?",
+      "options": [
+        "A law that has been passed",
+        "A proposed law that is yet to be passed",
+        "An amendment to an existing law",
+        "An ordinance"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is an ordinance?",
+      "options": [
+        "A permanent law passed by Parliament",
+        "A temporary law made by the President or Governor",
+        "An amendment to an existing law",
+        "A Bill"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Why is it important to amend laws?",
+      "options": [
+        "To reduce their effectiveness",
+        "To update or improve existing laws",
+        "To only increase penalties",
+        "To only protect consumer rights"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of the Information Technology (IT) Act, 2000?",
+      "options": [
+        "To regulate traffic rules",
+        "To protect against cybercrimes and promote secure online transactions",
+        "To only regulate contracts",
+        "To only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What is the main provision of the Right to Information (RTI) Act, 2005?",
+      "options": [
+        "To protect consumers from unfair trade practices",
+        "To give citizens the right to access government information",
+        "To regulate traffic rules",
+        "To only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Why is the Indian Contract Act important?",
+      "options": [
+        "It regulates traffic rules",
+        "It regulates agreements and contracts between individuals and businesses",
+        "It only protects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "What is the purpose of the Motor Vehicles Act, 1988?",
+      "options": [
+        "To regulate consumer protection",
+        "To regulate traffic rules and vehicle safety",
+        "To only promote technological growth",
+        "To only protect contracts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "What is the role of jurisdiction in Acts?",
+      "options": [
+        "It defines the area where a law is applicable",
+        "It defines the purpose of a law",
+        "It defines the penalties for offenses",
+        "It defines the sections of a law"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "What is an offense in legal terms?",
+      "options": [
+        "Any act that complies with the law",
+        "Any act against the law",
+        "A penalty for breaking the law",
+        "A section of a law"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Why is the Factories Act important for worker safety?",
+      "options": [
+        "It reduces worker safety",
+        "It ensures worker safety in industries",
+        "It only regulates consumer protection",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "What happens if laws are not enforced effectively?",
+      "options": [
+        "Society becomes more orderly",
+        "Society becomes less orderly and less safe",
+        "Businesses become more competitive",
+        "Technology grows faster"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "How do Acts impact business operations?",
+      "options": [
+        "They reduce fairness in competition",
+        "They ensure fairness in competition by setting legal standards",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "What is the benefit of having clear legal provisions in Acts?",
+      "options": [
+        "It reduces clarity and compliance",
+        "It improves clarity and compliance by providing specific rules",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Why is it important to understand legal terms in Acts?",
+      "options": [
+        "It reduces understanding of the law",
+        "It improves understanding of the law by defining special terms",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "What happens if a company violates consumer protection laws?",
+      "options": [
+        "The company faces no penalties",
+        "The company may face legal penalties and fines",
+        "The company becomes more competitive",
+        "The company grows technologically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "How do Acts impact technological growth?",
+      "options": [
+        "They reduce technological growth",
+        "They support technological growth by regulating cyber laws",
+        "They only protect consumer rights",
+        "They only regulate contracts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "What is the role of the Right to Information (RTI) Act in promoting transparency?",
+      "options": [
+        "It reduces transparency by limiting access to information",
+        "It promotes transparency by giving citizens access to government information",
+        "It only regulates contracts",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 22,
+      "question": "Why is it important to have laws regulating contracts?",
+      "options": [
+        "It reduces fairness in business agreements",
+        "It ensures fairness and validity in contracts",
+        "It only protects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "What happens if traffic laws are not enforced?",
+      "options": [
+        "Road safety improves",
+        "Road safety decreases due to lack of enforcement",
+        "Businesses become more competitive",
+        "Technology grows faster"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "How do Acts impact employee safety in industries?",
+      "options": [
+        "They reduce safety measures",
+        "They ensure safety by setting standards and regulations",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "What is the benefit of having safety provisions in Acts like the Factories Act?",
+      "options": [
+        "It reduces safety",
+        "It improves safety by regulating hazardous processes",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "Why is it important to amend laws to keep them relevant?",
+      "options": [
+        "It reduces their effectiveness",
+        "It updates laws to address new challenges and technologies",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "What happens if a company violates cyber laws?",
+      "options": [
+        "The company faces no penalties",
+        "The company may face legal penalties and fines",
+        "The company becomes more competitive",
+        "The company grows technologically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "How do Acts impact environmental protection?",
+      "options": [
+        "They reduce environmental protection",
+        "They support environmental protection by regulating hazardous processes",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "What is the role of jurisdiction in ensuring compliance with Acts?",
+      "options": [
+        "It defines the purpose of a law",
+        "It defines the area where a law is applicable",
+        "It defines the penalties for offenses",
+        "It defines the sections of a law"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "Why is it important to specify penalties for offenses in Acts?",
+      "options": [
+        "It reduces compliance with the law",
+        "It ensures compliance by providing clear consequences for violations",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "What happens if a company does not comply with safety regulations?",
+      "options": [
+        "Safety improves",
+        "Safety decreases due to lack of compliance",
+        "Businesses become more competitive",
+        "Technology grows faster"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 32,
+      "question": "How do Acts impact business ethics?",
+      "options": [
+        "They reduce ethical standards",
+        "They promote ethical standards by setting legal requirements",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "What is the benefit of having clear sections and clauses in Acts?",
+      "options": [
+        "It reduces clarity and compliance",
+        "It improves clarity and compliance by providing detailed rules",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "Why is it important to understand the main provisions of Acts?",
+      "options": [
+        "It reduces understanding of the law",
+        "It improves understanding of the law by explaining key rules",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "What happens if a company violates environmental laws?",
+      "options": [
+        "The company faces no penalties",
+        "The company may face legal penalties and fines",
+        "The company becomes more competitive",
+        "The company grows technologically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "How do Acts impact consumer rights?",
+      "options": [
+        "They reduce consumer rights",
+        "They protect consumer rights by regulating unfair practices",
+        "They only promote technological growth",
+        "They only regulate contracts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "What is the role of amendments in keeping laws relevant?",
+      "options": [
+        "To reduce their effectiveness",
+        "To update laws to address new challenges and technologies",
+        "To only affect consumer rights",
+        "To only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "Why is it important to have laws regulating cyber activities?",
+      "options": [
+        "It reduces technological growth",
+        "It supports technological growth by preventing cybercrimes",
+        "It only protects consumer rights",
+        "It only regulates contracts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "What happens if a company does not comply with contract laws?",
+      "options": [
+        "The company faces no penalties",
+        "The company may face legal penalties and fines",
+        "The company becomes more competitive",
+        "The company grows technologically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "How do Acts impact employee rights?",
+      "options": [
+        "They reduce employee rights",
+        "They protect employee rights by setting standards and regulations",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 41,
+      "question": "What is the benefit of having safety provisions in Acts like the Occupational Safety, Health and Working Conditions Code?",
+      "options": [
+        "It reduces safety",
+        "It improves safety by regulating hazardous processes",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "Why is it important to specify sections and clauses in Acts?",
+      "options": [
+        "It reduces clarity and compliance",
+        "It improves clarity and compliance by providing detailed rules",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "What happens if a company violates traffic laws?",
+      "options": [
+        "The company faces no penalties",
+        "The company may face legal penalties and fines",
+        "The company becomes more competitive",
+        "The company grows technologically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "How do Acts impact business operations in terms of fairness?",
+      "options": [
+        "They reduce fairness in competition",
+        "They ensure fairness in competition by setting legal standards",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "What is the role of the Consumer Protection Act in promoting consumer welfare?",
+      "options": [
+        "It reduces consumer welfare",
+        "It promotes consumer welfare by protecting against unfair practices",
+        "It only regulates contracts",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "Why is it important to have laws regulating hazardous processes?",
+      "options": [
+        "It reduces safety",
+        "It improves safety by regulating hazardous processes",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "What happens if a company does not comply with environmental regulations?",
+      "options": [
+        "Environmental protection improves",
+        "Environmental protection decreases due to lack of compliance",
+        "Businesses become more competitive",
+        "Technology grows faster"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "How do Acts impact technological innovation?",
+      "options": [
+        "They reduce technological innovation",
+        "They support technological innovation by regulating cyber laws",
+        "They only protect consumer rights",
+        "They only regulate contracts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "What is the benefit of having clear legal definitions in Acts?",
+      "options": [
+        "It reduces clarity and compliance",
+        "It improves clarity and compliance by defining special terms",
+        "It only affects consumer rights",
+        "It only promotes technological growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "What is the overall impact of effective Acts on societal and business operations?",
+      "options": [
+        "They decrease order and fairness",
+        "They improve order, fairness, and safety by setting legal standards",
+        "They only protect consumer rights",
+        "They only promote technological growth"
+      ],
+      "answer": 2
+    }
+]
+  

@@ -1,0 +1,157 @@
+[
+    {
+      "id": 1,
+      "question": "What is the concept of a file in computing?",
+      "options": [
+        "A collection of digital data stored on a computer",
+        "A type of hardware component",
+        "A programming language",
+        "A method for processing user input"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an example of a text file?",
+      "options": [
+        ".jpg",
+        ".mp3",
+        ".txt",
+        ".mp4"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What attribute of a file indicates who created or owns it?",
+      "options": [
+        "Size",
+        "Type",
+        "Owner",
+        "Permissions"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Which file operation involves changing a file's name?",
+      "options": [
+        "Copy",
+        "Rename",
+        "Move",
+        "Open"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which file type is used for storing executable programs?",
+      "options": [
+        ".docx",
+        ".exe",
+        ".jpg",
+        ".mp3"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which file allocation method stores a file in one continuous block?",
+      "options": [
+        "Linked Allocation",
+        "Indexed Allocation",
+        "Contiguous Allocation",
+        "Fragmented Allocation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "In which allocation method does each block contain a pointer to the next block?",
+      "options": [
+        "Contiguous Allocation",
+        "Linked Allocation",
+        "Indexed Allocation",
+        "Random Allocation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What is a major disadvantage of contiguous allocation?",
+      "options": [
+        "Files cannot expand dynamically",
+        "Requires extra space for an index table",
+        "Slower access speed",
+        "Prone to pointer loss"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Which allocation method uses an index table to store block addresses?",
+      "options": [
+        "Contiguous Allocation",
+        "Linked Allocation",
+        "Indexed Allocation",
+        "Sector Allocation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Which access method reads and writes data in a specific order?",
+      "options": [
+        "Random Access",
+        "Direct Access",
+        "Sequential Access",
+        "Indexed Access"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Which access method allows jumping directly to required data?",
+      "options": [
+        "Sequential Access",
+        "Direct Access",
+        "Swap Access",
+        "Linked Access"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "What is swapping in memory management?",
+      "options": [
+        "A process where inactive applications are moved to storage",
+        "A technique for compressing files",
+        "A way to improve CPU performance",
+        "A method for increasing RAM speed"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which real-world example best represents sequential access?",
+      "options": [
+        "Hard drive access",
+        "Cassette tape playlist",
+        "USB flash drive",
+        "DVD menu selection"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which allocation method is widely used in NTFS and ext4 file systems?",
+      "options": [
+        "Contiguous Allocation",
+        "Linked Allocation",
+        "Indexed Allocation",
+        "Clustered Allocation"
+      ],
+      "answer": 3
+    }
+]
+  

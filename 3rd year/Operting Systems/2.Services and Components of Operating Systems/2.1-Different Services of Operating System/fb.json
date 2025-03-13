@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "question": "The OS acts as a bridge between the user and the _______.",
+      "options": ["Internet", "Hardware", "Software", "Applications"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The OS ensures multiple programs can run efficiently through _______.",
+      "options": ["Single-tasking", "Multitasking", "Manual Switching", "Slow Processing"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "When you open multiple applications, the OS manages _______ allocation.",
+      "options": ["CPU", "RAM", "Cache", "ROM"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "The OS uses _______ memory when there is not enough RAM available.",
+      "options": ["Virtual", "Cache", "Flash", "Primary"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "The service that organizes and manages files stored on the computer is called _______ management.",
+      "options": ["Process", "Memory", "File", "Device"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "When you connect a printer, the OS installs necessary _______ to communicate with it.",
+      "options": ["Applications", "Drivers", "Extensions", "Documents"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "A user needs to enter a password to log into Windows. This is an example of _______.",
+      "options": ["Device Management", "Process Scheduling", "User Authentication", "Error Detection"],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "The OS allows users to interact with the system using either a GUI or _______.",
+      "options": ["CLI", "URL", "API", "WIFI"],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The OS ensures that computers can connect to the internet using _______ services.",
+      "options": ["Security", "Networking", "Process", "Storage"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "If an application stops responding, the OS allows users to _______ it.",
+      "options": ["Delete", "Force Close", "Uninstall", "Rename"],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Managing hardware devices like keyboards and printers is a function of _______ management.",
+      "options": ["File", "Device", "Process", "Security"],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "The OS continuously monitors the system for errors and helps in _______.",
+      "options": ["User Authentication", "Error Detection and Handling", "Network Configuration", "Process Scheduling"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "An OS that allows multiple applications to run at the same time is known as a _______ system.",
+      "options": ["Single-tasking", "Multi-programming", "Manual", "Static"],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "A GUI-based OS allows users to interact with the system using _______.",
+      "options": ["Text Commands", "Icons and Menus", "Scripts", "Terminal Only"],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "The OS schedules processes based on their priority in _______ management.",
+      "options": ["Process", "Memory", "File", "Security"],
+      "answer": 1
+    }
+]
+  

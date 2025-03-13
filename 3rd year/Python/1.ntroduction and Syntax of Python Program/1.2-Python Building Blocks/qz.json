@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "What is an identifier in Python?",
+      "options": [
+        "A reserved keyword",
+        "A name given to variables, functions, or classes",
+        "A special symbol used in loops",
+        "A function that prints output"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a valid identifier in Python?",
+      "options": [
+        "1name",
+        "class",
+        "_employeeID",
+        "my-name"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which rule is NOT correct for Python identifiers?",
+      "options": [
+        "Can contain letters, digits, and underscores",
+        "Cannot start with a digit",
+        "Can use Python keywords",
+        "Are case-sensitive"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT a Python keyword?",
+      "options": [
+        "if",
+        "else",
+        "print",
+        "def"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "How does Python define code blocks?",
+      "options": [
+        "Using curly braces {}",
+        "Using indentation",
+        "Using square brackets []",
+        "Using semicolons"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What will happen if indentation is incorrect in Python?",
+      "options": [
+        "The code will run normally",
+        "Python will add the correct indentation automatically",
+        "An IndentationError will occur",
+        "The program will skip that line"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "How many spaces are typically recommended for indentation in Python?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a valid variable name in Python?",
+      "options": [
+        "2var",
+        "my-variable",
+        "_myVar",
+        "@value"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Which statement about Python variables is correct?",
+      "options": [
+        "They must be declared with a data type",
+        "They are case-sensitive",
+        "They must start with a number",
+        "They can include special characters like @ and $"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is the purpose of comments in Python?",
+      "options": [
+        "To execute additional code",
+        "To improve code readability",
+        "To increase program speed",
+        "To define functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a valid single-line comment in Python?",
+      "options": [
+        "// This is a comment",
+        "/* This is a comment */",
+        "-- This is a comment",
+        "# This is a comment"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 12,
+      "question": "How do you write a multi-line comment in Python?",
+      "options": [
+        "/* comment */",
+        "-- comment --",
+        "' ' ' comment ' ' '",
+        "// comment"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "What is dynamic typing in Python?",
+      "options": [
+        "Manually defining variable types",
+        "Automatically detecting variable types",
+        "Declaring variables before use",
+        "Using special characters in variable names"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which of the following variable assignments is valid in Python?",
+      "options": [
+        "int x = 10",
+        "x := 10",
+        "x = 10",
+        "x <- 10"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is NOT allowed in Python variable names?",
+      "options": [
+        "Underscores",
+        "Digits (not at the start)",
+        "Hyphens",
+        "Letters"
+      ],
+      "answer": 3
+    }
+]
+  

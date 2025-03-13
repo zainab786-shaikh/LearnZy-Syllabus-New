@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Which of the following is a renewable resource?",
+      "options": [
+        "Coal",
+        "Petroleum",
+        "Solar Energy",
+        "Natural Gas"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Which resource takes millions of years to form and cannot be replenished?",
+      "options": [
+        "Wind Energy",
+        "Forests",
+        "Coal",
+        "Hydropower"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What type of resource is water when used in the hydrological cycle?",
+      "options": [
+        "Renewable",
+        "Non-Renewable",
+        "Cyclic",
+        "None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is an example of a cyclic resource?",
+      "options": [
+        "Gold",
+        "Water",
+        "Coal",
+        "Natural Gas"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which renewable resource is generated using wind turbines?",
+      "options": [
+        "Solar Energy",
+        "Hydropower",
+        "Geothermal Energy",
+        "Wind Energy"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 6,
+      "question": "Which non-renewable resource is used in nuclear power plants?",
+      "options": [
+        "Coal",
+        "Uranium",
+        "Natural Gas",
+        "Iron"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Why are non-renewable resources considered unsustainable?",
+      "options": [
+        "They are expensive to use",
+        "They take millions of years to form and cannot be replenished",
+        "They are not used by industries",
+        "They cannot be extracted"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is NOT an example of a non-renewable resource?",
+      "options": [
+        "Coal",
+        "Petroleum",
+        "Wind Energy",
+        "Natural Gas"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Which of the following metals can be recycled and reused?",
+      "options": [
+        "Aluminum",
+        "Coal",
+        "Natural Gas",
+        "Petroleum"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "How can we conserve non-renewable resources?",
+      "options": [
+        "By using them excessively",
+        "By replacing them with renewable resources",
+        "By ignoring recycling techniques",
+        "By using more fossil fuels"
+      ],
+      "answer": 2
+    }
+]
+  

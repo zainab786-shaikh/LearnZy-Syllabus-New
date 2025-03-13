@@ -1,0 +1,475 @@
+[
+    {
+      "id": 1,
+      "question": "Planning is the process of deciding in advance what needs to be done, how it should be done, and ________.",
+      "options": [
+        "when it should be done",
+        "who should do it",
+        "why it should be done",
+        "where it should be done"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Strategic planning is long-term planning that focuses on achieving overall organizational ________.",
+      "options": [
+        "goals",
+        "objectives",
+        "targets",
+        "missions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Tactical planning translates broad strategic goals into specific ________ for different departments.",
+      "options": [
+        "actions",
+        "goals",
+        "plans",
+        "strategies"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Operational planning focuses on day-to-day tasks and activities required to run a business ________.",
+      "options": [
+        "smoothly",
+        "efficiently",
+        "effectively",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Financial planning deals with the management of ________ and investments.",
+      "options": [
+        "money",
+        "resources",
+        "time",
+        "information"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Growth planning focuses on expanding the business, increasing ________ or improving market reach.",
+      "options": [
+        "revenue",
+        "profits",
+        "sales",
+        "market share"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "The first step in planning is to define what needs to be achieved by setting ________ goals.",
+      "options": [
+        "SMART",
+        "specific",
+        "measurable",
+        "achievable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Before making a plan, it is important to collect data and analyze the current situation through ________.",
+      "options": [
+        "market research",
+        "competitor analysis",
+        "financial reports",
+        "customer feedback"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Multiple solutions should be considered to achieve the goal by identifying ________.",
+      "options": [
+        "alternatives",
+        "options",
+        "strategies",
+        "approaches"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Each option is analyzed based on ________ to select the best strategy.",
+      "options": [
+        "cost, time, feasibility, and risks",
+        "benefits, drawbacks, and feasibility",
+        "costs, benefits, and risks",
+        "feasibility, risks, and benefits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "After evaluation, the most effective plan is chosen based on the organization’s ________.",
+      "options": [
+        "vision",
+        "mission",
+        "goals",
+        "resources"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "The plan is put into action by assigning tasks to teams or individuals and allocating ________.",
+      "options": [
+        "resources",
+        "goals",
+        "tasks",
+        "objectives"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Regular monitoring ensures the plan is on track, and if needed, adjustments are made to improve ________.",
+      "options": [
+        "efficiency",
+        "effectiveness",
+        "productivity",
+        "performance"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Strategic planning involves decisions about the organization’s long-term ________.",
+      "options": [
+        "goals",
+        "objectives",
+        "targets",
+        "missions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Tactical planning translates broad strategic goals into specific ________ for different departments.",
+      "options": [
+        "actions",
+        "goals",
+        "plans",
+        "strategies"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "Operational planning focuses on day-to-day tasks and activities required to run a business ________.",
+      "options": [
+        "smoothly",
+        "efficiently",
+        "effectively",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Financial planning deals with the management of ________ and investments.",
+      "options": [
+        "money",
+        "resources",
+        "time",
+        "information"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Growth planning focuses on expanding the business, increasing ________ or improving market reach.",
+      "options": [
+        "revenue",
+        "profits",
+        "sales",
+        "market share"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "The first step in planning is to define what needs to be achieved by setting ________ goals.",
+      "options": [
+        "SMART",
+        "specific",
+        "measurable",
+        "achievable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Before making a plan, it is important to collect data and analyze the current situation through ________.",
+      "options": [
+        "market research",
+        "competitor analysis",
+        "financial reports",
+        "customer feedback"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "Multiple solutions should be considered to achieve the goal by identifying ________.",
+      "options": [
+        "alternatives",
+        "options",
+        "strategies",
+        "approaches"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Each option is analyzed based on ________ to select the best strategy.",
+      "options": [
+        "cost, time, feasibility, and risks",
+        "benefits, drawbacks, and feasibility",
+        "costs, benefits, and risks",
+        "feasibility, risks, and benefits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "After evaluation, the most effective plan is chosen based on the organization’s ________.",
+      "options": [
+        "vision",
+        "mission",
+        "goals",
+        "resources"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "The plan is put into action by assigning tasks to teams or individuals and allocating ________.",
+      "options": [
+        "resources",
+        "goals",
+        "tasks",
+        "objectives"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Regular monitoring ensures the plan is on track, and if needed, adjustments are made to improve ________.",
+      "options": [
+        "efficiency",
+        "effectiveness",
+        "productivity",
+        "performance"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "Strategic planning involves decisions about the organization’s long-term ________.",
+      "options": [
+        "goals",
+        "objectives",
+        "targets",
+        "missions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Tactical planning translates broad strategic goals into specific ________ for different departments.",
+      "options": [
+        "actions",
+        "goals",
+        "plans",
+        "strategies"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 28,
+      "question": "Operational planning focuses on day-to-day tasks and activities required to run a business ________.",
+      "options": [
+        "smoothly",
+        "efficiently",
+        "effectively",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Financial planning deals with the management of ________ and investments.",
+      "options": [
+        "money",
+        "resources",
+        "time",
+        "information"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "Growth planning focuses on expanding the business, increasing ________ or improving market reach.",
+      "options": [
+        "revenue",
+        "profits",
+        "sales",
+        "market share"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "The first step in planning is to define what needs to be achieved by setting ________ goals.",
+      "options": [
+        "SMART",
+        "specific",
+        "measurable",
+        "achievable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Before making a plan, it is important to collect data and analyze the current situation through ________.",
+      "options": [
+        "market research",
+        "competitor analysis",
+        "financial reports",
+        "customer feedback"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "Multiple solutions should be considered to achieve the goal by identifying ________.",
+      "options": [
+        "alternatives",
+        "options",
+        "strategies",
+        "approaches"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "Each option is analyzed based on ________ to select the best strategy.",
+      "options": [
+        "cost, time, feasibility, and risks",
+        "benefits, drawbacks, and feasibility",
+        "costs, benefits, and risks",
+        "feasibility, risks, and benefits"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "After evaluation, the most effective plan is chosen based on the organization’s ________.",
+      "options": [
+        "vision",
+        "mission",
+        "goals",
+        "resources"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "The plan is put into action by assigning tasks to teams or individuals and allocating ________.",
+      "options": [
+        "resources",
+        "goals",
+        "tasks",
+        "objectives"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "Regular monitoring ensures the plan is on track, and if needed, adjustments are made to improve ________.",
+      "options": [
+        "efficiency",
+        "effectiveness",
+        "productivity",
+        "performance"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "Strategic planning involves decisions about the organization’s long-term ________.",
+      "options": [
+        "goals",
+        "objectives",
+        "targets",
+        "missions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "Tactical planning translates broad strategic goals into specific ________ for different departments.",
+      "options": [
+        "actions",
+        "goals",
+        "plans",
+        "strategies"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 40,
+      "question": "Operational planning focuses on day-to-day tasks and activities required to run a business ________.",
+      "options": [
+        "smoothly",
+        "efficiently",
+        "effectively",
+        "quickly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Financial planning deals with the management of ________ and investments.",
+      "options": [
+        "money",
+        "resources",
+        "time",
+        "information"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "Growth planning focuses on expanding the business, increasing ________ or improving market reach.",
+      "options": [
+        "revenue",
+        "profits",
+        "sales",
+        "market share"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "The first step in planning is to define what needs to be achieved by setting ________ goals.",
+      "options": [
+        "SMART",
+        "specific",
+        "measurable",
+        "achievable"
+      ],
+      "answer": 1
+    }
+]  

@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Industrial Acts are laws made to protect workers’ ________ and regulate industries.",
+      "options": [
+        "rights",
+        "interests",
+        "benefits",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 2,
+      "question": "These laws ensure that workers get fair ________, safe working conditions, and protection from unfair treatment.",
+      "options": [
+        "wages",
+        "hours",
+        "benefits",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "The Indian Factory Act, 1948 was introduced to ensure the ________ of workers in factories.",
+      "options": [
+        "safety",
+        "health",
+        "welfare",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "The Factory Act applies to factories where ________ or more workers are employed if power is used.",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Adults cannot work more than ________ hours per week under the Factory Act.",
+      "options": [
+        "40",
+        "48",
+        "50",
+        "60"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Factories must provide clean drinking water and proper ________ for workers.",
+      "options": [
+        "ventilation",
+        "lighting",
+        "heating",
+        "cooling"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Children below ________ years cannot work in factories as per the Factory Act.",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Women cannot be made to work between ________ PM and ________ AM in factories.",
+      "options": [
+        "7, 6",
+        "8, 7",
+        "9, 8",
+        "10, 9"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The Industrial Dispute Act, 1947 helps in resolving conflicts between workers and ________.",
+      "options": [
+        "employers",
+        "employees",
+        "unions",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 10,
+      "question": "Disputes under the Industrial Dispute Act are settled through ________ or labor courts.",
+      "options": [
+        "negotiations",
+        "conciliation",
+        "mediation",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 11,
+      "question": "Workers have the right to strike but must give a notice of ________ weeks before striking.",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Employers cannot declare a lockout without giving prior ________.",
+      "options": [
+        "notice",
+        "warning",
+        "alert",
+        "notification"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "If a company removes workers due to financial losses, it must give at least one month’s ________ or pay in advance.",
+      "options": [
+        "notice",
+        "warning",
+        "alert",
+        "notification"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "The Workman Compensation Act ensures that if a worker gets injured or disabled, the employer must provide ________.",
+      "options": [
+        "compensation",
+        "insurance",
+        "benefits",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 15,
+      "question": "If a worker dies due to a workplace accident, their family should get financial ________.",
+      "options": [
+        "support",
+        "compensation",
+        "benefits",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 16,
+      "question": "The Minimum Wages Act ensures that every worker gets a fair ________.",
+      "options": [
+        "salary",
+        "wage",
+        "income",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 17,
+      "question": "The government sets minimum wages for different ________ and industries.",
+      "options": [
+        "jobs",
+        "roles",
+        "positions",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 18,
+      "question": "Employers must not pay less than the minimum ________ set by the government.",
+      "options": [
+        "wage",
+        "salary",
+        "income",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "If a worker works extra hours, they should be paid ________ the normal rate.",
+      "options": [
+        "twice",
+        "thrice",
+        "four times",
+        "five times"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Workers must get their salary on time, either ________ or monthly.",
+      "options": [
+        "weekly",
+        "fortnightly",
+        "monthly",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 21,
+      "question": "Industrial Acts protect workers’ rights, ensuring they get fair wages, a safe ________, and job security.",
+      "options": [
+        "workplace",
+        "environment",
+        "conditions",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 22,
+      "question": "Employers must follow these laws to create a healthy and lawful ________ environment.",
+      "options": [
+        "work",
+        "business",
+        "industrial",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 23,
+      "question": "The Indian Factory Act, 1948 was enacted to ensure the safety, health, and ________ of workers in factories.",
+      "options": [
+        "welfare",
+        "benefits",
+        "rights",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 24,
+      "question": "The Factory Act applies to factories where 10 or more workers are employed if ________ is used.",
+      "options": [
+        "power",
+        "machinery",
+        "equipment",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Adults cannot work more than 48 hours per week under the Factory Act to prevent ________.",
+      "options": [
+        "overwork",
+        "underwork",
+        "overtime",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Factories must provide clean drinking water and proper ________ to maintain worker health.",
+      "options": [
+        "ventilation",
+        "lighting",
+        "heating",
+        "cooling"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Children below 14 years cannot work in factories as per the Factory Act to protect their ________.",
+      "options": [
+        "rights",
+        "health",
+        "education",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 28,
+      "question": "Women cannot be made to work between 7 PM and 6 AM in factories to ensure their ________.",
+      "options": [
+        "safety",
+        "health",
+        "welfare",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 29,
+      "question": "The Industrial Dispute Act, 1947 helps in resolving conflicts between workers and ________ through legal means.",
+      "options": [
+        "employers",
+        "employees",
+        "unions",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 30,
+      "question": "Disputes under the Industrial Dispute Act are settled through negotiations, conciliation, or ________ courts.",
+      "options": [
+        "labor",
+        "industrial",
+        "civil",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 31,
+      "question": "Workers have the right to strike but must give a notice of 6 weeks before ________.",
+      "options": [
+        "striking",
+        "protesting",
+        "demonstrating",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Employers cannot declare a lockout without giving prior ________ to workers.",
+      "options": [
+        "notice",
+        "warning",
+        "alert",
+        "notification"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "If a company removes workers due to financial losses, it must give at least one month’s ________ or pay in advance.",
+      "options": [
+        "notice",
+        "warning",
+        "alert",
+        "notification"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "The Workman Compensation Act ensures that if a worker gets injured or disabled, the employer must provide ________ to support them.",
+      "options": [
+        "compensation",
+        "insurance",
+        "benefits",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 35,
+      "question": "If a worker dies due to a workplace accident, their family should get financial ________ as per the Workman Compensation Act.",
+      "options": [
+        "support",
+        "compensation",
+        "benefits",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 36,
+      "question": "The Minimum Wages Act ensures that every worker gets a fair ________ to prevent exploitation.",
+      "options": [
+        "salary",
+        "wage",
+        "income",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 37,
+      "question": "The government sets minimum wages for different ________ to ensure fairness in payment.",
+      "options": [
+        "jobs",
+        "roles",
+        "positions",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 38,
+      "question": "Employers must not pay less than the minimum ________ set by the government to comply with the Minimum Wages Act.",
+      "options": [
+        "wage",
+        "salary",
+        "income",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "If a worker works extra hours, they should be paid ________ the normal rate as per the Minimum Wages Act.",
+      "options": [
+        "twice",
+        "thrice",
+        "four times",
+        "five times"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "Workers must get their salary on time, either ________ or monthly to ensure financial stability.",
+      "options": [
+        "weekly",
+        "fortnightly",
+        "monthly",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 41,
+      "question": "Industrial Acts protect workers’ rights, ensuring they get fair wages, a safe ________, and job security to maintain a healthy work environment.",
+      "options": [
+        "workplace",
+        "environment",
+        "conditions",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 42,
+      "question": "Employers must follow these laws to create a healthy and lawful ________ environment for workers.",
+      "options": [
+        "work",
+        "business",
+        "industrial",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 43,
+      "question": "The Indian Factory Act, 1948 was enacted to ensure the safety, health, and welfare of workers in ________.",
+      "options": [
+        "factories",
+        "industries",
+        "workplaces",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 44,
+      "question": "The Factory Act applies to factories where 10 or more workers are employed if power is ________.",
+      "options": [
+        "used",
+        "not used",
+        "available",
+        "required"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Adults cannot work more than 48 hours per week under the Factory Act to prevent ________ and ensure worker well-being.",
+      "options": [
+        "overwork",
+        "underwork",
+        "overtime",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Factories must provide clean drinking water and proper ventilation to maintain worker ________.",
+      "options": [
+        "health",
+        "safety",
+        "welfare",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 47,
+      "question": "Children below 14 years cannot work in factories as per the Factory Act to protect their ________ and rights.",
+      "options": [
+        "health",
+        "education",
+        "rights",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 48,
+      "question": "Women cannot be made to work between 7 PM and 6 AM in factories to ensure their safety and ________.",
+      "options": [
+        "health",
+        "welfare",
+        "rights",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 49,
+      "question": "The Industrial Dispute Act, 1947 helps in resolving conflicts between workers and employers through legal ________.",
+      "options": [
+        "means",
+        "methods",
+        "procedures",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 50,
+      "question": "Disputes under the Industrial Dispute Act are settled through negotiations, conciliation, or labor ________.",
+      "options": [
+        "courts",
+        "tribunals",
+        "boards",
+        "all of the above"
+      ],
+      "answer": 4
+    }
+]
+  

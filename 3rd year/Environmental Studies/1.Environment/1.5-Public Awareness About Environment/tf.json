@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "Public awareness about the environment helps educate people about environmental issues and their impact.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Pollution prevention is not a part of public environmental awareness.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Public awareness encourages the conservation of natural resources like water, forests, and energy.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Sustainable living means using resources irresponsibly without concern for the future.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "Raising awareness about environmental protection can help protect wildlife and biodiversity.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "A well-informed public can demand stronger environmental policies from the government.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Educational institutions do not play a role in spreading awareness about environmental protection.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "World Environment Day is celebrated on June 5 every year.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Social media has no impact on spreading awareness about environmental issues.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Documentaries like 'Our Planet' and 'An Inconvenient Truth' help educate people about climate change.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "Governments do not have any role in enforcing laws for pollution control.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "Many countries have banned plastic bags to reduce pollution.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Tree plantation drives are not helpful in environmental conservation.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "Waste management programs help reduce environmental pollution.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Companies should adopt eco-friendly practices to reduce pollution and carbon emissions.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "The Swachh Bharat Abhiyan is a government initiative to promote cleanliness and waste management.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "Fridays for Future is a student movement started by Elon Musk to fight climate change.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "Many governments promote rainwater harvesting to reduce water scarcity.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Public bike-sharing programs help in reducing air pollution.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "Reducing, reusing, and recycling are key principles of sustainable living.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "Leaving taps running unnecessarily helps in water conservation.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "Using cloth bags instead of plastic bags can help reduce plastic pollution.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "Plastic waste has no impact on marine life and ocean pollution.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "Deforestation leads to an increase in carbon dioxide levels in the atmosphere.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "Public awareness campaigns cannot influence people's attitudes toward environmental protection.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "Governments impose vehicle emission control laws to reduce air pollution.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "Switching to renewable energy sources like solar and wind power helps in reducing pollution.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "Industries should be allowed to dump waste into rivers without restrictions.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "Air pollution is caused only by factories and has no connection to transportation.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "Environmental laws and regulations help in controlling pollution and promoting sustainability.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "Afforestation means cutting down trees for urban development.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "Sustainable development aims to meet present needs without compromising future generations.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "Plastic-free campaigns encourage people to stop using single-use plastics.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "People should only rely on the government to take care of the environment.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "Reducing food waste can contribute to environmental conservation.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "Public transport is an environmentally friendly alternative to private cars.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "Littering in public places has no impact on the environment.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "Using energy-efficient appliances can help conserve electricity and reduce pollution.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "Community-led clean-up drives are ineffective in maintaining a clean environment.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "Switching to paper bags instead of plastic bags is a sustainable choice.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "E-waste recycling is an important aspect of environmental conservation.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "The ozone layer protects the Earth from harmful UV radiation.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "Throwing garbage into rivers and lakes improves water quality.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "Using bicycles instead of motor vehicles can help reduce air pollution.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "Plastic pollution is a major environmental issue affecting both land and marine life.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "Educating children about environmental issues has no long-term impact on sustainability.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "Waste segregation helps in better waste management and recycling.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "Burning fossil fuels contributes to global warming and climate change.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "Planting more trees helps in reducing carbon dioxide levels in the atmosphere.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "Switching to LED lights instead of incandescent bulbs does not impact energy consumption.",
+      "answer": false
+    }
+]
+  

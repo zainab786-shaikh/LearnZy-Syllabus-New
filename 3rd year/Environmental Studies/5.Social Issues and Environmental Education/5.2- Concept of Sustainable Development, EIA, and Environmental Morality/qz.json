@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "Which amendment added Article 48-A and Article 51-A (g) to the Indian Constitution?",
+      "options": [
+        "44th Amendment Act",
+        "42nd Amendment Act",
+        "40th Amendment Act",
+        "46th Amendment Act"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What does Article 48-A of the Indian Constitution emphasize?",
+      "options": [
+        "Protecting wildlife only",
+        "Controlling pollution",
+        "Protection and improvement of the environment",
+        "Regulating industries"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a Directive Principle of State Policy (DPSP) related to the environment?",
+      "options": [
+        "Article 21",
+        "Article 51-A (g)",
+        "Article 48-A",
+        "Article 19"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What is the fundamental duty of Indian citizens as per Article 51-A (g)?",
+      "options": [
+        "To protect and improve the natural environment",
+        "To vote in elections",
+        "To promote economic growth",
+        "To maintain law and order"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which act was enacted after the Bhopal Gas Tragedy?",
+      "options": [
+        "The Water (Prevention and Control of Pollution) Act, 1974",
+        "The Air (Prevention and Control of Pollution) Act, 1981",
+        "The Environment (Protection) Act, 1986",
+        "The Forest Conservation Act, 1980"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "Which act regulates industrial emissions to control air pollution?",
+      "options": [
+        "The Air (Prevention and Control of Pollution) Act, 1981",
+        "The Water (Prevention and Control of Pollution) Act, 1974",
+        "The Wildlife Protection Act, 1972",
+        "The Forest Conservation Act, 1980"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "What is the main objective of the Water (Prevention and Control of Pollution) Act, 1974?",
+      "options": [
+        "To regulate groundwater levels",
+        "To prevent water pollution",
+        "To manage rainwater harvesting",
+        "To improve drinking water supply"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which organization monitors air and water pollution at the national level in India?",
+      "options": [
+        "MPCB",
+        "NGT",
+        "CPCB",
+        "WWF India"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Maharashtra Pollution Control Board (MPCB) is responsible for?",
+      "options": [
+        "Monitoring global pollution levels",
+        "Enforcing environmental laws in Maharashtra",
+        "Managing wildlife sanctuaries",
+        "Formulating central environmental policies"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which organization is responsible for setting pollution control standards for industries?",
+      "options": [
+        "MPCB",
+        "CPCB",
+        "WHO",
+        "Greenpeace India"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Which NGO works for animal rights and welfare in India?",
+      "options": [
+        "WWF India",
+        "Greenpeace India",
+        "PETA India",
+        "Centre for Science and Environment (CSE)"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "What does the Chipko Movement primarily focus on?",
+      "options": [
+        "Preventing deforestation",
+        "Controlling air pollution",
+        "Cleaning rivers",
+        "Reducing plastic waste"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "What is the main goal of Sustainable Development?",
+      "options": [
+        "Maximizing industrial output",
+        "Meeting present needs without harming future generations",
+        "Increasing GDP growth",
+        "Eliminating forests for urbanization"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is an example of sustainable development?",
+      "options": [
+        "Using fossil fuels excessively",
+        "Overfishing in oceans",
+        "Promoting solar energy",
+        "Deforestation for agriculture"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "Which process evaluates the environmental impact of a project before approval?",
+      "options": [
+        "Sustainable Development Planning",
+        "Pollution Control Analysis",
+        "Environmental Impact Assessment (EIA)",
+        "Climate Change Monitoring"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "Which step in EIA involves consulting local people and experts?",
+      "options": [
+        "Screening",
+        "Scoping",
+        "Impact Analysis",
+        "Public Participation"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is NOT a step in EIA?",
+      "options": [
+        "Screening",
+        "Scoping",
+        "Industrial Clearance",
+        "Impact Analysis"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "What does environmental morality emphasize?",
+      "options": [
+        "Only legal compliance for industries",
+        "Economic growth at any cost",
+        "Ethical responsibility to protect nature",
+        "Excessive use of natural resources"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is an example of environmental morality?",
+      "options": [
+        "Using cloth bags instead of plastic",
+        "Cutting down trees for fuel",
+        "Using single-use plastics",
+        "Throwing garbage in rivers"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Which act was enacted to prevent deforestation?",
+      "options": [
+        "The Air Act, 1981",
+        "The Water Act, 1974",
+        "The Forest Conservation Act, 1980",
+        "The Wildlife Protection Act, 1972"
+      ],
+      "answer": 3
+    }
+]
+  

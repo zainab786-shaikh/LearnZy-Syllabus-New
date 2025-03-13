@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "The ________ effect is a natural process that keeps the Earth warm.",
+      "options": [
+        "Greenhouse",
+        "Ozone",
+        "Global warming",
+        "Climate change"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "The main greenhouse gas responsible for global warming is ________.",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Climate change refers to long-term changes in ________ patterns.",
+      "options": [
+        "Population",
+        "Weather",
+        "Economic",
+        "Agricultural"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Excess greenhouse gases trap ________ in the Earth’s atmosphere, causing global warming.",
+      "options": [
+        "Heat",
+        "Water",
+        "Wind",
+        "Oxygen"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "The Himalayan glaciers are melting due to ________.",
+      "options": [
+        "Deforestation",
+        "Acid rain",
+        "Climate change",
+        "Ozone depletion"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "The ozone layer protects Earth from harmful ________ rays.",
+      "options": [
+        "Gamma",
+        "Ultraviolet",
+        "Infrared",
+        "Microwave"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "CFCs, which damage the ozone layer, are commonly found in ________.",
+      "options": [
+        "Air conditioners",
+        "Electric cars",
+        "Solar panels",
+        "Wind turbines"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "The major nuclear disaster in 1986 occurred in ________.",
+      "options": [
+        "Japan",
+        "Ukraine",
+        "USA",
+        "China"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Acid rain is caused by the release of ________ and nitrogen oxides into the atmosphere.",
+      "options": [
+        "Sulfur dioxide",
+        "Carbon monoxide",
+        "Methane",
+        "Chlorine"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "The ________ disaster in Japan was caused by a tsunami that damaged a nuclear plant.",
+      "options": [
+        "Chernobyl",
+        "Fukushima",
+        "Three Mile Island",
+        "Bhopal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Global warming is causing sea levels to ________.",
+      "options": [
+        "Rise",
+        "Decrease",
+        "Remain the same",
+        "Fluctuate randomly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Deforestation increases the level of ________ in the atmosphere, contributing to climate change.",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Nitrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Frequent wildfires in Australia and California are caused by ________ temperatures.",
+      "options": [
+        "Decreasing",
+        "Stable",
+        "Rising",
+        "Moderate"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Nuclear accidents release harmful ________ that can cause health issues like cancer.",
+      "options": [
+        "Smoke",
+        "Radiation",
+        "Carbon dioxide",
+        "Sulfur dioxide"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "The melting of ________ is one of the main effects of global warming.",
+      "options": [
+        "Forests",
+        "Rivers",
+        "Glaciers",
+        "Mountains"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "Acid rain damages historical buildings such as the ________.",
+      "options": [
+        "Great Wall of China",
+        "Taj Mahal",
+        "Eiffel Tower",
+        "Leaning Tower of Pisa"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Burning fossil fuels releases ________ gases into the atmosphere.",
+      "options": [
+        "Harmful",
+        "Oxygen-rich",
+        "Pure",
+        "Harmless"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "One way to reduce greenhouse gases is to use ________ energy sources.",
+      "options": [
+        "Fossil fuel-based",
+        "Renewable",
+        "Nuclear",
+        "Non-renewable"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Climate change can lead to an increase in extreme weather events like ________.",
+      "options": [
+        "Hurricanes",
+        "Volcanic eruptions",
+        "Landslides",
+        "Earthquakes"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Using public transport instead of private cars helps in reducing ________ emissions.",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": 1
+    }
+]
+  

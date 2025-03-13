@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that conditional statements in Python allow a program to make decisions based on conditions.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is true that conditional statements in Python do not allow decision-making.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that the if statement executes a block of code only if a certain condition is True.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is true that the if statement executes code regardless of whether the condition is True or False.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that the if … else statement allows two possibilities based on a condition.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is true that the if … else statement can only execute one block of code.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that the if … elif … else statement checks multiple conditions.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is true that the if … elif … else statement can only check one condition at a time.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that nested if statements are used to check multiple conditions inside another condition.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that nested if statements cannot be used for checking multiple conditions.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that conditional statements can be used to check if a number is positive or negative.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that conditional statements cannot be used for checking whether a number is positive or negative.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that the if statement requires a condition to be specified.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that the if statement does not require a condition to execute.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that the if … else statement provides an alternative action if the condition is False.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is true that the if … else statement does not provide an alternative action when the condition fails.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that elif statements are used to check additional conditions after an initial if statement.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is true that elif statements are not used to check additional conditions.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that nested if statements can be used to check if a number is both positive and even.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that nested if statements cannot be used for checking multiple properties of a number at once.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that conditional statements can be used in real-life scenarios like age verification systems.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is true that conditional statements are not applicable in real-life applications.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that the if … elif … else statement can handle three different outcomes.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that the if … elif … else statement cannot handle multiple outcomes.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that conditional statements help in executing different code blocks based on conditions.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that conditional statements do not assist in executing different code blocks.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that conditional statements are essential for dynamic decision-making in Python.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is true that conditional statements are not necessary for decision-making processes.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that the if statement checks for one specific condition at a time.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that the if statement can check multiple conditions simultaneously.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that conditional statements can be used to determine voting eligibility based on age.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that conditional statements cannot determine eligibility based on user input.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that the if … else statement provides two distinct paths based on a condition.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that the if … else statement does not provide distinct paths.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that elif statements are used to handle multiple conditions sequentially.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is true that elif statements are not used for sequential condition checking.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that nested if statements can be used to check complex conditions.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is true that nested if statements cannot be utilized for complex condition checks.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that conditional statements are used to execute different blocks of code based on conditions.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is true that conditional statements do not execute different blocks of code.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that the if statement is used to check a single condition.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is true that the if statement is not used for checking a single condition.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that conditional statements can be used to handle different scenarios based on user input.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is true that conditional statements cannot handle different scenarios based on user input.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that the if … elif … else statement can handle more than two conditions.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that the if … elif … else statement cannot handle more than two conditions.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that conditional statements are crucial for making decisions in Python programs.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that conditional statements are not crucial for decision-making in Python.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that conditional statements help in managing different paths of execution based on conditions.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that conditional statements do not help in managing different paths of execution.",
+      "answer": false
+    }
+]
+  

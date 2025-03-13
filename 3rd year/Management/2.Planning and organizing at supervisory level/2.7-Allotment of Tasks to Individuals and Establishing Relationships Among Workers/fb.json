@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Once resources are organized, the next step is to properly ________ tasks among employees.",
+      "options": [
+        "ignore",
+        "delay",
+        "divide and assign",
+        "reduce"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "Task allotment involves breaking down work into different ________.",
+      "options": [
+        "roles",
+        "tasks",
+        "responsibilities",
+        "duties"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Tasks should be assigned to workers based on their ________.",
+      "options": [
+        "interests only",
+        "skills only",
+        "abilities only",
+        "skills and abilities"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "Establishing a chain of command helps in defining who ________ to whom.",
+      "options": [
+        "reports",
+        "listens",
+        "talks",
+        "ignores"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Promoting teamwork ensures that employees work together ________.",
+      "options": [
+        "inefficiently",
+        "efficiently",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Monitoring tasks helps in determining if they need to be ________.",
+      "options": [
+        "ignored",
+        "delayed",
+        "redistributed",
+        "reduced"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "In a construction company, engineers are responsible for ________ the building.",
+      "options": [
+        "building",
+        "designing",
+        "constructing",
+        "managing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Workers in a construction company are responsible for laying ________ and mixing cement.",
+      "options": [
+        "bricks",
+        "tiles",
+        "wood",
+        "glass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Electricians in a construction company are responsible for installing ________.",
+      "options": [
+        "plumbing",
+        "wiring",
+        "carpentry",
+        "masonry"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Supervisors in a construction company ensure that everything happens ________.",
+      "options": [
+        "late",
+        "on time",
+        "early",
+        "slowly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "In a school, teachers are assigned subjects based on their ________.",
+      "options": [
+        "interests",
+        "expertise",
+        "abilities",
+        "experience"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Administrative staff in a school handle ________ and fees.",
+      "options": [
+        "student records",
+        "teacher records",
+        "parent records",
+        "staff records"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "The principal in a school oversees the entire system to ensure ________ functioning.",
+      "options": [
+        "smooth",
+        "rough",
+        "slow",
+        "inefficient"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Establishing relationships among workers helps prevent ________ about roles and responsibilities.",
+      "options": [
+        "clarity",
+        "confusion",
+        "certainty",
+        "uncertainty"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Clear relationships among workers encourage ________ and cooperation.",
+      "options": [
+        "competition",
+        "teamwork",
+        "conflict",
+        "isolation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Defining clear reporting structures helps in ________ decision-making.",
+      "options": [
+        "slowing",
+        "faster",
+        "delaying",
+        "ignoring"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Clear roles and responsibilities reduce ________ by defining a structured hierarchy.",
+      "options": [
+        "workplace harmony",
+        "workplace conflicts",
+        "workplace efficiency",
+        "workplace productivity"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "At the supervisory level, organizing ensures that physical resources and human skills are ________ aligned.",
+      "options": [
+        "poorly",
+        "properly",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "A supervisor must organize physical resources to ensure a ________ workflow.",
+      "options": [
+        "slow",
+        "smooth",
+        "inefficient",
+        "delayed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Matching employee skills with job needs helps in ________ productivity.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Allotting tasks and establishing relationships helps create a ________ and cooperative work environment.",
+      "options": [
+        "structured",
+        "unstructured",
+        "competitive",
+        "isolated"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "When tasks are properly assigned and relationships are established, organizations run ________.",
+      "options": [
+        "inefficiently",
+        "smoothly",
+        "slowly",
+        "chaotically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Proper task allotment and relationship establishment help employees remain ________.",
+      "options": [
+        "unhappy",
+        "happy",
+        "neutral",
+        "indifferent"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "Efficient task allotment and relationship establishment help achieve business goals ________.",
+      "options": [
+        "unsuccessfully",
+        "successfully",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Task allotment involves breaking down work into manageable ________.",
+      "options": [
+        "roles",
+        "tasks",
+        "responsibilities",
+        "duties"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "Assigning tasks based on skills helps in ________ employee performance.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "Establishing a clear chain of command helps in defining ________ structures.",
+      "options": [
+        "reporting",
+        "communication",
+        "decision-making",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 28,
+      "question": "Promoting teamwork ensures that employees collaborate ________.",
+      "options": [
+        "inefficiently",
+        "efficiently",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "Monitoring tasks helps in determining if adjustments are needed to ________ them.",
+      "options": [
+        "ignore",
+        "delay",
+        "redistribute",
+        "reduce"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question": "In a construction company, engineers are responsible for designing the ________.",
+      "options": [
+        "building",
+        "bridge",
+        "road",
+        "park"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "Workers in a construction company are responsible for laying ________ and mixing cement.",
+      "options": [
+        "bricks",
+        "tiles",
+        "wood",
+        "glass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Electricians in a construction company are responsible for installing ________ systems.",
+      "options": [
+        "plumbing",
+        "wiring",
+        "carpentry",
+        "masonry"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "Supervisors in a construction company ensure that everything happens according to the ________.",
+      "options": [
+        "schedule",
+        "budget",
+        "plan",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 34,
+      "question": "In a school, teachers are assigned subjects based on their ________ to ensure effective teaching.",
+      "options": [
+        "interests",
+        "expertise",
+        "abilities",
+        "experience"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "Administrative staff in a school handle ________ and fees to maintain records.",
+      "options": [
+        "student records",
+        "teacher records",
+        "parent records",
+        "staff records"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "The principal in a school oversees the entire system to ensure ________ operations.",
+      "options": [
+        "smooth",
+        "rough",
+        "slow",
+        "inefficient"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "Establishing clear relationships among workers helps prevent ________ and confusion.",
+      "options": [
+        "clarity",
+        "conflict",
+        "certainty",
+        "uncertainty"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "Clear roles and responsibilities encourage ________ among team members.",
+      "options": [
+        "competition",
+        "teamwork",
+        "conflict",
+        "isolation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "Defining clear reporting structures helps in making ________ decisions.",
+      "options": [
+        "slower",
+        "faster",
+        "delayed",
+        "ignoring"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "Clear roles and responsibilities reduce ________ by establishing a structured hierarchy.",
+      "options": [
+        "workplace harmony",
+        "workplace conflicts",
+        "workplace efficiency",
+        "workplace productivity"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 41,
+      "question": "At the supervisory level, organizing ensures that physical resources and human skills are ________ aligned to achieve goals.",
+      "options": [
+        "poorly",
+        "properly",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "A supervisor must organize physical resources to ensure a ________ workflow and efficient operations.",
+      "options": [
+        "slow",
+        "smooth",
+        "inefficient",
+        "delayed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "Matching employee skills with job needs helps in ________ overall productivity.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "Allotting tasks and establishing relationships helps create a ________ work environment that fosters collaboration.",
+      "options": [
+        "structured",
+        "unstructured",
+        "competitive",
+        "isolated"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "When tasks are properly assigned and relationships are established, organizations operate ________.",
+      "options": [
+        "inefficiently",
+        "smoothly",
+        "slowly",
+        "chaotically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "Proper task allotment and relationship establishment help employees remain ________ and motivated.",
+      "options": [
+        "unhappy",
+        "happy",
+        "neutral",
+        "indifferent"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "Efficient task allotment and relationship establishment help achieve business goals ________ and effectively.",
+      "options": [
+        "unsuccessfully",
+        "successfully",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "Task allotment involves breaking down work into manageable ________ to enhance productivity.",
+      "options": [
+        "roles",
+        "tasks",
+        "responsibilities",
+        "duties"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "Assigning tasks based on skills helps in ________ employee performance and job satisfaction.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "Establishing a clear chain of command helps in defining effective ________ structures for decision-making.",
+      "options": [
+        "reporting",
+        "communication",
+        "decision-making",
+        "all of the above"
+      ],
+      "answer": 4
+    }
+]
+  

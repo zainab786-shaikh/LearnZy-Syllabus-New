@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "The Python ________ is the engine that runs Python code.",
+      "options": ["Editor", "Interpreter", "Library", "Compiler"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "IDLE, PyCharm, and VS Code are examples of Python ________.",
+      "options": ["Compilers", "IDEs", "Frameworks", "Libraries"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "To check the installed Python version, use the command ________.",
+      "options": ["python --check", "python --version", "check python", "python -v"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Before installing Python, we download it from ________.",
+      "options": ["python.org", "github.com", "pypi.org", "jetbrains.com"],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "The command used to install Python libraries is ________.",
+      "options": ["install", "python install", "pip install", "pkg install"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "A Python file is saved with the extension ________.",
+      "options": [".py", ".pyt", ".python", ".txt"],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "The default IDE that comes with Python is called ________.",
+      "options": ["VS Code", "IDLE", "Jupyter", "PyCharm"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "PyCharm is developed by ________.",
+      "options": ["Microsoft", "Google", "JetBrains", "IBM"],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "A virtual environment in Python is created using the command ________.",
+      "options": ["python -m venv", "create env", "python create venv", "python virtualenv"],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "The ________ command is used to activate a virtual environment on Windows.",
+      "options": ["activate", "venv start", "my_env/Scripts/activate", "venv_run"],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "To deactivate a virtual environment, we use the command ________.",
+      "options": ["deactivate", "stop venv", "exit env", "close venv"],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "To install PyCharm, we visit ________.",
+      "options": ["pycharm.org", "jetbrains.com", "python.org", "microsoft.com"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Jupyter Notebook is mainly used for ________.",
+      "options": ["Game Development", "Data Science", "Web Development", "Cybersecurity"],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "To run a Python script in the terminal, use the command ________ filename.py.",
+      "options": ["execute", "run", "python", "compile"],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "The first step in setting up Python is to ________ it.",
+      "options": ["compile", "download", "delete", "debug"],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "The box that must be checked while installing Python is ________.",
+      "options": ["Add Python to PATH", "Enable Debug Mode", "Install Compiler", "Enable Logging"],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "To open the Python interactive shell, simply type ________ in the terminal.",
+      "options": ["python", "shell", "py execute", "cmd python"],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "The IDE recommended for beginners in Python is ________.",
+      "options": ["PyCharm", "IDLE", "Jupyter", "VS Code"],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "The Python package manager is called ________.",
+      "options": ["pip", "npm", "pkg", "brew"],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "The requests library is used for ________ in Python.",
+      "options": ["Web Scraping", "Networking", "Making HTTP Requests", "GUI Development"],
+      "answer": 3
+    }
+]
+  

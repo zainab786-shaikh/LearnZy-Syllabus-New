@@ -1,0 +1,117 @@
+[
+    {
+      "id": 1,
+      "question": "An identifier in Python can contain letters, digits, and ________.",
+      "options": ["hyphens", "underscores", "spaces", "special characters"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Python identifiers must not start with a ________.",
+      "options": ["letter", "digit", "underscore", "keyword"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "The identifier 'class' is invalid because it is a ________.",
+      "options": ["function", "variable", "keyword", "constant"],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Python identifiers are ________, meaning 'Name' and 'name' are different.",
+      "options": ["case-insensitive", "case-sensitive", "immutable", "reserved"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "A Python keyword cannot be used as a ________ name.",
+      "options": ["function", "variable", "class", "All of the above"],
+      "answer": 4
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a valid identifier in Python?",
+      "options": ["1variable", "_data", "class", "my-name"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "The Python keyword 'def' is used to define a ________.",
+      "options": ["class", "variable", "function", "module"],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "Python uses ________ instead of curly braces to define code blocks.",
+      "options": ["semicolons", "parentheses", "indentation", "brackets"],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "The recommended number of spaces for indentation in Python is ________.",
+      "options": ["2", "4", "6", "8"],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Incorrect indentation in Python results in a ________.",
+      "options": ["SyntaxError", "IndentationError", "RuntimeError", "TypeError"],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Variables in Python are used to store ________.",
+      "options": ["only numbers", "only text", "only lists", "different types of data"],
+      "answer": 4
+    },
+    {
+      "id": 12,
+      "question": "Python variables are ________ typed, meaning their type can change dynamically.",
+      "options": ["statically", "dynamically", "strongly", "weakly"],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is a valid variable name in Python?",
+      "options": ["2data", "my variable", "_result", "if"],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "A variable name in Python cannot contain ________.",
+      "options": ["letters", "digits", "underscores", "spaces"],
+      "answer": 4
+    },
+    {
+      "id": 15,
+      "question": "Python ignores everything written after the ________ symbol in a line of code.",
+      "options": ["*", "#", "//", "--"],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "The 'import' keyword is used to include ________ in a Python program.",
+      "options": ["functions", "classes", "modules", "variables"],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "A Python block of code starts after a ________ and an indented line.",
+      "options": ["colon (:)", "semicolon (;)", "comma (,)", "dot (.)"],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "A Python function is defined using the ________ keyword.",
+      "options": ["define", "function", "def", "func"],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "The 'return' keyword is used to return a ________ from a function.",
+      "options": ["class", "value", "variable", "loop"],
+      "answer": 2
+    }
+]
+  

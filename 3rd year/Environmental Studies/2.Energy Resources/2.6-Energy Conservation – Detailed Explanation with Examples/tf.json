@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "Energy conservation means using energy wisely and reducing unnecessary energy use.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "Fossil fuels like coal and oil are renewable sources of energy.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Using LED bulbs instead of traditional bulbs helps reduce energy consumption.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "Burning fossil fuels does not contribute to air pollution and global warming.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "If we waste natural resources today, future generations may suffer from energy shortages.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "Leaving lights and fans on when not in use helps in energy conservation.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Energy conservation can help reduce electricity bills.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Using public transportation instead of personal vehicles can help save fuel.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Solar water heaters consume more electricity than electric geysers.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "Carpooling is an effective way to conserve fuel.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "Switching off computers when not in use does not contribute to energy savings.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "Maintaining vehicles properly improves fuel efficiency and reduces fuel consumption.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "Recycling materials like paper and plastic reduces the energy needed to produce new materials.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "Energy-efficient appliances, such as refrigerators and air conditioners, consume more electricity than regular appliances.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "Hybrid cars use both fuel and electricity, making them more energy efficient.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "Opening windows for natural light during the daytime can reduce the need for artificial lighting.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "Energy conservation has no impact on protecting the environment.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "Using electric vehicles (EVs) instead of petrol or diesel cars helps in reducing pollution.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Factories should use modern, energy-efficient machinery to reduce power consumption.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "The use of solar panels helps in reducing dependence on non-renewable energy sources.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "Air conditioners set at 18°C consume less electricity than those set at 24°C.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "Using more energy-efficient technologies improves overall energy utilization.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "Earth Hour is a campaign where people switch off lights for one hour to promote energy conservation.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "Electric vehicles consume more fuel than petrol or diesel vehicles.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "Energy conservation means producing more energy to meet demands.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "Turning off electrical devices when not in use can help in saving energy.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "Leaving devices on standby mode does not consume electricity.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "Using energy-efficient appliances reduces overall energy costs.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "Conserving energy today ensures that future generations will have enough energy.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "Using a bike or walking for short distances helps in reducing fuel consumption.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "Incandescent bulbs use less energy compared to LED bulbs.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "Factories should operate machines continuously to maximize energy usage.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "Using less water also helps in saving energy, as water purification requires electricity.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "Replacing old electrical appliances with new energy-efficient models is a good way to conserve energy.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "Unplugging chargers and electronic devices when not in use can prevent energy wastage.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "Solar-powered streetlights help in conserving electricity.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "Energy-efficient buildings are designed to consume more power than traditional buildings.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "Using curtains and blinds to block heat during summer helps in reducing air conditioning costs.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "Setting computers to 'sleep mode' when idle helps in saving electricity.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "Using too many electrical appliances at once increases energy efficiency.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "Using rechargeable batteries instead of disposable ones helps in conserving energy.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "Government campaigns promote awareness about the importance of energy conservation.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "Using fans instead of air conditioners can help in reducing energy consumption.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "Power-saving modes in appliances help in reducing unnecessary energy use.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "Smart thermostats can automatically adjust temperature settings to save energy.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "Regular maintenance of electrical appliances can improve their energy efficiency.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "Insulating houses properly can reduce the need for excessive heating and cooling.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "Using more energy-efficient appliances can help reduce the overall carbon footprint.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "Leaving taps running while brushing teeth saves energy.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "Energy conservation plays a major role in sustainable development.",
+      "answer": true
+    }
+]
+  

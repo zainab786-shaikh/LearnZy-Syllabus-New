@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is Rainwater Harvesting?",
+      "options": [
+        "Collecting and storing rainwater for future use",
+        "Using groundwater for irrigation",
+        "Building large dams for electricity generation",
+        "Diverting river water to urban areas"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which method is commonly used for rooftop rainwater harvesting?",
+      "options": [
+        "Check dams",
+        "Recharge pits",
+        "Percolation tanks",
+        "Collection tanks"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "What is the main benefit of Rainwater Harvesting?",
+      "options": [
+        "Increases groundwater levels",
+        "Prevents soil erosion",
+        "Generates hydroelectricity",
+        "Reduces river pollution"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which city in India has made rainwater harvesting compulsory for buildings?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Chennai",
+        "Bangalore"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is the purpose of recharge wells in groundwater recharge?",
+      "options": [
+        "To store harvested rainwater",
+        "To allow rainwater to seep underground",
+        "To pump water for irrigation",
+        "To transport water to other regions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is NOT a method of groundwater recharge?",
+      "options": [
+        "Percolation tanks",
+        "Recharge pits",
+        "Surface runoff",
+        "Check dams"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "What is the main aim of Green Belt Development?",
+      "options": [
+        "To improve air quality and reduce pollution",
+        "To provide land for commercial buildings",
+        "To store excess groundwater",
+        "To increase the temperature of cities"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is an example of Green Belt Development?",
+      "options": [
+        "Sutlej-Yamuna Link Canal",
+        "Tehri Dam",
+        "Delhi’s Ridge Forest",
+        "Gujarat’s check dam project"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "What is the primary advantage of Green Belt Development?",
+      "options": [
+        "It increases groundwater levels",
+        "It absorbs carbon dioxide and reduces air pollution",
+        "It generates solar energy",
+        "It prevents water pollution"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which type of energy is NOT renewable?",
+      "options": [
+        "Solar energy",
+        "Wind energy",
+        "Hydro energy",
+        "Nuclear energy"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is an example of renewable energy?",
+      "options": [
+        "Coal",
+        "Petroleum",
+        "Biogas",
+        "Natural gas"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Where is Bhadla Solar Park located?",
+      "options": [
+        "Gujarat",
+        "Rajasthan",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "What is the main goal of watershed management?",
+      "options": [
+        "To generate hydroelectric power",
+        "To manage and conserve water resources",
+        "To increase rainfall",
+        "To transport water across states"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is a method used in watershed management?",
+      "options": [
+        "Contour farming",
+        "Surface mining",
+        "Constructing skyscrapers",
+        "Draining lakes"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "What is the purpose of interlinking rivers?",
+      "options": [
+        "To prevent river pollution",
+        "To transport goods using water routes",
+        "To transfer water from surplus to deficit areas",
+        "To build bridges over rivers"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "Which river-linking project connects the Godavari and Krishna rivers?",
+      "options": [
+        "Ken-Betwa Link",
+        "Ganga-Brahmaputra Link",
+        "Sutlej-Yamuna Link",
+        "Godavari-Krishna Link"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 17,
+      "question": "What is a major benefit of interlinking rivers?",
+      "options": [
+        "It increases groundwater pollution",
+        "It helps in irrigation and prevents droughts",
+        "It reduces rainfall",
+        "It increases desertification"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Which state has implemented successful watershed management in Hiware Bazar?",
+      "options": [
+        "Rajasthan",
+        "Maharashtra",
+        "Punjab",
+        "Kerala"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Which energy source uses wind turbines?",
+      "options": [
+        "Hydropower",
+        "Solar energy",
+        "Wind energy",
+        "Nuclear energy"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "Which city uses recharge wells in metro stations to replenish groundwater?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Bangalore",
+        "Kolkata"
+      ],
+      "answer": 1
+    }
+]
+  

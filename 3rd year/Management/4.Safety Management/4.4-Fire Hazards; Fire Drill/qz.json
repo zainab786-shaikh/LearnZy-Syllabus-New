@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is a fire hazard?",
+      "options": [
+        "Anything that prevents fires",
+        "Anything that can start a fire, make it spread, or cause harm due to fire",
+        "Only electrical issues",
+        "Only flammable materials"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What are examples of flammable materials that can cause fires?",
+      "options": [
+        "Only water and ice",
+        "Paper, wood, gasoline, or alcohol",
+        "Only metal and glass",
+        "Only plastic and rubber"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Why is it important to avoid overloading electrical sockets?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents electrical fires by avoiding overheating",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What is an example of an electrical hazard?",
+      "options": [
+        "A short circuit in a faulty extension cord",
+        "A properly maintained electrical system",
+        "Only a gas leak",
+        "Only a blocked fire exit"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Why is it dangerous to leave stoves or candles unattended?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It can cause fires if not monitored",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "What happens if a gas leak is not addressed?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to potential explosions",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Why is it important to keep fire exits clear?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures safe evacuation during emergencies",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "What is an example of improper storage of chemicals?",
+      "options": [
+        "Storing paint thinner near a heater",
+        "Storing chemicals in a well-ventilated area away from heat",
+        "Only storing flammable liquids",
+        "Only storing combustible materials"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What are the effects of fire hazards?",
+      "options": [
+        "Only property damage",
+        "Only injury or death",
+        "Property damage, injury or death, and environmental damage",
+        "Only environmental damage"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "What is the purpose of a fire drill?",
+      "options": [
+        "To practice using fire extinguishers only",
+        "To evacuate quickly and efficiently in case of a fire emergency",
+        "To only identify fire hazards",
+        "To only conduct safety inspections"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Why is it important to conduct regular fire drills?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prepares individuals to react safely and quickly during emergencies",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "What happens if fire drills are not conducted regularly?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to lack of preparedness",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "How does a fire drill help in reducing panic during emergencies?",
+      "options": [
+        "It increases panic",
+        "It has no impact on panic",
+        "It helps people stay calm by practicing evacuation procedures",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "What is the first step in a fire drill?",
+      "options": [
+        "To use fire extinguishers",
+        "To sound the alarm and signal an emergency",
+        "To assemble at a safe location",
+        "To return to work after clearance"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Why is it important to follow the escape plan during a fire drill?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures orderly evacuation and reduces confusion",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "What happens if fire extinguishers are not used properly during a fire drill?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to improper use of extinguishers",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Why is it important to assemble at a safe location after evacuation?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It allows for a headcount to ensure everyone is safe",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "What is the benefit of conducting fire drills in schools?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prepares students and staff to respond safely during emergencies",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "Why is it important to store flammable materials safely?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents fires by keeping materials away from heat sources",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "What happens if combustible dust is not managed properly?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to potential explosions",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "How does industrial fire safety impact organizational reputation?",
+      "options": [
+        "It decreases reputation",
+        "It has no impact on reputation",
+        "It improves reputation by demonstrating a commitment to safety",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "What is the role of regular fire inspections in preventing fires?",
+      "options": [
+        "To reduce safety",
+        "To have no impact on safety",
+        "To identify and address potential fire hazards",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 23,
+      "question": "Why is it important to ensure that electrical equipment is properly maintained?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents electrical fires by reducing malfunctions",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 24,
+      "question": "What happens if fire alarms are not functioning properly?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to delayed response",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "question": "How does a fire drill help in improving response time during emergencies?",
+      "options": [
+        "It decreases response time",
+        "It has no impact on response time",
+        "It increases response time by practicing evacuation procedures",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 26,
+      "question": "What is the benefit of having a comprehensive fire safety plan?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It improves safety by preparing for emergencies",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 27,
+      "question": "Why is it important to keep fire extinguishers in accessible places?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures quick access to extinguishers during emergencies",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 28,
+      "question": "What happens if fire hazards are not identified and addressed?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to unaddressed hazards",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 29,
+      "question": "How does fire safety impact employee morale?",
+      "options": [
+        "It decreases morale",
+        "It has no impact on morale",
+        "It improves morale by providing a safe work environment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question": "What is the role of fire drills in identifying problems like locked exits?",
+      "options": [
+        "To reduce safety",
+        "To have no impact on safety",
+        "To identify obstacles during evacuation",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 31,
+      "question": "Why is it important to conduct fire drills in hospitals?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prepares staff to protect patients during emergencies",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 32,
+      "question": "What happens if gas leaks are not addressed promptly?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to potential explosions",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 33,
+      "question": "How does fire safety impact organizational sustainability?",
+      "options": [
+        "It decreases sustainability",
+        "It has no impact on sustainability",
+        "It improves sustainability by preventing property damage",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 34,
+      "question": "What is the benefit of having clear fire escape plans?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures safe evacuation during emergencies",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 35,
+      "question": "Why is it important to store chemicals safely to prevent fires?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It prevents chemical fires by keeping materials away from heat sources",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "What happens if fire extinguishers are not inspected regularly?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to malfunctioning extinguishers",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 37,
+      "question": "How does fire safety impact employee retention?",
+      "options": [
+        "It decreases retention",
+        "It has no impact on retention",
+        "It increases retention by providing a safe work environment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 38,
+      "question": "What is the role of fire drills in improving emergency preparedness?",
+      "options": [
+        "To reduce preparedness",
+        "To have no impact on preparedness",
+        "To prepare individuals to respond effectively during emergencies",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 39,
+      "question": "Why is it important to ensure that fire exits are not blocked?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures safe evacuation during emergencies",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 40,
+      "question": "What happens if electrical equipment is not properly maintained?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to potential electrical fires",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 41,
+      "question": "How does fire safety impact organizational culture?",
+      "options": [
+        "It decreases positive culture",
+        "It has no impact on culture",
+        "It improves culture by promoting safety and well-being",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 42,
+      "question": "What is the benefit of having a comprehensive fire safety program?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It improves safety by preparing for emergencies",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 43,
+      "question": "Why is it important to conduct regular fire safety inspections?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It identifies and addresses potential fire hazards",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 44,
+      "question": "What happens if fire hazards are not addressed promptly?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to unaddressed hazards",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 45,
+      "question": "How does fire safety impact employee well-being?",
+      "options": [
+        "It decreases well-being",
+        "It has no impact on well-being",
+        "It improves well-being by providing a safe work environment",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 46,
+      "question": "What is the role of fire drills in identifying safety issues like faulty alarms?",
+      "options": [
+        "To reduce safety",
+        "To have no impact on safety",
+        "To identify problems during evacuation",
+        "To only comply with legal regulations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 47,
+      "question": "Why is it important to ensure that fire extinguishers are easily accessible?",
+      "options": [
+        "It reduces safety",
+        "It has no impact on safety",
+        "It ensures quick access to extinguishers during emergencies",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 48,
+      "question": "What happens if fire safety protocols are not followed in industrial settings?",
+      "options": [
+        "Safety improves",
+        "Accidents decrease",
+        "Accidents increase due to lack of safety measures",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 49,
+      "question": "How does fire safety impact organizational adaptability?",
+      "options": [
+        "It decreases adaptability",
+        "It has no impact on adaptability",
+        "It improves adaptability by ensuring flexibility in response to emergencies",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 50,
+      "question": "What is the overall impact of effective fire safety measures on organizational performance?",
+      "options": [
+        "It decreases performance",
+        "It has no impact on performance",
+        "It improves performance by preventing fires and ensuring safety",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    }
+]
+  

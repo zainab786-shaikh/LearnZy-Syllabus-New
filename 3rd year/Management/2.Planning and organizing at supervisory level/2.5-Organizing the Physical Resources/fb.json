@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Organizing at the supervisory level involves arranging and coordinating ________ to ensure efficient work completion.",
+      "options": [
+        "only manpower",
+        "only materials",
+        "only machines",
+        "resources such as manpower, materials, and machines"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 2,
+      "question": "A supervisor is responsible for ________ tasks among employees.",
+      "options": [
+        "ignoring",
+        "delaying",
+        "allocating",
+        "reducing"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Organizing physical resources helps ________ wastage of materials.",
+      "options": [
+        "increase",
+        "reduce",
+        "ignore",
+        "delay"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Efficient use of physical resources ________ efficiency in the workplace.",
+      "options": [
+        "decreases",
+        "increases",
+        "ignores",
+        "delays"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Proper maintenance of physical resources ________ safety in the workplace.",
+      "options": [
+        "compromises",
+        "improves",
+        "ignores",
+        "delays"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Organizing physical resources ensures a ________ workflow without unnecessary delays.",
+      "options": [
+        "slow",
+        "smooth",
+        "inefficient",
+        "delayed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "In a car manufacturing company, a supervisor must ensure that ________ are working properly.",
+      "options": [
+        "only tools",
+        "only machines",
+        "only raw materials",
+        "machines and tools"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 8,
+      "question": "In a restaurant, the supervisor must ensure that the kitchen has the necessary ________.",
+      "options": [
+        "furniture",
+        "decorations",
+        "ingredients",
+        "appliances"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Proper organization of physical resources helps in ________ the workflow.",
+      "options": [
+        "slowing",
+        "speeding",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "A supervisor must ensure that physical resources are ________ utilized.",
+      "options": [
+        "inefficiently",
+        "efficiently",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Organizing at the supervisory level involves managing ________ to ensure smooth operations.",
+      "options": [
+        "only workers",
+        "only materials",
+        "only machines",
+        "resources such as workers, materials, and machines"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 12,
+      "question": "Physical resources include ________ needed to complete tasks.",
+      "options": [
+        "only machines",
+        "only tools",
+        "machines, tools, raw materials, office supplies, workspace, and infrastructure",
+        "only raw materials"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "A supervisor ensures that employees have the necessary ________ to do their jobs well.",
+      "options": [
+        "training",
+        "resources",
+        "time",
+        "money"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Organizing physical resources helps in ________ the availability of materials.",
+      "options": [
+        "reducing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Proper organization of physical resources ________ workplace safety.",
+      "options": [
+        "compromises",
+        "improves",
+        "ignores",
+        "delays"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "In a manufacturing company, a supervisor must ensure that ________ are available on time.",
+      "options": [
+        "only machines",
+        "only tools",
+        "raw materials",
+        "finished products"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Organizing physical resources helps in ________ unnecessary delays in the workflow.",
+      "options": [
+        "increasing",
+        "reducing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "A supervisor must ensure that the workspace is ________ maintained.",
+      "options": [
+        "poorly",
+        "properly",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Proper organization of physical resources helps in ________ the efficiency of operations.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "In a restaurant, the supervisor must ensure that ________ are in working condition.",
+      "options": [
+        "only tables",
+        "only chairs",
+        "refrigerators and cooking equipment",
+        "only decorations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "Organizing physical resources helps in ________ the workflow by placing resources where they are needed.",
+      "options": [
+        "slowing",
+        "speeding",
+        "ignoring",
+        "improving"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 22,
+      "question": "A supervisor must ensure that physical resources are ________ available.",
+      "options": [
+        "rarely",
+        "always",
+        "sometimes",
+        "never"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Proper organization of physical resources helps in ________ workplace efficiency.",
+      "options": [
+        "reducing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "In a car manufacturing company, finished cars are moved to the ________ area efficiently.",
+      "options": [
+        "production",
+        "storage",
+        "assembly",
+        "delivery"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Organizing physical resources helps in ________ the use of materials.",
+      "options": [
+        "wasting",
+        "conserving",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "A supervisor must ensure that employees have the necessary ________ to perform their tasks efficiently.",
+      "options": [
+        "training",
+        "resources",
+        "time",
+        "money"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "Proper organization of physical resources helps in ________ the workflow by reducing delays.",
+      "options": [
+        "slowing",
+        "speeding",
+        "ignoring",
+        "smoothing"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 28,
+      "question": "In a restaurant, the supervisor must arrange ________ properly in the dining area.",
+      "options": [
+        "only tables",
+        "only chairs",
+        "tables and chairs",
+        "only decorations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 29,
+      "question": "Organizing physical resources helps in ________ the efficiency of operations by ensuring resources are where they are needed.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "A supervisor must ensure that physical resources are ________ maintained to prevent breakdowns.",
+      "options": [
+        "poorly",
+        "properly",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "Proper organization of physical resources helps in ________ workplace safety by reducing hazards.",
+      "options": [
+        "compromising",
+        "improving",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 32,
+      "question": "In a manufacturing company, a supervisor must ensure that ________ are available to assemble products.",
+      "options": [
+        "only machines",
+        "only tools",
+        "raw materials and tools",
+        "finished products"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 33,
+      "question": "Organizing physical resources helps in ________ unnecessary delays and improving workflow.",
+      "options": [
+        "increasing",
+        "reducing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "A supervisor must ensure that the workspace is ________ organized to enhance efficiency.",
+      "options": [
+        "poorly",
+        "properly",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "Proper organization of physical resources helps in ________ the overall efficiency of operations.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "In a restaurant, the supervisor must ensure that ________ are in good working condition.",
+      "options": [
+        "only tables",
+        "only chairs",
+        "refrigerators and cooking equipment",
+        "only decorations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 37,
+      "question": "Organizing physical resources helps in ________ the workflow by ensuring timely availability of resources.",
+      "options": [
+        "slowing",
+        "speeding",
+        "ignoring",
+        "improving"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 38,
+      "question": "A supervisor must ensure that physical resources are ________ available when needed.",
+      "options": [
+        "rarely",
+        "always",
+        "sometimes",
+        "never"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "Proper organization of physical resources helps in ________ workplace efficiency by reducing waste.",
+      "options": [
+        "reducing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "In a car manufacturing company, a supervisor must ensure that ________ are moved efficiently to the storage area.",
+      "options": [
+        "raw materials",
+        "machines",
+        "finished cars",
+        "tools"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 41,
+      "question": "Organizing physical resources helps in ________ the use of materials by reducing waste.",
+      "options": [
+        "wasting",
+        "conserving",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "A supervisor must ensure that employees have the necessary ________ to perform tasks efficiently.",
+      "options": [
+        "training",
+        "resources",
+        "time",
+        "money"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "Proper organization of physical resources helps in ________ the workflow by reducing unnecessary delays.",
+      "options": [
+        "slowing",
+        "speeding",
+        "ignoring",
+        "smoothing"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 44,
+      "question": "In a restaurant, the supervisor must arrange ________ properly in the dining area to enhance customer experience.",
+      "options": [
+        "only tables",
+        "only chairs",
+        "tables and chairs",
+        "only decorations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 45,
+      "question": "Organizing physical resources helps in ________ the efficiency of operations by ensuring resources are properly maintained.",
+      "options": [
+        "decreasing",
+        "increasing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "A supervisor must ensure that physical resources are ________ maintained to prevent accidents.",
+      "options": [
+        "poorly",
+        "properly",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "Proper organization of physical resources helps in ________ workplace safety by maintaining equipment.",
+      "options": [
+        "compromising",
+        "improving",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "In a manufacturing company, a supervisor must ensure that ________ are available to assemble products efficiently.",
+      "options": [
+        "only machines",
+        "only tools",
+        "raw materials and tools",
+        "finished products"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 49,
+      "question": "Organizing physical resources helps in ________ unnecessary delays and enhancing workflow efficiency.",
+      "options": [
+        "increasing",
+        "reducing",
+        "ignoring",
+        "delaying"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "A supervisor must ensure that the workspace is ________ organized to improve efficiency and safety.",
+      "options": [
+        "poorly",
+        "properly",
+        "slowly",
+        "quickly"
+      ],
+      "answer": 2
+    }
+]
+  

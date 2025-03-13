@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What does the break statement do in a Python loop?",
+      "options": [
+        "Skips the current iteration",
+        "Stops the loop immediately",
+        "Does nothing",
+        "Continues to the next iteration"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What is the purpose of the continue statement in Python?",
+      "options": [
+        "To stop the loop",
+        "To skip the current iteration and move to the next",
+        "To do nothing",
+        "To restart the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What does the pass statement do in Python?",
+      "options": [
+        "It stops the loop",
+        "It skips the current iteration",
+        "It does nothing",
+        "It restarts the loop"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "When does the else clause in a Python loop execute?",
+      "options": [
+        "When the loop is stopped by break",
+        "When the loop completes normally without break",
+        "When the loop is skipped by continue",
+        "When the loop is paused"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What happens if a break statement is encountered in a loop?",
+      "options": [
+        "The loop continues to the next iteration",
+        "The loop skips the current iteration",
+        "The loop stops immediately",
+        "The loop does nothing"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "What is the purpose of using pass in incomplete code?",
+      "options": [
+        "To stop the loop",
+        "To skip the current iteration",
+        "To prevent syntax errors",
+        "To restart the loop"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "How does the continue statement affect the loop?",
+      "options": [
+        "It stops the loop",
+        "It skips the current iteration and continues",
+        "It does nothing",
+        "It restarts the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What happens if a loop completes without encountering a break statement?",
+      "options": [
+        "The else clause does not execute",
+        "The else clause executes",
+        "The loop restarts",
+        "The loop skips to the next iteration"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What is the difference between break and continue?",
+      "options": [
+        "Break stops the loop, continue skips the iteration",
+        "Break skips the iteration, continue stops the loop",
+        "Break does nothing, continue skips the iteration",
+        "Break restarts the loop, continue stops the loop"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "When should you use the pass statement?",
+      "options": [
+        "When you want to stop the loop",
+        "When you want to skip an iteration",
+        "When you need a placeholder in incomplete code",
+        "When you want to restart the loop"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "What happens to the else clause if a loop is stopped by break?",
+      "options": [
+        "It executes normally",
+        "It does not execute",
+        "It skips to the next iteration",
+        "It restarts the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "How does the break statement affect the loop's else clause?",
+      "options": [
+        "It causes the else clause to execute",
+        "It prevents the else clause from executing",
+        "It skips the else clause",
+        "It restarts the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "What is the purpose of the else clause in a loop?",
+      "options": [
+        "To stop the loop",
+        "To skip an iteration",
+        "To execute code when the loop completes normally",
+        "To restart the loop"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "Can the pass statement be used to stop a loop?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with break",
+        "Only with continue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "What happens if a loop encounters a continue statement?",
+      "options": [
+        "The loop stops",
+        "The loop skips the current iteration and continues",
+        "The loop does nothing",
+        "The loop restarts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "How does the continue statement differ from break?",
+      "options": [
+        "Continue stops the loop, break skips the iteration",
+        "Continue skips the iteration, break stops the loop",
+        "Continue does nothing, break skips the iteration",
+        "Continue restarts the loop, break stops the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "When should you use the continue statement?",
+      "options": [
+        "When you want to stop the loop",
+        "When you want to skip an iteration and continue",
+        "When you want to do nothing",
+        "When you want to restart the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "What is the effect of using break in a loop with an else clause?",
+      "options": [
+        "The else clause executes",
+        "The else clause does not execute",
+        "The loop skips to the next iteration",
+        "The loop restarts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Can the else clause execute if a loop is stopped by break?",
+      "options": [
+        "Yes",
+        "No",
+        "Only if continue is used",
+        "Only if pass is used"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "What happens if a loop completes without encountering break?",
+      "options": [
+        "The else clause does not execute",
+        "The else clause executes",
+        "The loop restarts",
+        "The loop skips to the next iteration"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "How does the pass statement affect the flow of a loop?",
+      "options": [
+        "It stops the loop",
+        "It skips an iteration",
+        "It does nothing and continues",
+        "It restarts the loop"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "What is the purpose of using break in a loop?",
+      "options": [
+        "To skip an iteration",
+        "To stop the loop immediately",
+        "To do nothing",
+        "To restart the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Can the continue statement be used to stop a loop?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with break",
+        "Only with pass"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "What happens if a loop encounters a pass statement?",
+      "options": [
+        "The loop stops",
+        "The loop skips the current iteration",
+        "The loop does nothing and continues",
+        "The loop restarts"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "question": "How does the else clause in a loop differ from other control structures?",
+      "options": [
+        "It executes when the loop is stopped by break",
+        "It executes when the loop completes normally",
+        "It skips the current iteration",
+        "It restarts the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "When should you use the else clause in a loop?",
+      "options": [
+        "When you want to stop the loop",
+        "When you want to skip an iteration",
+        "When you want to execute code after the loop completes normally",
+        "When you want to restart the loop"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 27,
+      "question": "What is the effect of using continue in a loop with an else clause?",
+      "options": [
+        "The else clause does not execute",
+        "The else clause executes normally",
+        "The loop skips to the next iteration",
+        "The loop restarts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "Can the pass statement be used as a placeholder in incomplete code?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with break",
+        "Only with continue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "What happens if a loop is stopped by break before completing?",
+      "options": [
+        "The else clause executes",
+        "The else clause does not execute",
+        "The loop skips to the next iteration",
+        "The loop restarts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "How does the break statement affect the execution of the else clause?",
+      "options": [
+        "It causes the else clause to execute",
+        "It prevents the else clause from executing",
+        "It skips the else clause",
+        "It restarts the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "What is the difference between using pass and continue in a loop?",
+      "options": [
+        "Pass stops the loop, continue skips the iteration",
+        "Pass does nothing, continue skips the iteration",
+        "Pass skips the iteration, continue stops the loop",
+        "Pass restarts the loop, continue does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 32,
+      "question": "When should you use the break statement in a loop?",
+      "options": [
+        "When you want to skip an iteration",
+        "When you want to stop the loop immediately",
+        "When you want to do nothing",
+        "When you want to restart the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "What happens if a loop completes normally without encountering break?",
+      "options": [
+        "The else clause does not execute",
+        "The else clause executes",
+        "The loop skips to the next iteration",
+        "The loop restarts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "Can the else clause be used with any loop control statement?",
+      "options": [
+        "Yes, with break and continue",
+        "No, only with break",
+        "No, only with continue",
+        "Yes, but it only executes with pass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "What is the effect of using pass in a loop?",
+      "options": [
+        "It stops the loop",
+        "It skips the current iteration",
+        "It does nothing and continues",
+        "It restarts the loop"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "How does the continue statement affect the loop's flow?",
+      "options": [
+        "It stops the loop",
+        "It skips the current iteration and continues",
+        "It does nothing",
+        "It restarts the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "When should you use the else clause with a loop?",
+      "options": [
+        "When you want to stop the loop",
+        "When you want to skip an iteration",
+        "When you want to execute code after the loop completes normally",
+        "When you want to restart the loop"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 38,
+      "question": "What happens if a loop encounters a break statement?",
+      "options": [
+        "The loop continues to the next iteration",
+        "The loop skips the current iteration",
+        "The loop stops immediately",
+        "The loop does nothing"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 39,
+      "question": "Can the pass statement be used in place of break?",
+      "options": [
+        "Yes",
+        "No",
+        "Only in certain conditions",
+        "Only with continue"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "What is the purpose of using continue in a loop?",
+      "options": [
+        "To stop the loop",
+        "To skip the current iteration and continue",
+        "To do nothing",
+        "To restart the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 41,
+      "question": "How does the else clause in a loop differ from other programming constructs?",
+      "options": [
+        "It executes when the loop is stopped by break",
+        "It executes when the loop completes normally",
+        "It skips the current iteration",
+        "It restarts the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "What happens if a loop is not stopped by break?",
+      "options": [
+        "The else clause does not execute",
+        "The else clause executes",
+        "The loop skips to the next iteration",
+        "The loop restarts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "Can the break statement be used to skip an iteration?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with continue",
+        "Only with pass"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "What is the effect of using break in a loop with multiple iterations?",
+      "options": [
+        "It skips the current iteration",
+        "It stops the loop immediately",
+        "It does nothing",
+        "It restarts the loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "How does the pass statement affect the execution of a loop?",
+      "options": [
+        "It stops the loop",
+        "It skips the current iteration",
+        "It does nothing and continues",
+        "It restarts the loop"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 46,
+      "question": "When should you use the else clause in a loop?",
+      "options": [
+        "When you want to stop the loop",
+        "When you want to skip an iteration",
+        "When you want to execute code after the loop completes normally",
+        "When you want to restart the loop"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 47,
+      "question": "What happens if a loop completes without encountering a break statement?",
+      "options": [
+        "The else clause does not execute",
+        "The else clause executes",
+        "The loop skips to the next iteration",
+        "The loop restarts"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "Can the continue statement be used to execute code after skipping an iteration?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with break",
+        "Only with pass"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "What is the difference between using break and continue in a loop?",
+      "options": [
+        "Break stops the loop, continue skips the iteration",
+        "Break skips the iteration, continue stops the loop",
+        "Break does nothing, continue skips the iteration",
+        "Break restarts the loop, continue stops the loop"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "When should you use the pass statement in a loop?",
+      "options": [
+        "When you want to stop the loop",
+        "When you want to skip an iteration",
+        "When you need a placeholder in incomplete code",
+        "When you want to restart the loop"
+      ],
+      "answer": 3
+    }
+]
+  

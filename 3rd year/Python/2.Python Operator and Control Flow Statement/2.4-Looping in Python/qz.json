@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is the purpose of loops in Python?",
+      "options": [
+        "To store multiple values",
+        "To execute a block of code multiple times",
+        "To create functions",
+        "To define variables"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a type of loop in Python?",
+      "options": [
+        "while loop",
+        "for loop",
+        "do-while loop",
+        "Nested loop"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which loop executes a block of code as long as a condition is True?",
+      "options": [
+        "for loop",
+        "while loop",
+        "nested loop",
+        "jump loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "What will be the output of the following code?\n\nnum = 1\nwhile num <= 3:\n    print(num)\n    num += 1",
+      "options": [
+        "1 1 1",
+        "1 2 3",
+        "1 2 3 4",
+        "Infinite loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which statement is used to stop a loop immediately?",
+      "options": [
+        "continue",
+        "break",
+        "pass",
+        "stop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which function generates a sequence of numbers in a for loop?",
+      "options": [
+        "list()",
+        "tuple()",
+        "range()",
+        "set()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "What will be the output of the following code?\n\nfor num in range(2, 5):\n    print(num)",
+      "options": [
+        "2 3 4 5",
+        "2 3 4",
+        "1 2 3 4",
+        "3 4 5"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which statement is used to skip the current iteration of a loop?",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "exit"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What will be the output of the following code?\n\nfor num in range(1, 6):\n    if num == 3:\n        continue\n    print(num)",
+      "options": [
+        "1 2 3 4 5",
+        "1 2 4 5",
+        "1 2 5",
+        "1 2 4"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which loop is best for iterating over a list?",
+      "options": [
+        "while loop",
+        "for loop",
+        "nested loop",
+        "infinite loop"
+      ],
+      "answer": 2
+    }
+]
+  

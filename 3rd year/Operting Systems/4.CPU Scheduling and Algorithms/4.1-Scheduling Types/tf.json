@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that the main objective of scheduling is to maximize CPU usage.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that scheduling aims to maximize the number of processes completed per unit time.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that CPU burst refers to the time a process is using the CPU for calculations.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that I/O burst refers to a process using the CPU for calculations.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that preemptive scheduling allows a process to be interrupted if a higher-priority task arrives.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that non-preemptive scheduling allows the CPU to switch from one process to another before the current process completes.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that round-robin scheduling is an example of a preemptive scheduling algorithm.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that Shortest Job Next (SJN) is a preemptive scheduling algorithm.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that First Come, First Served (FCFS) is an example of non-preemptive scheduling.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that Priority Scheduling (Non-Preemptive) allows processes to be interrupted once started.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that scheduling criteria include CPU utilization, throughput, turnaround time, waiting time, and response time.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is false that throughput refers to the percentage of time the CPU is busy.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that response time refers to the time from when a request is made until it starts execution.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is false that turnaround time refers to the time a process spends waiting in the queue.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that in preemptive scheduling, the CPU can switch from one process to another before the current process finishes.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is false that non-preemptive scheduling allows processes to be interrupted once they start running.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that preemptive scheduling ensures better resource allocation but may have more overhead.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is false that non-preemptive scheduling is better for resource allocation but more complex.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that the CPU should be kept busy as much as possible to maximize CPU usage.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is false that scheduling ensures processes never have to wait.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that fairness in scheduling ensures every process gets a fair chance to run.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is false that scheduling guarantees a process will always finish quickly.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that the main objective of non-preemptive scheduling is to minimize waiting times.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "It is false that non-preemptive scheduling can sometimes cause long waiting times.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that Shortest Remaining Time First (SRTF) schedules the process with the shortest remaining time first.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is false that SRTF is a non-preemptive scheduling algorithm.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that waiting time refers to the time a process spends in the queue waiting for the CPU.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is false that response time refers to the total time taken for a process to complete.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that turnaround time refers to the total time from when a process arrives until it finishes.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is false that preemptive scheduling is simpler than non-preemptive scheduling.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that priority scheduling (preemptive) switches to the highest priority task.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is false that priority scheduling (non-preemptive) allows processes to be interrupted by higher priority tasks.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that the CPU should be used efficiently in preemptive scheduling systems.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is false that non-preemptive scheduling can lead to high CPU utilization.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that a good scheduling algorithm balances CPU and I/O bursts effectively.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is false that a good scheduling algorithm favors CPU bursts over I/O bursts.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that a good scheduling algorithm helps minimize waiting time and turnaround time.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is false that turnaround time includes only the time spent executing the process.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that scheduling criteria aim to maximize system efficiency and fairness.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is false that scheduling criteria only focus on CPU utilization and throughput.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that preemptive scheduling may have higher overhead due to context switching.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is false that non-preemptive scheduling does not require any context switching.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that Shortest Job Next (SJN) is a non-preemptive scheduling algorithm.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is false that Shortest Job Next (SJN) is a preemptive scheduling algorithm.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that preemptive scheduling is often used when fairness is a priority.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is false that non-preemptive scheduling is ideal for maximizing fairness.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that response time is important for interactive systems where quick feedback is required.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is false that response time is not an important factor for interactive systems.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that the scheduling algorithm needs to balance between CPU utilization and fairness.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is false that a good scheduling algorithm should prioritize CPU utilization over all other criteria.",
+      "answer": false
+    }
+]
+  

@@ -1,0 +1,111 @@
+<div>
+    <h2>4.1 Use of Python Built-in Functions</h2>
+    <p>Python provides several built-in functions that make programming easier. These functions are already included in Python, so you don’t need to install or import anything to use them.</p>
+    <p>Built-in functions help perform various tasks like:</p>
+    <ul>
+      <li>Checking the type of data</li>
+      <li>Converting data from one type to another</li>
+      <li>Performing mathematical calculations</li>
+      <li>Working with strings and numbers</li>
+    </ul>
+    <p>Let’s explore these functions with simple explanations and examples.</p>
+    
+    <h3>1. Type and Data Conversion Functions</h3>
+    <p>These functions help in checking the type of a variable and converting one data type to another.</p>
+    
+    <h4>1.1 type() - Check the Data Type</h4>
+    <p>The <code>type()</code> function tells us what type of data a variable holds.</p>
+    <pre><code>x = 10
+  y = 3.14
+  z = "Hello"
+  
+  print(type(x))  # Output: &lt;class 'int'&gt;
+  print(type(y))  # Output: &lt;class 'float'&gt;
+  print(type(z))  # Output: &lt;class 'str'&gt;</code></pre>
+    
+    <h4>1.2 Data Type Conversion Functions</h4>
+    <p>Python allows us to convert data from one type to another using the following functions:</p>
+    <ul>
+      <li><code>int()</code> – Converts to an integer</li>
+      <li><code>float()</code> – Converts to a decimal number</li>
+      <li><code>str()</code> – Converts to a string</li>
+    </ul>
+    <pre><code>a = "100"
+  b = 3.5
+  
+  num = int(a)
+  print(num, type(num))  # Output: 100 &lt;class 'int'&gt;
+  
+  num2 = int(b)
+  print(num2, type(num2))  # Output: 3 &lt;class 'int'&gt;
+  
+  text = str(num)
+  print(text, type(text))  # Output: '100' &lt;class 'str'&gt;</code></pre>
+    
+    <h3>2. Mathematical Functions</h3>
+    <h4>2.1 abs() - Absolute Value</h4>
+    <p>The <code>abs()</code> function returns the positive value of a number.</p>
+    <pre><code>print(abs(-10))  # Output: 10
+  print(abs(5))    # Output: 5</code></pre>
+    
+    <h4>2.2 pow() - Power of a Number</h4>
+    <pre><code>print(pow(2, 3))  # Output: 8
+  print(pow(5, 2))  # Output: 25</code></pre>
+    
+    <h4>2.3 round() - Round Off a Number</h4>
+    <pre><code>print(round(4.6))   # Output: 5
+  print(round(3.2))   # Output: 3
+  print(round(3.14159, 2))  # Output: 3.14</code></pre>
+    
+    <h4>2.4 max() and min() - Find Maximum and Minimum</h4>
+    <pre><code>numbers = [10, 20, 5, 8, 25]
+  print(max(numbers))  # Output: 25
+  print(min(numbers))  # Output: 5</code></pre>
+    
+    <h4>2.5 sum() - Add All Numbers in a List</h4>
+    <pre><code>nums = [1, 2, 3, 4, 5]
+  print(sum(nums))  # Output: 15</code></pre>
+    
+    <h4>2.6 math Module Functions</h4>
+    <pre><code>import math
+  print(math.sqrt(16))    # Output: 4.0
+  print(math.ceil(4.2))   # Output: 5
+  print(math.floor(4.9))  # Output: 4</code></pre>
+    
+    <h3>3. String Functions</h3>
+    <h4>3.1 len() - Length of a String</h4>
+    <pre><code>text = "Python"
+  print(len(text))  # Output: 6</code></pre>
+    
+    <h4>3.2 lower() and upper() - Convert Case</h4>
+    <pre><code>text = "Hello Python"
+  print(text.lower())  # Output: hello python
+  print(text.upper())  # Output: HELLO PYTHON</code></pre>
+    
+    <h4>3.3 replace() - Replace Text</h4>
+    <pre><code>message = "I love Java"
+  print(message.replace("Java", "Python"))  # Output: I love Python</code></pre>
+    
+    <h4>3.4 split() - Split a String</h4>
+    <pre><code>text = "apple,banana,grape"
+  fruits = text.split(",")
+  print(fruits)  # Output: ['apple', 'banana', 'grape']</code></pre>
+    
+    <h3>4. Input and Output Functions</h3>
+    <h4>4.1 input() - Take User Input</h4>
+    <pre><code>name = input("Enter your name: ")
+  print("Hello,", name)</code></pre>
+    
+    <h4>4.2 print() - Display Output</h4>
+    <pre><code>print("Welcome to Python!")</code></pre>
+    
+    <h3>Conclusion</h3>
+    <p>Python has many built-in functions that help perform different tasks easily. We explored:</p>
+    <ul>
+      <li>Type and data conversion functions (<code>type()</code>, <code>int()</code>, <code>float()</code>, <code>str()</code>)</li>
+      <li>Math functions (<code>abs()</code>, <code>pow()</code>, <code>round()</code>, <code>max()</code>, <code>min()</code>, <code>sum()</code>, <code>math.sqrt()</code>)</li>
+      <li>String functions (<code>len()</code>, <code>upper()</code>, <code>lower()</code>, <code>replace()</code>, <code>split()</code>)</li>
+      <li>Input/output functions (<code>input()</code>, <code>print()</code>)</li>
+    </ul>
+    <p>These functions save time and make coding easy.</p>
+</div>

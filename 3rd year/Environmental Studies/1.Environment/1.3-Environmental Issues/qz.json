@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is the greenhouse effect?",
+      "options": [
+        "A process that cools the Earth's surface",
+        "A process that traps heat in the Earth's atmosphere",
+        "A natural disaster caused by pollution",
+        "A type of acid rain"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which gas is the main contributor to the greenhouse effect?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Hydrogen",
+        "Helium"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the main cause of climate change?",
+      "options": [
+        "Natural volcanic activity",
+        "Increase in greenhouse gases",
+        "Reduction in ocean levels",
+        "Increase in cloud cover"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT a greenhouse gas?",
+      "options": [
+        "Methane",
+        "Nitrous oxide",
+        "Oxygen",
+        "Carbon dioxide"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is global warming?",
+      "options": [
+        "A temporary increase in summer temperatures",
+        "A long-term increase in Earth's average temperature",
+        "A decrease in atmospheric oxygen levels",
+        "A sudden increase in global rainfall"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a major effect of climate change?",
+      "options": [
+        "Decrease in ocean water levels",
+        "Increase in global temperatures",
+        "Stable weather patterns",
+        "Decrease in natural disasters"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What are the major sources of carbon dioxide emissions?",
+      "options": [
+        "Burning fossil fuels",
+        "Growing forests",
+        "Drinking water pollution",
+        "Natural volcanic eruptions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which environmental problem is caused by the release of CFCs?",
+      "options": [
+        "Climate change",
+        "Global warming",
+        "Ozone layer depletion",
+        "Acid rain"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "What is acid rain primarily caused by?",
+      "options": [
+        "Deforestation",
+        "Sulfur dioxide and nitrogen oxides",
+        "Excess oxygen in the air",
+        "Melting glaciers"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which layer of the Earth's atmosphere protects us from harmful UV rays?",
+      "options": [
+        "Troposphere",
+        "Stratosphere",
+        "Ozone layer",
+        "Mesosphere"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Which of the following disasters was a major nuclear accident?",
+      "options": [
+        "Hurricane Katrina",
+        "Chernobyl Disaster",
+        "Amazon Rainforest Fires",
+        "Indian Ocean Tsunami"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which of these is an effect of global warming?",
+      "options": [
+        "Melting glaciers",
+        "Increased oxygen levels",
+        "Less rainfall",
+        "Decreased plant growth"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which human activity contributes most to deforestation?",
+      "options": [
+        "Fishing",
+        "Logging and agriculture",
+        "Urban gardening",
+        "Desertification"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which environmental issue directly affects marine life?",
+      "options": [
+        "Soil erosion",
+        "Ozone depletion",
+        "Water pollution",
+        "Deforestation"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "Which gas is responsible for acid rain formation?",
+      "options": [
+        "Oxygen",
+        "Sulfur dioxide",
+        "Methane",
+        "Hydrogen"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is a renewable source of energy?",
+      "options": [
+        "Coal",
+        "Natural gas",
+        "Solar power",
+        "Petroleum"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Which country was most affected by the Fukushima nuclear disaster?",
+      "options": [
+        "USA",
+        "Russia",
+        "Japan",
+        "Germany"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is an effect of ozone layer depletion?",
+      "options": [
+        "Increased UV radiation",
+        "More oxygen in the air",
+        "Decrease in greenhouse gases",
+        "Increase in acid rain"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "How can individuals help reduce global warming?",
+      "options": [
+        "Use fossil fuels",
+        "Burn more coal",
+        "Use renewable energy",
+        "Increase carbon emissions"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "Which international agreement aims to reduce greenhouse gas emissions?",
+      "options": [
+        "Kyoto Protocol",
+        "Geneva Convention",
+        "Paris Agreement",
+        "Montreal Protocol"
+      ],
+      "answer": 3
+    }
+]
+  

@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What does Article 48-A of the Indian Constitution state?",
+      "options": [
+        "The State shall provide free education to all citizens",
+        "The State shall endeavor to protect and improve the environment and safeguard forests and wildlife",
+        "The State shall promote industrial growth without restrictions",
+        "The State shall ensure free healthcare for all"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Under which Amendment Act were Articles 48-A and 51-A(g) introduced?",
+      "options": [
+        "44th Amendment Act, 1978",
+        "42nd Amendment Act, 1976",
+        "52nd Amendment Act, 1980",
+        "40th Amendment Act, 1975"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which article of the Indian Constitution makes it the fundamental duty of every citizen to protect the environment?",
+      "options": [
+        "Article 51-A(g)",
+        "Article 48-A",
+        "Article 21",
+        "Article 19"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "What is the nature of Article 48-A in terms of enforceability?",
+      "options": [
+        "It is a Fundamental Right enforceable in court",
+        "It is a Directive Principle of State Policy and not directly enforceable",
+        "It is a constitutional amendment subject to judicial review",
+        "It is an executive order"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "According to Article 51-A(g), which of the following is a duty of every citizen?",
+      "options": [
+        "To pay taxes on environmental products",
+        "To protect and improve the natural environment including forests, lakes, rivers, and wildlife",
+        "To invest in government bonds for environmental projects",
+        "To volunteer for government-led industrial projects"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which programme is an example of the government acting under Article 48-A?",
+      "options": [
+        "Make in India",
+        "National Afforestation Programme",
+        "Digital India",
+        "Skill India"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is an example of a citizen fulfilling the duty under Article 51-A(g)?",
+      "options": [
+        "Starting a private business",
+        "Participating in tree plantation drives",
+        "Investing in stock markets",
+        "Avoiding public transport"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What is the main objective of the Environment (Protection) Act, 1986?",
+      "options": [
+        "To regulate the import of foreign goods",
+        "To provide free healthcare for industrial workers",
+        "To empower the central government to protect and improve the environment",
+        "To increase agricultural production"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Which tragic event led to the enactment of the Environment (Protection) Act, 1986?",
+      "options": [
+        "The Bhopal Gas Tragedy, 1984",
+        "The 2001 Earthquake",
+        "The 1999 Floods",
+        "The Koodankulam protests"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which act aims to control air pollution by regulating emissions from industries and vehicles?",
+      "options": [
+        "The Water (Prevention and Control of Pollution) Act, 1974",
+        "The Air (Prevention and Control of Pollution) Act, 1981",
+        "The Forest Conservation Act, 1980",
+        "The Wildlife Protection Act, 1972"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Which act regulates the discharge of pollutants into water bodies?",
+      "options": [
+        "The Environment (Protection) Act, 1986",
+        "The Air (Prevention and Control of Pollution) Act, 1981",
+        "The Water (Prevention and Control of Pollution) Act, 1974",
+        "The Wildlife Protection Act, 1972"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Which act is focused on the protection of endangered species and their habitats in India?",
+      "options": [
+        "The Wildlife Protection Act, 1972",
+        "The Forest Conservation Act, 1980",
+        "The Water (Prevention and Control of Pollution) Act, 1974",
+        "The Environment (Protection) Act, 1986"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which act requires government approval before clearing forest land for non-forest purposes?",
+      "options": [
+        "The Air (Prevention and Control of Pollution) Act, 1981",
+        "The Wildlife Protection Act, 1972",
+        "The Forest Conservation Act, 1980",
+        "The Environment (Protection) Act, 1986"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "What is the primary responsibility of the Central Pollution Control Board (CPCB)?",
+      "options": [
+        "To manage urban transportation",
+        "To monitor pollution levels and enforce environmental laws",
+        "To regulate financial markets",
+        "To plan urban infrastructure"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Under which act was the CPCB established?",
+      "options": [
+        "The Air (Prevention and Control of Pollution) Act, 1981",
+        "The Water (Prevention and Control of Pollution) Act, 1974",
+        "The Environment (Protection) Act, 1986",
+        "The Wildlife Protection Act, 1972"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "What is the role of the Maharashtra Pollution Control Board (MPCB)?",
+      "options": [
+        "To set national environmental policies",
+        "To enforce environmental laws and monitor pollution in Maharashtra",
+        "To manage international trade",
+        "To oversee educational reforms in the state"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is a responsibility of the CPCB?",
+      "options": [
+        "Regulating the entertainment industry",
+        "Setting pollution control standards for industries",
+        "Designing urban road networks",
+        "Overseeing agricultural subsidies"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "Which example demonstrates state action under Article 48-A?",
+      "options": [
+        "The launch of the Clean Ganga Mission",
+        "The initiation of private banking reforms",
+        "The expansion of industrial zones",
+        "The reduction of school fees"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "How do NGOs contribute to environmental protection in India?",
+      "options": [
+        "By creating awareness and participating in conservation projects",
+        "By funding industrial projects",
+        "By regulating stock markets",
+        "By enforcing criminal law"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is an environmental NGO known for its work on climate change and pollution?",
+      "options": [
+        "World Bank",
+        "Greenpeace India",
+        "NABARD",
+        "SEBI"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "Which historic movement involved villagers hugging trees to protect forests?",
+      "options": [
+        "The Narmada Bachao Andolan",
+        "The Chipko Movement",
+        "The Anti-Reservation Movement",
+        "The Quit India Movement"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 22,
+      "question": "What is the purpose of the Clean Ganga Mission?",
+      "options": [
+        "To develop urban infrastructure along the river",
+        "To reduce pollution in the Ganga River",
+        "To promote industrial growth near the river",
+        "To privatize water resources"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Which act empowers the central government to take measures for environmental safety?",
+      "options": [
+        "The Environment (Protection) Act, 1986",
+        "The Wildlife Protection Act, 1972",
+        "The Forest Conservation Act, 1980",
+        "The Air (Prevention and Control of Pollution) Act, 1981"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "What does the Wildlife Protection Act, 1972 aim to do?",
+      "options": [
+        "Promote commercial hunting",
+        "Protect endangered species and their habitats",
+        "Increase agricultural production",
+        "Regulate industrial emissions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Which act is primarily responsible for preventing water pollution in India?",
+      "options": [
+        "The Forest Conservation Act, 1980",
+        "The Wildlife Protection Act, 1972",
+        "The Water (Prevention and Control of Pollution) Act, 1974",
+        "The Environment (Protection) Act, 1986"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 26,
+      "question": "What is the significance of making environmental protection a Fundamental Duty in Article 51-A(g)?",
+      "options": [
+        "It makes environmental protection optional",
+        "It legally mandates every citizen to contribute to protecting and improving the environment",
+        "It exempts citizens from following environmental laws",
+        "It solely applies to government officials"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "Which of the following best describes a Directive Principle of State Policy?",
+      "options": [
+        "A legally enforceable right",
+        "A guideline for the government to frame policies",
+        "A set of rules for private companies",
+        "A mandatory regulation for citizens"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "What is the role of the Central Pollution Control Board (CPCB) in environmental governance?",
+      "options": [
+        "To finance private enterprises",
+        "To monitor air and water pollution levels and advise the government on environmental policies",
+        "To conduct elections",
+        "To manage public transportation systems"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 29,
+      "question": "Which environmental act was enacted to address industrial pollution following a major disaster?",
+      "options": [
+        "The Wildlife Protection Act, 1972",
+        "The Forest Conservation Act, 1980",
+        "The Environment (Protection) Act, 1986",
+        "The Air (Prevention and Control of Pollution) Act, 1981"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question": "What does the Forest Conservation Act, 1980 regulate?",
+      "options": [
+        "The expansion of urban areas without restriction",
+        "The clearance of forest land for non-forest purposes",
+        "The use of water resources",
+        "The production of electronic waste"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "Which of the following examples illustrates the practical application of Article 51-A(g)?",
+      "options": [
+        "Participating in tree plantation drives and not littering in public places",
+        "Investing in multinational corporations",
+        "Organizing cultural festivals",
+        "Expanding road networks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Which agency at the state level is responsible for granting environmental clearances for industrial projects in Maharashtra?",
+      "options": [
+        "CPCB",
+        "MPCB",
+        "Ministry of Finance",
+        "Ministry of Agriculture"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "Which environmental law primarily focuses on controlling air pollution?",
+      "options": [
+        "The Water (Prevention and Control of Pollution) Act, 1974",
+        "The Air (Prevention and Control of Pollution) Act, 1981",
+        "The Wildlife Protection Act, 1972",
+        "The Forest Conservation Act, 1980"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "How does the Environment (Protection) Act, 1986 help in environmental management?",
+      "options": [
+        "By delegating environmental protection solely to state governments",
+        "By empowering the central government to take measures for pollution control and environmental improvement",
+        "By focusing exclusively on wildlife conservation",
+        "By providing subsidies to private industries"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is NOT a responsibility of the CPCB?",
+      "options": [
+        "Monitoring pollution levels",
+        "Setting standards for industrial emissions",
+        "Conducting awareness campaigns in rural areas",
+        "Advising the government on environmental policies"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "What is the primary focus of the Water (Prevention and Control of Pollution) Act, 1974?",
+      "options": [
+        "Regulating industrial emissions into the air",
+        "Preventing the discharge of pollutants into water bodies",
+        "Managing forest resources",
+        "Controlling noise pollution"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "Which statement best describes the role of NGOs in environmental protection?",
+      "options": [
+        "They work solely on policy formulation without public interaction",
+        "They assist in creating public awareness, enforcing laws, and participating in conservation projects",
+        "They are responsible for setting pollution standards",
+        "They regulate the functioning of the CPCB"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "Which organization is known for its work on animal rights and welfare in India?",
+      "options": [
+        "World Wildlife Fund (WWF) India",
+        "PETA India",
+        "Greenpeace India",
+        "Centre for Science and Environment (CSE)"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "Which government initiative has received significant support from NGOs for its clean-up campaigns?",
+      "options": [
+        "Digital India",
+        "Swachh Bharat Abhiyan",
+        "Make in India",
+        "Skill India"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "What does the Clean Ganga Mission aim to achieve?",
+      "options": [
+        "Improve the water quality of the Ganga River",
+        "Increase industrial production along the river",
+        "Develop tourism infrastructure",
+        "Regulate fishing activities"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Which act is directly related to preventing deforestation?",
+      "options": [
+        "The Wildlife Protection Act, 1972",
+        "The Forest Conservation Act, 1980",
+        "The Air (Prevention and Control of Pollution) Act, 1981",
+        "The Environment (Protection) Act, 1986"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "What does the phrase 'safeguard the forests and wildlife' in Article 48-A imply?",
+      "options": [
+        "To develop commercial zones in forest areas",
+        "To protect natural habitats and prevent destruction of forests and wildlife",
+        "To promote mining activities in forests",
+        "To allow unregulated logging"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "Which of the following measures is an example of the government fulfilling its responsibility under Article 48-A?",
+      "options": [
+        "Reducing import tariffs on electronics",
+        "Implementing the Clean Ganga Mission",
+        "Increasing subsidies for fossil fuels",
+        "Relaxing industrial regulations"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "What is the function of environmental protection and prevention acts in India?",
+      "options": [
+        "To promote economic growth without environmental concerns",
+        "To control pollution and ensure environmental safety",
+        "To deregulate industrial activities",
+        "To reduce the role of the government in environmental issues"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "Which of the following best describes the role of the MPCB?",
+      "options": [
+        "It sets national policies for environmental protection",
+        "It monitors and enforces pollution control norms within Maharashtra",
+        "It handles international environmental treaties",
+        "It manages urban transportation systems"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "What type of policy is Article 48-A considered as?",
+      "options": [
+        "Fundamental Right",
+        "Directive Principle of State Policy",
+        "Judicial Directive",
+        "Legislative Act"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "Which agency is responsible for setting norms for vehicle emissions in India?",
+      "options": [
+        "Ministry of Road Transport",
+        "CPCB",
+        "MPCB",
+        "Ministry of Heavy Industries"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "How do environmental NGOs assist in the enforcement of environmental laws?",
+      "options": [
+        "By independently passing legislation",
+        "By creating public awareness and monitoring pollution issues",
+        "By providing tax benefits to industries",
+        "By funding political campaigns"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 49,
+      "question": "Which example demonstrates the application of the fundamental duty under Article 51-A(g)?",
+      "options": [
+        "Participating in tree plantation drives and proper waste disposal",
+        "Investing in multinational companies",
+        "Expanding urban infrastructure",
+        "Engaging in high-pollution industrial activities"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "How does Article 51-A(g) contribute to environmental protection in India?",
+      "options": [
+        "By mandating government-led clean-up drives only",
+        "By making environmental protection a duty for every citizen",
+        "By solely regulating industrial emissions",
+        "By enforcing penalties on polluters"
+      ],
+      "answer": 2
+    }
+]
+  

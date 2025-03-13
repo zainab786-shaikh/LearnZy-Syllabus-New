@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What does the 'Reduce' principle focus on?",
+      "options": [
+        "Minimizing waste generation",
+        "Reusing old items",
+        "Recycling waste into new products",
+        "Extracting useful materials from waste"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an example of 'Reuse'?",
+      "options": [
+        "Using a cloth bag instead of plastic bags",
+        "Turning off lights when not needed",
+        "Using glass jars to store spices",
+        "Making compost from kitchen waste"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which of the following materials can be recycled?",
+      "options": [
+        "Glass",
+        "Plastic",
+        "Metal",
+        "All of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "What is an example of 'Recover' in waste management?",
+      "options": [
+        "Turning food waste into compost",
+        "Donating old clothes",
+        "Recycling paper into new paper",
+        "Using a reusable bottle"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which R in the 4R principle should be the first priority?",
+      "options": [
+        "Recycle",
+        "Reduce",
+        "Recover",
+        "Reuse"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "How does recycling help the environment?",
+      "options": [
+        "Reduces pollution",
+        "Saves energy",
+        "Conserves natural resources",
+        "All of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "Which of the following waste items is best suited for 'Recover'?",
+      "options": [
+        "Plastic bottles",
+        "Old mobile phones",
+        "Kitchen food waste",
+        "Used clothes"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "What happens in a waste-to-energy plant?",
+      "options": [
+        "Electricity is generated from waste materials",
+        "Paper waste is recycled into new paper",
+        "Old products are repaired and reused",
+        "New materials are extracted from e-waste"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Why is reducing waste important?",
+      "options": [
+        "It decreases pollution",
+        "It saves natural resources",
+        "It reduces landfill waste",
+        "All of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 10,
+      "question": "Which of these activities follows the 'Reuse' principle?",
+      "options": [
+        "Using a refillable water bottle",
+        "Throwing away old furniture",
+        "Burning waste to generate energy",
+        "Using plastic bags for shopping"
+      ],
+      "answer": 1
+    }
+]
+  

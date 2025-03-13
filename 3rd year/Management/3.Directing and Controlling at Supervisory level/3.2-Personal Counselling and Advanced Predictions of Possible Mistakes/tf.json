@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that personal counselling involves guiding employees on work-related issues only.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "It is true that personal counselling helps employees stay focused and motivated.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that predicting mistakes in advance is not important for supervisors.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "It is true that a supervisor can prevent mistakes by reminding workers to double-check measurements.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that personal counselling does not address personal issues affecting employee performance.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "It is true that predicting mistakes helps supervisors maintain a safe work environment.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that flexible work options are never offered as part of personal counselling.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "It is true that supervisors use personal counselling to improve employee productivity.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that predicting mistakes is a reactive approach.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "It is true that personal counselling helps employees manage stress.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that supervisors who predict mistakes take no action to prevent them.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "It is true that personal counselling is beneficial for employees dealing with personal problems.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that predicting mistakes is not crucial for maintaining a smooth workflow.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "It is true that a supervisor can offer flexible work arrangements as part of personal counselling.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that personal counselling does not involve understanding personal issues.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "It is true that predicting mistakes helps supervisors prevent potential errors.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that personal counselling is only for work-related issues.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "It is true that supervisors use personal counselling to address financial issues.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that predicting mistakes in advance is a proactive approach.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that personal counselling helps employees stay stress-free.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that supervisors who predict mistakes ignore potential problems.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "It is true that personal counselling involves guiding employees on personal matters.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that predicting mistakes is not important for maintaining a safe workplace.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "It is true that a supervisor can use personal counselling to improve employee focus.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that personal counselling does not help employees manage personal problems.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "It is true that predicting mistakes helps supervisors maintain an efficient workflow.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is true that supervisors who predict mistakes take corrective action only after errors occur.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "It is true that personal counselling is beneficial for employees dealing with personal issues.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that predicting mistakes is a reactive strategy.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "It is true that personal counselling helps employees stay motivated.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that supervisors who predict mistakes do not take preventive measures.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "It is true that personal counselling involves addressing personal issues that affect employee performance.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that predicting mistakes is not crucial for preventing errors.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "It is true that a supervisor can offer flexible work options as part of personal counselling to help employees manage personal issues.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that personal counselling does not involve guiding employees on personal matters.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "It is true that predicting mistakes helps supervisors prevent potential problems before they occur.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that personal counselling is only for addressing work-related issues.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "It is true that supervisors use personal counselling to address personal issues affecting employee performance.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that predicting mistakes in advance is not important for maintaining a smooth workflow.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "It is true that a supervisor can use personal counselling to help employees manage stress.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that supervisors who predict mistakes ignore potential errors.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "It is true that personal counselling involves guiding employees on both work-related and personal issues.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that predicting mistakes is not crucial for maintaining a safe work environment.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "It is true that a supervisor can offer personal counselling to improve employee motivation.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is true that personal counselling does not help employees manage personal problems that affect their work.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "It is true that predicting mistakes helps supervisors maintain an efficient and safe workplace.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "It is true that supervisors who predict mistakes take no preventive action.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "It is true that personal counselling is beneficial for employees dealing with personal issues that impact their performance.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "It is true that predicting mistakes is a proactive strategy for preventing errors.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that personal counselling helps employees stay focused and stress-free.",
+      "answer": true
+    }
+]
+  

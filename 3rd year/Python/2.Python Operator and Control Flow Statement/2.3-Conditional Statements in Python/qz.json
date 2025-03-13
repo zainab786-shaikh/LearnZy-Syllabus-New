@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is the purpose of conditional statements in Python?",
+      "options": [
+        "To perform arithmetic operations",
+        "To execute different code blocks based on conditions",
+        "To define loops in a program",
+        "To declare variables dynamically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is the correct syntax for an if statement in Python?",
+      "options": [
+        "if condition { }",
+        "if (condition):",
+        "if condition:",
+        "if condition then"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What will be the output of the following code?\n\nnum = 10\nif num > 0:\n    print(\"Positive\")",
+      "options": [
+        "Positive",
+        "Negative",
+        "Error",
+        "No output"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "What will be the output if num = -5 in the following code?\n\nif num > 0:\n    print(\"Positive\")\nelse:\n    print(\"Negative\")",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which statement is used for multiple conditions in Python?",
+      "options": [
+        "if",
+        "else",
+        "elif",
+        "switch"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "What will be the output of the following code if num = 0?\n\nif num > 0:\n    print(\"Positive\")\nelif num < 0:\n    print(\"Negative\")\nelse:\n    print(\"Zero\")",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Error"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "What is the purpose of a nested if statement?",
+      "options": [
+        "To execute a single condition only",
+        "To allow multiple conditions inside another condition",
+        "To stop execution of a program",
+        "To print nested loops"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which of the following correctly checks if a number is both positive and even?",
+      "options": [
+        "if num > 0 and num % 2 == 0:",
+        "if (num > 0, num % 2 == 0):",
+        "if num > 0 then num % 2 == 0:",
+        "if num > 0 or num % 2 == 0:"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What will be the output of the following age verification program if the user inputs 17?\n\nage = int(input(\"Enter your age: \"))\nif age >= 18:\n    print(\"You are eligible to vote.\")\nelse:\n    print(\"Sorry, you must be at least 18 years old to vote.\")",
+      "options": [
+        "You are eligible to vote.",
+        "Sorry, you must be at least 18 years old to vote.",
+        "Error",
+        "No output"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which of the following statements about the if-elif-else structure is true?",
+      "options": [
+        "Only one condition can be True at a time.",
+        "All conditions are checked regardless of the first True condition.",
+        "elif is mandatory in every if-else structure.",
+        "It can only be used inside loops."
+      ],
+      "answer": 1
+    }
+]
+  

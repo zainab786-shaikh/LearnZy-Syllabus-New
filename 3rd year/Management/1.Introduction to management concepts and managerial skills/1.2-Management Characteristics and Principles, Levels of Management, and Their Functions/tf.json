@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that management involves planning, organizing, leading, and controlling resources to achieve goals.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is true that management does not involve planning, organizing, leading, and controlling resources.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that management is a goal-oriented process.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is true that management is not goal-oriented.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that management is a continuous process.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is true that management is not a continuous process.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that management is universal and applies to all types of organizations.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is true that management is not universal and does not apply to all types of organizations.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that management is multidisciplinary, involving various fields like finance and marketing.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that management is not multidisciplinary.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that management is dynamic and must adapt to changes in the environment.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that management is not dynamic and does not need to adapt to changes.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that management involves group activities and teamwork.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that management does not involve group activities and teamwork.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that Henri Fayol introduced 14 principles of management.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is true that Henri Fayol did not introduce principles of management.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that the division of work principle in management increases efficiency.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is true that the division of work principle does not increase efficiency.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that authority and responsibility are linked in management principles.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that authority and responsibility are not linked in management principles.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that unity of command means an employee should receive orders from only one boss.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is true that unity of command does not mean an employee should receive orders from only one boss.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that management has three levels: top, middle, and lower.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that management does not have three levels: top, middle, and lower.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that top-level management makes strategic decisions.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that top-level management does not make strategic decisions.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that middle-level management acts as a link between top and lower levels.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is true that middle-level management does not act as a link between top and lower levels.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that lower-level management directly supervises workers and daily activities.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that lower-level management does not directly supervise workers and daily activities.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that administration focuses on setting policies and goals.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that administration does not focus on setting policies and goals.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that management implements policies set by administration.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that management does not implement policies set by administration.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that organization refers to the structure that defines roles and responsibilities.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is true that organization does not refer to the structure that defines roles and responsibilities.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that management, administration, and organization are interconnected concepts.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is true that management, administration, and organization are not interconnected concepts.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that management involves making decisions and taking actions to achieve goals.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is true that management does not involve making decisions and taking actions to achieve goals.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that management requires skills like leadership, communication, and problem-solving.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is true that management does not require skills like leadership, communication, and problem-solving.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that management is essential for achieving organizational success and stability.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is true that management is not essential for achieving organizational success and stability.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that management principles help in guiding managers to make effective decisions.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that management principles do not help in guiding managers to make effective decisions.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that management is a dynamic process that adapts to changes in the business environment.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that management is not a dynamic process.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that management involves coordinating activities to achieve organizational goals.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that management does not involve coordinating activities to achieve organizational goals.",
+      "answer": false
+    }
+]
+  

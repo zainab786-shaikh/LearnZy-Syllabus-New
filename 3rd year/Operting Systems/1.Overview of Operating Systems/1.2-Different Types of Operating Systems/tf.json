@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "question": "A Batch Operating System processes jobs in real-time with direct user interaction.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "A Multi-Programmed OS increases CPU utilization by switching between programs.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Time-Shared Operating Systems allocate a small time slot to each user to create the illusion of simultaneous execution.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "A Multiprocessor OS is designed to run on a single-core processor only.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "Distributed Operating Systems connect multiple computers to work as a single system.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "A Real-Time Operating System (RTOS) ensures that critical tasks are executed without any delay.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Mobile Operating Systems are designed specifically for personal computers.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "Batch Operating Systems are mainly used in payroll processing and bill generation.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "Multi-Programmed Operating Systems reduce CPU idle time by managing multiple programs.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "Time-Shared Operating Systems are also known as real-time systems.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "Multiprocessor Operating Systems use multiple CPUs to enhance performance.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "Distributed Operating Systems cannot function without an internet connection.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "Real-Time Operating Systems are commonly used in life-critical systems like medical devices and air traffic control.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "Android and iOS are examples of mobile operating systems.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Batch Operating Systems execute jobs one after another without any user intervention.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "A Multi-Programmed OS allows only one process to run at a time.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "Time-Shared Operating Systems improve user experience by providing each user with a dedicated CPU.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "Multiprocessor systems can be used in supercomputers for complex calculations.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Google Search and cloud computing services use distributed operating systems.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "A Real-Time Operating System cannot be used in robotics and industrial automation.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "Mobile Operating Systems are optimized for touchscreen devices.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "Batch Operating Systems provide immediate responses to user inputs.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "In a Time-Shared Operating System, multiple users share system resources efficiently.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "A Multiprocessor OS decreases processing speed by distributing tasks among multiple processors.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "Distributed OS improves system fault tolerance by distributing tasks among different computers.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "A Soft Real-Time OS allows slight delays in task execution.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "Android OS is an open-source mobile operating system developed by Google.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "iOS is an open-source mobile operating system available for all mobile manufacturers.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "Time-Shared Operating Systems are commonly used in cloud computing environments.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "Real-Time Operating Systems are not used in medical devices like heart monitors.",
+      "answer": false
+    }
+]
+  

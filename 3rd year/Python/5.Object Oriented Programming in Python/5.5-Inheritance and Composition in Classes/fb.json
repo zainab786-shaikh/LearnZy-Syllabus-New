@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Inheritance in Python allows a new class to inherit properties and methods from an existing class, known as the ________ class.",
+      "options": [
+        "parent",
+        "child",
+        "base",
+        "super"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "The child class in inheritance is also referred to as the ________ class.",
+      "options": [
+        "parent",
+        "child",
+        "base",
+        "sub"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "Inheritance helps reduce ________ by allowing classes to reuse code from other classes.",
+      "options": [
+        "code duplication",
+        "code complexity",
+        "code reusability",
+        "code maintainability"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "To implement inheritance in Python, you use the syntax ________.",
+      "options": [
+        "class ChildClass(BaseClass):",
+        "class ChildClass extends BaseClass:",
+        "class ChildClass inherits BaseClass:",
+        "class ChildClass from BaseClass:"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Inheritance establishes a strong relationship between classes, often described as an 'is-a' relationship.",
+      "options": [
+        "True",
+        "False",
+        "Yes",
+        "No"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Composition in Python involves one class containing an object of another class as part of its ________.",
+      "options": [
+        "methods",
+        "attributes",
+        "functions",
+        "variables"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Composition is useful when there is a 'has-a' relationship between classes, such as 'A Car has an ________'.",
+      "options": [
+        "engine",
+        "wheel",
+        "seat",
+        "steering"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Composition provides more ________ than inheritance because objects can be reused in different contexts.",
+      "options": [
+        "flexibility",
+        "rigidity",
+        "complexity",
+        "simplicity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Inheritance is suitable when objects are logically related, such as 'A Car is a ________'.",
+      "options": [
+        "vehicle",
+        "engine",
+        "wheel",
+        "steering"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Composition avoids unnecessary inheritance by allowing classes to use other classes without being a ________.",
+      "options": [
+        "subclass",
+        "superclass",
+        "parent class",
+        "child class"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Inheritance in Python allows a new class to inherit properties and methods from an existing class, known as the ________ class.",
+      "options": [
+        "parent",
+        "child",
+        "base",
+        "super"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "The child class in inheritance is also referred to as the ________ class.",
+      "options": [
+        "parent",
+        "child",
+        "base",
+        "sub"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 13,
+      "question": "Inheritance helps reduce ________ by allowing classes to reuse code from other classes.",
+      "options": [
+        "code duplication",
+        "code complexity",
+        "code reusability",
+        "code maintainability"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "To implement inheritance in Python, you use the syntax ________.",
+      "options": [
+        "class ChildClass(BaseClass):",
+        "class ChildClass extends BaseClass:",
+        "class ChildClass inherits BaseClass:",
+        "class ChildClass from BaseClass:"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Inheritance establishes a strong relationship between classes, often described as an 'is-a' relationship.",
+      "options": [
+        "True",
+        "False",
+        "Yes",
+        "No"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Composition in Python involves one class containing an object of another class as part of its ________.",
+      "options": [
+        "methods",
+        "attributes",
+        "functions",
+        "variables"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Composition is useful when there is a 'has-a' relationship between classes, such as 'A Car has an ________'.",
+      "options": [
+        "engine",
+        "wheel",
+        "seat",
+        "steering"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Composition provides more ________ than inheritance because objects can be reused in different contexts.",
+      "options": [
+        "flexibility",
+        "rigidity",
+        "complexity",
+        "simplicity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Inheritance is suitable when objects are logically related, such as 'A Car is a ________'.",
+      "options": [
+        "vehicle",
+        "engine",
+        "wheel",
+        "steering"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Composition avoids unnecessary inheritance by allowing classes to use other classes without being a ________.",
+      "options": [
+        "subclass",
+        "superclass",
+        "parent class",
+        "child class"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "Inheritance is used when one class naturally extends another class, establishing an 'is-a' ________.",
+      "options": [
+        "relationship",
+        "connection",
+        "link",
+        "tie"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Composition is used when one class contains another class, establishing a 'has-a' ________.",
+      "options": [
+        "relationship",
+        "connection",
+        "link",
+        "tie"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "Inheritance helps improve code ________ by allowing classes to inherit properties and methods.",
+      "options": [
+        "reusability",
+        "maintainability",
+        "flexibility",
+        "modularity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "Composition provides more flexibility than inheritance because it allows classes to be reused in different ________.",
+      "options": [
+        "contexts",
+        "situations",
+        "scenarios",
+        "environments"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Inheritance is suitable for creating a hierarchy of classes where one class is a type of ________.",
+      "options": [
+        "another class",
+        "parent class",
+        "base class",
+        "superclass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Composition avoids unnecessary inheritance by allowing classes to use other classes without being a ________.",
+      "options": [
+        "subclass",
+        "superclass",
+        "parent class",
+        "child class"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Inheritance is used when one class naturally extends another class, establishing an 'is-a' ________.",
+      "options": [
+        "relationship",
+        "connection",
+        "link",
+        "tie"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Composition is used when one class contains another class, establishing a 'has-a' ________.",
+      "options": [
+        "relationship",
+        "connection",
+        "link",
+        "tie"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Inheritance helps improve code ________ by allowing classes to inherit properties and methods.",
+      "options": [
+        "reusability",
+        "maintainability",
+        "flexibility",
+        "modularity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "Composition provides more flexibility than inheritance because it allows classes to be reused in different ________.",
+      "options": [
+        "contexts",
+        "situations",
+        "scenarios",
+        "environments"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "Inheritance is suitable for creating a hierarchy of classes where one class is a type of ________.",
+      "options": [
+        "another class",
+        "parent class",
+        "base class",
+        "superclass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Composition avoids unnecessary inheritance by allowing classes to use other classes without being a ________.",
+      "options": [
+        "subclass",
+        "superclass",
+        "parent class",
+        "child class"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "Inheritance is used when one class naturally extends another class, establishing an 'is-a' ________.",
+      "options": [
+        "relationship",
+        "connection",
+        "link",
+        "tie"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "Composition is used when one class contains another class, establishing a 'has-a' ________.",
+      "options": [
+        "relationship",
+        "connection",
+        "link",
+        "tie"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "Inheritance helps improve code ________ by allowing classes to inherit properties and methods.",
+      "options": [
+        "reusability",
+        "maintainability",
+        "flexibility",
+        "modularity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "Composition provides more flexibility than inheritance because it allows classes to be reused in different ________.",
+      "options": [
+        "contexts",
+        "situations",
+        "scenarios",
+        "environments"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "Inheritance is suitable for creating a hierarchy of classes where one class is a type of ________.",
+      "options": [
+        "another class",
+        "parent class",
+        "base class",
+        "superclass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "Composition avoids unnecessary inheritance by allowing classes to use other classes without being a ________.",
+      "options": [
+        "subclass",
+        "superclass",
+        "parent class",
+        "child class"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "Inheritance is used when one class naturally extends another class, establishing an 'is-a' ________.",
+      "options": [
+        "relationship",
+        "connection",
+        "link",
+        "tie"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "Composition is used when one class contains another class, establishing a 'has-a' ________.",
+      "options": [
+        "relationship",
+        "connection",
+        "link",
+        "tie"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Inheritance helps improve code ________ by allowing classes to inherit properties and methods.",
+      "options": [
+        "reusability",
+        "maintainability",
+        "flexibility",
+        "modularity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "Composition provides more flexibility than inheritance because it allows classes to be reused in different ________.",
+      "options": [
+        "contexts",
+        "situations",
+        "scenarios",
+        "environments"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "Inheritance is suitable for creating a hierarchy of classes where one class is a type of ________.",
+      "options": [
+        "another class",
+        "parent class",
+        "base class",
+        "superclass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "Composition avoids unnecessary inheritance by allowing classes to use other classes without being a ________.",
+      "options": [
+        "subclass",
+        "superclass",
+        "parent class",
+        "child class"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Inheritance is used when one class naturally extends another class, establishing an 'is-a' ________.",
+      "options": [
+        "relationship",
+        "connection",
+        "link",
+        "tie"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Composition is used when one class contains another class, establishing a 'has-a' ________.",
+      "options": [
+        "relationship",
+        "connection",
+        "link",
+        "tie"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "Inheritance helps improve code ________ by allowing classes to inherit properties and methods.",
+      "options": [
+        "reusability",
+        "maintainability",
+        "flexibility",
+        "modularity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "Composition provides more flexibility than inheritance because it allows classes to be reused in different ________.",
+      "options": [
+        "contexts",
+        "situations",
+        "scenarios",
+        "environments"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Inheritance is suitable for creating a hierarchy of classes where one class is a type of ________.",
+      "options": [
+        "another class",
+        "parent class",
+        "base class",
+        "superclass"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Composition avoids unnecessary inheritance by allowing classes to use other classes without being a ________.",
+      "options": [
+        "subclass",
+        "superclass",
+        "parent class",
+        "child class"
+      ],
+      "answer": 1
+    }
+]
+  

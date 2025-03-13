@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "question": "A Python script is a file that contains Python code and is saved with the ______ extension.",
+      "options": [".txt", ".py", ".java", ".exe"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "To display a 'Welcome' message in Python, we use the ______ function.",
+      "options": ["display", "show", "print", "echo"],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "The built-in Python editor that allows us to write and execute Python commands interactively is called ______.",
+      "options": ["Notepad", "IDLE", "PyCharm", "Terminal"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "To run a Python script from the command line, we use the command ______.",
+      "options": ["run script.py", "python script.py", "execute script.py", "start script.py"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "To run a Python script online, we can use the website ______.",
+      "options": ["w3schools.com", "python.org", "programiz.com", "github.com"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "A Python script can be written and saved using a simple text editor like ______.",
+      "options": ["Notepad", "MS Paint", "Excel", "Photoshop"],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "The command to check if Python is installed on a system is ______.",
+      "options": ["check python", "python --version", "verify python", "python -check"],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "When running a Python script, the output of print(\"Welcome to Python!\") is ______.",
+      "options": ["Welcome to Python!", "Python to Welcome!", "Error", "None"],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "In a Python script, a string value is enclosed within ______.",
+      "options": ["Curly braces", "Parentheses", "Quotation marks", "Square brackets"],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "To accept user input in Python, we use the ______ function.",
+      "options": ["input()", "read()", "get()", "accept()"],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "In Python, we can repeat a 'Welcome' message multiple times using a ______ loop.",
+      "options": ["while", "if", "for", "switch"],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "To create a fancy border around a message, we use the ______ operator to repeat a character.",
+      "options": ["+", "-", "*", "&"],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "The command used to navigate to the Desktop in the command prompt is ______.",
+      "options": ["goto Desktop", "cd Desktop", "open Desktop", "Desktop"],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "A Python script is executed by the ______.",
+      "options": ["Python Compiler", "Python Interpreter", "C++ Compiler", "Java Virtual Machine"],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "A file containing Python code should be saved with the file extension ______.",
+      "options": [".exe", ".py", ".html", ".cpp"],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "PyCharm, VS Code, and IDLE are examples of ______.",
+      "options": ["Operating Systems", "Programming Languages", "IDEs", "Databases"],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "In a Python script, the line name = input(\"Enter your name: \") allows the user to input ______.",
+      "options": ["A number", "A string", "A file", "A function"],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "The result of running the script print('Hello' + ' Python!') is ______.",
+      "options": ["HelloPython!", "Hello Python!", "Hello + Python!", "Error"],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "In Python, the print function outputs text to the ______.",
+      "options": ["Screen", "File", "Database", "Clipboard"],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "To display a message in Python, we enclose the text in ______.",
+      "options": ["Single or double quotes", "Curly braces", "Square brackets", "Angle brackets"],
+      "answer": 1
+    }
+]
+  

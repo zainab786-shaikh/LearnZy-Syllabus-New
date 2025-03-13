@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What does control flow determine in a Python program?",
+      "options": [
+        "The order in which statements are executed",
+        "The speed of execution",
+        "The number of variables used",
+        "The type of programming paradigm"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a type of control flow statement in Python?",
+      "options": [
+        "Conditional Statements",
+        "Loop Statements",
+        "Jump Statements",
+        "Class Statements"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "Which control flow statement is used for decision-making?",
+      "options": [
+        "Loop Statements",
+        "Conditional Statements",
+        "Jump Statements",
+        "Assignment Statements"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which Python statement is used to execute a block of code only if a certain condition is met?",
+      "options": [
+        "if",
+        "for",
+        "while",
+        "continue"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "What will be the output of the following code?\n\nx = 10\nif x > 5:\n    print('Greater')",
+      "options": [
+        "Greater",
+        "Error",
+        "Nothing",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which keyword is used for an alternative condition if the first condition in an if statement is False?",
+      "options": [
+        "elif",
+        "else",
+        "otherwise",
+        "except"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which of the following loops in Python executes a block of code a specific number of times?",
+      "options": [
+        "while",
+        "for",
+        "do-while",
+        "loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which loop executes as long as a condition is True?",
+      "options": [
+        "for",
+        "while",
+        "do-while",
+        "switch"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What does the break statement do in a loop?",
+      "options": [
+        "Skips one iteration",
+        "Stops the loop entirely",
+        "Repeats the loop",
+        "Executes the next iteration"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which statement is used to skip the current iteration of a loop and move to the next iteration?",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "return"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "What will be the output of the following code?\n\nfor i in range(3):\n    if i == 2:\n        break\n    print(i)",
+      "options": [
+        "0 1",
+        "0 1 2",
+        "2",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Which keyword is used as a placeholder in a function, loop, or class that does nothing when executed?",
+      "options": [
+        "continue",
+        "pass",
+        "skip",
+        "halt"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "Which control flow statement allows repeating a block of code multiple times?",
+      "options": [
+        "Loops",
+        "Conditional Statements",
+        "Jump Statements",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which Python loop is more suitable when the number of iterations is unknown?",
+      "options": [
+        "for loop",
+        "while loop",
+        "do-while loop",
+        "nested loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is NOT a jump statement in Python?",
+      "options": [
+        "break",
+        "continue",
+        "pass",
+        "switch"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 16,
+      "question": "Which of the following statements is true about the else clause in loops?",
+      "options": [
+        "It runs only if the loop condition is initially False.",
+        "It runs only if the loop completes normally without a break.",
+        "It runs before the loop body.",
+        "It is mandatory in all loops."
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Which of the following best describes the use of 'continue' in a loop?",
+      "options": [
+        "Stops the loop entirely",
+        "Skips the current iteration and moves to the next one",
+        "Exits the loop after one iteration",
+        "Pauses execution for a specific time"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 18,
+      "question": "What will be the output of the following code?\n\nfor i in range(5):\n    if i == 3:\n        continue\n    print(i)",
+      "options": [
+        "0 1 2 3 4",
+        "0 1 2 4",
+        "1 2 3 4",
+        "0 2 4"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 19,
+      "question": "Which statement is used to exit a loop immediately?",
+      "options": [
+        "break",
+        "continue",
+        "exit",
+        "return"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Which Python construct allows executing a different set of statements based on conditions?",
+      "options": [
+        "Loops",
+        "Functions",
+        "Conditional Statements",
+        "Jump Statements"
+      ],
+      "answer": 3
+    }
+]
+  

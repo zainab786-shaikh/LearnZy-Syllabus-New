@@ -1,0 +1,98 @@
+<div>
+    <h2>3.1 Lists in Python</h2>
+    <h3>Introduction to Lists</h3>
+    <p>A list in Python is a collection of multiple values stored together in a single variable. Lists allow us to store different types of data such as numbers, strings, or even other lists. They are ordered, mutable (changeable), and allow duplicate values.</p>
+    
+    <h3>a) Defining Lists, Accessing Values, Deleting Values, and Updating Lists</h3>
+    <h4>Defining a List</h4>
+    <p>A list is created by enclosing values inside square brackets [ ], separated by commas.</p>
+    
+    <pre>
+      <code>
+        # List of numbers
+        numbers = [10, 20, 30, 40, 50]
+        
+        # List of strings
+        fruits = ["Apple", "Banana", "Cherry"]
+        
+        # Mixed data types
+        mixed = [25, "Hello", 3.14, True]
+        
+        # Empty List
+        empty_list = []
+      </code>
+    </pre>
+    
+    <h4>Accessing Values in a List</h4>
+    <p>Each item in a list has an index (position number) that starts from 0.</p>
+    
+    <pre>
+      <code>
+        fruits = ["Apple", "Banana", "Cherry"]
+        
+        print(fruits[0])  # Output: Apple
+        print(fruits[1])  # Output: Banana
+        print(fruits[2])  # Output: Cherry
+      </code>
+    </pre>
+    
+    <h4>Updating a List</h4>
+    <pre>
+      <code>
+        numbers = [10, 20, 30, 40]
+        numbers[1] = 99  # Changing value at index 1
+        print(numbers)   # Output: [10, 99, 30, 40]
+      </code>
+    </pre>
+    
+    <h4>Deleting Values from a List</h4>
+    <pre>
+      <code>
+        fruits = ["Apple", "Banana", "Cherry"]
+        del fruits[1]  # Deletes "Banana"
+        print(fruits)   # Output: ["Apple", "Cherry"]
+      </code>
+    </pre>
+    
+    <h3>b) Basic List Operations</h3>
+    <h4>Concatenation (Joining Lists)</h4>
+    <pre>
+      <code>
+        list1 = [1, 2, 3]
+        list2 = [4, 5, 6]
+        combined = list1 + list2
+        print(combined)  # Output: [1, 2, 3, 4, 5, 6]
+      </code>
+    </pre>
+    
+    <h4>Finding the Length of a List</h4>
+    <pre>
+      <code>
+        numbers = [10, 20, 30, 40, 50]
+        print(len(numbers))  # Output: 5
+      </code>
+    </pre>
+    
+    <h3>c) Built-in List Functions</h3>
+    <h4>Appending an Item</h4>
+    <pre>
+      <code>
+        fruits = ["Apple", "Banana"]
+        fruits.append("Mango")
+        print(fruits)  # Output: ['Apple', 'Banana', 'Mango']
+      </code>
+    </pre>
+    
+    <h4>Sorting a List</h4>
+    <pre>
+      <code>
+        numbers = [5, 2, 9, 1, 7]
+        numbers.sort()
+        print(numbers)  # Output: [1, 2, 5, 7, 9]
+      </code>
+    </pre>
+    
+    <h4>Conclusion</h4>
+    <p>Python lists are powerful, flexible, and easy to use. You can store multiple values, modify them, and perform various operations with built-in functions. Lists are widely used in programming for managing data efficiently.</p>
+</div>
+  

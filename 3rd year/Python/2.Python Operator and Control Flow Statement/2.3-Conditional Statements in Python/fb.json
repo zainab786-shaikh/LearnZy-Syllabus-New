@@ -1,0 +1,276 @@
+[
+    {
+      "id": 1,
+      "question": "Conditional statements in Python allow a program to make ________ based on conditions.",
+      "options": [
+        "loops",
+        "decisions",
+        "assignments",
+        "imports"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The if statement executes a block of code only if a given condition is ________.",
+      "options": [
+        "False",
+        "Undefined",
+        "True",
+        "Zero"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "The syntax of an if statement starts with the keyword ________.",
+      "options": [
+        "elif",
+        "if",
+        "else",
+        "while"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "If the condition in an if statement is False, the code inside the if block is ________.",
+      "options": [
+        "skipped",
+        "executed",
+        "repeated",
+        "stored"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "The if…else statement provides an ________ in case the condition is False.",
+      "options": [
+        "alternative block",
+        "input",
+        "iteration",
+        "import"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "In an if…else statement, if the condition is False, the code inside the ________ block executes.",
+      "options": [
+        "if",
+        "else",
+        "elif",
+        "loop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "The if…elif…else statement is used when we have ________ conditions to check.",
+      "options": [
+        "no",
+        "multiple",
+        "only one",
+        "looping"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "The elif statement is short for ________.",
+      "options": [
+        "if else",
+        "looping condition",
+        "while loop",
+        "else if"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 9,
+      "question": "If none of the conditions in an if…elif…else statement are True, the ________ block executes.",
+      "options": [
+        "if",
+        "elif",
+        "else",
+        "while"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "A nested if statement is an if statement placed ________ another if statement.",
+      "options": [
+        "outside",
+        "inside",
+        "below",
+        "without"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "Nested if statements help in checking ________ conditions inside another condition.",
+      "options": [
+        "single",
+        "multiple",
+        "one",
+        "zero"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "The if condition is followed by a ________ before the block of code.",
+      "options": [
+        "comma",
+        "semicolon",
+        "colon",
+        "period"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "Indentation is important in Python because it defines the ________ of the statements.",
+      "options": [
+        "order",
+        "syntax",
+        "block",
+        "loops"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "In Python, an if statement can check for conditions using ________ operators.",
+      "options": [
+        "arithmetic",
+        "comparison",
+        "assignment",
+        "logical"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "The real-life example of an if…else statement is checking a person's ________ for voting eligibility.",
+      "options": [
+        "height",
+        "age",
+        "weight",
+        "name"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "The condition in an if statement must return a ________ value.",
+      "options": [
+        "Boolean",
+        "String",
+        "List",
+        "Integer"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "A number is checked for being even or odd using the ________ operator.",
+      "options": [
+        "+",
+        "-",
+        "%",
+        "/"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "The if statement allows a program to execute a code block only when the condition is ________.",
+      "options": [
+        "False",
+        "Undefined",
+        "True",
+        "Skipped"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "An if…elif…else statement is useful for handling ________ possibilities.",
+      "options": [
+        "only one",
+        "multiple",
+        "no",
+        "zero"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "The following syntax is incorrect: if condition then:",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "The output of `if 5 > 3: print('Yes')` is ________.",
+      "options": [
+        "Yes",
+        "No",
+        "Error",
+        "Nothing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "The else block is ________ if the if condition is True.",
+      "options": [
+        "executed",
+        "skipped",
+        "repeated",
+        "printed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Python's indentation rule ensures that the code is structured in a ________ way.",
+      "options": [
+        "readable",
+        "complex",
+        "unordered",
+        "confusing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "An if statement without an else block will execute if the condition is ________.",
+      "options": [
+        "False",
+        "True",
+        "Zero",
+        "None"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "The elif keyword in Python is used to check ________ conditions.",
+      "options": [
+        "one",
+        "nested",
+        "multiple",
+        "single"
+      ],
+      "answer": 3
+    }
+]
+  

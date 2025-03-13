@@ -1,0 +1,218 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that a thread is a smaller unit of a process that runs separately within the same process.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that threads require separate memory space like processes do.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that using multiple threads improves performance by allowing tasks to run in parallel.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that a single-threaded application is faster than a multi-threaded application.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that user threads are managed by the application, not the operating system.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that kernel threads are managed by the application instead of the operating system.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that user threads are faster than kernel threads since they do not involve the OS.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that kernel threads do not require system resources to function.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that if a user thread blocks, all other threads in the process may also stop.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that kernel threads are independent of the operating system’s control.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that multithreading allows multiple threads to execute simultaneously in a process.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is false that threads do not share resources with other threads within the same process.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that in a many-to-one model, multiple user threads are mapped to a single kernel thread.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is false that in a one-to-one model, multiple user threads share a single kernel thread.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that in a many-to-many model, multiple user threads are mapped to multiple kernel threads.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is false that the many-to-one model allows true parallel execution across multiple CPUs.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that the one-to-one model allows each user thread to be mapped to its own kernel thread.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is false that multithreading models do not affect the performance of an application.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that the many-to-many model provides a good balance between efficiency and parallel execution.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is false that user threads require the operating system’s involvement for scheduling.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that kernel threads can continue executing even if one thread crashes.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is false that user threads are slower than kernel threads because they need OS scheduling.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that multithreading makes better use of CPU resources by reducing idle time.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is false that a process with multiple threads uses more memory than multiple single-threaded processes.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that multithreading allows quick response times in applications like web browsers.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is false that context switching between threads is slower than between processes.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is true that the one-to-one model allows true parallel execution on multi-core processors.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is false that a kernel thread can be directly controlled by the user without OS involvement.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that the many-to-one model is not suitable for multi-core processors.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is false that threads in the same process cannot communicate with each other.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that a web server can use threads to handle multiple client requests simultaneously.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is false that a thread must have its own memory space separate from other threads.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that user threads rely on user-level libraries for scheduling and execution.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is false that kernel threads are always faster than user threads in all scenarios.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that in the many-to-many model, the OS can schedule kernel threads efficiently.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is false that the one-to-one model is the least resource-intensive multithreading model.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that threads within the same process share the same address space.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is false that threads in the same process cannot share data with each other.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that a multi-threaded program is more responsive than a single-threaded program.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is false that threads and processes are identical in how they execute tasks.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that context switching between threads is more efficient than between processes.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is false that multithreading is only useful for graphical applications.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that the many-to-many model offers flexibility in thread scheduling.",
+      "answer": true
+    }
+]
+  

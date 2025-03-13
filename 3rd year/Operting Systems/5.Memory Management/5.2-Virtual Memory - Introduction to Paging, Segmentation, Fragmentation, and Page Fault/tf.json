@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that virtual memory allows a computer to use hard disk space as extra RAM when the actual RAM is full.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that virtual memory helps by adding more physical RAM to the system.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that in paging, RAM is divided into fixed-size blocks called frames, and processes are divided into small fixed-size blocks called pages.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that paging causes external fragmentation, as it divides memory into fixed-size blocks.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that segmentation divides memory into logical sections like code, data, and stack.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that segmentation leads to internal fragmentation, as it uses logical sections with different sizes.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that internal fragmentation occurs in paging when a process is allocated more space than it needs.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that external fragmentation happens in paging, as it only uses fixed-size memory blocks.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that a page fault occurs when a program requests data that is not in RAM but is stored in virtual memory (hard disk).",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that a minor page fault occurs when a page is not in RAM and needs to be loaded from the disk.",
+      "answer": true
+    }
+]
+  

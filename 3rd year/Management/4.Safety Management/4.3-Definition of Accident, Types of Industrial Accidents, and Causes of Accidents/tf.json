@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that an accident is a planned event that causes harm.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "It is true that accidents can happen anywhere, such as at home, on the road, or in industries.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that industrial accidents are wanted events in workplaces.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "It is true that industrial accidents can cause injury, property damage, or production loss.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that mechanical accidents do not occur due to machinery or equipment failure.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "It is true that a worker’s hand getting caught in a machine’s moving parts is an example of a mechanical accident.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that electrical accidents do not happen due to faulty wiring or electric shocks.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "It is true that an electrician getting an electric shock while repairing a circuit is an example of an electrical accident.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that fire and explosion accidents do not occur due to flammable materials or gas leaks.",
+      "answer": false
+    },
+    {
+      "id": 10,
+      "question": "It is true that a gas cylinder exploding in a welding workshop is an example of a fire and explosion accident.",
+      "answer": true
+    },
+    {
+      "id": 11,
+      "question": "It is true that chemical accidents do not occur when hazardous chemicals cause burns or poisoning.",
+      "answer": false
+    },
+    {
+      "id": 12,
+      "question": "It is true that a worker inhaling toxic fumes from a chemical spill is an example of a chemical accident.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that slips, trips, and falls do not happen due to slippery surfaces or obstacles.",
+      "answer": false
+    },
+    {
+      "id": 14,
+      "question": "It is true that a worker slipping on an oily floor and breaking his leg is an example of a slip, trip, or fall accident.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "It is true that falling objects accidents do not occur when objects fall from heights.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "It is true that a brick falling from a building under construction and injuring a worker is an example of a falling objects accident.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that confined space accidents do not occur when workers are trapped in small spaces with low oxygen levels.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "It is true that a worker suffocating while working in a storage tank is an example of a confined space accident.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that human causes of accidents do not include workers' mistakes or negligence.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "It is true that not wearing safety gear is an example of a human cause of accidents.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that mechanical causes of accidents do not include faulty equipment or machinery failure.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "It is true that a machine suddenly stopping and injuring a worker is an example of a mechanical cause of accidents.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that environmental causes of accidents do not include hazardous workplace conditions.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "It is true that poor lighting making it difficult for workers to see properly is an example of an environmental cause of accidents.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that industrial accidents are completely unpredictable and cannot be prevented.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "It is true that providing safety training and maintaining machines properly can reduce industrial accidents.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "It is true that following safety rules is not important for preventing accidents.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "It is true that accidents can be classified based on their nature, severity, and number of victims.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "It is true that a small cut or minor injury is considered a major accident.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "It is true that major accidents can cause mortality, huge property loss, or permanent impact on workers.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "It is true that accidents caused by poisonous gas or chemicals do not lead to internal injuries or health problems.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "It is true that an accident is a discrete occurrence in the course of work leading to physical or mental harm.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "It is true that occupational accidents differ from occupational diseases as they are expected occurrences.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "It is true that occupational accidents are unexpected and unplanned occurrences, unlike occupational diseases.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "It is true that commuting accidents are always considered work accidents.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "It is true that commuting accidents are sometimes included in work accidents but are often categorized separately.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "It is true that industrial disasters are not large-scale accidents affecting many people or areas.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "It is true that industrial disasters are major accidents causing extensive damage or injuries.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "It is true that an industrial accident is not defined as an event causing injury during work.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "It is true that an industrial accident is defined as an event causing injury during work, according to legal definitions.",
+      "answer": true
+    },
+    {
+      "id": 41,
+      "question": "It is true that accidents in industries do not disrupt normal activities.",
+      "answer": false
+    },
+    {
+      "id": 42,
+      "question": "It is true that accidents in industries can disrupt normal activities temporarily or for a prolonged period.",
+      "answer": true
+    },
+    {
+      "id": 43,
+      "question": "It is true that the Indian Factory Act does not specify that industrial accidents causing bodily injury can be considered workplace accidents.",
+      "answer": false
+    },
+    {
+      "id": 44,
+      "question": "It is true that the Indian Factory Act specifies that industrial accidents causing bodily injury making workers unable to work for 48 hours can be considered workplace accidents.",
+      "answer": true
+    },
+    {
+      "id": 45,
+      "question": "It is true that accidents can be classified based on the degree of injury but not by the nature or severity.",
+      "answer": false
+    },
+    {
+      "id": 46,
+      "question": "It is true that accidents can be classified based on the nature, severity, and number of victims.",
+      "answer": true
+    },
+    {
+      "id": 47,
+      "question": "It is true that minor accidents do not include small cuts or injuries that do not render a worker unable to work.",
+      "answer": false
+    },
+    {
+      "id": 48,
+      "question": "It is true that minor accidents include small cuts or injuries that do not significantly impact work.",
+      "answer": true
+    },
+    {
+      "id": 49,
+      "question": "It is true that major accidents do not cause significant property loss or permanent impact on workers.",
+      "answer": false
+    },
+    {
+      "id": 50,
+      "question": "It is true that major accidents can cause significant property loss, mortality, or permanent impact on workers.",
+      "answer": true
+    }
+]
+  

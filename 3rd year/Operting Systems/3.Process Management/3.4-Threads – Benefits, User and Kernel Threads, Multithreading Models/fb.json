@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "A thread is a smaller unit of a ________ that runs separately but within it.",
+      "options": [
+        "process",
+        "file",
+        "kernel",
+        "memory"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "One of the main benefits of threads is ________ execution, allowing tasks to run in parallel.",
+      "options": [
+        "sequential",
+        "parallel",
+        "single-threaded",
+        "delayed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Threads share ________ with their process, reducing memory usage compared to multiple processes.",
+      "options": [
+        "CPU time",
+        "memory",
+        "files",
+        "data structure"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "User threads are managed by the ________ instead of the operating system.",
+      "options": [
+        "hardware",
+        "application",
+        "kernel",
+        "scheduler"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Kernel threads are directly controlled by the ________.",
+      "options": [
+        "hardware",
+        "user",
+        "operating system",
+        "CPU"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "A major drawback of user threads is that if one thread blocks, ________ threads may also stop working.",
+      "options": [
+        "all other",
+        "kernel",
+        "hardware",
+        "OS-managed"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Kernel threads are more powerful than user threads but have ________ overhead.",
+      "options": [
+        "lower",
+        "higher",
+        "no",
+        "minimal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "In the Many-to-One model, multiple user threads are mapped to ________ kernel thread(s).",
+      "options": [
+        "zero",
+        "one",
+        "many",
+        "two"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "The One-to-One model maps each user thread to ________ kernel thread(s).",
+      "options": [
+        "zero",
+        "one",
+        "many",
+        "two"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "The Many-to-Many model allows multiple user threads to be mapped to ________ kernel threads.",
+      "options": [
+        "zero",
+        "one",
+        "many",
+        "two"
+      ],
+      "answer": 3
+    }
+]
+  

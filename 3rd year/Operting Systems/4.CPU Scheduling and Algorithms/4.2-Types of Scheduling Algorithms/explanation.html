@@ -1,0 +1,59 @@
+<div>
+    <h2>4.2 Types of Scheduling Algorithms</h2>
+    <p>In an operating system, the CPU scheduling algorithm decides which process (task) should run next when multiple tasks are waiting. Imagine a restaurant where customers are waiting to be served. The way the waiter decides who gets served first is similar to CPU scheduling.</p>
+    <p>There are different ways to schedule tasks, just like different ways to serve customers in a queue. Let's look at the six main types of CPU scheduling algorithms with examples.</p>
+    
+    <h3>1. First Come First Served (FCFS)</h3>
+    <p><strong>Meaning:</strong> The process that arrives first is executed first, just like a queue at a bank or ticket counter.</p>
+    <p><strong>Type:</strong> Non-preemptive (Once a process starts, it cannot be interrupted)</p>
+    <p><strong>Example:</strong></p>
+    <table border="1">
+      <tr><th>Customer</th><th>Arrival Time</th><th>Processing Time</th></tr>
+      <tr><td>A</td><td>0 sec</td><td>5 sec</td></tr>
+      <tr><td>B</td><td>1 sec</td><td>3 sec</td></tr>
+      <tr><td>C</td><td>2 sec</td><td>8 sec</td></tr>
+    </table>
+    <p>Gantt Chart:</p>
+    <p>| A (0-5) | B (5-8) | C (8-16) |</p>
+    
+    <h3>2. Shortest Job First (SJF)</h3>
+    <p><strong>Meaning:</strong> The task with the shortest execution time is completed first.</p>
+    <p><strong>Type:</strong> Non-preemptive</p>
+    <p>Gantt Chart:</p>
+    <p>| B (1-4) | A (4-9) | C (9-17) |</p>
+  
+    <h3>3. Shortest Remaining Time Next (SRTN)</h3>
+    <p><strong>Meaning:</strong> It is the preemptive version of SJF. If a shorter task arrives while another task is running, the CPU switches to the shorter task.</p>
+    <p><strong>Type:</strong> Preemptive</p>
+    <p>Gantt Chart:</p>
+    <p>| P1 (0-1) | P2 (1-2) | P3 (2-4) | P2 (4-6) | P1 (6-14) |</p>
+  
+    <h3>4. Round Robin (RR)</h3>
+    <p><strong>Meaning:</strong> Each task gets a fixed time slot, just like taking turns in a game.</p>
+    <p><strong>Type:</strong> Preemptive</p>
+    <p>Gantt Chart:</p>
+    <p>| P1 (0-4) | P2 (4-8) | P3 (8-12) | P1 (12-16) | P3 (16-18) |</p>
+  
+    <h3>5. Priority Scheduling</h3>
+    <p><strong>Meaning:</strong> Every process has a priority. Higher-priority tasks execute first.</p>
+    <p><strong>Type:</strong> Can be preemptive or non-preemptive.</p>
+    <p>Gantt Chart:</p>
+    <p>| P2 (1-2) | P3 (2-4) | P1 (4-14) |</p>
+  
+    <h3>6. Multilevel Queue Scheduling</h3>
+    <p><strong>Meaning:</strong> Processes are divided into different priority-based queues, and each queue has its own scheduling algorithm.</p>
+    <p><strong>Type:</strong> Both Preemptive & Non-preemptive.</p>
+    
+    <h3>Conclusion</h3>
+    <table border="1">
+      <tr><th>Algorithm</th><th>Type</th><th>Best For</th><th>Drawback</th></tr>
+      <tr><td>FCFS</td><td>Non-preemptive</td><td>Simple queues</td><td>Slow for long tasks</td></tr>
+      <tr><td>SJF</td><td>Non-preemptive</td><td>Faster execution</td><td>Starvation of long tasks</td></tr>
+      <tr><td>SRTN</td><td>Preemptive</td><td>Fast response</td><td>Frequent switching</td></tr>
+      <tr><td>RR</td><td>Preemptive</td><td>Fair time sharing</td><td>Frequent context switching</td></tr>
+      <tr><td>Priority</td><td>Can be both</td><td>Important tasks first</td><td>Starvation problem</td></tr>
+      <tr><td>Multilevel Queue</td><td>Both</td><td>Organizing task types</td><td>Complexity</td></tr>
+    </table>
+    <p>Each scheduling method has its pros and cons. The best choice depends on the system's needs!</p>
+</div>
+  

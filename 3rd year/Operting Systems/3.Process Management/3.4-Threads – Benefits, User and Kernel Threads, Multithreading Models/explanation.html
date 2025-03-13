@@ -1,0 +1,85 @@
+<div>
+    <h2>3.4 Threads – Benefits, User and Kernel Threads, Multithreading Models</h2>
+    
+    <h3>What is a Thread?</h3>
+    <p>A thread is a small unit of a process. Think of a process as a TV and a thread as a channel. The TV (process) remains the same, but you can switch between channels (threads) without changing the TV.</p>
+    <p>A process runs a program, and a thread is a smaller part of the program that runs separately but within the same process.</p>
+    
+    <h3>Benefits of Threads</h3>
+    <ul>
+      <li><b>Faster Execution:</b> Threads execute tasks in parallel, meaning the CPU is used more efficiently.</li>
+      <li><b>Better Performance:</b> Different tasks happen at the same time, improving speed.</li>
+      <li><b>Less Memory Use:</b> Threads share memory with their process, so they don’t need separate memory space.</li>
+      <li><b>Efficient CPU Use:</b> A CPU can work on multiple threads at once, reducing idle time.</li>
+      <li><b>Quick Response Time:</b> Applications like web browsers use multiple threads to load different parts simultaneously.</li>
+    </ul>
+    
+    <h3>User Threads vs. Kernel Threads</h3>
+    <h4>User Threads (Managed by the Application, Not the OS)</h4>
+    <ul>
+      <li>The OS doesn’t know about user threads.</li>
+      <li>They are faster and easier to manage.</li>
+      <li>If one thread gets stuck, the entire process may stop working.</li>
+    </ul>
+    
+    <h4>Kernel Threads (Managed by the Operating System)</h4>
+    <ul>
+      <li>The OS knows about these threads and controls their execution.</li>
+      <li>They are slower but more powerful.</li>
+      <li>If one thread stops working, others can continue running.</li>
+    </ul>
+    
+    <h3>Multithreading Models</h3>
+    <h4>1. Many-to-One Model</h4>
+    <ul>
+      <li>Multiple user threads → Mapped to ONE kernel thread.</li>
+      <li><b>Pros:</b> Simple and efficient, requires fewer system resources.</li>
+      <li><b>Cons:</b> If one thread blocks, all threads stop; can't use multiple CPUs.</li>
+    </ul>
+    
+    <h4>2. One-to-One Model</h4>
+    <ul>
+      <li>One user thread → Mapped to ONE kernel thread.</li>
+      <li><b>Pros:</b> If one thread stops, others keep running; allows parallel execution.</li>
+      <li><b>Cons:</b> Uses more system resources.</li>
+    </ul>
+    
+    <h4>3. Many-to-Many Model</h4>
+    <ul>
+      <li>Multiple user threads → Mapped to Multiple kernel threads.</li>
+      <li><b>Pros:</b> Efficient resource use; supports parallel execution.</li>
+      <li><b>Cons:</b> More complex to manage.</li>
+    </ul>
+    
+    <h3>Comparison of Multithreading Models</h3>
+    <table border="1">
+      <tr>
+        <th>Model</th>
+        <th>Pros</th>
+        <th>Cons</th>
+        <th>Example</th>
+      </tr>
+      <tr>
+        <td>Many-to-One</td>
+        <td>Simple, low resource usage</td>
+        <td>One blocked thread stops all</td>
+        <td>Single-lane road</td>
+      </tr>
+      <tr>
+        <td>One-to-One</td>
+        <td>Parallel execution, more reliable</td>
+        <td>High resource usage</td>
+        <td>Multi-lane highway</td>
+      </tr>
+      <tr>
+        <td>Many-to-Many</td>
+        <td>Efficient resource use, best performance</td>
+        <td>Complex implementation</td>
+        <td>Toll plaza with many booths</td>
+      </tr>
+    </table>
+    
+    <h3>Conclusion</h3>
+    <p>Threads allow programs to run faster by executing multiple tasks simultaneously. The way user threads map to kernel threads affects performance and efficiency. The Many-to-Many model provides the best balance, but the choice depends on the system requirements.</p>
+</div>
+  

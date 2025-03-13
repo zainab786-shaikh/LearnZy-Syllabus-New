@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "A fire hazard is anything that can start a fire, make it ________, or cause harm due to fire.",
+      "options": [
+        "spread",
+        "stop",
+        "prevent",
+        "reduce"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Fire hazards are dangerous because they can lead to ________ damage, injuries, or loss of life.",
+      "options": [
+        "property",
+        "environmental",
+        "financial",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "Types of fire hazards include ________ materials like paper, wood, gasoline, or alcohol.",
+      "options": [
+        "flammable",
+        "non-flammable",
+        "combustible",
+        "inflammable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "A pile of newspapers near a stove can catch fire if exposed to ________.",
+      "options": [
+        "heat",
+        "cold",
+        "light",
+        "air"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Electrical hazards include faulty wiring, overloaded circuits, or damaged ________ appliances.",
+      "options": [
+        "electrical",
+        "mechanical",
+        "chemical",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "A short circuit in a faulty extension cord can cause sparks and start a ________.",
+      "options": [
+        "fire",
+        "explosion",
+        "leak",
+        "shortage"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Improper handling of fire includes leaving ________ unattended.",
+      "options": [
+        "stoves",
+        "candles",
+        "fireplaces",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 8,
+      "question": "A burning candle left near a curtain can cause a ________ fire.",
+      "options": [
+        "house",
+        "industrial",
+        "forest",
+        "wildfire"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Gas leaks from LPG cylinders or gas pipelines can cause ________.",
+      "options": [
+        "fires",
+        "explosions",
+        "leaks",
+        "both fires and explosions"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 10,
+      "question": "Blocked fire exits can prevent people from escaping safely during a ________.",
+      "options": [
+        "fire",
+        "earthquake",
+        "flood",
+        "storm"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Improper storage of chemicals like paint or fuel near heat sources can cause a ________.",
+      "options": [
+        "fire",
+        "explosion",
+        "leak",
+        "spill"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "The effects of fire hazards include ________ damage, injuries, or death.",
+      "options": [
+        "property",
+        "environmental",
+        "financial",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 13,
+      "question": "A fire drill is a practice session where people learn how to react safely in case of a ________ emergency.",
+      "options": [
+        "fire",
+        "earthquake",
+        "flood",
+        "storm"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "The purpose of a fire drill is to ensure ________ and reduce panic during an actual fire.",
+      "options": [
+        "safety",
+        "speed",
+        "efficiency",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 15,
+      "question": "During a fire drill, people should stop what they are doing and prepare to ________ the building.",
+      "options": [
+        "enter",
+        "exit",
+        "stay",
+        "hide"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "In a fire drill, people should follow the designated ________ plan to evacuate safely.",
+      "options": [
+        "escape",
+        "exit",
+        "entry",
+        "evacuation"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 17,
+      "question": "Trained individuals can use fire extinguishers to put out small ________.",
+      "options": [
+        "fires",
+        "explosions",
+        "leaks",
+        "spills"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "After evacuation, people should assemble at a pre-decided ________ location.",
+      "options": [
+        "safe",
+        "dangerous",
+        "hidden",
+        "visible"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "A headcount is done to ensure everyone is present and safe during a fire ________.",
+      "options": [
+        "drill",
+        "emergency",
+        "evacuation",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 20,
+      "question": "People can return to the building after officials confirm there is no ________.",
+      "options": [
+        "danger",
+        "risk",
+        "hazard",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 21,
+      "question": "Fire drills are conducted in schools to train students and ________ on evacuation procedures.",
+      "options": [
+        "staff",
+        "teachers",
+        "parents",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 22,
+      "question": "In offices, fire drills help employees practice exiting through ________ and gathering at a safe spot.",
+      "options": [
+        "staircases",
+        "elevators",
+        "corridors",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "Hospitals conduct fire drills to protect ________ and staff during emergencies.",
+      "options": [
+        "patients",
+        "visitors",
+        "employees",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 24,
+      "question": "Residential buildings organize fire drills to teach residents how to escape using ________ instead of elevators.",
+      "options": [
+        "stairwells",
+        "corridors",
+        "hallways",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "To prevent fires, it is important to never overload ________ sockets.",
+      "options": [
+        "electrical",
+        "mechanical",
+        "chemical",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Stoves or candles should not be left ________ to prevent fires.",
+      "options": [
+        "attended",
+        "unattended",
+        "ignored",
+        "delayed"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "Flammable materials should be stored ________ to prevent fires.",
+      "options": [
+        "safely",
+        "dangerously",
+        "properly",
+        "improperly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Conducting regular fire drills helps in preventing disasters and saving ________.",
+      "options": [
+        "lives",
+        "property",
+        "time",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 29,
+      "question": "Fire extinguishers should be kept in ________ places to ensure quick access during emergencies.",
+      "options": [
+        "accessible",
+        "inaccessible",
+        "visible",
+        "hidden"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "Industrial fires can be caused by various factors, including electrical malfunctions and ________ materials.",
+      "options": [
+        "flammable",
+        "non-flammable",
+        "combustible",
+        "inflammable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "Common fire hazards in industrial settings include ________ dust and electrical equipment.",
+      "options": [
+        "combustible",
+        "non-combustible",
+        "flammable",
+        "inflammable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Flammable liquids and gases are a major cause of industrial fires, accounting for about ________ of all incidents.",
+      "options": [
+        "20%",
+        "30%",
+        "40%",
+        "50%"
+      ],
+      "answer": 3
+      },
+    {
+      "id": 33,
+      "question": "To prevent flammable gas fires, it is important to store hazardous materials properly and keep ignition sources ________.",
+      "options": [
+        "away",
+        "near",
+        "on",
+        "off"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "Electrical fires can be prevented by regularly inspecting and maintaining electrical ________ and equipment.",
+      "options": [
+        "wiring",
+        "circuits",
+        "appliances",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 35,
+      "question": "Chemical fires occur when hazardous substances come into contact with an ignition source such as ________ or sparks.",
+      "options": [
+        "heat",
+        "flames",
+        "both heat and flames",
+        "neither heat nor flames"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "Improper ventilation can lead to a buildup of gases, causing ________ or rapid fire spread.",
+      "options": [
+        "explosions",
+        "fires",
+        "both explosions and fires",
+        "neither explosions nor fires"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 37,
+      "question": "Human error, such as careless handling of hazardous materials, is a significant cause of industrial ________.",
+      "options": [
+        "fires",
+        "explosions",
+        "accidents",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 38,
+      "question": "Fire hazards in industrial settings include hot work activities like ________ or cutting.",
+      "options": [
+        "welding",
+        "grinding",
+        "drilling",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 39,
+      "question": "Fires in warehouses and industrial settings can have severe consequences, including loss of ________ and disruption of operations.",
+      "options": [
+        "lives",
+        "property",
+        "inventory",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 40,
+      "question": "Understanding fire hazards is crucial for developing comprehensive fire safety protocols to protect lives, assets, and ________.",
+      "options": [
+        "operations",
+        "reputation",
+        "environment",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 41,
+      "question": "A fire hazard is anything that can start a fire, make it ________ quickly, or cause harm due to fire.",
+      "options": [
+        "spread",
+        "stop",
+        "prevent",
+        "reduce"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "Fire hazards are dangerous because they can lead to ________ damage, injuries, or loss of life.",
+      "options": [
+        "property",
+        "environmental",
+        "financial",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 43,
+      "question": "Types of fire hazards include ________ materials like gasoline or alcohol.",
+      "options": [
+        "flammable",
+        "non-flammable",
+        "combustible",
+        "inflammable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "A pile of newspapers near a stove can catch fire if exposed to ________.",
+      "options": [
+        "heat",
+        "cold",
+        "light",
+        "air"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Electrical hazards include faulty wiring, overloaded circuits, or damaged ________ appliances.",
+      "options": [
+        "electrical",
+        "mechanical",
+        "chemical",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "A short circuit in a faulty extension cord can cause sparks and start a ________.",
+      "options": [
+        "fire",
+        "explosion",
+        "leak",
+        "shortage"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "Improper handling of fire includes leaving ________ unattended.",
+      "options": [
+        "stoves",
+        "candles",
+        "fireplaces",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 48,
+      "question": "A burning candle left near a curtain can cause a ________ fire.",
+      "options": [
+        "house",
+        "industrial",
+        "forest",
+        "wildfire"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Gas leaks from LPG cylinders or gas pipelines can cause ________.",
+      "options": [
+        "fires",
+        "explosions",
+        "leaks",
+        "both fires and explosions"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 50,
+      "question": "Blocked fire exits can prevent people from escaping safely during a ________ emergency.",
+      "options": [
+        "fire",
+        "earthquake",
+        "flood",
+        "storm"
+      ],
+      "answer": 1
+    }
+]
+  

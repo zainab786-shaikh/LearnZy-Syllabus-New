@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is the purpose of a class in Python?",
+      "options": [
+        "To create a single object",
+        "To define properties and behaviors for objects",
+        "To import modules",
+        "To define functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "How do you define a class in Python?",
+      "options": [
+        "Using the def keyword",
+        "Using the class keyword",
+        "Using the import statement",
+        "Using the print() function"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What is an object in Python?",
+      "options": [
+        "A blueprint for creating other objects",
+        "An instance of a class",
+        "A collection of functions",
+        "A data structure like a list or tuple"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "How do you create an object from a class?",
+      "options": [
+        "Using the class keyword",
+        "Using the def keyword",
+        "Using the object_name = ClassName() syntax",
+        "Using the import statement"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What is the purpose of the __init__() method in a class?",
+      "options": [
+        "To define a new method",
+        "To initialize attributes when an object is created",
+        "To import modules",
+        "To define a function"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What does the self parameter represent in a class method?",
+      "options": [
+        "The class itself",
+        "The object being referred to",
+        "A module",
+        "A function"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Can you create multiple objects from the same class?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What is the difference between a class and an object?",
+      "options": [
+        "A class is an instance of an object",
+        "An object is an instance of a class",
+        "A class and an object are the same thing",
+        "A class contains objects, an object contains classes"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "How do you modify an object's attribute after it is created?",
+      "options": [
+        "Using the __init__() method",
+        "Using the del statement",
+        "By assigning a new value to the attribute",
+        "Using the import statement"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "What does the del statement do to an object or attribute?",
+      "options": [
+        "Deletes the object or attribute",
+        "Creates a new object or attribute",
+        "Imports a module",
+        "Defines a function"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Can you use classes to organize code into reusable components?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "What is the purpose of methods in a class?",
+      "options": [
+        "To define variables",
+        "To perform actions on objects",
+        "To import modules",
+        "To define functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "How do you call a method on an object?",
+      "options": [
+        "Using the method_name() syntax",
+        "Using the object_name.method_name() syntax",
+        "Using the class_name.method_name() syntax",
+        "Using the import statement"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Can you use classes to improve code readability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "What is the effect of using the __init__() method with arguments?",
+      "options": [
+        "It initializes attributes with default values",
+        "It initializes attributes with provided values",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Can you create a class without any methods?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "What happens if you try to access an attribute that does not exist?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It creates the attribute automatically",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Can you use classes to handle different data types?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "What is the purpose of using classes in real-world applications?",
+      "options": [
+        "To make code more complex",
+        "To model real-world entities and behaviors",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Can you use classes to improve code maintainability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "What is the effect of using the del statement on an object?",
+      "options": [
+        "It deletes the object",
+        "It creates a new object",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Can you use classes to reduce code repetition?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "What is the purpose of using the self parameter in methods?",
+      "options": [
+        "To refer to the class itself",
+        "To refer to the object being manipulated",
+        "To import modules",
+        "To define functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "Can you create multiple classes in a single Python file?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "What happens if you try to delete an attribute that does not exist?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It creates the attribute automatically",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Can you use classes to improve code efficiency?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "What is the effect of using classes in object-oriented programming?",
+      "options": [
+        "It makes code more procedural",
+        "It makes code more modular and reusable",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "Can you use classes to handle exceptions?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "What is the purpose of using the class keyword?",
+      "options": [
+        "To define a function",
+        "To define a module",
+        "To define a class",
+        "To import a module"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question": "Can you use classes to improve code flexibility?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "What happens if you try to access an object without creating it?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It creates the object automatically",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Can you use classes to simplify complex tasks?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "What is the effect of using the __init__() method without arguments?",
+      "options": [
+        "It initializes attributes with default values",
+        "It does nothing",
+        "It throws an error",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "Can you create a class with only methods and no attributes?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "What happens if you try to delete a class?",
+      "options": [
+        "It deletes the class",
+        "It does nothing",
+        "It throws an error",
+        "It imports a module"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "Can you use classes to improve code security?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "What is the purpose of using classes in team projects?",
+      "options": [
+        "To make code more complex",
+        "To divide workload by creating different classes",
+        "To define variables",
+        "To import modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 38,
+      "question": "Can you use classes to handle different scenarios based on input?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "What happens if you try to access an attribute before it is initialized?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It initializes the attribute automatically",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "Can you use classes to reduce debugging time?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "What is the effect of using classes in modular programming?",
+      "options": [
+        "It makes code more complex",
+        "It breaks down code into smaller reusable modules",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "Can you use classes to improve code maintainability by organizing related data and behavior?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "What happens if you try to create an object without a class?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It creates the class automatically",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "Can you use classes to improve code readability by structuring code into logical units?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "What is the purpose of using the self parameter in the __init__() method?",
+      "options": [
+        "To refer to the class itself",
+        "To refer to the object being initialized",
+        "To import modules",
+        "To define functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 46,
+      "question": "Can you create a class with only attributes and no methods?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "What happens if you try to access a method that does not exist?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It creates the method automatically",
+        "It imports a module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "Can you use classes to improve code efficiency by reducing repetition?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "What is the effect of using classes in object-oriented programming?",
+      "options": [
+        "It makes code more procedural",
+        "It makes code more modular and reusable",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "Can you use classes to simplify complex tasks by organizing code into reusable components?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    }
+]
+  

@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "Noise pollution refers to unwanted or harmful ________ that disrupts the environment.",
+      "options": [
+        "water",
+        "light",
+        "sound",
+        "air"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "One of the major sources of noise pollution is ________ traffic.",
+      "options": [
+        "water",
+        "road",
+        "foot",
+        "space"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Airplanes taking off and landing contribute to noise pollution in areas near ________.",
+      "options": [
+        "factories",
+        "markets",
+        "airports",
+        "schools"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Construction activities such as ________ and drilling create loud noises.",
+      "options": [
+        "painting",
+        "hammering",
+        "sweeping",
+        "plastering"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Factories and power plants generate noise pollution due to ________.",
+      "options": [
+        "heavy machinery",
+        "quiet offices",
+        "calm environments",
+        "silent generators"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "One of the common household sources of noise pollution is ________.",
+      "options": [
+        "vacuum cleaner",
+        "television",
+        "mixer grinder",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "Long-term exposure to loud noise can lead to ________ problems.",
+      "options": [
+        "hearing",
+        "digestive",
+        "skin",
+        "vision"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Noise pollution can cause stress and ________ in humans.",
+      "options": [
+        "relaxation",
+        "happiness",
+        "anxiety",
+        "sleepiness"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "One way to reduce noise pollution is by planting ________ along roads and buildings.",
+      "options": [
+        "flowers",
+        "trees",
+        "grass",
+        "moss"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "In Silent Zones, noise levels should not exceed ________ dB during nighttime.",
+      "options": [
+        "70",
+        "55",
+        "40",
+        "90"
+      ],
+      "answer": 3
+    }
+]
+  

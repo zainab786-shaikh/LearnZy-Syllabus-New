@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "question": "A Batch Operating System processes a group of similar jobs ________ user interaction.",
+      "options": ["with", "without", "by requiring", "along with"],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "In a Multi-Programmed OS, multiple programs run at the same time by managing ________ usage efficiently.",
+      "options": ["RAM", "CPU", "Cache", "Hard Disk"],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "A Time-Shared OS provides each user with a small ________, making it seem like all users are using the system simultaneously.",
+      "options": ["window", "time slot", "space", "process"],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "A Multiprocessor OS is designed to work with computers that have multiple ________.",
+      "options": ["hard disks", "processors", "monitors", "users"],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Google Search is an example of a ________ Operating System.",
+      "options": ["Batch", "Time-Shared", "Distributed", "Real-Time"],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "A Real-Time Operating System (RTOS) is designed to process data and respond ________.",
+      "options": ["whenever needed", "immediately", "at its convenience", "randomly"],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "An example of a mobile operating system is ________.",
+      "options": ["Windows", "Linux", "Android", "macOS"],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "The OS function responsible for managing CPU execution time is ________.",
+      "options": ["Process Management", "Memory Management", "File System Management", "User Interface"],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "A Distributed OS connects multiple computers over a ________ to act as a single system.",
+      "options": ["cable", "power supply", "network", "keyboard"],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "In a Real-Time OS, even a ________ delay can be critical.",
+      "options": ["minute", "second", "hour", "week"],
+      "answer": 2
+    }
+]
+  

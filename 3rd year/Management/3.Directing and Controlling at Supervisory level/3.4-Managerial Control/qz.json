@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary purpose of controlling in management?",
+      "options": [
+        "To plan organizational goals",
+        "To organize resources",
+        "To ensure activities are carried out as per the plan",
+        "To direct employee tasks"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "At the supervisory level, what does controlling focus on?",
+      "options": [
+        "Only monitoring employees",
+        "Only maintaining quality",
+        "Monitoring employees, maintaining quality, and ensuring work is completed on time and within budget",
+        "Only ensuring work is completed on time"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What is the first step in the control process?",
+      "options": [
+        "Measuring performance",
+        "Comparing performance with standards",
+        "Setting performance standards",
+        "Correcting unfavorable deviations"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Why is setting performance standards important?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It provides a benchmark for evaluating performance",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What happens when performance is not measured regularly?",
+      "options": [
+        "Efficiency increases",
+        "Deviation from standards decreases",
+        "Deviation from standards increases and efficiency decreases",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "In a car manufacturing company, what might be a performance standard?",
+      "options": [
+        "Assembling 5 car engines per day",
+        "Assembling 10 car engines per day with a rejection rate below 2%",
+        "Assembling 15 car engines per day",
+        "Assembling car engines without any standards"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Why is comparing actual performance with standards important?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It helps identify deviations and take corrective actions",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "What happens if actual performance is below the standard?",
+      "options": [
+        "No action is needed",
+        "Corrective action is needed",
+        "Performance standards are lowered",
+        "Employee morale increases"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "In a call center, what might be a performance standard?",
+      "options": [
+        "Solving 50% of customer complaints",
+        "Solving 90% of customer complaints",
+        "Solving 100% of customer complaints",
+        "No standard for solving complaints"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Why is maintaining quality important in controlling?",
+      "options": [
+        "It reduces customer satisfaction",
+        "It has no impact on customer satisfaction",
+        "It improves customer satisfaction by ensuring products meet standards",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "How does controlling impact organizational goals?",
+      "options": [
+        "It decreases the likelihood of achieving goals",
+        "It has no impact on achieving goals",
+        "It increases the likelihood of achieving goals by ensuring activities align with plans",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "What is the role of a supervisor in controlling?",
+      "options": [
+        "To plan organizational goals",
+        "To organize resources",
+        "To monitor performance and take corrective actions",
+        "To direct employee tasks only"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "Why is it important to ensure work is completed within budget?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It ensures financial sustainability and resource optimization",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "What happens when departments do not work together effectively?",
+      "options": [
+        "Efficiency increases",
+        "Quality improves",
+        "Efficiency decreases and quality is compromised",
+        "Customer satisfaction increases"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "In a mobile phone manufacturing company, why is it important for the quality control team to inform the production team about defects?",
+      "options": [
+        "To reduce quality standards",
+        "To increase production speed",
+        "To ensure quality products and customer satisfaction",
+        "To eliminate the quality control team"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 16,
+      "question": "What is the benefit of setting strict standards in a fast-food chain like McDonald's?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It ensures consistent quality and customer satisfaction",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Why is it important to take corrective action when performance deviates from standards?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It ensures that activities align with plans and goals",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "How does controlling impact employee morale?",
+      "options": [
+        "It decreases morale",
+        "It has no impact on morale",
+        "It increases morale by providing clear expectations and feedback",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 19,
+      "question": "What is the role of a supervisor in maintaining quality standards?",
+      "options": [
+        "To reduce quality standards",
+        "To have no impact on quality standards",
+        "To ensure products or services meet quality standards",
+        "To eliminate quality control"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "Why is it important to monitor performance regularly?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It helps identify deviations and take corrective actions",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "What happens when corrective actions are not taken when performance deviates from standards?",
+      "options": [
+        "Efficiency increases",
+        "Deviation from standards decreases",
+        "Deviation from standards increases and efficiency decreases",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "How does controlling impact organizational culture?",
+      "options": [
+        "It decreases positive culture",
+        "It has no impact on culture",
+        "It improves culture by promoting accountability and efficiency",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 23,
+      "question": "What is the benefit of ensuring that work is completed on time?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It improves efficiency and customer satisfaction",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 24,
+      "question": "Why is it important for departments to work together effectively?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It improves efficiency and quality by ensuring coordinated efforts",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 25,
+      "question": "What is an example of controlling in a call center?",
+      "options": [
+        "Not monitoring agent performance",
+        "Monitoring agent performance and taking corrective actions",
+        "Reducing quality standards",
+        "Eliminating performance standards"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "How does controlling impact organizational reputation?",
+      "options": [
+        "It decreases reputation",
+        "It has no impact on reputation",
+        "It improves reputation by ensuring quality and efficiency",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 27,
+      "question": "Why is it important to ensure that products meet quality standards?",
+      "options": [
+        "It reduces customer satisfaction",
+        "It has no impact on customer satisfaction",
+        "It improves customer satisfaction by ensuring quality products",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 28,
+      "question": "What happens when quality standards are not maintained?",
+      "options": [
+        "Customer satisfaction increases",
+        "Efficiency increases",
+        "Customer satisfaction decreases and efficiency is compromised",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 29,
+      "question": "How does controlling impact employee productivity?",
+      "options": [
+        "It decreases productivity",
+        "It has no impact on productivity",
+        "It increases productivity by providing clear expectations and feedback",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question": "What is the role of a supervisor in ensuring that work is completed within budget?",
+      "options": [
+        "To have no impact on budget",
+        "To ensure work is completed within budget to maintain financial sustainability",
+        "To reduce quality standards",
+        "To eliminate budget constraints"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "Why is it important to compare actual performance with standards?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It helps identify deviations and take corrective actions",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 32,
+      "question": "What happens when performance standards are not set clearly?",
+      "options": [
+        "Efficiency increases",
+        "Deviation from standards decreases",
+        "Deviation from standards increases and efficiency decreases",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 33,
+      "question": "How does controlling impact organizational adaptability?",
+      "options": [
+        "It decreases adaptability",
+        "It has no impact on adaptability",
+        "It improves adaptability by ensuring flexibility in response to deviations",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 34,
+      "question": "What is the benefit of ensuring that departments work together effectively?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It improves efficiency and quality by ensuring coordinated efforts",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 35,
+      "question": "Why is it important to take corrective actions promptly?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It ensures that activities align with plans and goals",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "What happens when corrective actions are delayed?",
+      "options": [
+        "Efficiency increases",
+        "Deviation from standards decreases",
+        "Deviation from standards increases and efficiency decreases",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 37,
+      "question": "How does controlling impact employee retention?",
+      "options": [
+        "It decreases retention",
+        "It has no impact on retention",
+        "It increases retention by providing clear expectations and feedback",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 38,
+      "question": "What is the role of a supervisor in maintaining performance standards?",
+      "options": [
+        "To reduce performance standards",
+        "To have no impact on performance standards",
+        "To ensure performance standards are met and maintained",
+        "To eliminate performance standards"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 39,
+      "question": "Why is it important to ensure that work is completed on time and within budget?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It improves efficiency and financial sustainability",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 40,
+      "question": "What happens when quality control is not effective?",
+      "options": [
+        "Customer satisfaction increases",
+        "Efficiency increases",
+        "Customer satisfaction decreases and efficiency is compromised",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 41,
+      "question": "How does controlling impact organizational sustainability?",
+      "options": [
+        "It decreases sustainability",
+        "It has no impact on sustainability",
+        "It improves sustainability by ensuring efficient resource use",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 42,
+      "question": "What is the benefit of having a structured control process?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It improves efficiency by ensuring activities align with plans",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 43,
+      "question": "Why is it important for a supervisor to monitor employee performance regularly?",
+      "options": [
+        "It reduces efficiency",
+        "It has no impact on efficiency",
+        "It helps identify deviations and take corrective actions",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 44,
+      "question": "What happens when performance is not compared with standards?",
+      "options": [
+        "Efficiency increases",
+        "Deviation from standards decreases",
+        "Deviation from standards increases and efficiency decreases",
+        "Work quality improves"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 45,
+      "question": "How does controlling impact employee engagement?",
+      "options": [
+        "It decreases engagement",
+        "It has no impact on engagement",
+        "It increases engagement by providing clear expectations and feedback",
+        "It only affects productivity"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 46,
+      "question": "What is the role of a supervisor in ensuring that corrective actions are taken promptly?",
+      "options": [
+        "To delay corrective actions",
+        "To have no impact on corrective actions",
+        "To ensure corrective actions are taken promptly to address deviations",
+        "To eliminate corrective actions"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 47,
+      "question": "Why is it important to maintain quality standards in a fast-food chain?",
+      "options": [
+        "It reduces customer satisfaction",
+        "It has no impact on customer satisfaction",
+        "It improves customer satisfaction by ensuring consistent quality",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 48,
+      "question": "What happens when departments do not communicate effectively?",
+      "options": [
+        "Efficiency increases",
+        "Quality improves",
+        "Efficiency decreases and quality is compromised",
+        "Customer satisfaction increases"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 49,
+      "question": "How does controlling impact organizational innovation?",
+      "options": [
+        "It decreases innovation",
+        "It has no impact on innovation",
+        "It improves innovation by ensuring flexibility and adaptability",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 50,
+      "question": "What is the overall impact of effective controlling on organizational performance?",
+      "options": [
+        "It decreases performance",
+        "It has no impact on performance",
+        "It improves performance by ensuring activities align with plans and goals",
+        "It only affects employee morale"
+      ],
+      "answer": 3
+    }
+]
+  

@@ -1,0 +1,253 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that a Python package is a collection of related modules bundled together.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is true that a Python package is not a collection of related modules.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "It is true that packages in Python help organize code into a structured format.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is true that packages in Python do not help organize code.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "It is true that Python packages promote code reusability across multiple projects.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is true that Python packages do not promote code reusability.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "It is true that Python provides many standard packages like math and numpy.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is true that Python does not provide standard packages like math and numpy.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "It is true that you can create your own custom packages in Python.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is true that you cannot create your own custom packages in Python.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that a Python package is represented as a directory containing modules.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is true that a Python package is not represented as a directory containing modules.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "It is true that every Python package must contain an __init__.py file.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is true that every Python package does not need an __init__.py file.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that packages can contain sub-packages for further organization.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is true that packages cannot contain sub-packages.",
+      "answer": false
+    },
+    {
+      "id": 17,
+      "question": "It is true that the __init__.py file can be empty or contain initialization code.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is true that the __init__.py file must always contain initialization code.",
+      "answer": false
+    },
+    {
+      "id": 19,
+      "question": "It is true that Python packages can be imported and used in other scripts.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is true that Python packages cannot be imported and used in other scripts.",
+      "answer": false
+    },
+    {
+      "id": 21,
+      "question": "It is true that the math package provides mathematical functions like sqrt() and factorial().",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is true that the math package does not provide mathematical functions like sqrt() and factorial().",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "It is true that numpy is used for efficient numerical computations.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is true that numpy is not used for numerical computations.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "It is true that matplotlib is used for creating visualizations like graphs and charts.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "It is true that matplotlib is not used for creating visualizations like graphs and charts.",
+      "answer": false
+    },
+    {
+      "id": 27,
+      "question": "It is true that pandas is used for handling large datasets in table format.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "It is true that pandas is not used for handling large datasets in table format.",
+      "answer": false
+    },
+    {
+      "id": 29,
+      "question": "It is true that creating a package involves creating a directory with an __init__.py file.",
+      "answer": true
+    },
+    {
+      "id": 30,
+      "question": "It is true that creating a package does not involve creating a directory with an __init__.py file.",
+      "answer": false
+    },
+    {
+      "id": 31,
+      "question": "It is true that user-defined packages can be imported and used like standard packages.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "It is true that user-defined packages cannot be imported and used like standard packages.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "It is true that packages in Python can contain non-code files like documentation and tests.",
+      "answer": true
+    },
+    {
+      "id": 34,
+      "question": "It is true that packages in Python cannot contain non-code files like documentation and tests.",
+      "answer": false
+    },
+    {
+      "id": 35,
+      "question": "It is true that the src layout is a common structure for organizing package code.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "It is true that the src layout is not used for organizing package code.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "It is true that Python packages can be distributed and installed using tools like pip.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "It is true that Python packages cannot be distributed and installed using tools like pip.",
+      "answer": false
+    },
+    {
+      "id": 39,
+      "question": "It is true that packages in Python help in managing large projects by structuring code.",
+      "answer": true
+    },
+    {
+      "id": 40,
+      "question": "It is true that packages in Python do not help in managing large projects.",
+      "answer": false
+    },
+    {
+      "id": 41,
+      "question": "It is true that Python packages can be used to encapsulate related functionality.",
+      "answer": true
+    },
+    {
+      "id": 42,
+      "question": "It is true that Python packages cannot be used to encapsulate related functionality.",
+      "answer": false
+    },
+    {
+      "id": 43,
+      "question": "It is true that Python packages are useful for collaborative development.",
+      "answer": true
+    },
+    {
+      "id": 44,
+      "question": "It is true that Python packages are not useful for collaborative development.",
+      "answer": false
+    },
+    {
+      "id": 45,
+      "question": "It is true that Python packages can include metadata files like README.md and LICENSE.",
+      "answer": true
+    },
+    {
+      "id": 46,
+      "question": "It is true that Python packages cannot include metadata files like README.md and LICENSE.",
+      "answer": false
+    },
+    {
+      "id": 47,
+      "question": "It is true that Python packages can be structured using either the src or flat layout.",
+      "answer": true
+    },
+    {
+      "id": 48,
+      "question": "It is true that Python packages can only be structured using the src layout.",
+      "answer": false
+    },
+    {
+      "id": 49,
+      "question": "It is true that Python packages simplify the process of maintaining and updating code.",
+      "answer": true
+    },
+    {
+      "id": 50,
+      "question": "It is true that Python packages do not simplify the process of maintaining and updating code.",
+      "answer": false
+    }
+]
+  

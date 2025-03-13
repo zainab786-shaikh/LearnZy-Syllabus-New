@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is a standard form?",
+      "options": [
+        "A random document with no structure",
+        "A predefined document with a fixed format",
+        "A handwritten note",
+        "An informal agreement between two parties"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which sector commonly uses deposit and withdrawal slips?",
+      "options": [
+        "Healthcare sector",
+        "Education sector",
+        "Banking sector",
+        "Government services"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT a benefit of using standard forms?",
+      "options": [
+        "Ensures consistency",
+        "Saves time",
+        "Increases errors",
+        "Helps in record-keeping"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "Why are standard forms used in various fields?",
+      "options": [
+        "To ensure accuracy and uniformity",
+        "To create confusion",
+        "To increase paperwork",
+        "To eliminate rules and regulations"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Which element is commonly included in a standard form?",
+      "options": [
+        "Personal information",
+        "Random images",
+        "Blank spaces only",
+        "Unstructured text"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an example of a government service form?",
+      "options": [
+        "Library Membership Form",
+        "Income Tax Return Form",
+        "Job Application Form",
+        "Expense Reimbursement Form"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What does a Loan Application Form help with?",
+      "options": [
+        "Applying for an admission",
+        "Requesting leave",
+        "Applying for a loan",
+        "Filing an income tax return"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of a Patient Registration Form?",
+      "options": [
+        "To prescribe medicine",
+        "To register a student for an exam",
+        "To collect patient details like medical history",
+        "To apply for a driving license"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 9,
+      "question": "Which industry requires standard forms for legal compliance?",
+      "options": [
+        "Agriculture",
+        "Information Technology",
+        "Healthcare",
+        "Entertainment"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "Which of these is a key element of a standard form?",
+      "options": [
+        "Signature",
+        "Hand-drawn illustrations",
+        "Confidential passwords",
+        "Irrelevant data"
+      ],
+      "answer": 1
+    }
+]
+  

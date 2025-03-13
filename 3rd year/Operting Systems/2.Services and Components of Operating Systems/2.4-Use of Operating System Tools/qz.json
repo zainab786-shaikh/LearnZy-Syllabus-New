@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is the main purpose of User Management in an OS?",
+      "options": [
+        "To manage user accounts and permissions",
+        "To manage hardware devices",
+        "To speed up the computer",
+        "To monitor network performance"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which OS tool helps enforce password policies and account security?",
+      "options": [
+        "Task Scheduler",
+        "Security Policy",
+        "Performance Monitor",
+        "Device Manager"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which command is used in Linux to add a new user?",
+      "options": [
+        "adduser",
+        "newuser",
+        "createuser",
+        "useradd"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Which OS tool is used to track CPU, memory, and disk usage?",
+      "options": [
+        "Performance Monitor",
+        "Task Scheduler",
+        "User Management",
+        "Security Policy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Where can Windows users find device drivers and manage hardware devices?",
+      "options": [
+        "Task Manager",
+        "Device Manager",
+        "Security Settings",
+        "Performance Monitor"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which tool in Windows helps automate tasks such as backups?",
+      "options": [
+        "Task Scheduler",
+        "Performance Monitor",
+        "Device Manager",
+        "Security Policy"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which command in Linux is used to list connected USB devices?",
+      "options": [
+        "lsusb",
+        "listusb",
+        "usbinfo",
+        "devicelist"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of a firewall in an OS security policy?",
+      "options": [
+        "To block unauthorized network access",
+        "To clean up disk space",
+        "To monitor CPU performance",
+        "To schedule automatic tasks"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What does the Windows Task Scheduler do?",
+      "options": [
+        "Manages system performance",
+        "Automates scheduled tasks",
+        "Monitors security threats",
+        "Updates hardware drivers"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which Linux tool is used to automate tasks at scheduled times?",
+      "options": [
+        "cron",
+        "taskmanager",
+        "taskrun",
+        "schedtask"
+      ],
+      "answer": 1
+    }
+]
+  

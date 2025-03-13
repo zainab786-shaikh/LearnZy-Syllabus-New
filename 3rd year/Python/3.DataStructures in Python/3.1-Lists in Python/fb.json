@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "A list in Python is created by enclosing values inside ________ brackets.",
+      "options": [
+        "curly",
+        "square",
+        "round",
+        "angle"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Lists in Python are ________ and allow duplicate values.",
+      "options": [
+        "immutable",
+        "mutable",
+        "unordered",
+        "static"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "To access an element in a list, you use the format ________.",
+      "options": [
+        "list_name(value)",
+        "list_name[index]",
+        "list_name.key",
+        "list_name.value"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "In Python, negative indexing in lists starts from ________.",
+      "options": [
+        "-1",
+        "-2",
+        "-3",
+        "-4"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "To update a value in a list, you assign a new value to a specific ________.",
+      "options": [
+        "key",
+        "index",
+        "value",
+        "position"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "The ________ statement is used to delete an element from a list by its index.",
+      "options": [
+        "del",
+        "remove",
+        "pop",
+        "clear"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "The ________ method removes an element from a list by its value.",
+      "options": [
+        "remove",
+        "pop",
+        "del",
+        "clear"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "To join two lists together, you use the ________ operator.",
+      "options": [
+        "+",
+        "-",
+        "*",
+        "/"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The ________ operator is used to repeat a list multiple times.",
+      "options": [
+        "+",
+        "-",
+        "*",
+        "/"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "To check if an item exists in a list, you use the ________ operator.",
+      "options": [
+        "in",
+        "is",
+        "not in",
+        "not is"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "The ________ function returns the number of elements in a list.",
+      "options": [
+        "len()",
+        "size()",
+        "length()",
+        "count()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Slicing a list allows you to get a portion of the list using the format ________.",
+      "options": [
+        "list[start:end]",
+        "list[start]",
+        "list[end]",
+        "list[start:end:step]"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "The ________ method adds an item to the end of a list.",
+      "options": [
+        "append()",
+        "insert()",
+        "extend()",
+        "add()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "To insert an item at a specific position in a list, you use the ________ method.",
+      "options": [
+        "insert()",
+        "append()",
+        "extend()",
+        "add()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "The ________ method sorts a list in ascending order.",
+      "options": [
+        "sort()",
+        "reverse()",
+        "order()",
+        "arrange()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "To reverse the order of a list, you use the ________ method.",
+      "options": [
+        "reverse()",
+        "sort()",
+        "flip()",
+        "rotate()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "The ________ method counts the occurrences of a specific value in a list.",
+      "options": [
+        "count()",
+        "index()",
+        "find()",
+        "search()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "To find the position of an item in a list, you use the ________ method.",
+      "options": [
+        "index()",
+        "find()",
+        "search()",
+        "locate()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "The ________ method creates a copy of a list.",
+      "options": [
+        "copy()",
+        "clone()",
+        "duplicate()",
+        "replicate()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Lists in Python can store different types of data, including ________.",
+      "options": [
+        "numbers and strings",
+        "numbers only",
+        "strings only",
+        "booleans only"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "To clear all elements from a list, you use the ________ method.",
+      "options": [
+        "clear()",
+        "remove()",
+        "pop()",
+        "delete()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "The ________ operator checks if an item is not present in a list.",
+      "options": [
+        "in",
+        "not in",
+        "is",
+        "not is"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Negative indexing in lists refers to counting from the ________ of the list.",
+      "options": [
+        "start",
+        "end",
+        "middle",
+        "beginning"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "To access the last element of a list using negative indexing, you use ________.",
+      "options": [
+        "-1",
+        "-2",
+        "-3",
+        "-4"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "The ________ method removes and returns an item from a list by its index.",
+      "options": [
+        "pop()",
+        "remove()",
+        "del",
+        "clear()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Lists are ________ in Python, meaning they can be modified after creation.",
+      "options": [
+        "immutable",
+        "mutable",
+        "static",
+        "dynamic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "To add multiple items to the end of a list, you can use the ________ method.",
+      "options": [
+        "append()",
+        "extend()",
+        "insert()",
+        "add()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 28,
+      "question": "The ________ function returns the length of a list.",
+      "options": [
+        "len()",
+        "size()",
+        "length()",
+        "count()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Slicing a list allows you to extract a subset of elements using the format ________.",
+      "options": [
+        "list[start:end]",
+        "list[start]",
+        "list[end]",
+        "list[start:end:step]"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "The ________ method sorts a list in-place.",
+      "options": [
+        "sort()",
+        "reverse()",
+        "order()",
+        "arrange()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "To reverse the elements of a list in-place, you use the ________ method.",
+      "options": [
+        "reverse()",
+        "sort()",
+        "flip()",
+        "rotate()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "The ________ method returns the number of occurrences of a specified value in a list.",
+      "options": [
+        "count()",
+        "index()",
+        "find()",
+        "search()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "To find the index of the first occurrence of a value in a list, you use the ________ method.",
+      "options": [
+        "index()",
+        "find()",
+        "search()",
+        "locate()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "The ________ method creates a shallow copy of a list.",
+      "options": [
+        "copy()",
+        "clone()",
+        "duplicate()",
+        "replicate()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "Lists in Python are ________ collections, meaning each element has a defined position.",
+      "options": [
+        "unordered",
+        "ordered",
+        "static",
+        "dynamic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "To delete all elements from a list, you use the ________ method.",
+      "options": [
+        "clear()",
+        "remove()",
+        "pop()",
+        "delete()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "The ________ operator is used to check if an item is present in a list.",
+      "options": [
+        "in",
+        "not in",
+        "is",
+        "not is"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "Negative indexing in lists starts from the ________ index.",
+      "options": [
+        "-1",
+        "-2",
+        "-3",
+        "-4"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "To access the second last element of a list using negative indexing, you use ________.",
+      "options": [
+        "-1",
+        "-2",
+        "-3",
+        "-4"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "The ________ method removes an item from a list by its index and returns the removed item.",
+      "options": [
+        "pop()",
+        "remove()",
+        "del",
+        "clear()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Lists in Python are ________ because they can be modified after creation.",
+      "options": [
+        "immutable",
+        "mutable",
+        "static",
+        "dynamic"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "To add multiple items to a list at once, you can use the ________ method.",
+      "options": [
+        "append()",
+        "extend()",
+        "insert()",
+        "add()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "The ________ function returns the number of elements in a list.",
+      "options": [
+        "len()",
+        "size()",
+        "length()",
+        "count()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "Slicing a list allows you to extract elements using the format ________.",
+      "options": [
+        "list[start:end]",
+        "list[start]",
+        "list[end]",
+        "list[start:end:step]"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "The ________ method sorts a list in ascending order without returning a new list.",
+      "options": [
+        "sort()",
+        "reverse()",
+        "order()",
+        "arrange()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "To reverse the order of a list in-place, you use the ________ method.",
+      "options": [
+        "reverse()",
+        "sort()",
+        "flip()",
+        "rotate()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "The ________ method counts how many times a value appears in a list.",
+      "options": [
+        "count()",
+        "index()",
+        "find()",
+        "search()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "To find the index of the first occurrence of a value in a list, you use the ________ method.",
+      "options": [
+        "index()",
+        "find()",
+        "search()",
+        "locate()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "The ________ method creates a new list that is a copy of the original list.",
+      "options": [
+        "copy()",
+        "clone()",
+        "duplicate()",
+        "replicate()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Lists in Python are ________ collections, meaning each element has a specific position.",
+      "options": [
+        "unordered",
+        "ordered",
+        "static",
+        "dynamic"
+      ],
+      "answer": 2
+    }
+]
+  

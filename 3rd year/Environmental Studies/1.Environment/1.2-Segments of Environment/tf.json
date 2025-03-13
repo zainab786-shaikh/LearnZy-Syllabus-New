@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "question": "The atmosphere is the layer of air surrounding the Earth.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "The hydrosphere includes all landforms such as mountains and valleys.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "Oceans, rivers, and lakes are part of the lithosphere.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "The biosphere consists of all living organisms, including humans, animals, and plants.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "The atmosphere contains gases like oxygen, nitrogen, and carbon dioxide.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "The lithosphere includes water bodies like lakes and oceans.",
+      "answer": false
+    },
+    {
+      "id": 7,
+      "question": "Rainfall is a part of the hydrosphere.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Mountains, rocks, and soil are included in the biosphere.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "The biosphere depends on the atmosphere, lithosphere, and hydrosphere for survival.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "Forests and farmlands are part of the lithosphere.",
+      "answer": true
+    }
+]
+  

@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "Control flow in Python determines the ________ in which statements are executed.",
+      "options": [
+        "data type",
+        "order",
+        "length",
+        "syntax"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "By default, Python executes code from ________ to bottom.",
+      "options": [
+        "bottom",
+        "randomly",
+        "top",
+        "sideways"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "The three main types of control flow statements in Python are Conditional Statements, ________, and Jump Statements.",
+      "options": [
+        "Operators",
+        "Loops",
+        "Functions",
+        "Variables"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Conditional statements in Python are used for ________ in a program.",
+      "options": [
+        "looping",
+        "decision making",
+        "assigning values",
+        "storing data"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is NOT a conditional statement in Python?",
+      "options": [
+        "if",
+        "else",
+        "while",
+        "elif"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 6,
+      "question": "The if-elif-else structure allows a program to check ________ conditions.",
+      "options": [
+        "multiple",
+        "one",
+        "zero",
+        "undefined"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Loops in Python help in ________ a block of code multiple times.",
+      "options": [
+        "executing",
+        "skipping",
+        "storing",
+        "printing"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "A for loop is mainly used to iterate over a ________ in Python.",
+      "options": [
+        "list",
+        "number",
+        "string",
+        "boolean"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "The while loop runs until a specified ________ is met.",
+      "options": [
+        "data type",
+        "condition",
+        "function",
+        "variable"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Jump statements in Python are used to ________ the normal loop execution.",
+      "options": [
+        "stop",
+        "pause",
+        "control",
+        "skip"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "The break statement is used to ________ a loop immediately.",
+      "options": [
+        "continue",
+        "pause",
+        "exit",
+        "print"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "The continue statement in Python skips the current iteration and moves to the ________ iteration.",
+      "options": [
+        "previous",
+        "first",
+        "next",
+        "last"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "The pass statement is used as a ________ when a statement is syntactically required but no action is needed.",
+      "options": [
+        "placeholder",
+        "operator",
+        "keyword",
+        "loop"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Control flow helps a program to make ________ based on conditions.",
+      "options": [
+        "syntax",
+        "loops",
+        "decisions",
+        "functions"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 15,
+      "question": "The else block in an if-else statement executes when the if condition is ________.",
+      "options": [
+        "True",
+        "False",
+        "Empty",
+        "Looping"
+      ],
+      "answer": 2
+    }
+]
+  

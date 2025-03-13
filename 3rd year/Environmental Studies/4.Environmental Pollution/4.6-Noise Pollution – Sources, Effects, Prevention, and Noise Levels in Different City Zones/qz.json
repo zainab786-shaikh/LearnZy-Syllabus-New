@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is noise pollution?",
+      "options": [
+        "Unwanted or harmful sound causing discomfort",
+        "Pollution caused by gases in the air",
+        "Contamination of water bodies",
+        "Excessive use of electricity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a major source of noise pollution?",
+      "options": [
+        "Road traffic",
+        "Industrial machinery",
+        "Deforestation",
+        "Construction work"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an example of noise pollution?",
+      "options": [
+        "A quiet park",
+        "A busy road with constant honking",
+        "A library reading session",
+        "Soft background music in a café"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "How does road traffic contribute to noise pollution?",
+      "options": [
+        "By releasing carbon dioxide",
+        "By producing continuous noise from vehicles and honking",
+        "By cutting down trees",
+        "By increasing temperature levels"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of the following transportation sources generates the most noise?",
+      "options": [
+        "Bicycles",
+        "Trains",
+        "Walking",
+        "Swimming"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Why are airports considered major sources of noise pollution?",
+      "options": [
+        "Due to continuous airplane takeoff and landing noise",
+        "Because of passenger announcements",
+        "Due to air traffic control conversations",
+        "Because of in-flight turbulence"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a common industrial source of noise pollution?",
+      "options": [
+        "Computers in offices",
+        "Heavy machinery in factories",
+        "Books in libraries",
+        "Laptops in cafes"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which activity is a major contributor to noise pollution in construction sites?",
+      "options": [
+        "Painting walls",
+        "Drilling and hammering",
+        "Sweeping floors",
+        "Installing windows"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "How do social activities contribute to noise pollution?",
+      "options": [
+        "By reducing oxygen levels",
+        "By producing loud music, fireworks, and event noises",
+        "By causing soil erosion",
+        "By increasing greenhouse gas emissions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which of these is NOT a human-made source of noise pollution?",
+      "options": [
+        "Loudspeakers at weddings",
+        "Television at high volume",
+        "Volcanic eruptions",
+        "Fireworks during festivals"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "How does noise pollution affect human health?",
+      "options": [
+        "It improves lung capacity",
+        "It can cause stress, anxiety, and sleep disturbances",
+        "It enhances memory retention",
+        "It reduces the risk of heart disease"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which health issue is directly linked to prolonged exposure to high noise levels?",
+      "options": [
+        "Hearing loss",
+        "Improved vision",
+        "Increased lung function",
+        "Faster digestion"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "How does noise pollution affect sleep?",
+      "options": [
+        "It promotes deep sleep",
+        "It can lead to insomnia and sleep disturbances",
+        "It has no effect on sleep",
+        "It makes people sleep better"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which group is MOST affected by noise pollution?",
+      "options": [
+        "Children and elderly people",
+        "Professional athletes",
+        "Astronauts",
+        "Marine biologists"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "How does noise pollution affect animals?",
+      "options": [
+        "It helps them communicate better",
+        "It disrupts their communication and natural behavior",
+        "It has no impact on wildlife",
+        "It increases their lifespan"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "What is the permissible daytime noise level in a residential zone?",
+      "options": [
+        "85 dB",
+        "65 dB",
+        "55 dB",
+        "45 dB"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Which zone has the strictest noise limits?",
+      "options": [
+        "Commercial zone",
+        "Industrial zone",
+        "Silent zone",
+        "Residential zone"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "How can trees help reduce noise pollution?",
+      "options": [
+        "By absorbing sound",
+        "By increasing carbon dioxide",
+        "By creating more traffic",
+        "By producing more noise"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a preventive measure for noise pollution?",
+      "options": [
+        "Encouraging unnecessary honking",
+        "Using soundproof walls and windows",
+        "Increasing the use of loudspeakers",
+        "Promoting the use of fireworks"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Which law can help reduce noise pollution?",
+      "options": [
+        "Allowing unlimited honking",
+        "Enforcing ‘No Honking Zones’ near hospitals and schools",
+        "Encouraging loud public celebrations",
+        "Removing restrictions on loudspeakers"
+      ],
+      "answer": 2
+    }
+]
+  

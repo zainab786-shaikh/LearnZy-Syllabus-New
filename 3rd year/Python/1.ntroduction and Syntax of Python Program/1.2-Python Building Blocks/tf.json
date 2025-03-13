@@ -1,0 +1,128 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that an identifier can start with a digit in Python.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "It is false that Python keywords can be used as variable names.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that Python is case-sensitive when it comes to identifiers.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that indentation is optional in Python.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that Python requires proper indentation to execute code.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that 'for', 'while', and 'if' are not keywords in Python.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that Python allows the use of special characters like @ and $ in identifiers.",
+      "answer": false
+    },
+    {
+      "id": 8,
+      "question": "It is false that variable names in Python must always start with an underscore (_).",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that comments in Python can be single-line or multi-line.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that Python ignores comments when executing a program.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "It is true that an identifier can contain letters, numbers, and underscores (_).",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "It is false that indentation errors in Python do not cause execution failures.",
+      "answer": true
+    },
+    {
+      "id": 13,
+      "question": "It is true that Python uses indentation instead of curly braces {} for code blocks.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "It is false that 'print' is not a keyword in Python.",
+      "answer": false
+    },
+    {
+      "id": 15,
+      "question": "It is true that variables in Python can change their data type during execution.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "It is false that Python enforces strict static typing for variables.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "It is true that 'import' is a keyword used to bring external modules into a Python program.",
+      "answer": true
+    },
+    {
+      "id": 18,
+      "question": "It is false that variables in Python must be declared with a specific data type.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "It is true that identifiers cannot contain spaces in Python.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "It is false that Python allows the use of hyphens (-) in identifiers.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "It is true that Python keywords have predefined meanings and cannot be used as variable names.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "It is false that Python ignores indentation when executing code.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "It is true that Python automatically detects the type of data stored in a variable.",
+      "answer": true
+    },
+    {
+      "id": 24,
+      "question": "It is false that all Python statements must be written on separate lines.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "It is true that multi-line comments in Python can be written using triple quotes (''' or \"\").",
+      "answer": true
+    }
+  ]
+  

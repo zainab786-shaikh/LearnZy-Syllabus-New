@@ -1,0 +1,223 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary function of directing at the supervisory level?",
+      "options": [
+        "Planning the company's long-term goals",
+        "Guiding and supervising employees to perform tasks correctly",
+        "Managing financial accounts",
+        "Developing marketing strategies"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Why do employees need clear directions and instructions?",
+      "options": [
+        "To increase confusion in the workplace",
+        "To work efficiently and avoid mistakes",
+        "To reduce their workload",
+        "To change company policies"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT a key aspect of giving directions?",
+      "options": [
+        "Clarity",
+        "Completeness",
+        "Feasibility",
+        "Uncertainty"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "What happens if instructions given to employees are unclear?",
+      "options": [
+        "They complete tasks faster",
+        "They may make mistakes or delay work",
+        "They require less supervision",
+        "They become more independent"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What does ‘completeness’ mean in the context of giving instructions?",
+      "options": [
+        "Providing only general guidelines",
+        "Ensuring instructions cover all necessary details",
+        "Giving minimal information",
+        "Letting employees figure out tasks on their own"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an example of feasible instructions?",
+      "options": [
+        "Asking workers to complete 100 tasks in 10 minutes",
+        "Providing realistic deadlines and available resources",
+        "Giving incomplete guidelines and expecting results",
+        "Assigning impossible targets without proper tools"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "What is the role of a supervisor in directing employees?",
+      "options": [
+        "Setting company policies",
+        "Supervising, guiding, and providing clear instructions",
+        "Handling customer complaints",
+        "Hiring new employees"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "If employees receive incomplete instructions, what may happen?",
+      "options": [
+        "They become more efficient",
+        "They perform tasks incorrectly or incompletely",
+        "They require no further supervision",
+        "They work faster without any errors"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What is the first step in giving effective directions to employees?",
+      "options": [
+        "Providing unclear and vague instructions",
+        "Clearly explaining what needs to be done",
+        "Assuming employees already know their tasks",
+        "Ignoring employee feedback"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "Which factor ensures that employees can follow instructions without difficulty?",
+      "options": [
+        "Overcomplicating the instructions",
+        "Giving practical and realistic instructions",
+        "Not providing any details",
+        "Ignoring employee queries"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "What is the consequence of ineffective direction in the workplace?",
+      "options": [
+        "Increased productivity",
+        "Delays, mistakes, and poor performance",
+        "Better teamwork",
+        "Stronger leadership"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is an example of proper workplace direction?",
+      "options": [
+        "‘Finish this as soon as possible’",
+        "‘Use these tools and follow this process step-by-step’",
+        "‘Figure it out on your own’",
+        "‘Do whatever you think is best’"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 13,
+      "question": "What should a supervisor do if employees do not understand instructions?",
+      "options": [
+        "Ignore their concerns",
+        "Explain the instructions more clearly",
+        "Punish them for not understanding",
+        "Give them a different task"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "Which of the following improves employee performance?",
+      "options": [
+        "Vague instructions",
+        "Clear and complete instructions",
+        "Lack of guidance",
+        "Unrealistic expectations"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "What is the main objective of directing employees?",
+      "options": [
+        "To confuse them with unnecessary details",
+        "To guide them towards efficiency and success",
+        "To make their work more difficult",
+        "To delay projects"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Which of these is NOT a good practice in giving instructions?",
+      "options": [
+        "Using clear and simple language",
+        "Providing all necessary details",
+        "Setting unrealistic deadlines",
+        "Ensuring instructions are practical"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 17,
+      "question": "Why is clarity important in workplace instructions?",
+      "options": [
+        "It helps employees understand their tasks clearly",
+        "It makes work more confusing",
+        "It reduces employee motivation",
+        "It encourages employees to guess their duties"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "How can a supervisor make instructions more feasible?",
+      "options": [
+        "By setting achievable goals and deadlines",
+        "By demanding immediate completion of tasks",
+        "By ignoring resource availability",
+        "By assigning random tasks without planning"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is NOT a role of a supervisor in directing employees?",
+      "options": [
+        "Providing clear instructions",
+        "Motivating employees",
+        "Setting company-wide policies",
+        "Monitoring employee performance"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 20,
+      "question": "What is the result of giving detailed and structured instructions?",
+      "options": [
+        "Increased confusion",
+        "Higher efficiency and better performance",
+        "More workplace conflicts",
+        "Lower productivity"
+      ],
+      "answer": 2
+    }
+]
+  

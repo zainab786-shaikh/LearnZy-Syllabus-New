@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Management is the process of ________ resources to achieve specific goals efficiently and effectively.",
+      "options": [
+        "planning",
+        "organizing",
+        "leading",
+        "controlling"
+      ],
+      "answer": "planning, organizing, leading, and controlling"
+    },
+    {
+      "id": 2,
+      "question": "Henry Fayol defined management as involving ________.",
+      "options": [
+        "forecasting, planning, organizing, commanding, coordinating, and controlling",
+        "planning, organizing, leading, and controlling",
+        "forecasting, planning, organizing, commanding, coordinating, and controlling",
+        "planning, organizing, leading, and controlling"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Peter Drucker described management as doing things ________.",
+      "options": [
+        "right",
+        "efficiently",
+        "effectively",
+        "correctly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Harold Koontz defined management as the art of getting things done through and with formally organized ________.",
+      "options": [
+        "groups",
+        "teams",
+        "organizations",
+        "communities"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "A restaurant manager ensures that customers are happy, food is prepared on time, and staff members work ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "productively",
+        "smoothly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "The role of management includes ________ roles.",
+      "options": [
+        "interpersonal, informational, and decisional",
+        "interpersonal, informational, decisional, and operational",
+        "interpersonal, informational, decisional",
+        "interpersonal and informational"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Interpersonal roles in management involve dealing with ________.",
+      "options": [
+        "employees and customers",
+        "employees, customers, and other people",
+        "employees only",
+        "customers only"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Informational roles in management involve gathering and sharing ________.",
+      "options": [
+        "data",
+        "information",
+        "resources",
+        "goals"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "Decisional roles in management involve making key ________ for the organization’s success.",
+      "options": [
+        "decisions",
+        "choices",
+        "strategies",
+        "policies"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Management is essential for organizations to run ________ and achieve their goals.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "successfully"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 11,
+      "question": "Management ensures that resources are used in the best possible way to achieve ________.",
+      "options": [
+        "goals",
+        "objectives",
+        "targets",
+        "missions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Good management helps employees perform better, increasing overall ________.",
+      "options": [
+        "productivity",
+        "efficiency",
+        "effectiveness",
+        "performance"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Management helps in using resources wisely, preventing ________.",
+      "options": [
+        "wastage",
+        "inefficiency",
+        "ineffectiveness",
+        "unproductivity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "A well-managed business remains stable even during economic challenges and continues to ________.",
+      "options": [
+        "grow",
+        "expand",
+        "develop",
+        "flourish"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Good management creates a positive work environment where employees work together ________.",
+      "options": [
+        "effectively",
+        "efficiently",
+        "productively",
+        "smoothly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Management encourages creativity and new ideas, helping businesses stay ________.",
+      "options": [
+        "competitive",
+        "innovative",
+        "productive",
+        "efficient"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Managers analyze situations, collect data, and make the best ________ for the organization’s success.",
+      "options": [
+        "decisions",
+        "choices",
+        "strategies",
+        "policies"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "By managing customer service, production, and quality, management helps keep customers ________.",
+      "options": [
+        "satisfied",
+        "happy",
+        "pleased",
+        "content"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Management is a critical function in any organization, involving ________ to achieve goals efficiently.",
+      "options": [
+        "planning, organizing, leading, and controlling",
+        "planning, organizing, leading",
+        "planning and organizing",
+        "leading and controlling"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Management plays various roles in handling people, information, and ________.",
+      "options": [
+        "decision-making",
+        "problem-solving",
+        "resource allocation",
+        "goal setting"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "Without effective management, businesses and organizations would struggle to operate ________ and achieve success.",
+      "options": [
+        "smoothly",
+        "efficiently",
+        "effectively",
+        "successfully"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 22,
+      "question": "Management is like a captain steering a ship toward its ________.",
+      "options": [
+        "destination",
+        "goal",
+        "objective",
+        "target"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "A restaurant manager ensures that customers are happy, food is prepared on time, and staff members work ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "productively",
+        "smoothly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "The role of management includes ________ roles.",
+      "options": [
+        "interpersonal, informational, and decisional",
+        "interpersonal, informational, decisional, and operational",
+        "interpersonal, informational, decisional",
+        "interpersonal and informational"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Interpersonal roles in management involve dealing with ________.",
+      "options": [
+        "employees and customers",
+        "employees, customers, and other people",
+        "employees only",
+        "customers only"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "Informational roles in management involve gathering and sharing ________.",
+      "options": [
+        "data",
+        "information",
+        "resources",
+        "goals"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "Decisional roles in management involve making key ________ for the organization’s success.",
+      "options": [
+        "decisions",
+        "choices",
+        "strategies",
+        "policies"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Management is essential for organizations to run ________ and achieve their goals.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "successfully"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 29,
+      "question": "Management ensures that resources are used in the best possible way to achieve ________.",
+      "options": [
+        "goals",
+        "objectives",
+        "targets",
+        "missions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "Good management helps employees perform better, increasing overall ________.",
+      "options": [
+        "productivity",
+        "efficiency",
+        "effectiveness",
+        "performance"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "Management helps in using resources wisely, preventing ________.",
+      "options": [
+        "wastage",
+        "inefficiency",
+        "ineffectiveness",
+        "unproductivity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "A well-managed business remains stable even during economic challenges and continues to ________.",
+      "options": [
+        "grow",
+        "expand",
+        "develop",
+        "flourish"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "Good management creates a positive work environment where employees work together ________.",
+      "options": [
+        "effectively",
+        "efficiently",
+        "productively",
+        "smoothly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "Management encourages creativity and new ideas, helping businesses stay ________.",
+      "options": [
+        "competitive",
+        "innovative",
+        "productive",
+        "efficient"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "Managers analyze situations, collect data, and make the best ________ for the organization’s success.",
+      "options": [
+        "decisions",
+        "choices",
+        "strategies",
+        "policies"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "By managing customer service, production, and quality, management helps keep customers ________.",
+      "options": [
+        "satisfied",
+        "happy",
+        "pleased",
+        "content"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "Management is a critical function in any organization, involving ________ to achieve goals efficiently.",
+      "options": [
+        "planning, organizing, leading, and controlling",
+        "planning, organizing, leading",
+        "planning and organizing",
+        "leading and controlling"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "Management plays various roles in handling people, information, and ________.",
+      "options": [
+        "decision-making",
+        "problem-solving",
+        "resource allocation",
+        "goal setting"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "Without effective management, businesses and organizations would struggle to operate ________ and achieve success.",
+      "options": [
+        "smoothly",
+        "efficiently",
+        "effectively",
+        "successfully"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 40,
+      "question": "Management is like a captain steering a ship toward its ________.",
+      "options": [
+        "destination",
+        "goal",
+        "objective",
+        "target"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "A restaurant manager ensures that customers are happy, food is prepared on time, and staff members work ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "productively",
+        "smoothly"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "The role of management includes ________ roles.",
+      "options": [
+        "interpersonal, informational, and decisional",
+        "interpersonal, informational, decisional, and operational",
+        "interpersonal, informational, decisional",
+        "interpersonal and informational"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "Interpersonal roles in management involve dealing with ________.",
+      "options": [
+        "employees and customers",
+        "employees, customers, and other people",
+        "employees only",
+        "customers only"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "Informational roles in management involve gathering and sharing ________.",
+      "options": [
+        "data",
+        "information",
+        "resources",
+        "goals"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 45,
+      "question": "Decisional roles in management involve making key ________ for the organization’s success.",
+      "options": [
+        "decisions",
+        "choices",
+        "strategies",
+        "policies"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Management is essential for organizations to run ________ and achieve their goals.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "successfully"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 47,
+      "question": "Management ensures that resources are used in the best possible way to achieve ________.",
+      "options": [
+        "goals",
+        "objectives",
+        "targets",
+        "missions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "Good management helps employees perform better, increasing overall ________.",
+      "options": [
+        "productivity",
+        "efficiency",
+        "effectiveness",
+        "performance"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Management helps in using resources wisely, preventing ________.",
+      "options": [
+        "wastage",
+        "inefficiency",
+        "ineffectiveness",
+        "unproductivity"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "A well-managed business remains stable even during economic challenges and continues to ________.",
+      "options": [
+        "grow",
+        "expand",
+        "develop",
+        "flourish"
+      ],
+      "answer": 1
+    }
+]
+  

@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "Planning by a supervisor involves setting ________ targets and organizing work for efficient completion.",
+      "options": [
+        "daily",
+        "weekly",
+        "monthly",
+        "short-term"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 2,
+      "question": "Supervisors create a work plan by understanding company ________.",
+      "options": [
+        "goals",
+        "objectives",
+        "targets",
+        "missions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Supervisors break down goals into small ________ to ensure tasks are manageable.",
+      "options": [
+        "tasks",
+        "projects",
+        "activities",
+        "actions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Supervisors assign work to employees and ensure ________ are met.",
+      "options": [
+        "deadlines",
+        "objectives",
+        "goals",
+        "targets"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Supervisors solve problems that arise during work, such as handling an absent ________.",
+      "options": [
+        "worker",
+        "employee",
+        "staff member",
+        "team member"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "The focus of supervisory planning is usually ________.",
+      "options": [
+        "short-term",
+        "long-term",
+        "medium-term",
+        "strategic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Supervisors focus on getting things done, ensuring that employees understand their ________.",
+      "options": [
+        "duties",
+        "tasks",
+        "responsibilities",
+        "roles"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Planning ensures that tools, materials, and workforce are used ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "productively"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Supervisors ensure that all employees work together ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "cooperatively"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 10,
+      "question": "If issues arise, supervisors adjust plans accordingly, which is part of ________ planning.",
+      "options": [
+        "contingency",
+        "emergency",
+        "crisis",
+        "backup"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Supervisors create work schedules to assign duties to employees and ensure work is completed on ________.",
+      "options": [
+        "time",
+        "schedule",
+        "deadline",
+        "plan"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 12,
+      "question": "Supervisors must plan how to use available materials, tools, and employees ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "productively"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Some tasks are more urgent than others. A supervisor prioritizes work to ensure that the most important tasks are done ________.",
+      "options": [
+        "first",
+        "last",
+        "quickly",
+        "efficiently"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Supervisors plan work shifts, ensuring that there are enough workers at any given ________.",
+      "options": [
+        "time",
+        "moment",
+        "hour",
+        "shift"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "If an issue arises, supervisors must quickly adjust the plan. This includes handling employee absences, equipment failure, or urgent client ________.",
+      "options": [
+        "requests",
+        "queries",
+        "complaints",
+        "demands"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Planning by a supervisor is important because it ________ productivity.",
+      "options": [
+        "improves",
+        "enhances",
+        "boosts",
+        "increases"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Proper planning prevents waste of time, money, and ________.",
+      "options": [
+        "materials",
+        "resources",
+        "tools",
+        "equipment"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "Effective planning ensures that deadlines are met, and work does not pile ________.",
+      "options": [
+        "up",
+        "down",
+        "back",
+        "forward"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Planning minimizes confusion by ensuring employees know their ________.",
+      "options": [
+        "roles",
+        "duties",
+        "tasks",
+        "responsibilities"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "Well-planned work ensures fair work distribution, keeping employees ________.",
+      "options": [
+        "satisfied",
+        "happy",
+        "motivated",
+        "engaged"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "Planning by a supervisor involves setting ________ targets and organizing work for efficient completion.",
+      "options": [
+        "daily",
+        "weekly",
+        "monthly",
+        "short-term"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 22,
+      "question": "Supervisors create a work plan by understanding company ________.",
+      "options": [
+        "goals",
+        "objectives",
+        "targets",
+        "missions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "Supervisors break down goals into small ________ to ensure tasks are manageable.",
+      "options": [
+        "tasks",
+        "projects",
+        "activities",
+        "actions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "Supervisors assign work to employees and ensure ________ are met.",
+      "options": [
+        "deadlines",
+        "objectives",
+        "goals",
+        "targets"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Supervisors solve problems that arise during work, such as handling an absent ________.",
+      "options": [
+        "worker",
+        "employee",
+        "staff member",
+        "team member"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "The focus of supervisory planning is usually ________.",
+      "options": [
+        "short-term",
+        "long-term",
+        "medium-term",
+        "strategic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Supervisors focus on getting things done, ensuring that employees understand their ________.",
+      "options": [
+        "duties",
+        "tasks",
+        "responsibilities",
+        "roles"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Planning ensures that tools, materials, and workforce are used ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "productively"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Supervisors ensure that all employees work together ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "cooperatively"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 30,
+      "question": "If issues arise, supervisors adjust plans accordingly, which is part of ________ planning.",
+      "options": [
+        "contingency",
+        "emergency",
+        "crisis",
+        "backup"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "Supervisors create work schedules to assign duties to employees and ensure work is completed on ________.",
+      "options": [
+        "time",
+        "schedule",
+        "deadline",
+        "plan"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 32,
+      "question": "Supervisors must plan how to use available materials, tools, and employees ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "productively"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "Some tasks are more urgent than others. A supervisor prioritizes work to ensure that the most important tasks are done ________.",
+      "options": [
+        "first",
+        "last",
+        "quickly",
+        "efficiently"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "Supervisors plan work shifts, ensuring that there are enough workers at any given ________.",
+      "options": [
+        "time",
+        "moment",
+        "hour",
+        "shift"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "If an issue arises, supervisors must quickly adjust the plan. This includes handling employee absences, equipment failure, or urgent client ________.",
+      "options": [
+        "requests",
+        "queries",
+        "complaints",
+        "demands"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "Planning by a supervisor is important because it ________ productivity.",
+      "options": [
+        "improves",
+        "enhances",
+        "boosts",
+        "increases"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "Proper planning prevents waste of time, money, and ________.",
+      "options": [
+        "materials",
+        "resources",
+        "tools",
+        "equipment"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "Effective planning ensures that deadlines are met, and work does not pile ________.",
+      "options": [
+        "up",
+        "down",
+        "back",
+        "forward"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "Planning minimizes confusion by ensuring employees know their ________.",
+      "options": [
+        "roles",
+        "duties",
+        "tasks",
+        "responsibilities"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "Well-planned work ensures fair work distribution, keeping employees ________.",
+      "options": [
+        "satisfied",
+        "happy",
+        "motivated",
+        "engaged"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Planning by a supervisor involves setting ________ targets and organizing work for efficient completion.",
+      "options": [
+        "daily",
+        "weekly",
+        "monthly",
+        "short-term"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 42,
+      "question": "Supervisors create a work plan by understanding company ________.",
+      "options": [
+        "goals",
+        "objectives",
+        "targets",
+        "missions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "Supervisors break down goals into small ________ to ensure tasks are manageable.",
+      "options": [
+        "tasks",
+        "projects",
+        "activities",
+        "actions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "Supervisors assign work to employees and ensure ________ are met.",
+      "options": [
+        "deadlines",
+        "objectives",
+        "goals",
+        "targets"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Supervisors solve problems that arise during work, such as handling an absent ________.",
+      "options": [
+        "worker",
+        "employee",
+        "staff member",
+        "team member"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "The focus of supervisory planning is usually ________.",
+      "options": [
+        "short-term",
+        "long-term",
+        "medium-term",
+        "strategic"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "Supervisors focus on getting things done, ensuring that employees understand their ________.",
+      "options": [
+        "duties",
+        "tasks",
+        "responsibilities",
+        "roles"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "Planning ensures that tools, materials, and workforce are used ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "productively"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Supervisors ensure that all employees work together ________.",
+      "options": [
+        "efficiently",
+        "effectively",
+        "smoothly",
+        "cooperatively"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 50,
+      "question": "If issues arise, supervisors adjust plans accordingly, which is part of ________ planning.",
+      "options": [
+        "contingency",
+        "emergency",
+        "crisis",
+        "backup"
+      ],
+      "answer": 1
+    }
+]
+  

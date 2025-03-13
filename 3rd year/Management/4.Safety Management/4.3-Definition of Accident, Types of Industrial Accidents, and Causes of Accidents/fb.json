@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "An accident is an unexpected or unplanned event that causes ________ or injury.",
+      "options": [
+        "harm",
+        "damage",
+        "death",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 2,
+      "question": "Accidents can happen anywhere, such as at ________, on the road, or in industries.",
+      "options": [
+        "home",
+        "school",
+        "office",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "In industrial settings, accidents are unwanted events that cause ________ or production loss.",
+      "options": [
+        "injury",
+        "property damage",
+        "both injury and property damage",
+        "neither injury nor property damage"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "A worker in a factory slips on a wet floor and falls, which is an example of a ________ accident.",
+      "options": [
+        "mechanical",
+        "electrical",
+        "slip, trip, and fall",
+        "chemical"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "A machine operator gets his hand caught in a moving machine part, which is an example of a ________ accident.",
+      "options": [
+        "mechanical",
+        "electrical",
+        "fire and explosion",
+        "chemical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Industrial accidents can be classified into different types, including ________ accidents.",
+      "options": [
+        "mechanical",
+        "electrical",
+        "fire and explosion",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "Mechanical accidents occur due to ________ or equipment failure.",
+      "options": [
+        "machinery",
+        "electrical",
+        "chemical",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "A worker’s hand gets caught in a machine’s moving parts, which is an example of a ________ accident.",
+      "options": [
+        "mechanical",
+        "electrical",
+        "fire and explosion",
+        "chemical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Electrical accidents happen due to ________ wiring, electric shocks, or equipment failure.",
+      "options": [
+        "faulty",
+        "proper",
+        "safe",
+        "insulated"
+      ],
+      "answer": 1
+      },
+    {
+      "id": 10,
+      "question": "An electrician gets an electric shock while repairing a circuit, which is an example of an ________ accident.",
+      "options": [
+        "electrical",
+        "mechanical",
+        "fire and explosion",
+        "chemical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Fire and explosion accidents occur due to ________ materials, gas leaks, or unsafe handling of chemicals.",
+      "options": [
+        "flammable",
+        "non-flammable",
+        "toxic",
+        "hazardous"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "A gas cylinder explodes in a welding workshop, which is an example of a ________ accident.",
+      "options": [
+        "fire and explosion",
+        "mechanical",
+        "electrical",
+        "chemical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Chemical accidents occur when hazardous chemicals cause ________ or poisoning.",
+      "options": [
+        "burns",
+        "respiratory problems",
+        "both burns and respiratory problems",
+        "neither burns nor respiratory problems"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 14,
+      "question": "A worker inhales toxic fumes from a chemical spill, which is an example of a ________ accident.",
+      "options": [
+        "chemical",
+        "mechanical",
+        "electrical",
+        "fire and explosion"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Slips, trips, and falls accidents happen when workers fall due to ________ surfaces or obstacles.",
+      "options": [
+        "slippery",
+        "rough",
+        "uneven",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 16,
+      "question": "A worker slips on an oily floor and breaks his leg, which is an example of a ________ accident.",
+      "options": [
+        "slip, trip, and fall",
+        "mechanical",
+        "electrical",
+        "chemical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Falling objects accidents are caused by objects falling from ________.",
+      "options": [
+        "heights",
+        "low levels",
+        "ground level",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "A brick falls from a building under construction and injures a worker, which is an example of a ________ accident.",
+      "options": [
+        "falling objects",
+        "mechanical",
+        "electrical",
+        "chemical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Confined space accidents occur when workers are trapped in small spaces with low ________ levels.",
+      "options": [
+        "oxygen",
+        "carbon dioxide",
+        "nitrogen",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "A worker suffocates while working in a storage tank, which is an example of a ________ accident.",
+      "options": [
+        "confined space",
+        "mechanical",
+        "electrical",
+        "chemical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "Causes of industrial accidents can be classified into three main categories: human, mechanical, and ________ causes.",
+      "options": [
+        "environmental",
+        "electrical",
+        "chemical",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Human causes of accidents occur due to workers' ________ or lack of training.",
+      "options": [
+        "mistakes",
+        "negligence",
+        "both mistakes and negligence",
+        "neither mistakes nor negligence"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 23,
+      "question": "Not wearing safety gear is an example of a ________ cause of an accident.",
+      "options": [
+        "human",
+        "mechanical",
+        "environmental",
+        "electrical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "Mechanical causes of accidents are due to ________ equipment or machinery failure.",
+      "options": [
+        "faulty",
+        "proper",
+        "safe",
+        "insulated"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "A machine suddenly stops working and injures a worker, which is an example of a ________ cause of an accident.",
+      "options": [
+        "mechanical",
+        "human",
+        "environmental",
+        "electrical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Environmental causes of accidents are due to ________ workplace conditions.",
+      "options": [
+        "hazardous",
+        "safe",
+        "secure",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Poor lighting is an example of an ________ cause of an accident.",
+      "options": [
+        "environmental",
+        "human",
+        "mechanical",
+        "electrical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Slippery floors causing workers to fall is an example of an ________ cause of an accident.",
+      "options": [
+        "environmental",
+        "human",
+        "mechanical",
+        "electrical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Excessive noise leading to hearing problems is an example of an ________ cause of an accident.",
+      "options": [
+        "environmental",
+        "human",
+        "mechanical",
+        "electrical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "Industrial accidents are unpredictable but ________ with proper safety measures.",
+      "options": [
+        "preventable",
+        "unpreventable",
+        "avoidable",
+        "inevitable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "Companies should provide safety training and maintain machines properly to reduce ________.",
+      "options": [
+        "accidents",
+        "injuries",
+        "diseases",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 32,
+      "question": "Following safety rules helps in preventing ________ and ensuring a safe work environment.",
+      "options": [
+        "accidents",
+        "injuries",
+        "diseases",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 33,
+      "question": "An accident is defined as an unexpected event that causes ________ or damage.",
+      "options": [
+        "harm",
+        "injury",
+        "death",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 34,
+      "question": "Accidents can occur in various settings, including at ________, on the road, or in industries.",
+      "options": [
+        "home",
+        "school",
+        "office",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 35,
+      "question": "In industrial settings, accidents are unwanted events that result in ________ or production loss.",
+      "options": [
+        "injury",
+        "property damage",
+        "both injury and property damage",
+        "neither injury nor property damage"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 36,
+      "question": "A worker slipping on a wet floor is an example of a ________ accident.",
+      "options": [
+        "mechanical",
+        "electrical",
+        "slip, trip, and fall",
+        "chemical"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 37,
+      "question": "A machine operator getting his hand caught is an example of a ________ accident.",
+      "options": [
+        "mechanical",
+        "electrical",
+        "fire and explosion",
+        "chemical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "Industrial accidents can be categorized into different types, including ________ accidents.",
+      "options": [
+        "mechanical",
+        "electrical",
+        "fire and explosion",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 39,
+      "question": "Mechanical accidents occur due to ________ or equipment failure.",
+      "options": [
+        "machinery",
+        "electrical",
+        "chemical",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "A worker’s hand getting caught in a machine is an example of a ________ accident.",
+      "options": [
+        "mechanical",
+        "electrical",
+        "fire and explosion",
+        "chemical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Electrical accidents happen due to ________ wiring or equipment failure.",
+      "options": [
+        "faulty",
+        "proper",
+        "safe",
+        "insulated"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "An electrician getting an electric shock is an example of an ________ accident.",
+      "options": [
+        "electrical",
+        "mechanical",
+        "fire and explosion",
+        "chemical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "Fire and explosion accidents occur due to ________ materials or gas leaks.",
+      "options": [
+        "flammable",
+        "non-flammable",
+        "toxic",
+        "hazardous"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "A gas cylinder explosion is an example of a ________ accident.",
+      "options": [
+        "fire and explosion",
+        "mechanical",
+        "electrical",
+        "chemical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Chemical accidents occur when hazardous chemicals cause ________ or poisoning.",
+      "options": [
+        "burns",
+        "respiratory problems",
+        "both burns and respiratory problems",
+        "neither burns nor respiratory problems"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 46,
+      "question": "A worker inhaling toxic fumes is an example of a ________ accident.",
+      "options": [
+        "chemical",
+        "mechanical",
+        "electrical",
+        "fire and explosion"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "Slips, trips, and falls accidents happen when workers fall due to ________ surfaces or obstacles.",
+      "options": [
+        "slippery",
+        "rough",
+        "uneven",
+        "all of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 48,
+      "question": "A worker slipping on an oily floor is an example of a ________ accident.",
+      "options": [
+        "slip, trip, and fall",
+        "mechanical",
+        "electrical",
+        "chemical"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Falling objects accidents are caused by objects falling from ________.",
+      "options": [
+        "heights",
+        "low levels",
+        "ground level",
+        "all of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "A brick falling from a building is an example of a ________ accident.",
+      "options": [
+        "falling objects",
+        "mechanical",
+        "electrical",
+        "chemical"
+      ],
+      "answer": 1
+    }
+]
+  

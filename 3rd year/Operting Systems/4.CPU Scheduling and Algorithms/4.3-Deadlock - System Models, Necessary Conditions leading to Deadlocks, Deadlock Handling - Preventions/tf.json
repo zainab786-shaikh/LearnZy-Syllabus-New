@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "question": "It is true that deadlock occurs when two or more processes are waiting for resources but cannot proceed because they are waiting on each other.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "It is false that deadlock is a situation where all processes proceed without waiting for resources.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "It is true that a system is in a deadlock when the conditions of mutual exclusion, hold and wait, no preemption, and circular wait are all satisfied simultaneously.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "It is false that deadlock cannot occur if any one of the necessary conditions is prevented.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "It is true that mutual exclusion means a resource can only be used by one process at a time.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "It is false that the hold and wait condition means that a process waits for all resources before starting its execution.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "It is true that circular wait happens when a chain of processes exist, where each process is waiting for a resource held by the next process in the chain.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "It is false that deadlock can be prevented by allowing processes to preempt resources without any restrictions.",
+      "answer": true
+    },
+    {
+      "id": 9,
+      "question": "It is true that to prevent deadlock, we can prevent circular wait by assigning resources in a fixed sequence.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "It is false that deadlock prevention ensures that resources cannot be preempted once a process has started using them.",
+      "answer": true
+    }
+]
+  

@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What is a module in Python?",
+      "options": [
+        "A file containing Python definitions and statements",
+        "A block of reusable code",
+        "A collection of built-in functions",
+        "A data structure like a list or tuple"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "How do you create a module in Python?",
+      "options": [
+        "By writing Python code in a file with a .txt extension",
+        "By writing Python code in a file with a .py extension",
+        "By using the import statement",
+        "By using the def keyword"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 3,
+      "question": "What types of Python objects can a module contain?",
+      "options": [
+        "Only functions",
+        "Only variables",
+        "Functions, classes, variables, and constants",
+        "Only built-in functions"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "How do you import a module in Python?",
+      "options": [
+        "Using the def keyword",
+        "Using the import statement",
+        "Using the from keyword",
+        "Using the class keyword"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What is the purpose of importing a module?",
+      "options": [
+        "To create a new module",
+        "To use functions or variables from another file",
+        "To define a function",
+        "To call a built-in function"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "How do you access a function from an imported module?",
+      "options": [
+        "Using the module name followed by the function name",
+        "Using only the function name",
+        "Using the import statement",
+        "Using the def keyword"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 7,
+      "question": "Can you import only specific parts of a module?",
+      "options": [
+        "Yes, using the from keyword",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of using aliases for modules?",
+      "options": [
+        "To shorten module names for convenience",
+        "To create a new module",
+        "To import a module",
+        "To define a function"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What are built-in modules in Python?",
+      "options": [
+        "Modules that you create yourself",
+        "Modules that come pre-installed with Python",
+        "Modules that are imported from other files",
+        "Modules that contain only functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is the math module used for?",
+      "options": [
+        "For generating random numbers",
+        "For performing mathematical operations",
+        "For working with time",
+        "For functional programming"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "How do you use the random module to generate a random number?",
+      "options": [
+        "Using random.randint()",
+        "Using random.choice()",
+        "Using random.sqrt()",
+        "Using random.factorial()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "What is the purpose of the functools module?",
+      "options": [
+        "For mathematical operations",
+        "For generating random numbers",
+        "For handling higher-order functions",
+        "For working with time"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "What is a namespace in Python?",
+      "options": [
+        "A space where variable names are stored",
+        "A block of reusable code",
+        "A collection of built-in functions",
+        "A data structure like a list or tuple"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "What types of namespaces exist in Python?",
+      "options": [
+        "Only local and global namespaces",
+        "Local, global, and built-in namespaces",
+        "Only built-in namespace",
+        "Only local namespace"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "What is the scope of a local variable?",
+      "options": [
+        "Accessible everywhere in the program",
+        "Accessible only inside the function where it is defined",
+        "Accessible only outside functions",
+        "Accessible only in built-in modules"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "How do you modify a global variable inside a function?",
+      "options": [
+        "Using the global keyword",
+        "Using the local keyword",
+        "Using the return keyword",
+        "Using the def keyword"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "Can you use the dir() function on any module?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "What does the dir() function do?",
+      "options": [
+        "Lists all the defined names in a module",
+        "Imports a module",
+        "Creates a new module",
+        "Defines a function"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "Can you import a module multiple times?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "What happens if you try to import a module that does not exist?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It creates a new module",
+        "It imports a different module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "Can you use modules to organize large programs?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "What is the purpose of using modules in Python?",
+      "options": [
+        "To make code more complex",
+        "To organize code into reusable parts",
+        "To define variables",
+        "To call built-in functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Can you use modules to reduce code repetition?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "How do you import all functions from a module?",
+      "options": [
+        "Using import module",
+        "Using from module import *",
+        "Using import module as alias",
+        "Using from module import function"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "What is the effect of using the as keyword when importing a module?",
+      "options": [
+        "It creates a new module",
+        "It imports a module with an alias",
+        "It defines a function",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "Can you use the from keyword to import specific functions?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "What happens if you try to access a variable from a module without importing it?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It imports the module automatically",
+        "It creates a new module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Can you use modules to improve code readability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "What is the purpose of the platform module?",
+      "options": [
+        "For mathematical operations",
+        "For generating random numbers",
+        "For system-specific operations",
+        "For functional programming"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 30,
+      "question": "Can you use modules to handle different tasks like networking and file I/O?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "What is the effect of using the import statement multiple times?",
+      "options": [
+        "It imports the module multiple times",
+        "It imports the module only once",
+        "It throws an error",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 32,
+      "question": "Can you use modules to simplify complex tasks?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "What is the purpose of using built-in modules like math and random?",
+      "options": [
+        "To simplify mathematical and random operations",
+        "To create new modules",
+        "To define functions",
+        "To call built-in functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "Can you use modules to improve code maintainability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "What happens if you try to modify a global variable without using the global keyword?",
+      "options": [
+        "It modifies the global variable",
+        "It creates a new local variable",
+        "It throws an error",
+        "It does nothing"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "Can you use modules to handle exceptions?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "What is the effect of using the dir() function on a built-in module?",
+      "options": [
+        "It lists all the defined names in the module",
+        "It imports the module",
+        "It creates a new module",
+        "It throws an error"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "Can you use modules to improve code efficiency?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "What is the purpose of using the from keyword when importing modules?",
+      "options": [
+        "To import the entire module",
+        "To import specific parts of a module",
+        "To create a new module",
+        "To define a function"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "Can you use modules to handle different data types?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "What happens if you try to access a local variable outside its scope?",
+      "options": [
+        "It is accessible",
+        "It throws an error",
+        "It becomes a global variable",
+        "It remains undefined"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 42,
+      "question": "Can you use modules to reduce debugging time?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "What is the effect of using the as keyword when importing a function?",
+      "options": [
+        "It creates a new function",
+        "It imports the function with an alias",
+        "It defines a function",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 44,
+      "question": "Can you use modules to improve code flexibility?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "What happens if you try to import a module that is not in the current directory?",
+      "options": [
+        "It throws an error",
+        "It imports the module from another directory",
+        "It does nothing",
+        "It creates a new module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Can you use modules to handle asynchronous operations?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "What is the purpose of using the import statement with the as keyword?",
+      "options": [
+        "To shorten module names for convenience",
+        "To create a new module",
+        "To import a module",
+        "To define a function"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "Can you use modules to improve code security?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "What happens if you try to access a module without importing it?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It imports the module automatically",
+        "It creates a new module"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "Can you use modules to simplify complex tasks by organizing code?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    }
+]
+  

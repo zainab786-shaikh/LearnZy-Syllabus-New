@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "What is the Python environment?",
+      "options": [
+        "A tool for designing websites",
+        "A setup that allows writing, executing, and testing Python programs",
+        "A software used for hacking",
+        "An advanced game engine"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "What is the function of the Python interpreter?",
+      "options": [
+        "It translates and executes Python code",
+        "It acts as a music player",
+        "It stores data permanently",
+        "It compiles Java programs"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is NOT part of the Python environment?",
+      "options": [
+        "Python Interpreter",
+        "Libraries & Packages",
+        "Text Editor/IDE",
+        "Gaming Console"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "Where can you download Python?",
+      "options": [
+        "https://www.python.org",
+        "https://www.java.com",
+        "https://www.microsoft.com",
+        "https://www.github.com"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "What should you check during Python installation?",
+      "options": [
+        "Uncheck 'Add Python to PATH'",
+        "Check 'Add Python to PATH'",
+        "Click 'Skip Installation'",
+        "Choose Java installation"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "How do you verify if Python is installed?",
+      "options": [
+        "Open a browser and search 'Python Installed'",
+        "Check the Start Menu",
+        "Type 'python --version' in the Command Prompt or Terminal",
+        "Restart the computer"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Which IDE comes pre-installed with Python?",
+      "options": [
+        "PyCharm",
+        "IDLE",
+        "VS Code",
+        "Jupyter Notebook"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "Which IDE is best suited for Data Science?",
+      "options": [
+        "Jupyter Notebook",
+        "PyCharm",
+        "VS Code",
+        "Notepad++"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "Which step is required to run a Python file in IDLE?",
+      "options": [
+        "Click 'File' > 'New File', write code, save, and press F5",
+        "Type code and close the window",
+        "Restart the computer after writing code",
+        "Write code in Microsoft Word"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 10,
+      "question": "Which IDE is best for professional Python developers?",
+      "options": [
+        "IDLE",
+        "PyCharm",
+        "Notepad",
+        "WordPad"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "How do you install PyCharm?",
+      "options": [
+        "From the Microsoft Store",
+        "Download it from https://www.jetbrains.com/pycharm/",
+        "Using pip install pycharm",
+        "Using the Python terminal"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "Which extension should a Python script be saved with?",
+      "options": [
+        ".exe",
+        ".txt",
+        ".py",
+        ".java"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 13,
+      "question": "Which command is used to run a Python script from the terminal?",
+      "options": [
+        "python filename.py",
+        "run filename",
+        "execute filename",
+        "start filename.py"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which IDE is best for beginners?",
+      "options": [
+        "IDLE",
+        "PyCharm",
+        "VS Code",
+        "Eclipse"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "What is the main advantage of using an IDE?",
+      "options": [
+        "It only allows writing code but not running it",
+        "It provides features like debugging, syntax highlighting, and code execution",
+        "It is slower than text editors",
+        "It requires no installation"
+      ],
+      "answer": 2
+    }
+]
+  

@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "File handling in Python allows you to create, read, write, rename, delete, and manage ________.",
+      "options": [
+        "directories",
+        "files",
+        "modules",
+        "packages"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "The function used to open a file in Python is ________.",
+      "options": [
+        "open()",
+        "read()",
+        "write()",
+        "close()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "To open a file for reading, the mode used is ________.",
+      "options": [
+        "'r'",
+        "'w'",
+        "'a'",
+        "'x'"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "The ________ mode creates a new file if it doesn't exist or overwrites it if it does.",
+      "options": [
+        "'r'",
+        "'w'",
+        "'a'",
+        "'x'"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "In append mode ('a'), new data is added to the end of the file without deleting existing ________.",
+      "options": [
+        "content",
+        "data",
+        "lines",
+        "characters"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "The ________ mode creates a file but gives an error if it already exists.",
+      "options": [
+        "'r'",
+        "'w'",
+        "'a'",
+        "'x'"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 7,
+      "question": "To read the entire content of a file, you can use the ________ method.",
+      "options": [
+        "read()",
+        "readline()",
+        "readlines()",
+        "close()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "The ________ method reads one line at a time from a file.",
+      "options": [
+        "read()",
+        "readline()",
+        "readlines()",
+        "close()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "To read all lines from a file into a list, you can use the ________ method.",
+      "options": [
+        "read()",
+        "readline()",
+        "readlines()",
+        "close()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 10,
+      "question": "'with' statement is used in Python for automatic file handling and ensures that files are ________ after their usage.",
+      "options": [
+        "opened",
+        "closed",
+        "created",
+        "deleted"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 11,
+      "question": "'write()' method is used to add content to a file. If the file is opened in 'w' mode, it will ________ any existing content.",
+      "options": [
+        "overwrite",
+        "append",
+        "ignore",
+        "preserve"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "'writelines()' method is useful for writing multiple lines at once to a file. It takes a ________ of strings as input.",
+      "options": [
+        "list",
+        "tuple",
+        "set",
+        "dictionary"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "'close()' method is important to release system resources after using a file. It should be called after all operations are ________.",
+      "options": [
+        "completed",
+        "started",
+        "failed",
+        "initiated"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "To rename a file in Python, you can use the ________ function from the os module.",
+      "options": [
+        "rename()",
+        "move()",
+        "change_name()",
+        "edit_name()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "To delete a file in Python, you can use the ________ function from the os module.",
+      "options": [
+        "remove()",
+        "delete()",
+        "clear()",
+        "erase()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "To create a new directory in Python, you can use the ________ function from the os module.",
+      "options": [
+        "mkdir()",
+        "create_dir()",
+        "new_folder()",
+        "add_dir()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "To remove an empty directory in Python, you can use the ________ function from the os module.",
+      "options": [
+        "rmdir()",
+        "remove_dir()",
+        "delete_dir()",
+        "clear_dir()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 18,
+      "question": "The ________ function lists all files and directories in the current directory.",
+      "options": [
+        "listdir()",
+        "show_files()",
+        "directory_list()",
+        "files_in_dir()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "To read the entire content of a file into a single string, you can use the ________ method.",
+      "options": [
+        "read()",
+        "readline()",
+        "readlines()",
+        "close()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 20,
+      "question": "The ________ method reads one line at a time from a file.",
+      "options": [
+        "read()",
+        "readline()",
+        "readlines()",
+        "close()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 21,
+      "question": "To read all lines from a file into a list, you can use the ________ method.",
+      "options": [
+        "read()",
+        "readline()",
+        "readlines()",
+        "close()"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 22,
+      "question": "When opening a file for writing, if it already exists, it will be ________.",
+      "options": [
+        "overwritten",
+        "appended",
+        "ignored",
+        "preserved"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "The ________ method writes multiple lines at once to a file.",
+      "options": [
+        "write()",
+        "writelines()",
+        "append()",
+        "extend()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 24,
+      "question": "The 'with' statement ensures that files are automatically ________ after their usage.",
+      "options": [
+        "opened",
+        "closed",
+        "created",
+        "deleted"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "To prevent data loss and free up system resources, it is important to ________ files after operations are completed.",
+      "options": [
+        "open",
+        "close",
+        "create",
+        "delete"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 26,
+      "question": "Using 'try-except' allows you to handle exceptions when performing file operations.",
+      "options": [
+        "True",
+        "False",
+        "Yes",
+        "No"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "The 'in' keyword checks if a specific key exists in a dictionary.",
+      "options": [
+        "True",
+        "False",
+        "Yes",
+        "No"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "Python provides several built-in functions for creating, opening, reading, writing, and closing files.",
+      "options": [
+        "True",
+        "False",
+        "Yes",
+        "No"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "When performing I/O operations in Python, it is essential to handle potential ________ gracefully.",
+      "options": [
+        "exceptions",
+        "errors",
+        "warnings",
+        "issues"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "The 'input()' function allows users to enter data from the keyboard.",
+      "options": [
+        "input()",
+        "print()",
+        "str()",
+        "len()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 31,
+      "question": "The 'print()' function displays output on the screen.",
+      "options": [
+        "input()",
+        "print()",
+        "str()",
+        "len()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 32,
+      "question": "Python's built-in functions for reading files include read(), readline(), and ________.",
+      "options": [
+        "write()",
+        "writelines()",
+        "close()",
+        "append()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 33,
+      "question": "If you try to open a non-existent file in read mode ('r'), it will raise an ________.",
+      "options": [
+        "error",
+        "exception",
+        "warning",
+        "message"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 34,
+      "question": "Using the 'with' statement for opening files helps ensure that they are properly ________ after their usage.",
+      "options": [
+        "opened",
+        "closed",
+        "created",
+        "deleted"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "The 'end' parameter in print allows you to specify what character should be used at the end of printed output.",
+      "options": [
+        "sep",
+        "end",
+        "start",
+        "stop"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 36,
+      "question": "To create an empty directory in Python, you can use the ________ function from the os module.",
+      "options": [
+        "mkdir()",
+        "remove()",
+        "rename()",
+        "listdir()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 37,
+      "question": "The ________ function lists all files and directories in the current directory.",
+      "options": [
+        "listdir()",
+        "show_files()",
+        "directory_list()",
+        "files_in_dir()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "When opening files for writing with 'w' mode, existing content will be ________.",
+      "options": [
+        "overwritten",
+        "appended",
+        "ignored",
+        "preserved"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "Python provides several built-in functions for performing I/O operations like open(), read(), write(). The key function for working with files is ________.",
+      "options": [
+        "open()",
+        "read()",
+        "write()",
+        "close()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "To read multiple lines from a text file efficiently, you can use the ________ method.",
+      "options": [
+        "split()",
+        "join()",
+        "append()",
+        "extend()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Python's ________ module allows us to perform various operations related to directories.",
+      "options": [
+        "os",
+        "sys",
+        "math",
+        "random"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "The ________ function opens and reads data from an external text document.",
+      "options": [
+        "open()",
+        "write()",
+        "append()",
+        "clear()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "When using 'with', we do not have to worry about closing files explicitly.",
+      "options": [
+        "True",
+        "False",
+        "Yes",
+        "No"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "We can check whether or not our program has successfully opened or closed our files by checking their ________ property.",
+      "options": [
+        "closed",
+        "open",
+        "exists",
+        "valid"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "The 'any()' function returns True if at least one item in an iterable is truthy.",
+      "options": [
+        "any()",
+        "all()",
+        "bool()",
+        "int()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "We can check whether or not our program has successfully opened or closed our files by checking their ________ property.",
+      "options": [
+        "closed",
+        "open",
+        "exists",
+        "valid"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 47,
+      "question": "Python's built-in functions for reading files include read(), readline(), and ________.",
+      "options": [
+        "write()",
+        "writelines()",
+        "close()",
+        "append()"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 48,
+      "question": "When performing I/O operations, we should always handle potential exceptions gracefully using try-finally blocks. This ensures that resources are properly released even if an error occurs during execution.",
+      "options": [
+        "True",
+        "False",
+        "Yes",
+        "No"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "The 'open()' function opens and reads data from an external text document.",
+      "options": [
+        "open()",
+        "write()",
+        "append()",
+        "clear()"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "To read multiple lines from a text file efficiently, you can use the ________ method.",
+      "options": [
+        "split()",
+        "join()",
+        "append()",
+        "extend()"
+      ],
+      "answer": 1
+    }
+]
+  

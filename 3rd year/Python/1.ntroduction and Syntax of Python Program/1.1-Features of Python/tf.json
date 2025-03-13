@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "question": "Python is a low-level programming language.",
+      "answer": false
+    },
+    {
+      "id": 2,
+      "question": "Python has a simple and easy-to-read syntax, making it beginner-friendly.",
+      "answer": true
+    },
+    {
+      "id": 3,
+      "question": "Python requires compilation before execution.",
+      "answer": false
+    },
+    {
+      "id": 4,
+      "question": "Python code is executed line by line.",
+      "answer": true
+    },
+    {
+      "id": 5,
+      "question": "Python is a paid programming language.",
+      "answer": false
+    },
+    {
+      "id": 6,
+      "question": "Python is open-source and free to use.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "Python supports object-oriented programming (OOP).",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "Python programs can only run on Windows.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "Python is a dynamically typed language.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "In Python, variables must be explicitly declared with their data types.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "Python provides a large standard library with many built-in modules.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "Python cannot be combined with other programming languages like C or Java.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "Python allows GUI development using Tkinter, PyQt, and Kivy.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "Python is commonly used for web development.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "Python does not support machine learning or data science applications.",
+      "answer": false
+    },
+    {
+      "id": 16,
+      "question": "Python is a high-level language, so programmers do not need to manage memory manually.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "Python syntax is more complicated than C or Java.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "The print() function is used to display output in Python.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "Python can only handle integer data types.",
+      "answer": false
+    },
+    {
+      "id": 20,
+      "question": "Python code written on Windows will also work on macOS and Linux.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "Python is not used in cybersecurity applications.",
+      "answer": false
+    },
+    {
+      "id": 22,
+      "question": "The math module in Python provides functions for mathematical operations.",
+      "answer": true
+    },
+    {
+      "id": 23,
+      "question": "Python requires semicolons at the end of each statement.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "Python does not allow the creation of classes and objects.",
+      "answer": false
+    },
+    {
+      "id": 25,
+      "question": "Python supports both structured and object-oriented programming.",
+      "answer": true
+    },
+    {
+      "id": 26,
+      "question": "Python variables do not require explicit data type declarations.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "Python programs must be compiled before running.",
+      "answer": false
+    },
+    {
+      "id": 28,
+      "question": "Python is widely used in artificial intelligence and machine learning.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "Python cannot interact with databases.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "Python supports the development of mobile applications.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "Python is case-sensitive.",
+      "answer": true
+    },
+    {
+      "id": 32,
+      "question": "Python uses indentation to define blocks of code.",
+      "answer": true
+    },
+    {
+      "id": 33,
+      "question": "Python does not support functional programming.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "Python can be used for game development.",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "The Flask framework is used for machine learning in Python.",
+      "answer": false
+    },
+    {
+      "id": 36,
+      "question": "The ‘import’ keyword is used to include modules in Python.",
+      "answer": true
+    },
+    {
+      "id": 37,
+      "question": "Python does not support networking applications.",
+      "answer": false
+    },
+    {
+      "id": 38,
+      "question": "Python can handle exceptions using try-except blocks.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "Python requires a main() function to execute a script.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "Python supports file handling operations like reading and writing files.",
+      "answer": true
+    }
+  ]
+  

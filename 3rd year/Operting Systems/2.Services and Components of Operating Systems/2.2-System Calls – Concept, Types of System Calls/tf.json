@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "question": "A system call is a way for a program to request a service from the operating system.",
+      "answer": true
+    },
+    {
+      "id": 2,
+      "question": "System calls allow user programs to interact directly with hardware without involving the operating system.",
+      "answer": false
+    },
+    {
+      "id": 3,
+      "question": "The fork() system call is used to create a new process.",
+      "answer": true
+    },
+    {
+      "id": 4,
+      "question": "The exec() system call is used to terminate a process.",
+      "answer": false
+    },
+    {
+      "id": 5,
+      "question": "System calls ensure security by controlling access to system resources.",
+      "answer": true
+    },
+    {
+      "id": 6,
+      "question": "The exit() system call is used to terminate a process.",
+      "answer": true
+    },
+    {
+      "id": 7,
+      "question": "The wait() system call allows one process to wait until another process finishes execution.",
+      "answer": true
+    },
+    {
+      "id": 8,
+      "question": "System calls make programming more difficult as developers must handle hardware operations manually.",
+      "answer": false
+    },
+    {
+      "id": 9,
+      "question": "The open() system call is used to open a file.",
+      "answer": true
+    },
+    {
+      "id": 10,
+      "question": "The read() system call is used to delete a file.",
+      "answer": false
+    },
+    {
+      "id": 11,
+      "question": "The write() system call is used to write data to a file.",
+      "answer": true
+    },
+    {
+      "id": 12,
+      "question": "The close() system call is used to terminate a process.",
+      "answer": false
+    },
+    {
+      "id": 13,
+      "question": "Device management system calls help in managing hardware devices like printers and USB drives.",
+      "answer": true
+    },
+    {
+      "id": 14,
+      "question": "The ioctl() system call is used to control a device.",
+      "answer": true
+    },
+    {
+      "id": 15,
+      "question": "The getpid() system call is used to get the process ID of the currently running process.",
+      "answer": true
+    },
+    {
+      "id": 16,
+      "question": "The gettimeofday() system call retrieves the current date and time.",
+      "answer": true
+    },
+    {
+      "id": 17,
+      "question": "The alarm() system call is used to shut down the operating system.",
+      "answer": false
+    },
+    {
+      "id": 18,
+      "question": "Communication system calls help programs exchange data over a network.",
+      "answer": true
+    },
+    {
+      "id": 19,
+      "question": "The send() and recv() system calls are used for inter-process communication.",
+      "answer": true
+    },
+    {
+      "id": 20,
+      "question": "The pipe() system call allows two processes to communicate by creating a communication channel.",
+      "answer": true
+    },
+    {
+      "id": 21,
+      "question": "System calls are necessary for applications to interact with the operating system.",
+      "answer": true
+    },
+    {
+      "id": 22,
+      "question": "Without system calls, user programs would be able to directly access hardware resources.",
+      "answer": false
+    },
+    {
+      "id": 23,
+      "question": "System calls are categorized into four main types.",
+      "answer": false
+    },
+    {
+      "id": 24,
+      "question": "The system calls related to file management allow users to create, read, write, and close files.",
+      "answer": true
+    },
+    {
+      "id": 25,
+      "question": "The close() system call is responsible for opening a file.",
+      "answer": false
+    },
+    {
+      "id": 26,
+      "question": "The process control system calls help in managing processes by creating and terminating them.",
+      "answer": true
+    },
+    {
+      "id": 27,
+      "question": "The connect() system call is used to establish a connection between a client and a server.",
+      "answer": true
+    },
+    {
+      "id": 28,
+      "question": "Information maintenance system calls provide details such as memory usage and process status.",
+      "answer": true
+    },
+    {
+      "id": 29,
+      "question": "System calls operate at the user level without involving the kernel.",
+      "answer": false
+    },
+    {
+      "id": 30,
+      "question": "System calls improve security by restricting direct hardware access.",
+      "answer": true
+    },
+    {
+      "id": 31,
+      "question": "The getpid() system call returns the process ID of another process chosen randomly.",
+      "answer": false
+    },
+    {
+      "id": 32,
+      "question": "A user program can directly perform input/output operations without using system calls.",
+      "answer": false
+    },
+    {
+      "id": 33,
+      "question": "System calls work in user mode rather than kernel mode.",
+      "answer": false
+    },
+    {
+      "id": 34,
+      "question": "File management system calls include open(), read(), write(), and close().",
+      "answer": true
+    },
+    {
+      "id": 35,
+      "question": "The fork() system call duplicates a process, creating a child process.",
+      "answer": true
+    },
+    {
+      "id": 36,
+      "question": "The exit() system call is used to send a message over a network.",
+      "answer": false
+    },
+    {
+      "id": 37,
+      "question": "System calls act as an interface between the user program and the operating system.",
+      "answer": true
+    },
+    {
+      "id": 38,
+      "question": "The wait() system call helps synchronize parent and child processes.",
+      "answer": true
+    },
+    {
+      "id": 39,
+      "question": "Communication system calls do not include the send() and recv() functions.",
+      "answer": false
+    },
+    {
+      "id": 40,
+      "question": "System calls allow user programs to execute privileged operations indirectly.",
+      "answer": true
+    }
+]
+  

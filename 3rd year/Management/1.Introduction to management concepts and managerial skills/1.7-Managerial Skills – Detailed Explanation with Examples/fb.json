@@ -1,0 +1,518 @@
+[
+    {
+      "id": 1,
+      "question": "Managerial skills are categorized into three main types: ________ skills, human skills, and conceptual skills.",
+      "options": [
+        "technical",
+        "interpersonal",
+        "organizational"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Technical skills refer to the ability to use specific ________ required to perform a particular job.",
+      "options": [
+        "knowledge",
+        "tools",
+        "techniques",
+        "methods"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 3,
+      "question": "Human skills involve the ability to interact, communicate, and work well with ________.",
+      "options": [
+        "people",
+        "teams",
+        "organizations",
+        "environments"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Conceptual skills refer to the ability to think creatively, analyze situations, and make strategic ________.",
+      "options": [
+        "decisions",
+        "plans",
+        "strategies",
+        "policies"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 5,
+      "question": "Lower-level managers need more ________ skills because they work directly with employees.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Middle-level managers need more ________ skills to coordinate between employees and top management.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 7,
+      "question": "Top-level managers need strong ________ skills for decision-making and strategic planning.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 8,
+      "question": "A junior doctor uses ________ skills to diagnose and treat patients.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "A hospital administrator uses ________ skills to ensure staff cooperation and patient satisfaction.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "The hospital director uses ________ skills to plan for future healthcare services and investments.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 11,
+      "question": "Managerial skills are categorized into three main types: ________ skills, human skills, and conceptual skills.",
+      "options": [
+        "technical",
+        "interpersonal",
+        "organizational"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 12,
+      "question": "Technical skills refer to the ability to use specific ________ required to perform a particular job.",
+      "options": [
+        "knowledge",
+        "tools",
+        "techniques",
+        "methods"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Human skills involve the ability to interact, communicate, and work well with ________.",
+      "options": [
+        "people",
+        "teams",
+        "organizations",
+        "environments"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Conceptual skills refer to the ability to think creatively, analyze situations, and make strategic ________.",
+      "options": [
+        "decisions",
+        "plans",
+        "strategies",
+        "policies"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 15,
+      "question": "Lower-level managers need more ________ skills because they work directly with employees.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 16,
+      "question": "Middle-level managers need more ________ skills to coordinate between employees and top management.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 17,
+      "question": "Top-level managers need strong ________ skills for decision-making and strategic planning.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "A junior doctor uses ________ skills to diagnose and treat patients.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "A hospital administrator uses ________ skills to ensure staff cooperation and patient satisfaction.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "The hospital director uses ________ skills to plan for future healthcare services and investments.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 21,
+      "question": "Managerial skills are categorized into three main types: ________ skills, human skills, and conceptual skills.",
+      "options": [
+        "technical",
+        "interpersonal",
+        "organizational"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 22,
+      "question": "Technical skills refer to the ability to use specific ________ required to perform a particular job.",
+      "options": [
+        "knowledge",
+        "tools",
+        "techniques",
+        "methods"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 23,
+      "question": "Human skills involve the ability to interact, communicate, and work well with ________.",
+      "options": [
+        "people",
+        "teams",
+        "organizations",
+        "environments"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "Conceptual skills refer to the ability to think creatively, analyze situations, and make strategic ________.",
+      "options": [
+        "decisions",
+        "plans",
+        "strategies",
+        "policies"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 25,
+      "question": "Lower-level managers need more ________ skills because they work directly with employees.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "Middle-level managers need more ________ skills to coordinate between employees and top management.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 27,
+      "question": "Top-level managers need strong ________ skills for decision-making and strategic planning.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 28,
+      "question": "A junior doctor uses ________ skills to diagnose and treat patients.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "A hospital administrator uses ________ skills to ensure staff cooperation and patient satisfaction.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 30,
+      "question": "The hospital director uses ________ skills to plan for future healthcare services and investments.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 31,
+      "question": "Managerial skills are categorized into three main types: ________ skills, human skills, and conceptual skills.",
+      "options": [
+        "technical",
+        "interpersonal",
+        "organizational"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "Technical skills refer to the ability to use specific ________ required to perform a particular job.",
+      "options": [
+        "knowledge",
+        "tools",
+        "techniques",
+        "methods"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "Human skills involve the ability to interact, communicate, and work well with ________.",
+      "options": [
+        "people",
+        "teams",
+        "organizations",
+        "environments"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "Conceptual skills refer to the ability to think creatively, analyze situations, and make strategic ________.",
+      "options": [
+        "decisions",
+        "plans",
+        "strategies",
+        "policies"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 35,
+      "question": "Lower-level managers need more ________ skills because they work directly with employees.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "Middle-level managers need more ________ skills to coordinate between employees and top management.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "Top-level managers need strong ________ skills for decision-making and strategic planning.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 38,
+      "question": "A junior doctor uses ________ skills to diagnose and treat patients.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 39,
+      "question": "A hospital administrator uses ________ skills to ensure staff cooperation and patient satisfaction.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 40,
+      "question": "The hospital director uses ________ skills to plan for future healthcare services and investments.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 41,
+      "question": "Managerial skills are categorized into three main types: ________ skills, human skills, and conceptual skills.",
+      "options": [
+        "technical",
+        "interpersonal",
+        "organizational"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "Technical skills refer to the ability to use specific ________ required to perform a particular job.",
+      "options": [
+        "knowledge",
+        "tools",
+        "techniques",
+        "methods"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 43,
+      "question": "Human skills involve the ability to interact, communicate, and work well with ________.",
+      "options": [
+        "people",
+        "teams",
+        "organizations",
+        "environments"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "Conceptual skills refer to the ability to think creatively, analyze situations, and make strategic ________.",
+      "options": [
+        "decisions",
+        "plans",
+        "strategies",
+        "policies"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Lower-level managers need more ________ skills because they work directly with employees.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "Middle-level managers need more ________ skills to coordinate between employees and top management.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "Top-level managers need strong ________ skills for decision-making and strategic planning.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 48,
+      "question": "A junior doctor uses ________ skills to diagnose and treat patients.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "A hospital administrator uses ________ skills to ensure staff cooperation and patient satisfaction.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 50,
+      "question": "The hospital director uses ________ skills to plan for future healthcare services and investments.",
+      "options": [
+        "technical",
+        "human",
+        "conceptual"
+      ],
+      "answer": 3
+    }
+]
+  

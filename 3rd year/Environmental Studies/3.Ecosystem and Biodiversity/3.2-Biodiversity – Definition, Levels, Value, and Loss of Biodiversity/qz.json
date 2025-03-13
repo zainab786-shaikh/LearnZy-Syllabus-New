@@ -1,0 +1,168 @@
+[
+    {
+      "id": 1,
+      "question": "What does biodiversity refer to?",
+      "options": [
+        "Variety of living organisms on Earth",
+        "Number of plants in a garden",
+        "Types of weather conditions",
+        "Different languages spoken in a region"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a level of biodiversity?",
+      "options": [
+        "Genetic Biodiversity",
+        "Species Biodiversity",
+        "Ecosystem Biodiversity",
+        "Chemical Biodiversity"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "Which ecosystem has the highest biodiversity?",
+      "options": [
+        "Desert",
+        "Rainforest",
+        "Arctic tundra",
+        "Grassland"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is an example of genetic biodiversity?",
+      "options": [
+        "Different species of birds in a forest",
+        "Different breeds of dogs",
+        "Variety of fish in the ocean",
+        "Different types of forests on Earth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What is an example of species biodiversity?",
+      "options": [
+        "Different varieties of rice",
+        "A coral reef with hundreds of fish species",
+        "A rainforest with diverse tree heights",
+        "Different climates across the world"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which factor contributes to ecosystem biodiversity?",
+      "options": [
+        "Genetic mutations",
+        "Presence of different species",
+        "Variety of ecosystems like forests and deserts",
+        "Weather patterns"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Why is biodiversity important for ecological balance?",
+      "options": [
+        "It provides oxygen, food, and maintains ecosystems",
+        "It increases pollution levels",
+        "It causes deforestation",
+        "It leads to habitat destruction"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which of the following industries depends on biodiversity?",
+      "options": [
+        "Agriculture",
+        "Medicine",
+        "Fishing",
+        "All of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is an economic benefit of biodiversity?",
+      "options": [
+        "Provides oxygen",
+        "Supports tourism and agriculture",
+        "Regulates climate",
+        "Recycles nutrients"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is an example of aesthetic and recreational value of biodiversity?",
+      "options": [
+        "National parks and wildlife sanctuaries",
+        "Deforestation",
+        "Plastic pollution",
+        "Mining and construction"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "Which human activity is the biggest cause of biodiversity loss?",
+      "options": [
+        "Pollution",
+        "Deforestation",
+        "Overfishing",
+        "All of the above"
+      ],
+      "answer": 4
+    },
+    {
+      "id": 12,
+      "question": "How does climate change affect biodiversity?",
+      "options": [
+        "Causes habitat destruction and species extinction",
+        "Increases oxygen levels",
+        "Reduces pollution",
+        "Increases biodiversity in deserts"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is an invasive species?",
+      "options": [
+        "Water hyacinth",
+        "Oak tree",
+        "Mango tree",
+        "Bamboo plant"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 14,
+      "question": "Why is overfishing harmful to biodiversity?",
+      "options": [
+        "It maintains fish populations",
+        "It causes the decline of marine species",
+        "It reduces water pollution",
+        "It increases coral reef growth"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a way to protect biodiversity?",
+      "options": [
+        "Deforestation",
+        "Overhunting",
+        "Conservation programs",
+        "Increasing plastic use"
+      ],
+      "answer": 3
+    }
+]
+  

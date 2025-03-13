@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "question": "What is a file in a computer system?",
+      "options": [
+        "A collection of physical papers",
+        "A collection of data stored digitally",
+        "A part of RAM memory",
+        "A temporary document"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a type of file?",
+      "options": [
+        "Text File",
+        "Binary File",
+        "Digital File",
+        "Executable File"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "What attribute of a file stores information about who created or owns the file?",
+      "options": [
+        "Name",
+        "Owner",
+        "Type",
+        "Size"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 4,
+      "question": "Which file attribute determines when a file was last modified?",
+      "options": [
+        "Permissions",
+        "Creation Date",
+        "Modification Date",
+        "File Type"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 5,
+      "question": "What operation allows a user to change the file name?",
+      "options": [
+        "Rename",
+        "Move",
+        "Copy",
+        "Delete"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an example of a binary file?",
+      "options": [
+        ".txt",
+        ".csv",
+        ".jpg",
+        ".docx"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "Which file operation removes a file permanently from the storage?",
+      "options": [
+        "Copy",
+        "Delete",
+        "Move",
+        "Rename"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "In Windows, which shortcut key is used to rename a file?",
+      "options": [
+        "F1",
+        "F2",
+        "F5",
+        "F12"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 9,
+      "question": "What is the function of the File Allocation Table (FAT)?",
+      "options": [
+        "To store user passwords",
+        "To keep track of file locations",
+        "To organize folders",
+        "To store deleted files permanently"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is an example of a text file?",
+      "options": [
+        ".mp4",
+        ".exe",
+        ".txt",
+        ".jpg"
+      ],
+      "answer": 3
+    }
+]
+  

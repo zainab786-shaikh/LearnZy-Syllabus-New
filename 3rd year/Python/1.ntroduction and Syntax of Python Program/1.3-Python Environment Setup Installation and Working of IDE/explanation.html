@@ -1,0 +1,116 @@
+<div>
+    <h1>1.3 Python Environment Setup: Installation and Working of IDE</h1>
+    <p>Python is a user-friendly programming language, and setting up the Python environment is simple. In this guide, we will explain step-by-step how to install Python, set up an Integrated Development Environment (IDE), and write your first Python program.</p>
+    
+    <h2>1. What is a Python Environment?</h2>
+    <p>The Python environment is the setup that allows us to write, execute, and test Python programs. It includes:</p>
+    <ul>
+      <li>Python Interpreter – The engine that runs Python code.</li>
+      <li>Text Editor/IDE – A software tool for writing and executing Python code.</li>
+      <li>Libraries & Packages – Additional tools for Python programming.</li>
+    </ul>
+    
+    <h2>2. How to Install Python?</h2>
+    <h3>Step 1: Download Python</h3>
+    <ul>
+      <li>Go to the official Python website: <a href="https://www.python.org">https://www.python.org</a></li>
+      <li>Click on "Downloads" and choose your operating system (Windows, macOS, or Linux).</li>
+      <li>Download the latest version (e.g., Python 3.11).</li>
+    </ul>
+    
+    <h3>Step 2: Install Python</h3>
+    <ul>
+      <li>Open the downloaded file and follow the installation steps.</li>
+      <li>Important: Check the box "Add Python to PATH" before clicking "Install Now." </li>
+      <li>After installation, open Command Prompt (Windows) or Terminal (Mac/Linux) and type:</li>
+    </ul>
+    <code>python --version</code>
+    <p>If Python is installed, it will show the version number (e.g., Python 3.11.2).</p>
+    
+    <h2>3. Python IDEs and Code Editors</h2>
+    <p>An IDE (Integrated Development Environment) is software that makes writing and running Python programs easier.</p>
+    <ul>
+      <li>IDLE – Comes with Python (best for beginners).</li>
+      <li>PyCharm – Advanced, feature-rich (for professionals).</li>
+      <li>VS Code – Lightweight and powerful.</li>
+      <li>Jupyter Notebook – Best for data science.</li>
+      <li>Spyder – Used in scientific computing.</li>
+    </ul>
+    
+    <h2>4. Writing and Running Python Code in Different IDEs</h2>
+    
+    <h3>Method 1: Using IDLE (Comes with Python)</h3>
+    <ol>
+      <li>Open IDLE (Installed with Python).</li>
+      <li>Click on "File" > "New File" and type:</li>
+    </ol>
+    <code>print("Hello, Python!")</code>
+    <p>Save the file as hello.py and run it by pressing F5 or clicking Run > Run Module.</p>
+    
+    <h3>Method 2: Using PyCharm (Best for Projects)</h3>
+    <ol>
+      <li>Download and install PyCharm from <a href="https://www.jetbrains.com/pycharm/">https://www.jetbrains.com/pycharm/</a>.</li>
+      <li>Open PyCharm and create a new project.</li>
+      <li>Inside the project, create a new Python file and type:</li>
+    </ol>
+    <code>
+      name = input("Enter your name: ")
+      print("Hello, " + name + "!")
+    </code>
+    <p>Click Run to execute the program.</p>
+    
+    <h3>Method 3: Using VS Code (Best for Beginners)</h3>
+    <ol>
+      <li>Download VS Code from <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>.</li>
+      <li>Install the Python Extension from the VS Code marketplace.</li>
+      <li>Open a folder, create a Python file (example.py), and type:</li>
+    </ol>
+    <code>
+      for i in range(5):
+          print("Python is fun!")
+    </code>
+    <p>Click on the Run button or use the terminal:</p>
+    <code>python example.py</code>
+    
+    <h3>Method 4: Running Python Code in the Terminal</h3>
+    <p>If you don't want to use an IDE, you can write Python code directly in the command line (Windows) or terminal (Mac/Linux).</p>
+    <ol>
+      <li>Open Command Prompt or Terminal.</li>
+      <li>Type <code>python</code> and press Enter.</li>
+      <li>Type the following Python code:</li>
+    </ol>
+    <code>print("Hello, Terminal!")</code>
+    <p>Press Enter and see the output.</p>
+    
+    <h2>5. Setting Up a Virtual Environment (For Advanced Users)</h2>
+    <p>A virtual environment allows you to create a separate Python workspace for each project.</p>
+    <p>Steps to Create a Virtual Environment:</p>
+    <code>python -m venv my_project_env</code>
+    <p>Activate the virtual environment:</p>
+    <p>Windows:</p>
+    <code>my_project_env\Scripts\activate</code>
+    <p>macOS/Linux:</p>
+    <code>source my_project_env/bin/activate</code>
+    <p>Now you can install project-specific packages using:</p>
+    <code>pip install &lt;package_name&gt;</code>
+    
+    <h2>6. Installing and Using Python Libraries</h2>
+    <p>Python has thousands of pre-built libraries to simplify coding.</p>
+    <p>Example: Installing and Using the requests Library</p>
+    <code>pip install requests</code>
+    <code>
+      import requests
+      response = requests.get("https://www.python.org")
+      print(response.status_code)
+    </code>
+    <p>This fetches the Python website’s homepage status.</p>
+    
+    <h2>Conclusion</h2>
+    <ul>
+      <li>Installing Python is simple and requires only a few steps.</li>
+      <li>Using an IDE like IDLE, PyCharm, or VS Code makes coding easier.</li>
+      <li>Python can be run in a terminal, IDE, or text editor.</li>
+      <li>Virtual environments help manage different projects separately.</li>
+    </ul>
+</div>
+  

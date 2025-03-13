@@ -1,0 +1,553 @@
+[
+    {
+      "id": 1,
+      "question": "What keyword is used to define a function in Python?",
+      "options": [
+        "def",
+        "class",
+        "if",
+        "for"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 2,
+      "question": "What is the purpose of the return statement in a function?",
+      "options": [
+        "To call a function",
+        "To define a function",
+        "To send a value back to the caller",
+        "To pass arguments to a function"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 3,
+      "question": "How do you call a function in Python?",
+      "options": [
+        "By using the def keyword",
+        "By using the return keyword",
+        "By writing the function name followed by parentheses",
+        "By using the print() function"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 4,
+      "question": "What is the difference between a parameter and an argument?",
+      "options": [
+        "A parameter is a value passed when calling a function, an argument is a variable in the function definition",
+        "A parameter is a variable in the function definition, an argument is a value passed when calling a function",
+        "A parameter and an argument are the same thing",
+        "A parameter is used for global variables, an argument is used for local variables"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 5,
+      "question": "What are positional arguments in Python?",
+      "options": [
+        "Arguments passed using keywords",
+        "Arguments passed in order",
+        "Arguments passed with default values",
+        "Arguments passed with variable length"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 6,
+      "question": "What is the purpose of default arguments in Python?",
+      "options": [
+        "To pass multiple arguments",
+        "To pass arguments using keywords",
+        "To assign default values if no argument is given",
+        "To define a function"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 7,
+      "question": "How do you pass keyword arguments in Python?",
+      "options": [
+        "By passing arguments in order",
+        "By passing arguments using variable names",
+        "By passing arguments with default values",
+        "By passing arguments with variable length"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of *args in Python functions?",
+      "options": [
+        "To pass multiple positional arguments",
+        "To pass multiple keyword arguments",
+        "To define a function",
+        "To call a function"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of **kwargs in Python functions?",
+      "options": [
+        "To pass multiple positional arguments",
+        "To pass multiple keyword arguments",
+        "To define a function",
+        "To call a function"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 10,
+      "question": "What is a local variable in Python?",
+      "options": [
+        "A variable defined inside a function",
+        "A variable defined outside a function",
+        "A variable used for passing arguments",
+        "A variable used for returning values"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 11,
+      "question": "What is a global variable in Python?",
+      "options": [
+        "A variable defined inside a function",
+        "A variable defined outside a function",
+        "A variable used for passing arguments",
+        "A variable used for returning values"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 12,
+      "question": "How do you modify a global variable inside a function?",
+      "options": [
+        "Using the global keyword",
+        "Using the local keyword",
+        "Using the return keyword",
+        "Using the def keyword"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 13,
+      "question": "Can you use the return statement multiple times in a function?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 14,
+      "question": "What happens when a function is called without defining it first?",
+      "options": [
+        "It executes normally",
+        "It throws an error",
+        "It does nothing",
+        "It defines the function automatically"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 15,
+      "question": "How do you define a function with no parameters?",
+      "options": [
+        "Using def function_name(parameters):",
+        "Using def function_name():",
+        "Using def function_name(args):",
+        "Using def function_name(kwargs):"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 16,
+      "question": "Can you use the def keyword to define multiple functions?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 17,
+      "question": "What is the purpose of indenting code inside a function?",
+      "options": [
+        "To define a function",
+        "To call a function",
+        "To indicate the function body",
+        "To pass arguments to a function"
+      ],
+      "answer": 3
+    },
+    {
+      "id": 18,
+      "question": "Can you use a function name that is the same as a built-in function?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 19,
+      "question": "What happens if you try to access a local variable outside its function?",
+      "options": [
+        "It is accessible",
+        "It throws an error",
+        "It does nothing",
+        "It becomes a global variable"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 20,
+      "question": "Can you pass a variable number of arguments to a function?",
+      "options": [
+        "Yes, using *args",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 21,
+      "question": "How do you pass keyword arguments with default values?",
+      "options": [
+        "Using positional arguments",
+        "Using keyword arguments with default values",
+        "Using variable-length arguments",
+        "Using the return keyword"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 22,
+      "question": "What is the effect of using the global keyword inside a function?",
+      "options": [
+        "It creates a new local variable",
+        "It modifies a global variable",
+        "It defines a function",
+        "It calls a function"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 23,
+      "question": "Can you use the return statement to exit a function early?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 24,
+      "question": "What is the purpose of using functions in programming?",
+      "options": [
+        "To make code more complex",
+        "To make code more modular and reusable",
+        "To define variables",
+        "To call built-in functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 25,
+      "question": "Can you define a function inside another function?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 26,
+      "question": "What happens if you call a function with more arguments than defined?",
+      "options": [
+        "It throws an error",
+        "It ignores extra arguments",
+        "It does nothing",
+        "It defines new arguments automatically"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 27,
+      "question": "Can you use the return statement to return multiple values?",
+      "options": [
+        "Yes, using tuples or lists",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 28,
+      "question": "What is the effect of using the def keyword without a function body?",
+      "options": [
+        "It defines a function with an empty body",
+        "It throws an error",
+        "It does nothing",
+        "It calls a function"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 29,
+      "question": "Can you use functions to organize large programs?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 30,
+      "question": "What is the purpose of using default arguments in functions?",
+      "options": [
+        "To pass multiple arguments",
+        "To assign default values if no argument is given",
+        "To define a function",
+        "To call a function"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 31,
+      "question": "Can you use the return statement to return a string?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 32,
+      "question": "What happens if you try to access a global variable inside a function without declaring it as global?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It becomes a local variable",
+        "It remains a global variable"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 33,
+      "question": "Can you use functions to reduce code repetition?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 34,
+      "question": "What is the effect of using the global keyword without assigning a value?",
+      "options": [
+        "It creates a new global variable",
+        "It modifies an existing global variable",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 35,
+      "question": "Can you use functions to improve code readability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 36,
+      "question": "What is the purpose of using functions in team projects?",
+      "options": [
+        "To make code more complex",
+        "To divide workload by creating different functions",
+        "To define variables",
+        "To call built-in functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 37,
+      "question": "Can you use functions to handle different scenarios based on input?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 38,
+      "question": "What happens if you define a function with the same name as an existing function?",
+      "options": [
+        "It throws an error",
+        "It overwrites the existing function",
+        "It does nothing",
+        "It creates a new function"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 39,
+      "question": "Can you use functions to encapsulate logic?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 40,
+      "question": "What is the effect of using the return statement without a value?",
+      "options": [
+        "It returns None",
+        "It throws an error",
+        "It does nothing",
+        "It calls another function"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 41,
+      "question": "Can you use functions to handle exceptions?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 42,
+      "question": "What is the purpose of using functions in modular programming?",
+      "options": [
+        "To make code more complex",
+        "To break down code into smaller reusable modules",
+        "To define variables",
+        "To call built-in functions"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 43,
+      "question": "Can you use functions to improve code maintainability?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 44,
+      "question": "What happens if you call a function with fewer arguments than defined?",
+      "options": [
+        "It throws an error",
+        "It ignores missing arguments",
+        "It does nothing",
+        "It defines new arguments automatically"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 45,
+      "question": "Can you use functions to reduce debugging time?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 46,
+      "question": "What is the effect of using the def keyword multiple times with the same function name?",
+      "options": [
+        "It creates multiple functions",
+        "It overwrites the existing function",
+        "It does nothing",
+        "It throws an error"
+      ],
+      "answer": 2
+    },
+    {
+      "id": 47,
+      "question": "Can you use functions to improve code efficiency?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 48,
+      "question": "What happens if you try to access a local variable before it is defined?",
+      "options": [
+        "It throws an error",
+        "It does nothing",
+        "It becomes a global variable",
+        "It remains undefined"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 49,
+      "question": "Can you use functions to handle different data types?",
+      "options": [
+        "Yes",
+        "No",
+        "Only with specific methods",
+        "Only with specific functions"
+      ],
+      "answer": 1
+    },
+    {
+      "id": 50,
+      "question": "What is the purpose of using functions in Python?",
+      "options": [
+        "To make code more complex",
+        "To make code more modular and reusable",
+        "To define variables",
+        "To call built-in functions"
+      ],
+      "answer": 2
+    }
+]
+  
