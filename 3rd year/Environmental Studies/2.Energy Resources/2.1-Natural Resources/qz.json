@@ -8,7 +8,7 @@
         "Sunlight",
         "Natural gas"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "71%",
         "80%"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Recycling",
         "Water conservation"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Black Forest",
         "Taiga Forest"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Coal",
         "Hydropower"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Sunlight",
         "Coal"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Gold",
         "Silver"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Canada",
         "Russia"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Rainwater harvesting",
         "Hydropower"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Wind energy",
         "Natural gas"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Hydropower",
         "Geothermal energy"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Copper",
         "Silver"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Recycling",
         "Water conservation"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Agriculture",
         "Pollution"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Increased afforestation",
         "Less pollution"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Mining",
         "Electricity generation"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "3%",
         "5%"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Recycling",
         "Rainwater harvesting"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Desert land",
         "Urban land"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Recycling",
         "Hydropower"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

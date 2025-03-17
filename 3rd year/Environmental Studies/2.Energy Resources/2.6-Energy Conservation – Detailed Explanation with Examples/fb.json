@@ -8,7 +8,7 @@
         "recklessly",
         "excessively"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "limited",
         "everlasting"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "nitrogen",
         "hydrogen"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "reducing",
         "ignoring"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "electricity",
         "sunlight"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "food",
         "gas"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "producing",
         "ignoring"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "24°C",
         "10°C"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "gas",
         "petrol"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "incandescent",
         "non-functional"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

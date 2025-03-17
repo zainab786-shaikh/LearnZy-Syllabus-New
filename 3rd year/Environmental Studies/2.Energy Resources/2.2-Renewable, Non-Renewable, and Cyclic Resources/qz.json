@@ -8,7 +8,7 @@
         "Solar Energy",
         "Natural Gas"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Coal",
         "Hydropower"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Cyclic",
         "None of the above"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Coal",
         "Natural Gas"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Geothermal Energy",
         "Wind Energy"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Natural Gas",
         "Iron"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "They are not used by industries",
         "They cannot be extracted"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Wind Energy",
         "Natural Gas"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Natural Gas",
         "Petroleum"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "By ignoring recycling techniques",
         "By using more fossil fuels"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

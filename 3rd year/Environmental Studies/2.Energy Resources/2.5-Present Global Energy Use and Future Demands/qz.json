@@ -8,7 +8,7 @@
         "Coal",
         "Hydropower"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "60%",
         "70%"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "USA",
         "Germany"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Industrial Sector",
         "Commercial Sector"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Increased use of bicycles",
         "Less urbanization"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Tidal Energy",
         "Wind Energy"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Solar Energy",
         "Wind Energy"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Depletion of fossil fuels",
         "Low energy consumption"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Geothermal Energy",
         "Hydropower"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "They do not produce CO₂",
         "They are free of cost"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

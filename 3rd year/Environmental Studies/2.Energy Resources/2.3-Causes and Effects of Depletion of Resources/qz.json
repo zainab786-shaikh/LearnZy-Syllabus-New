@@ -8,7 +8,7 @@
         "The conservation of natural resources",
         "The process of recycling resources"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Sustainable practices",
         "Using renewable energy"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Coal",
         "Forests"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "By promoting sustainable agriculture",
         "By increasing biodiversity"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Pollution",
         "Recycling"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Water conservation",
         "Sustainable farming"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "It reduces water pollution",
         "It increases ocean biodiversity"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "South Africa",
         "Canada"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Greenhouse gas emissions drop",
         "Energy becomes more sustainable"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Drilling for more oil",
         "Increasing fossil fuel consumption"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

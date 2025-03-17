@@ -8,7 +8,7 @@
         "Recycling waste into new products",
         "Extracting useful materials from waste"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Using glass jars to store spices",
         "Making compost from kitchen waste"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Metal",
         "All of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Recycling paper into new paper",
         "Using a reusable bottle"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Recover",
         "Reuse"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Conserves natural resources",
         "All of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Kitchen food waste",
         "Used clothes"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Old products are repaired and reused",
         "New materials are extracted from e-waste"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "It reduces landfill waste",
         "All of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Burning waste to generate energy",
         "Using plastic bags for shopping"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

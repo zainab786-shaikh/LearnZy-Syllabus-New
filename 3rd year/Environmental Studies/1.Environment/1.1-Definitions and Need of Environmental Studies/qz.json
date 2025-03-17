@@ -8,7 +8,7 @@
         "The study of animals and plants only",
         "The study of space and planets"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "To understand and protect the environment",
         "To improve technology only"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "To solve environmental problems",
         "To ensure a better future"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Advancements in medical science",
         "Better transportation facilities"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "It causes air, water, and land contamination",
         "It has no effect on nature"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Smoke from factories and vehicles",
         "Deforestation in rainforests"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "More availability of clean air",
         "Increase in water resources"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Overfishing in oceans",
         "Cutting trees for paper production"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Using more pesticides in farming",
         "Burning garbage near water bodies"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "To keep the environment clean and prevent health issues",
         "To create more waste"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

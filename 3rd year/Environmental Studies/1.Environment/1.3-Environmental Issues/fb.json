@@ -8,7 +8,7 @@
         "Global warming",
         "Climate change"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Nitrogen",
         "Argon"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Economic",
         "Agricultural"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Wind",
         "Oxygen"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Climate change",
         "Ozone depletion"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Infrared",
         "Microwave"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Solar panels",
         "Wind turbines"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "USA",
         "China"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Methane",
         "Chlorine"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Three Mile Island",
         "Bhopal"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Remain the same",
         "Fluctuate randomly"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Hydrogen",
         "Nitrogen"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Rising",
         "Moderate"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Carbon dioxide",
         "Sulfur dioxide"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Glaciers",
         "Mountains"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Eiffel Tower",
         "Leaning Tower of Pisa"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Pure",
         "Harmless"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Nuclear",
         "Non-renewable"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Landslides",
         "Earthquakes"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Nitrogen",
         "Hydrogen"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

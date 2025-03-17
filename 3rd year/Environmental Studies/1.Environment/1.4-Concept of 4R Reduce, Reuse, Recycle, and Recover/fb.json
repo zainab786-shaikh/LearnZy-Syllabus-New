@@ -8,7 +8,7 @@
         "Recover",
         "Reform"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "ignore",
         "multiply"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Reduce",
         "Recover"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "natural",
         "wasteful"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Recycle",
         "Recover"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Recycle",
         "Recover"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Recycle",
         "Recover"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "recycled",
         "recovered"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Recover",
         "Reduce"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "recycled",
         "new"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

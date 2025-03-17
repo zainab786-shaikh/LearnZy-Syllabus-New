@@ -8,7 +8,7 @@
         "Only using renewable energy sources",
         "Stopping energy use completely"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "It makes people spend more money",
         "It increases fossil fuel consumption"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Coal",
         "Hydropower"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Coal",
         "Solar energy"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Old tube lights",
         "High-energy consuming appliances"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Keeping fans running in empty rooms",
         "Using electric geysers frequently"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Running machines continuously",
         "Using more fossil fuels"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Keeping engines running unnecessarily",
         "Ignoring vehicle maintenance"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Makes fossil fuels last longer",
         "Stops climate change"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Transportation sector",
         "Mining sector"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

@@ -8,7 +8,7 @@
         "unlimited",
         "sustainable"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "low costs",
         "less demand"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "non-renewable",
         "tidal"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "fossil fuel",
         "nuclear"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "solar and wind",
         "water and air"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "wind",
         "tidal"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "water",
         "biomass"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "conduction",
         "convection"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "wind",
         "geothermal"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "geothermal",
         "tidal"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

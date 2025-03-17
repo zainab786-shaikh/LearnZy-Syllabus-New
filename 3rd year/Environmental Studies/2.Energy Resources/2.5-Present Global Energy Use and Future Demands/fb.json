@@ -8,7 +8,7 @@
         "solar, wind",
         "coal, oil"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Wind",
         "Geothermal"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "crude oil",
         "solar energy"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "wind energy",
         "biomass energy"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "tens",
         "a few"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "kerosene",
         "diesel"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Nuclear energy",
         "Hydropower"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "geothermal",
         "biomass"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "solar",
         "geothermal"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "nuclear",
         "biomass"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "hydropower",
         "coal"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "transportation, industrial",
         "agricultural, commercial"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "nitrogen",
         "helium"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "solar",
         "nuclear"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "depletion",
         "increase"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "costly",
         "temporary"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Mohammed bin Rashid Al Maktoum Solar Park",
         "Three Gorges Dam"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Fossil fuel-based",
         "All of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "wasting",
         "doubling"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "combustion",
         "absorption"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

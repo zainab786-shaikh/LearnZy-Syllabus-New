@@ -8,7 +8,7 @@
         "Coal",
         "Geothermal Energy"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "They are cost-effective",
         "They do not produce carbon emissions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Wind Energy",
         "Petroleum"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Coal",
         "Biomass Energy"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Solar Energy",
         "Wind Energy"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Solar Energy",
         "Geothermal Energy"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "They generate more power than coal",
         "They are easy to transport"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Natural Gas",
         "Petroleum"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Solar Energy",
         "Geothermal Energy"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Geothermal Energy",
         "Hydropower"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

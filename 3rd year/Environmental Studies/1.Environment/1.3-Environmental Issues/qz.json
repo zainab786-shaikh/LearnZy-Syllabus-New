@@ -8,7 +8,7 @@
         "A natural disaster caused by pollution",
         "A type of acid rain"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Hydrogen",
         "Helium"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Reduction in ocean levels",
         "Increase in cloud cover"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Oxygen",
         "Carbon dioxide"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "A decrease in atmospheric oxygen levels",
         "A sudden increase in global rainfall"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Stable weather patterns",
         "Decrease in natural disasters"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Drinking water pollution",
         "Natural volcanic eruptions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Ozone layer depletion",
         "Acid rain"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Excess oxygen in the air",
         "Melting glaciers"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Ozone layer",
         "Mesosphere"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Amazon Rainforest Fires",
         "Indian Ocean Tsunami"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Less rainfall",
         "Decreased plant growth"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Urban gardening",
         "Desertification"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Water pollution",
         "Deforestation"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Methane",
         "Hydrogen"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Solar power",
         "Petroleum"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Japan",
         "Germany"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Decrease in greenhouse gases",
         "Increase in acid rain"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Use renewable energy",
         "Increase carbon emissions"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Paris Agreement",
         "Montreal Protocol"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   
