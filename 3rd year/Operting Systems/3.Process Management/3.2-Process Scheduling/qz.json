@@ -8,7 +8,7 @@
         "Deleting processes",
         "Shutting down the system"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Waiting Queue",
         "Execution Queue"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Swaps processes in and out of memory",
         "Terminates processes"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Memory Scheduler",
         "Process Scheduler"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Medium-Term Scheduler",
         "Job Scheduler"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "All processes are deleted",
         "Processes merge into one"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Waiting Queue",
         "Execution Queue"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Assign CPU time",
         "Handle I/O operations"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "A chef cooking food",
         "A person sleeping"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "To remove background processes",
         "To shut down the system"
       ],
-      "answer": 1
+      "answer": 0
     }
   ]
   

@@ -8,7 +8,7 @@
         "Does nothing",
         "Continues to the next iteration"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "To do nothing",
         "To restart the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "It does nothing",
         "It restarts the loop"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "When the loop is skipped by continue",
         "When the loop is paused"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "The loop stops immediately",
         "The loop does nothing"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "To prevent syntax errors",
         "To restart the loop"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "It does nothing",
         "It restarts the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "The loop restarts",
         "The loop skips to the next iteration"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Break does nothing, continue skips the iteration",
         "Break restarts the loop, continue stops the loop"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "When you need a placeholder in incomplete code",
         "When you want to restart the loop"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "It skips to the next iteration",
         "It restarts the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "It skips the else clause",
         "It restarts the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "To execute code when the loop completes normally",
         "To restart the loop"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Only with break",
         "Only with continue"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "The loop does nothing",
         "The loop restarts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Continue does nothing, break skips the iteration",
         "Continue restarts the loop, break stops the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "When you want to do nothing",
         "When you want to restart the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "The loop skips to the next iteration",
         "The loop restarts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Only if continue is used",
         "Only if pass is used"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "The loop restarts",
         "The loop skips to the next iteration"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "It does nothing and continues",
         "It restarts the loop"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "To do nothing",
         "To restart the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "Only with break",
         "Only with pass"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "The loop does nothing and continues",
         "The loop restarts"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "It skips the current iteration",
         "It restarts the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "When you want to execute code after the loop completes normally",
         "When you want to restart the loop"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "The loop skips to the next iteration",
         "The loop restarts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "Only with break",
         "Only with continue"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "The loop skips to the next iteration",
         "The loop restarts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "It skips the else clause",
         "It restarts the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "Pass skips the iteration, continue stops the loop",
         "Pass restarts the loop, continue does nothing"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "When you want to do nothing",
         "When you want to restart the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "The loop skips to the next iteration",
         "The loop restarts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "No, only with continue",
         "Yes, but it only executes with pass"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "It does nothing and continues",
         "It restarts the loop"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "It does nothing",
         "It restarts the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "When you want to execute code after the loop completes normally",
         "When you want to restart the loop"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "The loop stops immediately",
         "The loop does nothing"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "Only in certain conditions",
         "Only with continue"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "To do nothing",
         "To restart the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "It skips the current iteration",
         "It restarts the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "The loop skips to the next iteration",
         "The loop restarts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "Only with continue",
         "Only with pass"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "It does nothing",
         "It restarts the loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "It does nothing and continues",
         "It restarts the loop"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "When you want to execute code after the loop completes normally",
         "When you want to restart the loop"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "The loop skips to the next iteration",
         "The loop restarts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "Only with break",
         "Only with pass"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "Break does nothing, continue skips the iteration",
         "Break restarts the loop, continue stops the loop"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "When you need a placeholder in incomplete code",
         "When you want to restart the loop"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

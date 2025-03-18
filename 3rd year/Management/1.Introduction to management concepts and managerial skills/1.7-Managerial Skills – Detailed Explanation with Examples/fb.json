@@ -7,7 +7,7 @@
         "interpersonal",
         "organizational"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
         "techniques",
         "methods"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 3,
@@ -29,7 +29,7 @@
         "organizations",
         "environments"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 4,
@@ -40,7 +40,7 @@
         "strategies",
         "policies"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -50,7 +50,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 6,
@@ -60,7 +60,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -70,7 +70,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 8,
@@ -80,7 +80,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -90,7 +90,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -100,7 +100,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -110,7 +110,7 @@
         "interpersonal",
         "organizational"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -121,7 +121,7 @@
         "techniques",
         "methods"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 13,
@@ -132,7 +132,7 @@
         "organizations",
         "environments"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -143,7 +143,7 @@
         "strategies",
         "policies"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 15,
@@ -153,7 +153,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 16,
@@ -163,7 +163,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -173,7 +173,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -183,7 +183,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 19,
@@ -193,7 +193,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 20,
@@ -203,7 +203,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 21,
@@ -213,7 +213,7 @@
         "interpersonal",
         "organizational"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 22,
@@ -224,7 +224,7 @@
         "techniques",
         "methods"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 23,
@@ -235,7 +235,7 @@
         "organizations",
         "environments"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 24,
@@ -246,7 +246,7 @@
         "strategies",
         "policies"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 25,
@@ -256,7 +256,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 26,
@@ -266,7 +266,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 27,
@@ -276,7 +276,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 28,
@@ -286,7 +286,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 29,
@@ -296,7 +296,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 30,
@@ -306,7 +306,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 31,
@@ -316,7 +316,7 @@
         "interpersonal",
         "organizational"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 32,
@@ -327,7 +327,7 @@
         "techniques",
         "methods"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 33,
@@ -338,7 +338,7 @@
         "organizations",
         "environments"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 34,
@@ -349,7 +349,7 @@
         "strategies",
         "policies"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 35,
@@ -359,7 +359,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 36,
@@ -369,7 +369,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 37,
@@ -379,7 +379,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 38,
@@ -389,7 +389,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 39,
@@ -399,7 +399,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 40,
@@ -409,7 +409,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 41,
@@ -419,7 +419,7 @@
         "interpersonal",
         "organizational"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 42,
@@ -430,7 +430,7 @@
         "techniques",
         "methods"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 43,
@@ -441,7 +441,7 @@
         "organizations",
         "environments"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 44,
@@ -452,7 +452,7 @@
         "strategies",
         "policies"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 45,
@@ -462,7 +462,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 46,
@@ -472,7 +472,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 47,
@@ -482,7 +482,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 48,
@@ -492,7 +492,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 49,
@@ -502,7 +502,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 50,
@@ -512,7 +512,7 @@
         "human",
         "conceptual"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

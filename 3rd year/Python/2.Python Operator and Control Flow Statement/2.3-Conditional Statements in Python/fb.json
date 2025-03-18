@@ -8,7 +8,7 @@
         "assignments",
         "imports"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "True",
         "Zero"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "else",
         "while"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "repeated",
         "stored"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "iteration",
         "import"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "elif",
         "loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "only one",
         "looping"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "while loop",
         "else if"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "else",
         "while"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "below",
         "without"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "one",
         "zero"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "colon",
         "period"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "block",
         "loops"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "assignment",
         "logical"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "weight",
         "name"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "List",
         "Integer"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "%",
         "/"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "True",
         "Skipped"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "no",
         "zero"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 20,
@@ -215,7 +215,7 @@
         "True",
         "False"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 21,
@@ -226,7 +226,7 @@
         "Error",
         "Nothing"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 22,
@@ -237,7 +237,7 @@
         "repeated",
         "printed"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 23,
@@ -248,7 +248,7 @@
         "unordered",
         "confusing"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 24,
@@ -259,7 +259,7 @@
         "Zero",
         "None"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 25,
@@ -270,7 +270,7 @@
         "multiple",
         "single"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

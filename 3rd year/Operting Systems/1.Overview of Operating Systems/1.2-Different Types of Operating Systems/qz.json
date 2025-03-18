@@ -8,7 +8,7 @@
         "To manufacture computer hardware",
         "To design application software"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Time-Shared OS",
         "Real-Time OS"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Live video streaming",
         "Playing an online multiplayer game"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Time-Shared OS",
         "Mobile OS"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "A single ATM processing one transaction at a time",
         "A computer booting up"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Using multiple processors to execute tasks",
         "Controlling real-time industrial operations"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "A supercomputer performing complex calculations for weather forecasting",
         "An iPhone running mobile applications"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Allowing multiple tasks to execute on a single CPU",
         "Ensuring critical tasks meet deadlines"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "A wristwatch",
         "A basic calculator"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "It is only used in mobile devices",
         "It eliminates the need for RAM"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

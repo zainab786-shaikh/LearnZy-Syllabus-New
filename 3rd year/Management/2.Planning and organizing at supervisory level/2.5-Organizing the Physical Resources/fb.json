@@ -8,7 +8,7 @@
         "only machines",
         "resources such as manpower, materials, and machines"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "allocating",
         "reducing"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "ignore",
         "delay"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "ignores",
         "delays"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "ignores",
         "delays"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "inefficient",
         "delayed"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "only raw materials",
         "machines and tools"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "ingredients",
         "appliances"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "only machines",
         "resources such as workers, materials, and machines"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "machines, tools, raw materials, office supplies, workspace, and infrastructure",
         "only raw materials"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "time",
         "money"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "ignores",
         "delays"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "raw materials",
         "finished products"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "refrigerators and cooking equipment",
         "only decorations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "ignoring",
         "improving"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "sometimes",
         "never"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "assembly",
         "delivery"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "time",
         "money"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "ignoring",
         "smoothing"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "tables and chairs",
         "only decorations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "raw materials and tools",
         "finished products"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "refrigerators and cooking equipment",
         "only decorations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "ignoring",
         "improving"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "sometimes",
         "never"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "finished cars",
         "tools"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "time",
         "money"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "ignoring",
         "smoothing"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "tables and chairs",
         "only decorations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "raw materials and tools",
         "finished products"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

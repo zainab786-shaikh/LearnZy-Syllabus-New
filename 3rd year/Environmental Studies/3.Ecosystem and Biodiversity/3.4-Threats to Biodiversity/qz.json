@@ -8,7 +8,7 @@
         "Only animal species on Earth",
         "The number of human populations"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Organic farming",
         "Wildlife conservation"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Habitat destruction",
         "Sustainable agriculture"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Setting up wildlife sanctuaries",
         "Reducing air pollution"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Solar power generation",
         "Eco-tourism"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Death of marine animals",
         "Better plant growth"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Growth of new forests",
         "Increase in biodiversity"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Climate change",
         "Invasive species"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Bengal tiger",
         "Indian elephant"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Elephants",
         "Peacocks"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "70%",
         "90%"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "36",
         "50"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Sundaland",
         "Himalayas"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Madagascar",
         "Western Ghats"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Six",
         "Eight"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "The Himalayas",
         "Indo-Burma region"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Royal Bengal Tiger",
         "Red panda"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Himalayas",
         "Indo-Burma region"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Wildlife conservation",
         "Overfishing"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "It reduces ecosystem stability",
         "It has no impact on human life"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

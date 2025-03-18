@@ -8,7 +8,7 @@
         "Different climatic conditions",
         "Types of soil found in an area"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "National Ecology Database",
         "Flora and Fauna Repository"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "2002",
         "2010"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Monitoring human population growth",
         "Enforcing industrial safety laws"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Sundaland",
         "Himalayas"
       ],
-      "answer": 4
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Wildlife Protection Survey",
         "Flora and Fauna Census"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Indian Biodiversity Information System (IBIS)",
         "National Biodiversity Action Plan (NBAP)"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Biological Diversity Act (2002)",
         "National Forest Conservation Act (1980)"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "To improve air quality in cities",
         "To conserve river ecosystems"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Indo-Burma",
         "Himalayas"
       ],
-      "answer": 2
+      "answer": 0
     }
 ]
   

@@ -8,7 +8,7 @@
         "why it should be done",
         "where it should be done"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "targets",
         "missions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "plans",
         "strategies"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "effectively",
         "quickly"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "time",
         "information"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "sales",
         "market share"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "measurable",
         "achievable"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "financial reports",
         "customer feedback"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "strategies",
         "approaches"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "costs, benefits, and risks",
         "feasibility, risks, and benefits"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "goals",
         "resources"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "tasks",
         "objectives"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "productivity",
         "performance"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "targets",
         "missions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "plans",
         "strategies"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "effectively",
         "quickly"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "time",
         "information"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "sales",
         "market share"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "measurable",
         "achievable"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "financial reports",
         "customer feedback"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "strategies",
         "approaches"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "costs, benefits, and risks",
         "feasibility, risks, and benefits"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "goals",
         "resources"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "tasks",
         "objectives"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "productivity",
         "performance"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "targets",
         "missions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "plans",
         "strategies"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "effectively",
         "quickly"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "time",
         "information"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "sales",
         "market share"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "measurable",
         "achievable"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "financial reports",
         "customer feedback"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "strategies",
         "approaches"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "costs, benefits, and risks",
         "feasibility, risks, and benefits"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "goals",
         "resources"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "tasks",
         "objectives"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "productivity",
         "performance"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "targets",
         "missions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "plans",
         "strategies"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "effectively",
         "quickly"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "time",
         "information"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "sales",
         "market share"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 43,
@@ -470,6 +470,6 @@
         "measurable",
         "achievable"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]  

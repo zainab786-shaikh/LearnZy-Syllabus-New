@@ -8,7 +8,7 @@
         "A software application",
         "A background service only"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Executing",
         "Terminated"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "The process is executing instructions",
         "The process is waiting for an I/O operation"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Running",
         "Ready"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Waiting",
         "Terminated"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Blocked",
         "New"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "All essential details needed to manage the process",
         "Only the process state"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "User Login Information",
         "Memory Management Information"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "The process creation time",
         "The allocated CPU time"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Running",
         "Terminated"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "It is terminated immediately",
         "It continues running but at a lower priority"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "It is currently using the CPU",
         "It has finished execution and exited"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Process Priority Field in PCB",
         "Process Execution Time"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "It decides which process should terminate",
         "It contains only CPU usage statistics"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Device Manager",
         "User Interface"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

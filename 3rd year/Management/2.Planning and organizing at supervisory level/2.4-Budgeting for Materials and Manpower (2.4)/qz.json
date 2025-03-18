@@ -8,7 +8,7 @@
         "A method of avoiding expenses",
         "A way to increase project costs"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Electricity and rent",
         "Taxes and maintenance"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Human resources or labor required for a project",
         "Transport and logistics"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "To reduce the need for planning",
         "To eliminate the need for skilled labor"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Identifying required materials",
         "Avoiding material purchase"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Marketing flyers",
         "Employee salaries"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Ignore material wastage",
         "Avoid comparing supplier prices"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Ignoring additional costs like delivery",
         "Avoiding market research"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Increasing the number of unskilled workers unnecessarily",
         "Improving worker efficiency through training"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Ensures a perfect project outcome",
         "Removes the need for budgeting"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

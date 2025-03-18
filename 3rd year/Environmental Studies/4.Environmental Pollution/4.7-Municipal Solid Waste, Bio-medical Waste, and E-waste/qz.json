@@ -8,7 +8,7 @@
         "Waste generated from hospitals",
         "Waste generated only from natural disasters"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Bricks and cement",
         "Old circuit boards"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Commercial waste",
         "Radioactive waste"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Vegetable peels",
         "Metal cans"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Causes environmental pollution",
         "Boosts economic growth"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Renew, Reduce, Regenerate",
         "Recycle, Repair, React"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Reusing",
         "Recycling"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Supermarkets",
         "Factories"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Green",
         "Red"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "It is biodegradable and decomposes quickly",
         "It is used in making medicines"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Old mobile phones",
         "Newspapers"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Iron and aluminum",
         "Water and carbon dioxide"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Proper disposal in collection centers",
         "Refurbishing old electronic devices"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Environmental Pollution Reduction",
         "Electronic Product Reuse"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Industrial machinery",
         "All of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Food scraps and vegetable peels",
         "Batteries and circuit boards"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Reduces waste volume",
         "Produces compost"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Industrial",
         "Silent"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "They improve soil structure",
         "They increase oxygen levels"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Plastic packaging",
         "Surgical gloves"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

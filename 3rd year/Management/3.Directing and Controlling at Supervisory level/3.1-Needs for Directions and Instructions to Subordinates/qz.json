@@ -8,7 +8,7 @@
         "Managing financial accounts",
         "Developing marketing strategies"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "To reduce their workload",
         "To change company policies"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Feasibility",
         "Uncertainty"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "They require less supervision",
         "They become more independent"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Giving minimal information",
         "Letting employees figure out tasks on their own"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Giving incomplete guidelines and expecting results",
         "Assigning impossible targets without proper tools"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Handling customer complaints",
         "Hiring new employees"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "They require no further supervision",
         "They work faster without any errors"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Assuming employees already know their tasks",
         "Ignoring employee feedback"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Not providing any details",
         "Ignoring employee queries"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Better teamwork",
         "Stronger leadership"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "‘Figure it out on your own’",
         "‘Do whatever you think is best’"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Punish them for not understanding",
         "Give them a different task"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Lack of guidance",
         "Unrealistic expectations"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "To make their work more difficult",
         "To delay projects"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Setting unrealistic deadlines",
         "Ensuring instructions are practical"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "It reduces employee motivation",
         "It encourages employees to guess their duties"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "By ignoring resource availability",
         "By assigning random tasks without planning"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Setting company-wide policies",
         "Monitoring employee performance"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "More workplace conflicts",
         "Lower productivity"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

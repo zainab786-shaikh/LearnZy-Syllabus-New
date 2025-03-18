@@ -8,7 +8,7 @@
         "economy",
         "infrastructure"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "ignore",
         "delay"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "tools",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "learning",
         "playing"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "electrical shocks",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "helmets",
         "Personal Protective Equipment (PPE)"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "heat",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "manual",
         "remote"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "injuries",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "chemical",
         "all of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "ignite",
         "delay"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "visible",
         "hidden"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "safely",
         "dangerously"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "soil",
         "noise"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "paint",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "dust",
         "gas"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "overloads",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "trained",
         "experienced"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "dirty",
         "clean"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "explosions",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "floor",
         "building"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "emergency response",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "rarely",
         "never"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "sealed",
         "open"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "equipment",
         "tool"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "environmental",
         "health"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "equipment",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "hidden",
         "visible"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "protective equipment",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "easy",
         "difficult"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "motivation",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "economy",
         "infrastructure"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "ignore",
         "delay"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "vehicles",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "learning",
         "playing"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "electrical shocks",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "helmets",
         "Personal Protective Equipment (PPE)"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "heat",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "manual",
         "remote"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "injuries",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "chemical",
         "all of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "ignite",
         "delay"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "visible",
         "hidden"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "safely",
         "dangerously"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "soil",
         "noise"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "toxic",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "dust",
         "gas"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "overloads",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     }
 ]
   

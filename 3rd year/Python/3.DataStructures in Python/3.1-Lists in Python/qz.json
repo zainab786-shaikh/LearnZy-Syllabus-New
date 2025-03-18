@@ -8,7 +8,7 @@
         "Using curly brackets {}",
         "Using angle brackets <>"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Different types including numbers, strings, and lists",
         "Only booleans"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "list_name[-1]",
         "list_name[2]"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "To skip elements",
         "To restart the list"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "By using the insert() method",
         "By using the sort() method"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "It removes a specific element by value",
         "It does nothing"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Using pop()",
         "Using clear()"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Removes all elements",
         "Does nothing"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Using the append() method",
         "Using the insert() method"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "To remove elements",
         "To sort elements"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Using the append() method",
         "Using the remove() method"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "The number of elements",
         "The type of elements"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Using list_name[end]",
         "Using list_name[start:]"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "It returns all elements from the specified start index to the end",
         "It returns an empty list"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Using extend()",
         "Using sort()"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Removes an element by value",
         "Removes an element by index"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Using append()",
         "Using insert()"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Reverses the order of elements",
         "Does nothing"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Using append()",
         "Using insert()"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "The last occurrence of a value",
         "The type of a value"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "Using insert()",
         "Using sort()"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "append() removes elements, insert() adds elements",
         "append() sorts the list, insert() reverses the list"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "Only if they are numbers",
         "Only if they are strings"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "It removes all elements",
         "It does nothing"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "Using append()",
         "Using insert()"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "Adds a value to the list",
         "Removes a value from the list"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "To add an element",
         "To sort the list"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "Using append()",
         "Using insert()"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "-1",
         "None"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "It removes all elements",
         "It does nothing"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "Using insert()",
         "Using sort()"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "Reverses the order of elements",
         "Does nothing"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "To add an element",
         "To sort the list"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "Using append()",
         "Using insert()"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "Removes all elements",
         "Does nothing"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "It sorts the list in descending order",
         "It does nothing"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "Using append()",
         "Using insert()"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "Only the index",
         "Neither index nor value"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "It removes all elements",
         "It does nothing"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "list_name[1]",
         "list_name[-2]"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "Removes a specific element by value",
         "Does nothing"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "To add an element to a list",
         "To remove an element from a list"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "Using append()",
         "Using insert()"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "It removes all elements",
         "It does nothing"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

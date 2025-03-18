@@ -8,7 +8,7 @@
         "Task Scheduler",
         "Performance Monitor"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Performance Monitor",
         "Task Scheduler"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Performance Monitor",
         "Task Scheduler"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Device Management",
         "Security Policy"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Security Policy",
         "Task Scheduler"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Device Management",
         "Performance Monitor"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Faster performance",
         "Automatic updates"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "userconfig",
         "newuser"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Performance Monitor",
         "Security Policy"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "User Management",
         "Security Policy"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

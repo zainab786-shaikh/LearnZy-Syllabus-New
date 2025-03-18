@@ -8,7 +8,7 @@
         "A routine occurrence with no impact",
         "A deliberate act causing damage"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "A planned maintenance shutdown",
         "A routine safety inspection"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Accidents due to chemical spills",
         "Accidents due to slips and falls"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "It prevents mechanical accidents by ensuring equipment is in good working condition",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "A chemical spill causing burns",
         "A worker slipping on an oily floor"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "It prevents electrical shocks and fires by maintaining proper wiring",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Accidents due to chemical spills",
         "Accidents due to slips and falls"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "An electrician receiving an electric shock",
         "A worker slipping on an oily floor"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "It prevents chemical accidents by minimizing exposure to hazardous substances",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Accidents due to workers falling on slippery surfaces",
         "Accidents due to chemical spills"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "It prevents accidents by reducing slippery surfaces",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Accidents caused by objects falling from heights",
         "Accidents due to chemical spills"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "It prevents accidents by ensuring objects are properly secured",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Accidents occurring in small spaces with low oxygen levels",
         "Accidents due to chemical spills"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "It prevents accidents by maintaining adequate oxygen levels",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Workers' mistakes, negligence, or lack of training",
         "Natural disasters"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "It prevents accidents by educating workers on safe practices",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Faulty equipment or machinery issues",
         "Natural disasters"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "It prevents accidents by ensuring equipment is in good working condition",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Hazardous workplace conditions",
         "Natural disasters"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "It prevents accidents by reducing hazards in the work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "They decrease performance by causing injuries and downtime",
         "They only affect employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "To educate workers on safe practices and prevent accidents",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "It helps identify and fix potential hazards before accidents occur",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "Accidents increase due to lack of safety measures",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "It improves morale by providing a safe work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "It improves safety and reduces accidents",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "It protects workers from injuries in hazardous areas",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "Injuries increase due to lack of protection",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "It improves reputation by demonstrating a commitment to safety",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "To prevent accidents by ensuring equipment is in good working condition",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "It prevents accidents by maintaining air quality",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "Accidents increase due to improper handling",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "It increases retention by providing a safe work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "It improves safety by providing clear guidelines for workers",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "It ensures compliance with safety protocols and reduces accidents",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "Accidents increase due to lack of compliance",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "It improves sustainability by preventing environmental hazards",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "To reduce accidents by minimizing human involvement in risky tasks",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "It educates workers on safe handling procedures",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "Accidents increase due to lack of hazard information",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "It prevents accidents by ensuring equipment is in good working condition",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "It improves safety and emergency preparedness",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "It ensures readiness to respond to emergencies like chemical spills",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "Accidents increase due to undetected hazards",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "It improves well-being by providing a safe work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "To warn workers of potential hazards",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "It ensures compliance with safety protocols and reduces injuries",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "Accidents increase due to human involvement in risky tasks",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "It improves performance by preventing accidents and ensuring a safe work environment",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

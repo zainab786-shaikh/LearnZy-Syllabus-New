@@ -8,7 +8,7 @@
         "hard disk",
         "cloud storage"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Fragmentation",
         "Compaction"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "segmentation",
         "fragmentation"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "physical",
         "logical"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "pages",
         "tables"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "random",
         "small"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Logical",
         "Physical"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Externalized",
         "Compaction"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "disk",
         "register"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "temporary",
         "permanent"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "temporary",
         "silent"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "disk",
         "page"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "segmentation",
         "defragmentation"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "fragmentation",
         "paging"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "cache",
         "memory"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Fragmentation",
         "Compaction"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "logical",
         "dynamic"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "system",
         "logical"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "data",
         "disk"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "memory allocation",
         "disk scheduling"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

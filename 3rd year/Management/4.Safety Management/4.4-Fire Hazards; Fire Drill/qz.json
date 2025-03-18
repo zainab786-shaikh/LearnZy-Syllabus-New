@@ -8,7 +8,7 @@
         "Only electrical issues",
         "Only flammable materials"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Only metal and glass",
         "Only plastic and rubber"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "It prevents electrical fires by avoiding overheating",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Only a gas leak",
         "Only a blocked fire exit"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "It can cause fires if not monitored",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Accidents increase due to potential explosions",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "It ensures safe evacuation during emergencies",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Only storing flammable liquids",
         "Only storing combustible materials"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Property damage, injury or death, and environmental damage",
         "Only environmental damage"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "To only identify fire hazards",
         "To only conduct safety inspections"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "It prepares individuals to react safely and quickly during emergencies",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Accidents increase due to lack of preparedness",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "It helps people stay calm by practicing evacuation procedures",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "To assemble at a safe location",
         "To return to work after clearance"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "It ensures orderly evacuation and reduces confusion",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Accidents increase due to improper use of extinguishers",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "It allows for a headcount to ensure everyone is safe",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "It prepares students and staff to respond safely during emergencies",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "It prevents fires by keeping materials away from heat sources",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Accidents increase due to potential explosions",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "It improves reputation by demonstrating a commitment to safety",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "To identify and address potential fire hazards",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "It prevents electrical fires by reducing malfunctions",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "Accidents increase due to delayed response",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "It increases response time by practicing evacuation procedures",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "It improves safety by preparing for emergencies",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "It ensures quick access to extinguishers during emergencies",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "Accidents increase due to unaddressed hazards",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "It improves morale by providing a safe work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "To identify obstacles during evacuation",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "It prepares staff to protect patients during emergencies",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "Accidents increase due to potential explosions",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "It improves sustainability by preventing property damage",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "It ensures safe evacuation during emergencies",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "It prevents chemical fires by keeping materials away from heat sources",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "Accidents increase due to malfunctioning extinguishers",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "It increases retention by providing a safe work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "To prepare individuals to respond effectively during emergencies",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "It ensures safe evacuation during emergencies",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "Accidents increase due to potential electrical fires",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "It improves culture by promoting safety and well-being",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "It improves safety by preparing for emergencies",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "It identifies and addresses potential fire hazards",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "Accidents increase due to unaddressed hazards",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "It improves well-being by providing a safe work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "To identify problems during evacuation",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "It ensures quick access to extinguishers during emergencies",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "Accidents increase due to lack of safety measures",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "It improves adaptability by ensuring flexibility in response to emergencies",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "It improves performance by preventing fires and ensuring safety",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

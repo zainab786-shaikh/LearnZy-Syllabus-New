@@ -8,7 +8,7 @@
         "natural resources",
         "living organisms"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "land",
         "industries"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Jim Corbett",
         "Gir"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Rajasthan",
         "Tamil Nadu"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "climate",
         "political"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Sundarbans",
         "Gir"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "damaged",
         "destroyed"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Wildlife Protection",
         "Forest Conservation"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "1992",
         "2002"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "1986",
         "2002"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "1992",
         "2002"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "forest",
         "mountain"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "agricultural",
         "aquatic"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Brain",
         "Kidney"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "trees",
         "fungi"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "forests",
         "rivers"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "pollution",
         "urbanization"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Sundarbans",
         "Western Ghats"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "technological",
         "mechanized"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "native",
         "migratory"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

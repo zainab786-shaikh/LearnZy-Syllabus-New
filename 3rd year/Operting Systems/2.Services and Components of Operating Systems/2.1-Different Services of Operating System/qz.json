@@ -8,7 +8,7 @@
         "To act as a storage device",
         "To connect computers in a network"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Device Management",
         "File Management"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Managing RAM and allocation of memory to processes",
         "Managing user authentication"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Allocates memory to different programs",
         "Provides security features like passwords"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Device Management",
         "User Interface"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Connecting to a Wi-Fi network",
         "Displaying an error message"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "To manage memory allocation",
         "To manage running processes"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Error Detection and Handling",
         "File Management"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Managing CPU processes",
         "Allocating memory to a running application"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,6 @@
         "Copying a file from one folder to another",
         "Changing volume settings on the computer"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
-  

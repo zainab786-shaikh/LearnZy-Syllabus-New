@@ -8,7 +8,7 @@
         "The number of variables used",
         "The type of programming paradigm"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Jump Statements",
         "Class Statements"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Jump Statements",
         "Assignment Statements"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "while",
         "continue"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Nothing",
         "5"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "otherwise",
         "except"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "do-while",
         "loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "do-while",
         "switch"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Repeats the loop",
         "Executes the next iteration"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "pass",
         "return"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "2",
         "None"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "skip",
         "halt"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Jump Statements",
         "None of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "do-while loop",
         "nested loop"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "pass",
         "switch"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "It runs before the loop body.",
         "It is mandatory in all loops."
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Exits the loop after one iteration",
         "Pauses execution for a specific time"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "1 2 3 4",
         "0 2 4"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "exit",
         "return"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Conditional Statements",
         "Jump Statements"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

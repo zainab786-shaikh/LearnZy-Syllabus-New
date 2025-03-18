@@ -8,7 +8,7 @@
         "Round Robin (RR)",
         "Multilevel Queue"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Priority Scheduling",
         "Shortest Job First (SJF)"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Priority Scheduling",
         "Round Robin (RR)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Shortest Job First (SJF)",
         "Multilevel Queue"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Multilevel Queue",
         "Shortest Job First (SJF)"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Multilevel Queue",
         "First Come First Served (FCFS)"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "First Come First Served (FCFS)",
         "Multilevel Queue"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Shortest Remaining Time Next (SRTN)",
         "Round Robin (RR)"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Priority Scheduling",
         "Round Robin (RR)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Round Robin (RR)",
         "Shortest Job First (SJF)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Multilevel Queue",
         "First Come First Served (FCFS)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Priority Scheduling",
         "Multilevel Queue"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Multilevel Queue",
         "Shortest Job First (SJF)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "First Come First Served (FCFS)",
         "Shortest Job First (SJF)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Shortest Job First (SJF)",
         "Round Robin (RR)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Shortest Job First (SJF)",
         "Multilevel Queue"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Priority Scheduling",
         "First Come First Served (FCFS)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Round Robin (RR)",
         "Priority Scheduling"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Shortest Job First (SJF)",
         "First Come First Served (FCFS)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Shortest Job First (SJF)",
         "Priority Scheduling"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "Round Robin (RR)",
         "First Come First Served (FCFS)"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "Round Robin (RR)",
         "First Come First Served (FCFS)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "Shortest Job First (SJF)",
         "First Come First Served (FCFS)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "Shortest Job First (SJF)",
         "Round Robin (RR)"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "Priority Scheduling",
         "Round Robin (RR)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "Shortest Job First (SJF)",
         "First Come First Served (FCFS)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "Multilevel Queue",
         "First Come First Served (FCFS)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "Shortest Job First (SJF)",
         "Multilevel Queue"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "Priority Scheduling",
         "Multilevel Queue"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "Round Robin (RR)",
         "Multilevel Queue"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "Shortest Job First (SJF)",
         "Round Robin (RR)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "Priority Scheduling",
         "First Come First Served (FCFS)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "Priority Scheduling",
         "Multilevel Queue"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "Round Robin (RR)",
         "Multilevel Queue"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "Round Robin (RR)",
         "Shortest Job First (SJF)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "Multilevel Queue",
         "Priority Scheduling"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "First Come First Served (FCFS)",
         "Priority Scheduling"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "Shortest Job First (SJF)",
         "Multilevel Queue"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "Multilevel Queue",
         "Round Robin (RR)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "First Come First Served (FCFS)",
         "Shortest Job First (SJF)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "First Come First Served (FCFS)",
         "Shortest Job First (SJF)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "Shortest Job First (SJF)",
         "First Come First Served (FCFS)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "Round Robin (RR)",
         "First Come First Served (FCFS)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "Round Robin (RR)",
         "Multilevel Queue"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "Round Robin (RR)",
         "Shortest Job First (SJF)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "Round Robin (RR)",
         "First Come First Served (FCFS)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "Shortest Job First (SJF)",
         "Round Robin (RR)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "Multilevel Queue",
         "Shortest Job First (SJF)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "Multilevel Queue",
         "Priority Scheduling"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "Multilevel Queue",
         "Shortest Job First (SJF)"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

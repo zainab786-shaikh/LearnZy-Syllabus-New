@@ -8,7 +8,7 @@
         "A software used for hacking",
         "An advanced game engine"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "It stores data permanently",
         "It compiles Java programs"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Text Editor/IDE",
         "Gaming Console"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "https://www.microsoft.com",
         "https://www.github.com"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Click 'Skip Installation'",
         "Choose Java installation"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Type 'python --version' in the Command Prompt or Terminal",
         "Restart the computer"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "VS Code",
         "Jupyter Notebook"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "VS Code",
         "Notepad++"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Restart the computer after writing code",
         "Write code in Microsoft Word"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Notepad",
         "WordPad"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Using pip install pycharm",
         "Using the Python terminal"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         ".py",
         ".java"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "execute filename",
         "start filename.py"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "VS Code",
         "Eclipse"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "It is slower than text editors",
         "It requires no installation"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

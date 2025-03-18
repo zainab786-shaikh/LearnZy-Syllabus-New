@@ -8,7 +8,7 @@
         "if",
         "for"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "To send a value back to the caller",
         "To pass arguments to a function"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "By writing the function name followed by parentheses",
         "By using the print() function"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "A parameter and an argument are the same thing",
         "A parameter is used for global variables, an argument is used for local variables"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Arguments passed with default values",
         "Arguments passed with variable length"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "To assign default values if no argument is given",
         "To define a function"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "By passing arguments with default values",
         "By passing arguments with variable length"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "To define a function",
         "To call a function"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "To define a function",
         "To call a function"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "A variable used for passing arguments",
         "A variable used for returning values"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "A variable used for passing arguments",
         "A variable used for returning values"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Using the return keyword",
         "Using the def keyword"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "It does nothing",
         "It defines the function automatically"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Using def function_name(args):",
         "Using def function_name(kwargs):"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "To indicate the function body",
         "To pass arguments to a function"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "It does nothing",
         "It becomes a global variable"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "Using variable-length arguments",
         "Using the return keyword"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "It defines a function",
         "It calls a function"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "To define variables",
         "To call built-in functions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "It does nothing",
         "It defines new arguments automatically"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "It does nothing",
         "It calls a function"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "To define a function",
         "To call a function"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "It becomes a local variable",
         "It remains a global variable"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "It does nothing",
         "It throws an error"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "To define variables",
         "To call built-in functions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "It does nothing",
         "It creates a new function"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "It does nothing",
         "It calls another function"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "To define variables",
         "To call built-in functions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "It does nothing",
         "It defines new arguments automatically"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "It does nothing",
         "It throws an error"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "It becomes a global variable",
         "It remains undefined"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "To define variables",
         "To call built-in functions"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

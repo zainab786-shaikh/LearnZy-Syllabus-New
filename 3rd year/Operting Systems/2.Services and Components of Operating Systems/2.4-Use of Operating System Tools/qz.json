@@ -8,7 +8,7 @@
         "To speed up the computer",
         "To monitor network performance"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Performance Monitor",
         "Device Manager"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "createuser",
         "useradd"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "User Management",
         "Security Policy"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Security Settings",
         "Performance Monitor"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Device Manager",
         "Security Policy"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "usbinfo",
         "devicelist"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "To monitor CPU performance",
         "To schedule automatic tasks"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Monitors security threats",
         "Updates hardware drivers"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "taskrun",
         "schedtask"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

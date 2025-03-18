@@ -8,7 +8,7 @@
         "A human-made environment",
         "A location with only plants and trees"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Soil",
         "Trees"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Air",
         "Plants"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Desert",
         "River"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Forest",
         "Crop field"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Lake",
         "Aquarium"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Coral reef",
         "Seashore"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Marine",
         "Desert"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Plants → Sun → Soil → Water",
         "Sun → Soil → Rocks → Air"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Hunt for food",
         "Store energy"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Grass",
         "Tiger"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Eliminating decomposers",
         "Preventing food chains"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Plants → Soil → Air",
         "Rocks → Trees → Animals"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Rock formation",
         "Sunlight absorption"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Sunlight producing food",
         "Rocks growing into trees"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Oceans eliminating oxygen",
         "Rocks producing gases"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Tundra",
         "Coral reefs"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Absorbing carbon dioxide",
         "Polluting rivers"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Terrestrial",
         "Marine"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Hunting prey",
         "Storing energy"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

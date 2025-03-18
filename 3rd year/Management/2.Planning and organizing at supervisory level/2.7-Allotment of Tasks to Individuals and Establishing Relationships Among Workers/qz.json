@@ -8,7 +8,7 @@
         "Break down work into different tasks",
         "Promote teamwork"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "It increases productivity by ensuring tasks are handled competently",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "To reduce teamwork",
         "To slow down decision-making"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "It improves performance by enhancing collaboration",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "It ensures tasks are completed effectively and efficiently",
         "It only affects employee satisfaction"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Designing the building",
         "Supervising the project"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "It prevents confusion about roles and responsibilities and encourages teamwork",
         "It increases workplace conflicts"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "To increase productivity by ensuring subjects are taught competently",
         "To only affect employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "To oversee the entire system and ensure smooth functioning",
         "To lay off staff"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "It reduces workplace conflicts by clarifying roles",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "It increases satisfaction by aligning tasks with skills",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "It improves efficiency by clarifying roles and responsibilities",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "It increases productivity by ensuring tasks are handled effectively",
         "It only affects employee satisfaction"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Confusion about roles increases and efficiency decreases",
         "Workplace conflicts reduce"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "It facilitates faster decision-making by clarifying roles",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Engineers design the building, workers lay bricks, and electricians install wiring",
         "Supervisors install wiring"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "It ensures tasks are completed effectively and efficiently",
         "It only affects employee satisfaction"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "It improves the likelihood of achieving goals by enhancing efficiency",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "To promote collaboration among employees",
         "To reduce training opportunities"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "It encourages teamwork by preventing confusion",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "Confusion about roles increases and decision-making slows down",
         "Workplace conflicts reduce"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "It increases motivation by aligning tasks with skills",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "It improves efficiency by enhancing collaboration",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "It increases productivity by ensuring tasks are handled competently",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "Confusion about roles increases and efficiency decreases",
         "Workplace conflicts reduce"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "It reduces conflicts by clarifying roles and responsibilities",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "Teachers are assigned subjects based on expertise, and administrative staff handle records",
         "The principal teaches subjects"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "It improves efficiency by preventing confusion",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "It improves culture by enhancing collaboration and efficiency",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "To reduce training opportunities",
         "To eliminate breaks"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "It encourages teamwork and improves efficiency",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "Confusion about roles increases and decision-making slows down",
         "Workplace conflicts reduce"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "It increases retention by improving job satisfaction",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "It reduces workplace conflicts by clarifying roles",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "It increases productivity by ensuring tasks contribute to goals",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "Confusion about roles increases and efficiency decreases",
         "Workplace conflicts reduce"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "It increases engagement by aligning tasks with skills and interests",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "To promote collaboration among employees",
         "To reduce training opportunities"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "It encourages teamwork by preventing confusion",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "Confusion about roles increases and efficiency decreases",
         "Workplace conflicts reduce"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "It improves adaptability by enhancing collaboration and decision-making",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "It prevents confusion about roles and responsibilities",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "It increases productivity by ensuring tasks are handled competently",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "Teamwork decreases and decision-making slows down",
         "Workplace conflicts reduce"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "It improves reputation by enhancing efficiency and collaboration",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "To clarify roles and responsibilities",
         "To reduce training opportunities"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "It prevents confusion about roles and responsibilities",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "Confusion about roles increases and efficiency decreases",
         "Workplace conflicts reduce"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "It increases loyalty by improving job satisfaction and collaboration",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "It improves performance by enhancing efficiency and collaboration",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

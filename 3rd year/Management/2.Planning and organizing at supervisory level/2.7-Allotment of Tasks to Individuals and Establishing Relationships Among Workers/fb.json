@@ -8,7 +8,7 @@
         "divide and assign",
         "reduce"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "responsibilities",
         "duties"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "abilities only",
         "skills and abilities"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "talks",
         "ignores"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "redistributed",
         "reduced"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "constructing",
         "managing"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "wood",
         "glass"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "carpentry",
         "masonry"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "early",
         "slowly"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "abilities",
         "experience"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "parent records",
         "staff records"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "slow",
         "inefficient"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "certainty",
         "uncertainty"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "conflict",
         "isolation"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "delaying",
         "ignoring"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "workplace efficiency",
         "workplace productivity"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "inefficient",
         "delayed"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "competitive",
         "isolated"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "slowly",
         "chaotically"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "neutral",
         "indifferent"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "responsibilities",
         "duties"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "decision-making",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "redistribute",
         "reduce"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "road",
         "park"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "wood",
         "glass"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "carpentry",
         "masonry"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "plan",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "abilities",
         "experience"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "parent records",
         "staff records"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "slow",
         "inefficient"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "certainty",
         "uncertainty"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "conflict",
         "isolation"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "delayed",
         "ignoring"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "workplace efficiency",
         "workplace productivity"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "inefficient",
         "delayed"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "competitive",
         "isolated"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "slowly",
         "chaotically"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "neutral",
         "indifferent"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "responsibilities",
         "duties"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "ignoring",
         "delaying"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "decision-making",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     }
 ]
   

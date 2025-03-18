@@ -8,7 +8,7 @@
         "Building large dams for electricity generation",
         "Diverting river water to urban areas"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Percolation tanks",
         "Collection tanks"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Generates hydroelectricity",
         "Reduces river pollution"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Chennai",
         "Bangalore"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "To pump water for irrigation",
         "To transport water to other regions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Surface runoff",
         "Check dams"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "To store excess groundwater",
         "To increase the temperature of cities"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Delhi’s Ridge Forest",
         "Gujarat’s check dam project"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "It generates solar energy",
         "It prevents water pollution"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Hydro energy",
         "Nuclear energy"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Biogas",
         "Natural gas"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Maharashtra",
         "Tamil Nadu"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "To increase rainfall",
         "To transport water across states"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Constructing skyscrapers",
         "Draining lakes"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "To transfer water from surplus to deficit areas",
         "To build bridges over rivers"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Sutlej-Yamuna Link",
         "Godavari-Krishna Link"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "It reduces rainfall",
         "It increases desertification"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Punjab",
         "Kerala"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Wind energy",
         "Nuclear energy"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Bangalore",
         "Kolkata"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

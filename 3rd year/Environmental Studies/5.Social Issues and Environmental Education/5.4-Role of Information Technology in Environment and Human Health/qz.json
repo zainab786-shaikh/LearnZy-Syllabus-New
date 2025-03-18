@@ -8,7 +8,7 @@
         "Internet Transactions",
         "Intelligent Tracking"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Electronic Health Records",
         "Smart Grid"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Geographic Information System (GIS)",
         "E-Waste Management"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "They send alerts when full",
         "They convert waste into energy instantly"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Solar Energy",
         "Geothermal Energy"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Stops earthquakes",
         "Increases rainfall"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Smartwatches",
         "AI-based Diagnosis"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "GIS System",
         "Check Dam"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Smart Grid",
         "AI Diagnosis"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Stores medical records",
         "Monitors social media"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "E-Waste Management",
         "Recycling App"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Weather Alert System",
         "GIS"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Generates solar energy",
         "Measures temperature"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "By monitoring sleep patterns",
         "By diagnosing diseases"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Soil pollution levels",
         "Noise pollution levels"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

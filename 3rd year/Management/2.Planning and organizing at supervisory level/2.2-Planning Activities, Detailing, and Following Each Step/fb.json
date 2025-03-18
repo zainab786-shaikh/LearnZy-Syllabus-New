@@ -8,7 +8,7 @@
         "schedule",
         "timeline"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "target",
         "mission"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "tools",
         "people"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "activities",
         "actions"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "mistakes",
         "inefficiency"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "milestones",
         "objectives"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "development",
         "launch"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "corrections",
         "modifications"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "failures",
         "shortcomings"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "smoothly",
         "productively"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "smoother",
         "more efficient"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "mistakes",
         "inefficiency"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "effective",
         "successful"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "productivity",
         "effectiveness"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "launch",
         "management"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "schedule",
         "timeline"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "target",
         "mission"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "tools",
         "people"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "activities",
         "actions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "mistakes",
         "inefficiency"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "milestones",
         "objectives"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "development",
         "launch"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "corrections",
         "modifications"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "failures",
         "shortcomings"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "smoothly",
         "productively"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "smoother",
         "more efficient"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "mistakes",
         "inefficiency"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "effective",
         "successful"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "productivity",
         "effectiveness"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "launch",
         "management"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "schedule",
         "timeline"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "target",
         "mission"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "tools",
         "people"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "activities",
         "actions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "mistakes",
         "inefficiency"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "milestones",
         "objectives"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "development",
         "launch"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "corrections",
         "modifications"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "failures",
         "shortcomings"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "smoothly",
         "productively"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "smoother",
         "more efficient"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "mistakes",
         "inefficiency"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "effective",
         "successful"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "productivity",
         "effectiveness"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "launch",
         "management"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "schedule",
         "timeline"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "target",
         "mission"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "tools",
         "people"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "activities",
         "actions"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "mistakes",
         "inefficiency"
       ],
-      "answer": 4
+      "answer": 3
     }
 ]
   

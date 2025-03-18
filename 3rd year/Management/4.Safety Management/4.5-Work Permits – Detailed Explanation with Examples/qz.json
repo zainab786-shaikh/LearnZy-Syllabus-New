@@ -8,7 +8,7 @@
         "To only comply with legal regulations",
         "To increase productivity"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Repairing a water pipeline",
         "Cleaning a window"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "It ensures fire safety measures are in place",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Only electrical repairs",
         "Only excavation work"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "It ensures safe entry into confined spaces with potential hazards",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Painting a wall",
         "Digging a trench"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "It ensures safety while working with live electrical systems",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "To only comply with legal regulations",
         "To increase productivity"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "It ensures safety for tasks performed at elevated heights",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Accidents increase due to lack of safety measures",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "They improve safety by requiring proper precautions",
         "They only affect productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "It ensures adherence to legal requirements for hazardous tasks",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "To prevent accidents by ensuring trained personnel and safety measures",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "It includes guidelines to prevent pollution and damage",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "It provides legal permission to work in a foreign country",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "They may face fines or deportation",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "It tracks who is responsible for a particular job",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Application submission",
         "Permit issuance"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "It prevents accidents by ensuring proper safety measures",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Accidents increase due to outdated safety measures",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "It improves morale by providing a safe work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "To ensure that workers follow the conditions specified in the permit",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "It educates workers on safety procedures and hazards",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "Accidents increase due to unaddressed hazards",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "It improves culture by promoting safety and accountability",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "It improves safety by managing hazards and ensuring compliance",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "It ensures that safety measures are relevant and up-to-date",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "Accidents increase due to unauthorized work",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "It improves sustainability by preventing accidents and environmental damage",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "To monitor safety protocols and ensure compliance",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "It ensures that the site meets all safety conditions",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "Accidents increase due to lack of accountability",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "It increases retention by providing a safe work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "It ensures that workers understand safety procedures and hazards",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "It ensures that safety measures are relevant for the duration of the task",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "Accidents increase due to lack of oversight",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "It improves adaptability by ensuring flexibility in response to safety needs",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "To override decisions in case of disputes or unavailability",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "It ensures that permits can be easily stored and retrieved for compliance",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "Accidents increase due to unaddressed hazards",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "It improves well-being by providing a safe work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "It ensures that all safety aspects are covered",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "It ensures that workers use necessary protective equipment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "Accidents increase due to unaddressed hazards",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "It improves reputation by demonstrating a commitment to safety",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "To provide legal permission to work in a foreign country",
         "To only affect productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "It ensures that safety measures are relevant to the task",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "Accidents increase due to lack of accountability",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "It increases engagement by providing a safe work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "It improves performance by ensuring safety and compliance",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

@@ -8,7 +8,7 @@
         "A hardware component",
         "A type of database"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Better CPU utilization",
         "Quick response time"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "By using more system memory",
         "By slowing down CPU operations"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Require more resources than kernel threads",
         "Are always slower than kernel threads"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Operating system",
         "BIOS"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "They cannot be used for parallel execution",
         "They use more memory than kernel threads"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Many-to-Many",
         "None of the above"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Many-to-Many",
         "None of the above"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Many-to-Many",
         "None of the above"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Many-to-Many",
         "None of the above"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

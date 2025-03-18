@@ -8,7 +8,7 @@
         "A programming language",
         "A type of network protocol"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Google Chrome",
         "macOS"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "User Interface",
         "Device Manager"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Device Management",
         "Security Management"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Controlling file system operations",
         "Handling input/output devices"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Memory Management",
         "User Interface"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Android",
         "macOS"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "User Interface",
         "File System Management"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Process Management",
         "User Interface"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "By upgrading them",
         "By duplicating them"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Controlling CPU scheduling",
         "Managing security settings"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "GUI uses icons and buttons, CLI uses text commands",
         "There is no difference"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Time-Shared OS",
         "Batch OS"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Time-Shared OS",
         "Multi-User OS"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "File System Management",
         "User Interface"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

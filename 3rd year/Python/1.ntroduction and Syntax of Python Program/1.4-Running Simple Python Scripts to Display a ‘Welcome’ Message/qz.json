@@ -8,7 +8,7 @@
         "A shortcut to open Python",
         "A system application to manage Python versions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Welcome to Python Programming!",
         "Python installation instructions"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Using an online compiler",
         "Opening the script in a web browser"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Open it in Notepad",
         "Email the script to Python support"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Open Microsoft Word and save the file as .py",
         "Restart the computer after writing code"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "It only supports C programming",
         "It automatically writes code for the user"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "https://www.java.com",
         "https://www.wikipedia.org"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Error: Invalid syntax",
         "Only the stars will be printed"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "open Desktop",
         "run Desktop"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "input(\"Enter your name: \")\nprint(\"Welcome!\")",
         "name = input()\nprint(\"Welcome!\")"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

@@ -8,7 +8,7 @@
         "life",
         "genes"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "habitat",
         "community"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "population",
         "habitat"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "ecosystem",
         "functional"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "high",
         "no"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "moderate",
         "infinite"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "construction and manufacturing",
         "tourism and transportation"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "right",
         "necessity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "growth",
         "loss"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "loss",
         "expansion"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

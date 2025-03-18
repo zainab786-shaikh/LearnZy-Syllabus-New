@@ -8,7 +8,7 @@
         "A method of growing plants",
         "A natural phenomenon that improves air quality"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Minerals",
         "Vitamins"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Using solar energy",
         "Using bicycles instead of cars"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Damage to plants, animals, and humans",
         "Increase in biodiversity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Air and noise pollution",
         "Chemical and biological pollution"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Volcanic eruptions",
         "Plastic waste"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Plastic waste in oceans",
         "Car exhaust fumes"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Pollen from plants causing allergies",
         "Littering in public places"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "By increasing biodiversity",
         "By improving soil fertility"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Dumping industrial waste into rivers",
         "Throwing plastic into oceans"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Burning fossil fuels",
         "Recycling waste"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Volcanic eruptions",
         "Pollen allergies"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Volcanic eruptions",
         "Pollen from trees"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Using renewable energy",
         "Recycling electronic waste"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Traffic and loudspeakers",
         "Planting crops"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Land pollution",
         "Noise pollution"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Disturbance in the sleep cycles of humans and animals",
         "Reduction in carbon emissions"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Cutting down trees",
         "Dumping waste into rivers"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Air pollution",
         "Noise pollution"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Using public transport and planting trees",
         "Burning plastic waste"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

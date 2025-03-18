@@ -8,7 +8,7 @@
       "The excessive use of water",
       "The storage of clean water in reservoirs"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
       "Rivers",
       "Springs"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
       "Aquifers",
       "Springs"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
       "Bhakra Nangal Dam",
       "Arabian Sea"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
       "Agricultural runoff",
       "Algae growth"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
       "Fertilizers and pesticides",
       "Radioactive waste"
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
       "The destruction of marine life due to oil spills",
       "The mixing of salt and freshwater"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
       "Asthma",
       "Cancer"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "id": 9,
@@ -96,7 +96,7 @@
       "9.0 - 10.5",
       "Above 12"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "id": 10,
@@ -107,6 +107,6 @@
       "Coagulation & Flocculation",
       "Deforestation"
     ],
-    "answer": 4
+    "answer": 3
   }
 ]

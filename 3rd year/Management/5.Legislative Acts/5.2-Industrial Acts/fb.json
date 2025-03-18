@@ -8,7 +8,7 @@
         "benefits",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "benefits",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "welfare",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "15",
         "20"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "50",
         "60"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "heating",
         "cooling"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "16",
         "18"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "9, 8",
         "10, 9"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "unions",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "mediation",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "6",
         "8"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "alert",
         "notification"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "alert",
         "notification"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "benefits",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "benefits",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "income",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "positions",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "income",
         "all of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "four times",
         "five times"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "monthly",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "conditions",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "industrial",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "rights",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "equipment",
         "all of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "overtime",
         "all of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "heating",
         "cooling"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "education",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "welfare",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "unions",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "civil",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "demonstrating",
         "all of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "alert",
         "notification"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "alert",
         "notification"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "benefits",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "benefits",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "income",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "positions",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "income",
         "all of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "four times",
         "five times"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "monthly",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "conditions",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "industrial",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "workplaces",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "available",
         "required"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "overtime",
         "all of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "welfare",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "rights",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "rights",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "procedures",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "boards",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     }
 ]
   

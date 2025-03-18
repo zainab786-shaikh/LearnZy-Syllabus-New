@@ -8,7 +8,7 @@
         "costs",
         "profits"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "environment only",
         "people, property, and the environment"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "harm",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "legal actions",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "harm",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "boots",
         "masks"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "disinfection",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "environmental",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "chemical",
         "smoke"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "repair",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "slowly",
         "quickly"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "infection",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "waste",
         "disaster"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "flood",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "tool",
         "vehicle"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "vehicle",
         "traffic"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "crashes",
         "diversions"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "heat",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "hazardous",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "cleaned",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "spamming",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "injuries",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "compliance",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "costs",
         "profits"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "repair",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "harm",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "stress",
         "anxiety"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "penalties",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "benefits",
         "costs"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "health",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "boots",
         "masks"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "viruses",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "environmental",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "chemical",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "repair",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "engagement",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "infection",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "safety",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "emotional",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "emotional",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "vehicle",
         "traffic"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "crashes",
         "diversions"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "accidents",
         "injuries"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "viruses",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "infections",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "spamming",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "injuries",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "compliance",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "costs",
         "profits"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "health",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     }
 ]
   

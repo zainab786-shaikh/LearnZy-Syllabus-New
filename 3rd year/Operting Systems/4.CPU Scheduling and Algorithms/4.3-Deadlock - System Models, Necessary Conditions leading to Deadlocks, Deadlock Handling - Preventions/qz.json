@@ -8,7 +8,7 @@
         "A process that executes without interruption",
         "A process waiting for a signal from another process"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Printers",
         "All of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Processes can wait for resources indefinitely",
         "Processes can take resources from each other"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Unlimited Resources",
         "No Circular Wait"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "A process releases resources before waiting for others",
         "A process preempts other processes"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "A process holding all resources and executing",
         "A process giving up resources to another process"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "A process can steal resources from another",
         "A process voluntarily gives up resources"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "A student uses a pen without sharing",
         "A teacher forces a student to give up a pen"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "A process never waits for resources",
         "A process waits indefinitely for resources"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "A process executes while others wait for resources",
         "A process has all resources and does not need to wait"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "The system enters a deadlock state",
         "The system becomes faster"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Allow hold and wait",
         "Avoid resource allocation"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "A process never holds any resource",
         "A process uses resources one at a time"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Allowing processes to use the CPU at the same time",
         "Allowing multiple processes to share a file"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Allow circular dependency between processes",
         "Allow a process to wait indefinitely for resources"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "To ensure that at least one necessary condition for deadlock is not met",
         "To speed up system execution"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "A process to execute faster",
         "The system to restart"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "No Preemption",
         "Circular Wait"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "A process using a resource without giving it up",
         "A process releasing resources at random"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Processes holding resources and waiting for others",
         "A single process executing on the CPU"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "They ensure that processes will never wait for resources",
         "They ensure that at least one necessary condition for deadlock is not met"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "Letting processes take all resources at once",
         "Allowing no preemption of resources"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "A process executes without any resource waiting",
         "A process holds one resource but does not wait for others"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "Prevent processes from holding resources",
         "Force processes to release resources without using them"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "To increase the execution speed",
         "To keep resources idle"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "Resources are shared equally among processes",
         "Processes finish their execution quickly"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "By establishing a fixed order for requesting resources",
         "By letting processes wait until all resources are free"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "No Preemption",
         "Mutual Exclusion"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "A student waiting for a pen to be returned",
         "A student leaving a pen unused while waiting for a notebook"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "A resource from being used by more than one process at a time",
         "A process from taking any resource"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "Processes release resources at random",
         "Processes take resources from each other without waiting"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "Allow preemption of resources",
         "Ensure processes never hold resources"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "Deadlock recovery",
         "Deadlock avoidance"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "Require all resources before execution",
         "Allow circular wait"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "No process can execute",
         "Resources are reserved for specific processes"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "Allowing random resource allocation",
         "Allowing a process to take all available resources"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "It waits for resources to become available without restriction",
         "It prioritizes processes based on their importance"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "They cause resources to become available immediately",
         "They make the system more efficient"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "Multiple people sharing a notebook",
         "Two people working on a computer at the same time"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "No Preemption",
         "Mutual Exclusion"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "Deadlock avoidance",
         "Deadlock prevention"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "A process finishes its task and releases resources",
         "A process does not hold any resources"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "Mutual Exclusion",
         "No Preemption"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "It allows resources to be shared more efficiently",
         "It allows faster processing of tasks"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "Ensuring that processes hold all required resources before starting",
         "Allowing processes to release resources without using them"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "To reduce memory usage",
         "To prioritize processes"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "Processes do not need resources",
         "No process waits for resources"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "Detect deadlock immediately",
         "Force processes to execute without resources"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "Deadlock detection",
         "Resource allocation strategies"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "Allow resources to be requested randomly",
         "Prevent all resource allocation"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

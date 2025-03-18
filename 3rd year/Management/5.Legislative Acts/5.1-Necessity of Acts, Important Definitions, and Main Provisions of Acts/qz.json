@@ -8,7 +8,7 @@
         "To only protect consumer rights",
         "To only promote technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "They only regulate business",
         "They only promote safety"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "The Information Technology (IT) Act",
         "The Right to Information (RTI) Act"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "To promote technological growth",
         "To only regulate contracts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "An amendment to an existing law",
         "An ordinance"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "An amendment to an existing law",
         "A Bill"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "To only increase penalties",
         "To only protect consumer rights"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "To only regulate contracts",
         "To only promote technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "To regulate traffic rules",
         "To only promote technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "It only protects consumer rights",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "To only promote technological growth",
         "To only protect contracts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "It defines the penalties for offenses",
         "It defines the sections of a law"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "A penalty for breaking the law",
         "A section of a law"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "It only regulates consumer protection",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Businesses become more competitive",
         "Technology grows faster"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "They only protect consumer rights",
         "They only promote technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "It only affects consumer rights",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "It only affects consumer rights",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "The company becomes more competitive",
         "The company grows technologically"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "They only protect consumer rights",
         "They only regulate contracts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "It only regulates contracts",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "It only protects consumer rights",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "Businesses become more competitive",
         "Technology grows faster"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "They only protect consumer rights",
         "They only promote technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "It only affects consumer rights",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "It only affects consumer rights",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "The company becomes more competitive",
         "The company grows technologically"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "They only protect consumer rights",
         "They only promote technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "It defines the penalties for offenses",
         "It defines the sections of a law"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "It only affects consumer rights",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "Businesses become more competitive",
         "Technology grows faster"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "They only protect consumer rights",
         "They only promote technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "It only affects consumer rights",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "It only affects consumer rights",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "The company becomes more competitive",
         "The company grows technologically"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "They only promote technological growth",
         "They only regulate contracts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "To only affect consumer rights",
         "To only promote technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "It only protects consumer rights",
         "It only regulates contracts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "The company becomes more competitive",
         "The company grows technologically"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "They only protect consumer rights",
         "They only promote technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "It only affects consumer rights",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "It only affects consumer rights",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "The company becomes more competitive",
         "The company grows technologically"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "They only protect consumer rights",
         "They only promote technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "It only regulates contracts",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "It only affects consumer rights",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "Businesses become more competitive",
         "Technology grows faster"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "They only protect consumer rights",
         "They only regulate contracts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "It only affects consumer rights",
         "It only promotes technological growth"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "They only protect consumer rights",
         "They only promote technological growth"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

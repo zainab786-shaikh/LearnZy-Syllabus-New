@@ -8,7 +8,7 @@
         "How the computer stores files",
         "How the computer executes programs"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Storing all data in one large block",
         "Releasing memory back to the system"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "It avoids fragmentation completely",
         "It allows multiple processes to share the same memory space"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Dynamic allocation",
         "Faster allocation"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "The memory is reused by other processes",
         "The partition is split into smaller partitions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Memory allocation is based on user preferences",
         "Partition sizes are static"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Memory that cannot be allocated to any process",
         "Memory that is inaccessible"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Bitmap Method",
         "Linked List Method"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Tracking memory using a visual representation",
         "Dividing memory into fixed-size blocks"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Reserved block",
         "Unavailable block"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "It is difficult to implement",
         "It is not efficient for small systems"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "A bitmap of free and occupied blocks",
         "A stack of memory blocks"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Tracking memory access history",
         "Allocating memory based on size"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Fixed Partitioning",
         "Variable Partitioning"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Avoids any kind of fragmentation",
         "Divides memory based on program priority"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "It is simpler to implement",
         "It requires less memory"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Fixed partition sizes",
         "Low flexibility"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "The system allocates more memory to the program",
         "The program is divided into multiple partitions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Reserved block",
         "Unavailable block"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Dynamic partition creation",
         "Need for additional memory management techniques"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "Partitioning",
         "Segmentation"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "Fixed Partitioning",
         "Variable Partitioning"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "Prevents fragmentation",
         "Offers dynamic memory allocation"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "Overallocated memory",
         "Memory that cannot be accessed"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "Fixed Partitioning",
         "Variable Partitioning"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "It is free from fragmentation",
         "It requires extra memory for storing pointers"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "It causes external fragmentation",
         "It wastes memory"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "Bitmap Method",
         "Linked List Method"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "Fixed Partitioning",
         "Variable Partitioning"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "Dynamic allocation",
         "Faster allocation"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "It uses less memory",
         "It works with fixed partition sizes"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "The process is split into multiple parts",
         "The system reassigns the partition to another process"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "Bitmap Method",
         "Linked List Method"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "A visual diagram",
         "A set of predefined partitions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "Memory cannot be allocated to any process",
         "Memory is inaccessible to the system"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "Memory leakage",
         "Memory loss"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "Prevents fragmentation",
         "Simpler to implement"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "It allows variable memory allocations",
         "It eliminates fragmentation"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "Fixed Partitioning",
         "Variable Partitioning"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "High complexity",
         "Memory loss"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "Bitmap Method",
         "Linked List Method"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "Memory that cannot be allocated",
         "Unreachable memory blocks"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "Bitmap Method",
         "Linked List Method"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "It uses less memory",
         "It allows for fixed block sizes"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "Variable Partitioning",
         "Fixed Partitioning"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "The program is divided into smaller parts",
         "The partition size increases"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "Fixed Partitioning",
         "Variable Partitioning"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "It increases external fragmentation",
         "It uses more system resources"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "Memory is not dynamically allocated",
         "Memory cannot be freed"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "Bitmap Method",
         "Linked List Method"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

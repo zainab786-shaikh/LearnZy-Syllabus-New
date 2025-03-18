@@ -8,7 +8,7 @@
         "Ordered collection of duplicate items",
         "Unordered collection of duplicate items"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Using parentheses ()",
         "Using angle brackets <>"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Only if they are numbers",
         "Only if they are strings"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Using the in keyword",
         "All of the above except indexing"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "To remove an item",
         "To clear the set"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Using insert()",
         "Using append()"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Removes all items",
         "Removes a random item"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "remove() removes all items, discard() removes a specific item",
         "remove() removes a random item, discard() removes all items"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Removes all items",
         "Does nothing"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Using pop() method",
         "Using clear() method"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Finds items present in one set but not the other",
         "Finds items not common to both sets"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Using the union() method",
         "All of the above except & operator"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Finds items not common to both sets",
         "Combines all unique items from both sets"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Using the intersection() method",
         "All of the above except | operator"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Finds items not common to both sets",
         "Combines all unique items from both sets"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Using the union() method",
         "Using the intersection() method"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Finds items present in one set but not the other",
         "Combines all unique items from both sets"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Using the union() method",
         "Using the intersection() method"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "The number of elements",
         "The type of elements"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Using sum()",
         "Using len()"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "Returns the minimum value",
         "Returns the number of elements"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "Using max()",
         "Using min()"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "Returns False if all items are truthy",
         "Returns False if at least one item is truthy"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "Returns False if at least one item is truthy",
         "Returns False if all items are truthy"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "Using update()",
         "Using remove()"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "To remove an item",
         "To clear the set"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "Removes a random item",
         "Does nothing"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "Using append()",
         "Using insert()"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "Symmetric difference finds common items, difference finds items not common to both sets",
         "Symmetric difference finds items not common to both sets, difference finds common items"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "It does nothing",
         "It clears the set"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "Using sum()",
         "Using len()"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "None",
         "Error"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "Finds items present in one set but not the other",
         "Combines all unique items from both sets"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "Using the union() method",
         "Using the difference() method"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "Removes a random item",
         "Does nothing"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "Using pop() method",
         "Using clear() method"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "Removes all items",
         "Removes a random item"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "Returns False if all items are truthy",
         "Returns False if at least one item is truthy"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "Using in keyword",
         "Using not in keyword"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "A sorted tuple of set items",
         "A sorted dictionary of set items"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "Deletes all items",
         "Does nothing"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "Using min()",
         "Using sum()"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "Items present in one set but not the other",
         "All unique items from both sets"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "Only with specific methods",
         "Only with specific functions"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

@@ -8,7 +8,7 @@
         "professional",
         "educational"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "overworked",
         "unmotivated"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "finances",
         "time"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "corrective",
         "proactive"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "bake",
         "store"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "double-check",
         "skip"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "personal",
         "health-related"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "focus",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "efficient",
         "stressful"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "personal issues",
         "time"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "identify",
         "solve"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "personal",
         "work-related"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "stress levels",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "prevent",
         "fix"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "personal",
         "educational"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "standard",
         "rigid"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "inefficient",
         "chaotic"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "financial problems",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "possible",
         "impossible"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "competitive",
         "hostile"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "corrective",
         "proactive"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "overworked",
         "unmotivated"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "identify",
         "solve"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "personal",
         "educational"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "stressful",
         "chaotic"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "personal",
         "health-related"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "corrective",
         "proactive"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "personal",
         "educational"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "common",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "overworked",
         "unmotivated"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "identify",
         "solve"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "financial problems",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "inefficient",
         "chaotic"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "professional",
         "educational"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "conflicts",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "overworked",
         "unmotivated"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "corrective",
         "proactive"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "personal",
         "health-related"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "chaotic",
         "disorganized"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "personal",
         "educational"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "conflicts",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "overworked",
         "unmotivated"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "corrective",
         "proactive"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "personal",
         "health-related"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "inefficient",
         "chaotic"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "professional",
         "educational"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "conflicts",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "overworked",
         "unmotivated"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "corrective",
         "proactive"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "personal",
         "health-related"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

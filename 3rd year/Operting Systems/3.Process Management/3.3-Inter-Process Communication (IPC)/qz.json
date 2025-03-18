@@ -8,7 +8,7 @@
         "A technique for process scheduling",
         "A system that prevents process execution"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "To slow down process execution",
         "To limit the number of running processes"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Chat applications where messages are exchanged between users",
         "Writing a document without internet connectivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "A scheduling method for running processes",
         "A way to prevent data exchange between processes"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Processes send messages over a network",
         "Processes detach from shared memory after communication"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Sending an email to a colleague",
         "A teacher giving a lecture in a class"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "More secure than message passing",
         "Does not require memory allocation"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "A way to block communication between processes",
         "A technique to increase CPU execution speed"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Reading a book individually",
         "Opening multiple applications on a computer"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Requires direct memory access",
         "Processes need to use the same memory space"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

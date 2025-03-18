@@ -8,7 +8,7 @@
         "To reduce the need for paging",
         "To manage disk space efficiently"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Dividing memory into variable-sized blocks",
         "Dividing memory into small, non-contiguous parts"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "External Memory Loss",
         "Internal Memory Loss"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Dividing memory into random sizes",
         "Dividing memory into the same size chunks"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "It is simpler than paging",
         "It reduces the need for virtual memory"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Excessive memory swapping",
         "Large memory blocks"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "By swapping pages between RAM and disk",
         "By reducing the total amount of memory needed"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Page Fault Fragmentation",
         "Segmentation Fragmentation"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "To store program data",
         "To map the process code to physical memory"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "When the page table is full",
         "When a process completes execution"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Minor requires fewer resources to fix; Major requires more",
         "Minor happens when a page is in RAM; Major happens when a page is missing"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "By using larger page sizes",
         "By reducing the use of paging"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Both external and internal",
         "Neither"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Faster program execution",
         "All of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Requires continuous memory allocation",
         "Is inefficient for small programs"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "By reducing the size of pages",
         "By increasing the size of RAM"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "The page is loaded from secondary storage to RAM",
         "The system stops execution until the page is available"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "It requires more space than paging",
         "It eliminates the need for virtual memory"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Dynamic memory allocation",
         "Fixed memory partitioning"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Fragmentation Table",
         "Memory Allocation Table"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "Allows for logical grouping of data",
         "Provides fixed-sized blocks for memory allocation"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "Both internal and external fragmentation",
         "Memory Overload"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "Increasing RAM size",
         "All of the above"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "Main memory",
         "Process buffer"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "Fragmentation",
         "Compaction"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "Both Paging and Segmentation",
         "Neither"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "It is complex to manage",
         "It causes internal fragmentation"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "Compaction",
         "Both Paging and Compaction"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "A program completes its execution",
         "A page is linked properly in memory"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "The page is fetched from virtual memory",
         "The process is terminated"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "Smaller memory allocation",
         "Faster program execution"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "Dynamic memory allocation",
         "Paging and Segmentation together"
       ],
-      "answer": 1
+      "answer": 0
     }
 ]
   

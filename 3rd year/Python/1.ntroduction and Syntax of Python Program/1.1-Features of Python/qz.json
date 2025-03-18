@@ -8,7 +8,7 @@
         "Requires manual memory management",
         "Needs compilation before execution"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "print()",
         "show()"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Assembly",
         "Machine"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "www.python.org",
         "www.downloadpython.com"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "No need to worry about hardware details",
         "Has complex syntax like Assembly"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "It requires different versions for each OS",
         "Python code needs OS-specific changes"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Using loops",
         "Writing functions without objects"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "calculate",
         "arithmetic"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Only integer types are supported",
         "Variable types are fixed once assigned"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "NumPy",
         "Kivy"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "Machine Learning",
         "All of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Angular",
         "Spring"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Statically typed",
         "Compiled"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "math.sqrt()",
         "square_root()"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "NumPy",
         "Matplotlib"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "Python is an interpreted language",
         "Python only supports Windows OS"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Machine learning",
         "Networking"
       ],
-      "answer": 2
+      "answer": 1
     }
   ]
   

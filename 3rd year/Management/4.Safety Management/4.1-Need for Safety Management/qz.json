@@ -8,7 +8,7 @@
         "To prevent accidents and protect lives",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "It prevents accidents, protects lives, and ensures smooth operations",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Serious accidents can occur due to lack of safety measures",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "It ensures adherence to safety laws and regulations",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "It reduces costs associated with accidents and legal penalties",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "It improves productivity by reducing downtime due to injuries",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "It prevents pollution and health risks by following safety rules",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Reducing safety protocols",
         "Eliminating safety measures"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "It prevents road accidents and improves safety",
         "It only affects driver morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Infection rates increase and patient safety is compromised",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "It improves reputation by demonstrating a commitment to safety",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "To identify and control risks to prevent accidents",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "It prevents fires and ensures home safety",
         "It only affects property value"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Accidents increase and safety is compromised",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "It improves morale by providing a safe work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "It prevents hacking and data theft",
         "It only affects system performance"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "It prevents online fraud by educating users",
         "It only affects internet speed"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Legal penalties increase and safety is compromised",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "It improves sustainability by preventing environmental hazards",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "To prevent health risks and maintain public health",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "It helps identify and mitigate potential hazards",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "Infection rates increase and patient safety is compromised",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "It improves culture by promoting safety and well-being",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "It provides a systematic approach to managing safety risks",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "It prevents infections by ensuring safe disposal practices",
         "It only affects hospital reputation"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "Accidents increase and safety is compromised",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "It increases retention by providing a safe work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "To foster open communication about safety concerns",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "It prevents injuries by protecting workers",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "Accidents increase and safety is compromised",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "It improves adaptability by ensuring flexibility in response to safety risks",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "It provides a systematic approach to managing safety risks",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "It helps identify and mitigate potential hazards",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "Infection rates increase and patient safety is compromised",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "It improves innovation by ensuring a safe environment for experimentation",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "To identify and control risks to prevent accidents",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "It prevents accidents and ensures passenger safety",
         "It only affects flight schedules"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "Accidents increase and safety is compromised",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "It improves well-being by providing a safe work environment",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "It prevents pollution and health risks by following safety rules",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "It prevents accidents by ensuring equipment is in good working condition",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "Accidents increase and safety is compromised",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "It improves sustainability by preventing environmental hazards",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "To foster engagement by providing a safe work environment",
         "To only comply with legal regulations"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "It improves safety awareness and prevents accidents",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "Accidents increase and safety is compromised",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "It improves growth by ensuring a safe and efficient work environment",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "It provides a systematic approach to managing safety risks",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "It prevents infections and ensures patient safety",
         "It only affects hospital reputation"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "It improves performance by preventing accidents and ensuring smooth operations",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   

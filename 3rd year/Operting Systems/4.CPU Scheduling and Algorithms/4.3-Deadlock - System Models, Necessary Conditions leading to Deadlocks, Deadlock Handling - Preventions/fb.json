@@ -8,7 +8,7 @@
         "resources",
         "tasks"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "task",
         "process"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "No Preemption",
         "Circular Wait"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "No Preemption",
         "Circular Wait"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Hold and Wait",
         "Preemption"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "No Preemption",
         "Circular Wait"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "two",
         "four"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "No Preemption",
         "Circular Wait"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "in stages",
         "at once"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "No Preemption",
         "Circular Wait"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "No Preemption",
         "Circular Wait"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "traffic jam",
         "crossroad"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "No Preemption",
         "Circular Wait"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "No Preemption",
         "Circular Wait"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "No Preemption",
         "Circular Wait"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "No Preemption",
         "Circular Wait"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "before",
         "in intervals"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "four",
         "five"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "No Preemption",
         "Circular Wait"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "No Preemption",
         "Circular Wait"
       ],
-      "answer": 4
+      "answer": 3
     }
 ]
   

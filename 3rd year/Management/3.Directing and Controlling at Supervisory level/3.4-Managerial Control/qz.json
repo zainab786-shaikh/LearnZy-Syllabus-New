@@ -8,7 +8,7 @@
         "To ensure activities are carried out as per the plan",
         "To direct employee tasks"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Monitoring employees, maintaining quality, and ensuring work is completed on time and within budget",
         "Only ensuring work is completed on time"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Setting performance standards",
         "Correcting unfavorable deviations"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "It provides a benchmark for evaluating performance",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Deviation from standards increases and efficiency decreases",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Assembling 15 car engines per day",
         "Assembling car engines without any standards"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "It helps identify deviations and take corrective actions",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "Performance standards are lowered",
         "Employee morale increases"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "Solving 100% of customer complaints",
         "No standard for solving complaints"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "It improves customer satisfaction by ensuring products meet standards",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "It increases the likelihood of achieving goals by ensuring activities align with plans",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "To monitor performance and take corrective actions",
         "To direct employee tasks only"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "It ensures financial sustainability and resource optimization",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "Efficiency decreases and quality is compromised",
         "Customer satisfaction increases"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "To ensure quality products and customer satisfaction",
         "To eliminate the quality control team"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "It ensures consistent quality and customer satisfaction",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "It ensures that activities align with plans and goals",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "It increases morale by providing clear expectations and feedback",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "To ensure products or services meet quality standards",
         "To eliminate quality control"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "It helps identify deviations and take corrective actions",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "Deviation from standards increases and efficiency decreases",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "It improves culture by promoting accountability and efficiency",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "It improves efficiency and customer satisfaction",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "It improves efficiency and quality by ensuring coordinated efforts",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "Reducing quality standards",
         "Eliminating performance standards"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "It improves reputation by ensuring quality and efficiency",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "It improves customer satisfaction by ensuring quality products",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "Customer satisfaction decreases and efficiency is compromised",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "It increases productivity by providing clear expectations and feedback",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "To reduce quality standards",
         "To eliminate budget constraints"
       ],
-      "answer": 2
+      "answer": 0
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "It helps identify deviations and take corrective actions",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "Deviation from standards increases and efficiency decreases",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "It improves adaptability by ensuring flexibility in response to deviations",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "It improves efficiency and quality by ensuring coordinated efforts",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "It ensures that activities align with plans and goals",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "Deviation from standards increases and efficiency decreases",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "It increases retention by providing clear expectations and feedback",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "To ensure performance standards are met and maintained",
         "To eliminate performance standards"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "It improves efficiency and financial sustainability",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "Customer satisfaction decreases and efficiency is compromised",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "It improves sustainability by ensuring efficient resource use",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "It improves efficiency by ensuring activities align with plans",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "It helps identify deviations and take corrective actions",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "Deviation from standards increases and efficiency decreases",
         "Work quality improves"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "It increases engagement by providing clear expectations and feedback",
         "It only affects productivity"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "To ensure corrective actions are taken promptly to address deviations",
         "To eliminate corrective actions"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "It improves customer satisfaction by ensuring consistent quality",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "Efficiency decreases and quality is compromised",
         "Customer satisfaction increases"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "It improves innovation by ensuring flexibility and adaptability",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "It improves performance by ensuring activities align with plans and goals",
         "It only affects employee morale"
       ],
-      "answer": 3
+      "answer": 1
     }
 ]
   

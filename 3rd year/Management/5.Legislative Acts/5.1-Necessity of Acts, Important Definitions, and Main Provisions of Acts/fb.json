@@ -8,7 +8,7 @@
         "technology",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "peace",
         "justice"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "assault and battery",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "responsibilities",
         "privileges"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "legal",
         "illegal"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "industry",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "security",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "data breaches",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "amended",
         "approved"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "holiday",
         "meeting"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "amend",
         "abolish"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "articles",
         "chapters"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "not applicable",
         "partially applicable"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "sentence",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "data breaches",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "expensive",
         "cheap"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "public",
         "all of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "institutions",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "traffic",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "business",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "obedience",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "equipment",
         "all of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "security",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "establishments",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "20",
         "50"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "local",
         "all of the above"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "heavy",
         "light"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "incident",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "equipment",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "clothing",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "violence",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "assault",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "responsibilities",
         "privileges"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "procedures",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "guidelines",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "welfare",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "technology",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "amended",
         "approved"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "holiday",
         "meeting"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "amend",
         "abolish"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "summary",
         "outline"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "not applicable",
         "partially applicable"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "sentence",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "activities",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "services",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "records",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "institutions",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "vehicle",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "business",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "obedience",
         "all of the above"
       ],
-      "answer": 4
+      "answer": 3
     }
 ]
   

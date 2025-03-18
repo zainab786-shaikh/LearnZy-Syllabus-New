@@ -8,7 +8,7 @@
         "To avoid context switching",
         "To increase system overhead"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "Minimizing context switching",
         "Eliminating multitasking"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "When a process is actively using the CPU for calculations",
         "When the CPU is waiting for input"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "Executing an algorithm",
         "Using the CPU for intensive tasks"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "When a higher-priority task interrupts a running process",
         "When no processes are allowed to run concurrently"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "Round Robin",
         "Priority Scheduling (Non-Preemptive)"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "Shortest Job Next",
         "Priority Scheduling (Preemptive)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "A process can be interrupted by another of higher priority",
         "Processes are always executed based on their arrival order"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "First Come, First Served",
         "Priority Scheduling (Preemptive)"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "Shortest Job Next",
         "Shortest Remaining Time First"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "The time a process spends in the queue",
         "The time it takes for a process to complete"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "Turnaround Time",
         "Response Time"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "The time it takes for a process to start execution",
         "The amount of time the CPU spends idle"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "To minimize waiting time",
         "To give the highest priority job the CPU first"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "When processes should run based on arrival time",
         "When all tasks have equal priority"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 16,
@@ -173,7 +173,7 @@
         "A user typing on a keyboard",
         "A process waiting for a disk read"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 17,
@@ -184,7 +184,7 @@
         "Shortest Remaining Time First",
         "First Come, First Served"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 18,
@@ -195,7 +195,7 @@
         "Round Robin",
         "Priority Scheduling (Preemptive)"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 19,
@@ -206,7 +206,7 @@
         "Shortest Job Next",
         "First Come, First Served"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 20,
@@ -217,7 +217,7 @@
         "Turnaround Time",
         "Response Time"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 21,
@@ -228,7 +228,7 @@
         "The percentage of time the CPU is busy",
         "The time a process spends in the queue"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 22,
@@ -239,7 +239,7 @@
         "Reading or writing data to disk",
         "Waiting for network response"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 23,
@@ -250,7 +250,7 @@
         "The process that arrives first gets executed first",
         "The CPU executes processes based on priority"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 24,
@@ -261,7 +261,7 @@
         "When there is high overhead from context switching",
         "When fairness between processes is crucial"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 25,
@@ -272,7 +272,7 @@
         "Lack of fairness between processes",
         "Processes cannot be prioritized"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 26,
@@ -283,7 +283,7 @@
         "More overhead due to frequent context switching",
         "Processes can never be interrupted"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 27,
@@ -294,7 +294,7 @@
         "Round Robin",
         "Priority Scheduling"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 28,
@@ -305,7 +305,7 @@
         "The time from when a request is made until it starts execution",
         "The time spent by the CPU executing a process"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 29,
@@ -316,7 +316,7 @@
         "Reduces waiting time for processes",
         "Higher CPU utilization due to less context switching"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 30,
@@ -327,7 +327,7 @@
         "First Come, First Served",
         "Shortest Job Next"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 31,
@@ -338,7 +338,7 @@
         "Memory usage and CPU burst",
         "Disk read and write operations"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 32,
@@ -349,7 +349,7 @@
         "Balancing fairness and efficiency",
         "Limiting process execution"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 33,
@@ -360,7 +360,7 @@
         "When each task is independent",
         "When tasks are computationally intensive"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 34,
@@ -371,7 +371,7 @@
         "Priority Scheduling (Preemptive)",
         "Shortest Job Next"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 35,
@@ -382,7 +382,7 @@
         "Shortest Job Next",
         "Priority Scheduling"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 36,
@@ -393,7 +393,7 @@
         "It has high overhead due to context switching",
         "It ensures fairness but with lower throughput"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 37,
@@ -404,7 +404,7 @@
         "Round Robin",
         "Shortest Job Next"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 38,
@@ -415,7 +415,7 @@
         "Round Robin",
         "Priority Scheduling"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 39,
@@ -426,7 +426,7 @@
         "The time the CPU is idle",
         "The time a process spends performing I/O operations"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 40,
@@ -437,7 +437,7 @@
         "When a process is waiting for I/O",
         "When the CPU is idle"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 41,
@@ -448,7 +448,7 @@
         "Priority Scheduling",
         "Round Robin"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 42,
@@ -459,7 +459,7 @@
         "When tasks have varying burst times",
         "When all tasks are short in duration"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 43,
@@ -470,7 +470,7 @@
         "Round Robin",
         "Priority Scheduling"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 44,
@@ -481,7 +481,7 @@
         "Equally distributing CPU time among all processes",
         "Executing the longest job first"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 45,
@@ -492,7 +492,7 @@
         "Processes are interrupted for higher priority tasks",
         "It leads to high CPU utilization"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 46,
@@ -503,7 +503,7 @@
         "Process priority",
         "Fairness in execution"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 47,
@@ -514,7 +514,7 @@
         "It favors short processes",
         "It is simple and quick to implement"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 48,
@@ -525,7 +525,7 @@
         "Response Time and Fairness",
         "Throughput and Turnaround Time"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 49,
@@ -536,7 +536,7 @@
         "Longer waiting times for short processes",
         "No flexibility in process priorities"
       ],
-      "answer": 1
+      "answer": 0
     },
     {
       "id": 50,
@@ -547,7 +547,7 @@
         "Priority Scheduling",
         "Shortest Job Next"
       ],
-      "answer": 2
+      "answer": 1
     }
 ]
   

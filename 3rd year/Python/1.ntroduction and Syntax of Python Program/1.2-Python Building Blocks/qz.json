@@ -8,7 +8,7 @@
         "A special symbol used in loops",
         "A function that prints output"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
         "_employeeID",
         "my-name"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
         "Can use Python keywords",
         "Are case-sensitive"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
         "print",
         "def"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
         "Using square brackets []",
         "Using semicolons"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
         "An IndentationError will occur",
         "The program will skip that line"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
         "6",
         "8"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
         "_myVar",
         "@value"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
         "They must start with a number",
         "They can include special characters like @ and $"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 10,
@@ -107,7 +107,7 @@
         "To increase program speed",
         "To define functions"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 11,
@@ -118,7 +118,7 @@
         "-- This is a comment",
         "# This is a comment"
       ],
-      "answer": 4
+      "answer": 3
     },
     {
       "id": 12,
@@ -129,7 +129,7 @@
         "' ' ' comment ' ' '",
         "// comment"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 13,
@@ -140,7 +140,7 @@
         "Declaring variables before use",
         "Using special characters in variable names"
       ],
-      "answer": 2
+      "answer": 1
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
         "x = 10",
         "x <- 10"
       ],
-      "answer": 3
+      "answer": 2
     },
     {
       "id": 15,
@@ -162,7 +162,7 @@
         "Hyphens",
         "Letters"
       ],
-      "answer": 3
+      "answer": 2
     }
 ]
   
